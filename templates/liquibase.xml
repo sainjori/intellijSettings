@@ -1,0 +1,8 @@
+<templateSet group="liquibase">
+  <template name="liqui.insert_update" value="DROP TRIGGER IF EXISTS $table_name$_BEFORE_INSERT/&#10;CREATE TRIGGER $table_name$_BEFORE_INSERT BEFORE INSERT ON $table_name$ FOR EACH ROW&#10;BEGIN&#10;SET NEW.last_updated_at=CURRENT_TIMESTAMP;&#10;SET NEW.created_at=CURRENT_TIMESTAMP;&#10;END/&#10;&#10;DROP TRIGGER IF EXISTS $table_name$_BEFORE_UPDATE/&#10;CREATE TRIGGER $table_name$_BEFORE_UPDATE BEFORE UPDATE ON $table_name$ FOR EACH ROW&#10;BEGIN&#10;SET NEW.last_updated_at=CURRENT_TIMESTAMP;&#10;END/" description="Create trigger which updates timestamps on update and insert of records" toReformat="false" toShortenFQNames="true">
+    <variable name="table_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,4 @@
+<templateSet group="JavaScript">
+  <template name="db" value="debugger;" description="debugger" toReformat="false" toShortenFQNames="true" />
+  <template name="lg" value="console.log($END$);" description="console log" toReformat="false" toShortenFQNames="true" />
+</templateSet>

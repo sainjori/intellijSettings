@@ -1,0 +1,214 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1489749391798">
+        <mark key="[" line="114" column="28" />
+        <mark key="]" line="114" column="26" />
+        <mark key="." line="114" column="26" />
+        <mark key="^" line="114" column="26" />
+      </file>
+      <file name="/a.dummy" timestamp="1489692165399">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/composition/GenericDAO.java" timestamp="1490036237674">
+        <mark key="[" line="93" column="26" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/preferences/Preferences.java" timestamp="1489691221312">
+        <mark key="[" line="206" column="15" />
+        <mark key="]" line="206" column="22" />
+        <mark key="." line="206" column="22" />
+        <mark key="^" line="206" column="22" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/objects/ClientSettingsProxyEndpoint.java" timestamp="1490099774898">
+        <mark key="[" line="36" column="39" />
+        <mark key="]" line="36" column="37" />
+        <mark key="^" line="36" column="37" />
+        <mark key="." line="36" column="37" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1490263978719">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcessTest.java" timestamp="1489512452944">
+        <mark key="[" line="56" column="18" />
+        <mark key="]" line="56" column="17" />
+        <mark key="^" line="56" column="17" />
+        <mark key="." line="56" column="17" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/LogFileDAO.java" timestamp="1489513035289">
+        <mark key="[" line="102" column="4" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/testingutils/GuiceUtils.java" timestamp="1489581234295">
+        <mark key="[" line="10" column="56" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/objects/LogFileDeleteRequest.java" timestamp="1489675519408">
+        <mark key="[" line="42" column="45" />
+      </file>
+      <file name="$USER_HOME$/sandbox/dropwizard/barry/src/main/java/com/example/helloworld/HelloWorldApplication.java" timestamp="1485770245351">
+        <mark key="[" line="29" column="10" />
+      </file>
+      <file name="$USER_HOME$/sandbox/comtest/pom.xml" timestamp="1490094666982">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="25" />
+        <mark key="." line="16" column="25" />
+        <mark key="^" line="16" column="25" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker.java" timestamp="1489747642996">
+        <mark key="[" line="70" column="71" />
+        <mark key="]" line="70" column="83" />
+        <mark key="." line="70" column="83" />
+        <mark key="^" line="70" column="83" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/db/dao/LogFileDAOTest.java" timestamp="1489655801963">
+        <mark key="[" line="77" column="34" />
+        <mark key="]" line="77" column="37" />
+        <mark key="." line="77" column="37" />
+        <mark key="^" line="77" column="37" />
+      </file>
+      <file name="/fragment.java" timestamp="1490263978776">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="67" column="9" filename="C:/Projekte/midway/app/actors/TransferData.java" />
+      <jump line="14" column="0" filename="C:/++Monitoring/dashboard/gulpfile.js" />
+      <jump line="13" column="0" filename="C:/++Monitoring/dashboard/gulpfile.js" />
+      <jump line="119" column="21" filename="C:/++Monitoring/dashboard/public/stylesheets/main.css" />
+      <jump line="0" column="0" filename="C:/++Monitoring/dashboard/public/stylesheets/main.css" />
+      <jump line="433" column="0" filename="C:/++Monitoring/dashboard/app/assets/javascripts/app/widgets/chart/DataGroupChartWidgetController.js" />
+      <jump line="476" column="35" filename="C:/++Monitoring/dashboard/app/assets/javascripts/app/widgets/chart/DataGroupChartWidgetController.js" />
+      <jump line="481" column="0" filename="C:/++Monitoring/dashboard/app/assets/javascripts/app/widgets/chart/DataGroupChartWidgetController.js" />
+      <jump line="341" column="43" filename="C:/++Monitoring/dashboard/app/assets/javascripts/app/widgets/chart/DataGroupChartWidgetController.js" />
+      <jump line="484" column="40" filename="C:/++Monitoring/dashboard/app/assets/javascripts/app/widgets/chart/DataGroupChartWidgetController.js" />
+      <jump line="478" column="32" filename="C:/++Monitoring/dashboard/app/assets/javascripts/app/widgets/chart/DataGroupChartWidgetController.js" />
+      <jump line="490" column="0" filename="C:/++Monitoring/dashboard/app/assets/javascripts/app/widgets/chart/DataGroupChartWidgetController.js" />
+      <jump line="1363" column="55" filename="C:/++Monitoring/dashboard/public/lib/bootstrap-daterangepicker/daterangepicker.js" />
+      <jump line="161" column="0" filename="C:/++Monitoring/dashboard/app/assets/javascripts/app/widgets/chart/DataGroupChartWidgetController.js" />
+      <jump line="153" column="29" filename="C:/++Monitoring/dashboard/app/assets/javascripts/app/widgets/chart/DataGroupChartWidgetController.js" />
+      <jump line="366" column="0" filename="C:/++Monitoring/dashboard/app/assets/javascripts/app/widgets/chart/DataGroupChartWidgetController.js" />
+      <jump line="380" column="15" filename="C:/++Monitoring/dashboard/app/assets/javascripts/app/widgets/chart/DataGroupChartWidgetController.js" />
+      <jump line="471" column="0" filename="C:/++Monitoring/dashboard/app/assets/javascripts/app/widgets/chart/DataGroupChartWidgetController.js" />
+      <jump line="428" column="0" filename="C:/++Monitoring/dashboard/app/assets/javascripts/app/widgets/chart/DataGroupChartWidgetController.js" />
+      <jump line="446" column="17" filename="C:/++Monitoring/dashboard/app/assets/javascripts/app/widgets/chart/DataGroupChartWidgetController.js" />
+      <jump line="203" column="33" filename="C:/++Monitoring/dashboard/app/assets/javascripts/app/widgets/chart/DataGroupChartWidgetController.js" />
+      <jump line="408" column="33" filename="C:/++Monitoring/dashboard/app/assets/javascripts/app/widgets/chart/DataGroupChartWidgetController.js" />
+      <jump line="824" column="4" filename="C:/++Monitoring/dashboard/app/assets/javascripts/app/widgets/chart/DataGroupChartWidgetController.js" />
+      <jump line="581" column="25" filename="C:/++Monitoring/dashboard/app/assets/javascripts/app/widgets/chart/DataGroupChartWidgetController.js" />
+      <jump line="240" column="24" filename="C:/++Monitoring/dashboard/app/assets/javascripts/app/widgets/chart/DataGroupChartWidgetController.js" />
+      <jump line="200" column="0" filename="C:/++Monitoring/dashboard/app/assets/javascripts/app/widgets/chart/DataGroupChartWidgetController.js" />
+      <jump line="27" column="48" filename="C:/++Monitoring/dashboard/app/assets/javascripts/app/widgets/chart/DataGroupChartWidgetController.js" />
+      <jump line="445" column="28" filename="C:/++Monitoring/dashboard/app/assets/javascripts/app/widgets/chart/DataGroupChartWidgetController.js" />
+      <jump line="507" column="28" filename="C:/++Monitoring/dashboard/app/assets/javascripts/app/widgets/chart/DataGroupChartWidgetController.js" />
+      <jump line="583" column="35" filename="C:/++Monitoring/dashboard/app/assets/javascripts/app/widgets/chart/DataGroupChartWidgetController.js" />
+      <jump line="76" column="38" filename="C:/++Monitoring/dashboard/app/assets/javascripts/app/widgets/chart/DataGroupChartWidgetController.js" />
+      <jump line="557" column="0" filename="C:/++Monitoring/dashboard/app/assets/javascripts/app/widgets/chart/DataGroupChartWidgetController.js" />
+      <jump line="504" column="15" filename="C:/++Monitoring/dashboard/app/assets/javascripts/app/widgets/chart/DataGroupChartWidgetController.js" />
+      <jump line="497" column="25" filename="C:/++Monitoring/dashboard/app/assets/javascripts/app/widgets/chart/DataGroupChartWidgetController.js" />
+      <jump line="82" column="48" filename="C:/ENTWICKLUNG/java/workspaces/monitoring/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/PreferenceEndpoint.java" />
+      <jump line="217" column="6" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/pojos/PreferencePojo.java" />
+      <jump line="132" column="16" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/LogUploadEndpoint.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>${dropwizard.version}</text>
+      </register>
+      <register name="-" type="4">
+        <text>${dropwizard.version}</text>
+      </register>
+      <register name="0" type="4">
+        <text>sendDeleteRequestToMidway</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5kc2NzYWcubW9uaXRvcmluZy5kYXNoYm9hcmRfYXBpLm1vZGVsLkxvZ0ZpbGVQb2pvOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEludGVnZXIgd2FpdEludGVydmFsID0gcHJlZmVyZW5jZXMuZ2V0U3lzdGVtUHJlZkFzSW50KCJzZXJ2ZXJjaGVjay53YWl0LmludGVydmFsLm1pbnV0ZXMiLCA1KTsK</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">Ci8qKgogKiBDcmVhdGVkIGJ5IGxtYSBvbiAyMi4xMi4yMDE2LgogKi8=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRmlsZSBsb2dGaWxlID0gZW5kcG9pbnQuZ2V0TG9nRmlsZShkYXRhRGlyTG9jYXRpb24sIHJlc3VsdC5nZXRIb3N0bmFtZSgpLCByZXN1bHQuZ2V0RmlsZW5hbWUoKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbG9nRmlsZVBvam8ucwo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgcHJpdmF0ZSBBY2tub3dsZWRnZURlbGV0ZVJlc3BvbnNlIG5vdGlmeURlbGV0ZWRUb0Rhc2hib2FyZChMb25nIGV2ZW50TG9nSUQsIEFwaUNsaWVudCBhcGlDbGllbnQsIFN0cmluZyB1c2VkSG9zdE5hbWUsCiAgICBBY2tub3dsZWRnZVVwbG9hZFJlc3BvbnNlIHJlc3VsdCkKICB7CiAgICBMb2dGaWxlUG9qbyBqc29uTG9nRmlsZVBvam8gPSBuZXcgTG9nRmlsZVBvam8oKTsKICAgIGpzb25Mb2dGaWxlUG9qby5zZXRDbGllbnROYW1lKHVzZWRIb3N0TmFtZSk7CiAgICBqc29uTG9nRmlsZVBvam8uc2V0Q29sbGVjdGVkQXQoQmlnRGVjaW1hbC52YWx1ZU9mKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKSk7CiAgICBqc29uTG9nRmlsZVBvam8uc2V0TG9nRmlsZU5hbWUocmVzdWx0LmdldEZpbGVuYW1lKCkpOwogICAganNvbkxvZ0ZpbGVQb2pvLnNldE1pZHdheUlkKG1pZHdheUluZm8uZ2V0TWlkd2F5SW5mbygpLmdldElkKCkpOwoKICAgIExvZ0ZpbGVFbmRwb2ludEFwaSBsb2dGaWxlRW5kcG9pbnRBcGkgPSBuZXcgTG9nRmlsZUVuZHBvaW50QXBpKGFwaUNsaWVudCk7CgogICAgQmlnRGVjaW1hbCBldmVudExvZ0lEQmlnRGVjaW1hbCA9IGV2ZW50TG9nSUQgPT0gbnVsbCA/IG51bGwgOiBCaWdEZWNpbWFsLnZhbHVlT2YoZXZlbnRMb2dJRCk7CiAgICB0cnkKICAgIHsKICAgICAgbG9nRmlsZUVuZHBvaW50QXBpLnBlcnNpc3RMb2dGaWxlKGV2ZW50TG9nSURCaWdEZWNpbWFsLCBqc29uTG9nRmlsZVBvam8pOwogICAgfQogICAgY2F0Y2ggKEFwaUV4Y2VwdGlvbiBlKQogICAgewogICAgICBsb2dnZXIubG9nKExldmVsLlNFVkVSRSwgIkVycm9yIHdoZW4gc2F2aW5nIGxvZyBmaWxlIGVudHJ5IGluIGRhc2hib2FyZCBkYXRhYmFzZSEiLCBlKTsKICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgcmV0dXJuIHJlc3VsdDsKICB9</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgcHVibGljIExvZ0ZpbGVQb2pvIGdldExvZ0ZpbGVQb2pvKCkKICB7CiAgICByZXR1cm4gbG9nRmlsZVBvam87CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRMb2dGaWxlUG9qbyhMb2dGaWxlUG9qbyBsb2dGaWxlUG9qbykKICB7CiAgICB0aGlzLmxvZ0ZpbGVQb2pvID0gbG9nRmlsZVBvam87CiAgfQoKICBwdWJsaWMgU3RyaW5nIGdldFN0YXR1cygpCiAgewogICAgcmV0dXJuIHN0YXR1czsKICB9CgogIHB1YmxpYyB2b2lkIHNldFN0YXR1cyhTdHJpbmcgc3RhdHVzKQogIHsKICAgIHRoaXMuc3RhdHVzID0gc3RhdHVzOwogIA==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBub3RpZnlEYXNoYm9hcmRkZFJlc3BvbnNlOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEZpbGUgbG9nRmlsZSA9IGdldExvZ0ZpbGUoZ2V0RGF0YURpckxvY2F0aW9uKCksIGNsaWVudCwgZmlsZU5hbWUpOwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>526</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>68</entry>
+        <entry>526</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

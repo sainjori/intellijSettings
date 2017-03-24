@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="dschead" value="//*****************************************************************************&#10;//&#10;//                            Copyright (c) ${YEAR}&#10;//                    DSC Software AG, Karlsruhe, Germany&#10;//                            All rights reserved&#10;//&#10;//        The contents of this file is an unpublished work protected&#10;//        under the copyright law of the Federal Republic of Germany&#10;//&#10;//        This software is proprietary to and emboddies confidential&#10;//        technology of DSC Software AG. Possession, use and copying&#10;//        of the software and media is authorized only pursuant to a&#10;//        valid written license from DSC Software AG. This copyright&#10;//        statement must be visibly included in all copies.&#10;//&#10;//*****************************************************************************&#10;&#10;//*****************************************************************************&#10;//&#10;// $$Revision$$ ($$Date$$)&#10;//&#10;// filename : ${NAME}&#10;//&#10;// contents : &#10;//&#10;// created at : ${DATE}&#10;// created by : ${USER}, DSC Software AG, Karlsruhe, Germany&#10;//&#10;//*****************************************************************************&#10;&#10;" description="DSC Header" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
