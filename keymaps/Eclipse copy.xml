@@ -72,7 +72,6 @@
   </action>
   <action id="StepOver">
     <keyboard-shortcut first-keystroke="f6" />
-    <mouse-shortcut keystroke="button2" />
     <keyboard-shortcut first-keystroke="numpad3" />
   </action>
   <action id="SwitchApply">
