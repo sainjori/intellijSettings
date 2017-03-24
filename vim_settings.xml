@@ -31,6 +31,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/objects/LogFileDeleteRequest.java" timestamp="1489675519408">
         <mark key="[" line="42" column="45" />
       </file>
+      <file name="C:/Projekte/sandbox/ObjectMapperJava/src/com/company/Main.java" timestamp="1490348194948">
+        <mark key="[" line="4" column="44" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/sandbox/dropwizard/barry/src/main/java/com/example/helloworld/HelloWorldApplication.java" timestamp="1485770245351">
         <mark key="[" line="29" column="10" />
       </file>
@@ -111,8 +116,8 @@
       <jump line="132" column="16" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/LogUploadEndpoint.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>${dropwizard.version}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="-" type="4">
         <text>${dropwizard.version}</text>
@@ -121,31 +126,31 @@
         <text>sendDeleteRequestToMidway</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5kc2NzYWcubW9uaXRvcmluZy5kYXNoYm9hcmRfYXBpLm1vZGVsLkxvZ0ZpbGVQb2pvOwo=</text>
+        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5kc2NzYWcubW9uaXRvcmluZy5kYXNoYm9hcmRfYXBpLm1vZGVsLkxvZ0ZpbGVQb2pvOwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIEludGVnZXIgd2FpdEludGVydmFsID0gcHJlZmVyZW5jZXMuZ2V0U3lzdGVtUHJlZkFzSW50KCJzZXJ2ZXJjaGVjay53YWl0LmludGVydmFsLm1pbnV0ZXMiLCA1KTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">Ci8qKgogKiBDcmVhdGVkIGJ5IGxtYSBvbiAyMi4xMi4yMDE2LgogKi8=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgRmlsZSBsb2dGaWxlID0gZW5kcG9pbnQuZ2V0TG9nRmlsZShkYXRhRGlyTG9jYXRpb24sIHJlc3VsdC5nZXRIb3N0bmFtZSgpLCByZXN1bHQuZ2V0RmlsZW5hbWUoKSk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9nRmlsZVBvam8ucwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgcHJpdmF0ZSBBY2tub3dsZWRnZURlbGV0ZVJlc3BvbnNlIG5vdGlmeURlbGV0ZWRUb0Rhc2hib2FyZChMb25nIGV2ZW50TG9nSUQsIEFwaUNsaWVudCBhcGlDbGllbnQsIFN0cmluZyB1c2VkSG9zdE5hbWUsCiAgICBBY2tub3dsZWRnZVVwbG9hZFJlc3BvbnNlIHJlc3VsdCkKICB7CiAgICBMb2dGaWxlUG9qbyBqc29uTG9nRmlsZVBvam8gPSBuZXcgTG9nRmlsZVBvam8oKTsKICAgIGpzb25Mb2dGaWxlUG9qby5zZXRDbGllbnROYW1lKHVzZWRIb3N0TmFtZSk7CiAgICBqc29uTG9nRmlsZVBvam8uc2V0Q29sbGVjdGVkQXQoQmlnRGVjaW1hbC52YWx1ZU9mKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKSk7CiAgICBqc29uTG9nRmlsZVBvam8uc2V0TG9nRmlsZU5hbWUocmVzdWx0LmdldEZpbGVuYW1lKCkpOwogICAganNvbkxvZ0ZpbGVQb2pvLnNldE1pZHdheUlkKG1pZHdheUluZm8uZ2V0TWlkd2F5SW5mbygpLmdldElkKCkpOwoKICAgIExvZ0ZpbGVFbmRwb2ludEFwaSBsb2dGaWxlRW5kcG9pbnRBcGkgPSBuZXcgTG9nRmlsZUVuZHBvaW50QXBpKGFwaUNsaWVudCk7CgogICAgQmlnRGVjaW1hbCBldmVudExvZ0lEQmlnRGVjaW1hbCA9IGV2ZW50TG9nSUQgPT0gbnVsbCA/IG51bGwgOiBCaWdEZWNpbWFsLnZhbHVlT2YoZXZlbnRMb2dJRCk7CiAgICB0cnkKICAgIHsKICAgICAgbG9nRmlsZUVuZHBvaW50QXBpLnBlcnNpc3RMb2dGaWxlKGV2ZW50TG9nSURCaWdEZWNpbWFsLCBqc29uTG9nRmlsZVBvam8pOwogICAgfQogICAgY2F0Y2ggKEFwaUV4Y2VwdGlvbiBlKQogICAgewogICAgICBsb2dnZXIubG9nKExldmVsLlNFVkVSRSwgIkVycm9yIHdoZW4gc2F2aW5nIGxvZyBmaWxlIGVudHJ5IGluIGRhc2hib2FyZCBkYXRhYmFzZSEiLCBlKTsKICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgcmV0dXJuIHJlc3VsdDsKICB9</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgcHVibGljIExvZ0ZpbGVQb2pvIGdldExvZ0ZpbGVQb2pvKCkKICB7CiAgICByZXR1cm4gbG9nRmlsZVBvam87CiAgfQoKICBwdWJsaWMgdm9pZCBzZXRMb2dGaWxlUG9qbyhMb2dGaWxlUG9qbyBsb2dGaWxlUG9qbykKICB7CiAgICB0aGlzLmxvZ0ZpbGVQb2pvID0gbG9nRmlsZVBvam87CiAgfQoKICBwdWJsaWMgU3RyaW5nIGdldFN0YXR1cygpCiAgewogICAgcmV0dXJuIHN0YXR1czsKICB9CgogIHB1YmxpYyB2b2lkIHNldFN0YXR1cyhTdHJpbmcgc3RhdHVzKQogIHsKICAgIHRoaXMuc3RhdHVzID0gc3RhdHVzOwogIA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBub3RpZnlEYXNoYm9hcmRkZFJlc3BvbnNlOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEZpbGUgbG9nRmlsZSA9IGdldExvZ0ZpbGUoZ2V0RGF0YURpckxvY2F0aW9uKCksIGNsaWVudCwgZmlsZU5hbWUpOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBub3RpZnlEYXNoYm9hcmRkZFJlc3BvbnNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>526</text>
