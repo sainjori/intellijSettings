@@ -4,11 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar!/javax/ws/rs/core/MediaType.java" timestamp="1490363641560" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1490367833425">
-        <mark key="[" line="72" column="96" />
-        <mark key="]" line="72" column="97" />
-        <mark key="." line="72" column="97" />
-        <mark key="^" line="72" column="26" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1490368571015">
+        <mark key="[" line="78" column="68" />
+        <mark key="]" line="78" column="67" />
+        <mark key="." line="78" column="67" />
+        <mark key="^" line="78" column="67" />
       </file>
       <file name="/a.dummy" timestamp="1489692165399">
         <mark key="[" line="0" column="0" />
@@ -132,37 +132,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>keepLogfilesTime</text>
+        <text encoding="base64">TWlkd2F5UG9qbyBtaWR3YXlQb2pvLCBMaXN0PFNlcnZlclBvam8+IHNlcnZlcnMsIGJvb2xlYW4gcGVyc2lzdFJlc3VsdHM=</text>
       </register>
       <register name="-" type="4">
-        <text>keepLogfilesTime</text>
+        <text encoding="base64">TWlkd2F5UG9qbyBtaWR3YXlQb2pvLCBMaXN0PFNlcnZlclBvam8+IHNlcnZlcnMsIGJvb2xlYW4gcGVyc2lzdFJlc3VsdHM=</text>
       </register>
       <register name="0" type="4">
         <text>sendDeleteRequestToMidway</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ0ZpbGVEQU8uCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">QERFTEVURQogIEBQYXRoICgibG9ncy9kZWxldGUiKQogIEBSZXNvdXJjZUxhYmVsICgiZGVsZXRlTG9nRmlsZSIpCiAgcHVibGljIExpc3Q8QWNrbm93bGVkZ2VEZWxldGVSZXNwb25zZT4gZGVsZXRlQ2xpZW50TG9nRmlsZXMoTGlzdDxMb2dGaWxlUG9qbz4gbG9nRmlsZXNUb0RlbGV0ZSkKICB7CiAgICByZXR1cm4gbG9nRmlsZXNUb0RlbGV0ZS5zdHJlYW0oKQogICAgICAubWFwKHRoaXM6OmRlbGV0ZUxvZ0ZpbGUpCiAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwogIH0KCiAgcHJpdmF0ZSBBY2tub3dsZWRnZURlbGV0ZVJlc3BvbnNlIGRlbGV0ZUxvZ0ZpbGUoTG9nRmlsZVBvam8gbG9nRmlsZVBvam8pIHsKICAgIEZpbGUgbG9nRmlsZSA9IGdldExvZ0ZpbGUoZ2V0RGF0YURpckxvY2F0aW9uKCksIGxvZ0ZpbGVQb2pvLmdldENsaWVudE5hbWUoKSwgbG9nRmlsZVBvam8uZ2V0TG9nRmlsZU5hbWUoKSk7CgogICAgQWNrbm93bGVkZ2VEZWxldGVSZXNwb25zZSByZXN1bHQgPSBuZXcgQWNrbm93bGVkZ2VEZWxldGVSZXNwb25zZSgpOwogICAgcmVzdWx0LnNldExvZ0ZpbGVQb2pvKGxvZ0ZpbGVQb2pvKS5zZXRTdGF0dXMoIlNVQ0NFU1MiKTsKCiAgICBpZiAoIWxvZ0ZpbGUuZGVsZXRlKCkpCiAgICB7CiAgICAgIHJlc3VsdC5zZXRTdGF0dXMoIkVSUk9SIik7CiAgICB9CiAgICByZXR1cm4gcmVzdWx0OwogIH0=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Pj4+Pj4+PiA4OGQ0Y2Q1Li4uIGJsYQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">PDw8PDw8PCBIRUFECj09PT09PT0=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHRoaXMuZ3VpY2VCdW5kbGUgPSBndWljZUJ1bmRsZTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
