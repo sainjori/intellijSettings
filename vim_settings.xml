@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/DashboardApplication.java" timestamp="1490354394045">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/DashboardApplication.java" timestamp="1490355214940">
         <mark key="[" line="51" column="3" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+        <mark key="]" line="47" column="40" />
+        <mark key="." line="47" column="40" />
+        <mark key="^" line="47" column="40" />
       </file>
       <file name="/Dummy.txt" timestamp="1490263978719">
         <mark key="[" line="0" column="0" />
