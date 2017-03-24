@@ -4,6 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar!/javax/ws/rs/core/MediaType.java" timestamp="1490363641560" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1490365494509">
+        <mark key="[" line="114" column="28" />
+        <mark key="]" line="114" column="26" />
+        <mark key="." line="114" column="26" />
+        <mark key="^" line="114" column="26" />
+      </file>
       <file name="/a.dummy" timestamp="1489692165399">
         <mark key="[" line="0" column="0" />
       </file>
@@ -40,7 +46,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/LogFileDAO.java" timestamp="1489513035289">
         <mark key="[" line="102" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/LogUploadEndpoint.java" timestamp="1490364172651">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/LogUploadEndpoint.java" timestamp="1490365167642">
         <mark key="[" line="177" column="0" />
         <mark key="]" line="177" column="0" />
         <mark key="." line="177" column="0" />
@@ -68,6 +74,12 @@
         <mark key="." line="15" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/dropwizard/dropwizard-core/1.0.2/dropwizard-core-1.0.2-sources.jar!/io/dropwizard/Application.java" timestamp="1490356401887" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker.java" timestamp="1490365617169">
+        <mark key="[" line="71" column="136" />
+        <mark key="]" line="71" column="136" />
+        <mark key="." line="71" column="136" />
+        <mark key="^" line="70" column="83" />
+      </file>
       <file name="C:/Projekte/sandbox/untitled/src/com/company/test.java" timestamp="1490353603343">
         <mark key="[" line="9" column="13" />
         <mark key="]" line="9" column="18" />
@@ -118,11 +130,11 @@
       <jump line="132" column="16" filename="C:/ENTWICKLUNG/java/workspaces/monitoring_git/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/LogUploadEndpoint.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>MINUTES</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">R3VpY2VCdW5kbGU8RGFzaGJvYXJkQ29uZmlndXJhdGlvbj4gZ3VpY2VCdW5kbGU=</text>
+        <text>MINUTES</text>
       </register>
       <register name="0" type="4">
         <text>sendDeleteRequestToMidway</text>
