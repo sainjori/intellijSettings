@@ -18,15 +18,15 @@
         <mark key="." line="24" column="9" />
         <mark key="^" line="24" column="9" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1490720685944">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1490723311094">
         <mark key="'" line="121" column="4" />
         <mark key="i" line="121" column="59" />
-        <mark key="[" line="117" column="5" />
-        <mark key="]" line="122" column="31" />
-        <mark key="." line="122" column="31" />
-        <mark key="^" line="122" column="31" />
+        <mark key="[" line="144" column="35" />
+        <mark key="]" line="144" column="33" />
+        <mark key="." line="144" column="40" />
+        <mark key="^" line="144" column="33" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/LogUploadEndpoint.java" timestamp="1490712181688">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/LogUploadEndpoint.java" timestamp="1490722838856">
         <mark key="[" line="121" column="5" />
         <mark key="]" line="121" column="12" />
         <mark key="^" line="121" column="12" />
@@ -177,11 +177,11 @@
       <jump line="121" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICsgbG9nRmlsZVBvam8uZ2V0SWQoKSk=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICsgbG9nRmlsZVBvam8uZ2V0SWQoKSk=</text>
       </register>
       <register name="/" type="4">
         <text>key</text>
