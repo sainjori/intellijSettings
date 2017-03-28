@@ -50,11 +50,11 @@
         <mark key="." line="24" column="9" />
         <mark key="^" line="24" column="9" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1490715421836">
-        <mark key="[" line="128" column="66" />
-        <mark key="]" line="128" column="83" />
-        <mark key="." line="128" column="83" />
-        <mark key="^" line="128" column="83" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1490716554980">
+        <mark key="[" line="131" column="112" />
+        <mark key="]" line="131" column="130" />
+        <mark key="." line="131" column="130" />
+        <mark key="^" line="131" column="130" />
       </file>
       <file name="$USER_HOME$/sandbox/dropwizard/barry/src/main/java/com/example/helloworld/HelloWorldApplication.java" timestamp="1485770245351">
         <mark key="[" line="29" column="10" />
@@ -163,10 +163,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>eventLogEntriesToCreate</text>
+        <text>this::handleMidwayResponse(eventLogEntryPojos)</text>
       </register>
       <register name="-" type="4">
-        <text>eventLogEntriesToCreate</text>
+        <text>this::handleMidwayResponse(eventLogEntryPojos)</text>
       </register>
       <register name="/" type="4">
         <text>key</text>
