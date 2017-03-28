@@ -17,11 +17,11 @@
         <mark key="^" line="59" column="18" />
         <mark key="." line="59" column="18" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1490611641188">
-        <mark key="'" line="181" column="36" />
-        <mark key="[" line="217" column="0" />
-        <mark key="]" line="217" column="0" />
-        <mark key="." line="217" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1490702358541">
+        <mark key="'" line="179" column="36" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1489692165399">
         <mark key="[" line="0" column="0" />
@@ -105,7 +105,7 @@
         <mark key="^" line="36" column="37" />
         <mark key="." line="36" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1490615741235">
+      <file name="/fragment.java" timestamp="1490702791737">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -152,7 +152,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSB1c2VyLmdldE5hbWUoKTsKICAgIG5hbWUuaXNFbXB0eSgpLmlmIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -164,31 +164,31 @@
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBDTElFTlRfUkVRVUVTVF9GT1JXQVJEX1VSTCA9ICIvYXBpL3YxL2VjdHItY2xpZW50L3JlcXVlc3RzIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSB1c2VyLmdldE5hbWUoKTsKICAgIG5hbWUuaXNFbXB0eSgpLmlmIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAuYnVpbGQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgQWNrbm93bGVkZ2VEZWxldGVSZXNwb25zZS4K</text>
+        <text encoding="base64">ICAgIG5hbWUgPSB1c2VyLmdldE5hbWUoKTsKICAgIG5hbWUuaXNFbXB0eSgpLmlmIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdXJpCg==</text>
+        <text encoding="base64">ICAgICAgICAuYnVpbGQoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuCg==</text>
+        <text encoding="base64">ICAgICAgQWNrbm93bGVkZ2VEZWxldGVSZXNwb25zZS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdXJsQ29ubmVjdGlvbi5zCg==</text>
+        <text encoding="base64">ICAgICAgdXJpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdXJsQ29ubmVjdGlvbi5zZXRSZXF1ZXN0TWV0aG9kKCJERUxFVEUiKTsK</text>
+        <text encoding="base64">ICAgICAgICAuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICBIdHRwUG9zdCByZXF1ZXN0ID0gbmV3IEh0dHBQb3N0KHVyaSk7Cg==</text>
+        <text encoding="base64">ICAgICAgdXJsQ29ubmVjdGlvbi5zCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgSHR0cFVSTENvbm5lY3Rpb24gdXJsQ29ubmVjdGlvbiA9IChIdHRwVVJMQ29ubmVjdGlvbikgdXJsLm9wZW5Db25uZWN0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgdXJsQ29ubmVjdGlvbi5zZXRSZXF1ZXN0TWV0aG9kKCJERUxFVEUiKTsK</text>
       </register>
       <register name=":" type="4">
         <text>526</text>
