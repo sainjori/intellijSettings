@@ -8,7 +8,7 @@
         <mark key="." line="47" column="40" />
         <mark key="^" line="47" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490615741220">
+      <file name="/Dummy.txt" timestamp="1490713204868">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcessTest.java" timestamp="1490361229864">
@@ -50,11 +50,11 @@
         <mark key="." line="24" column="9" />
         <mark key="^" line="24" column="9" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1490712854945">
-        <mark key="[" line="129" column="3" />
-        <mark key="]" line="131" column="53" />
-        <mark key="." line="131" column="53" />
-        <mark key="^" line="131" column="53" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1490715421836">
+        <mark key="[" line="128" column="66" />
+        <mark key="]" line="128" column="83" />
+        <mark key="." line="128" column="83" />
+        <mark key="^" line="128" column="83" />
       </file>
       <file name="$USER_HOME$/sandbox/dropwizard/barry/src/main/java/com/example/helloworld/HelloWorldApplication.java" timestamp="1485770245351">
         <mark key="[" line="29" column="10" />
@@ -163,10 +163,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Produces</text>
+        <text>eventLogEntriesToCreate</text>
       </register>
       <register name="-" type="4">
-        <text>Produces</text>
+        <text>eventLogEntriesToCreate</text>
       </register>
       <register name="/" type="4">
         <text>key</text>
@@ -175,13 +175,13 @@
         <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBDTElFTlRfUkVRVUVTVF9GT1JXQVJEX1VSTCA9ICIvYXBpL3YxL2VjdHItY2xpZW50L3JlcXVlc3RzIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV2ZW50TG9nRW50cnlEQU8uZmV0Y2hCeUxvZ0ZpbGVJZCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZ0ZpbGVQb2pvLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">U3lzdGVtLm91dC5wcmludGxuKCJiYWwiKTsK</text>
+        <text encoding="base64">ICAgIGV2ZW50TG9nRW50cnlEQU8uaW5zZXJ0KEV2ZW50TG9nRW50cnlQb2pvIHBvam8pOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -190,17 +190,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U3lzdGVtLm91dC5wcmludGxuKCJiYWwiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>return result;
-  }</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA3YTRmYTdhLi4uIE1PTklUT1JJTkcgMTUxIENyZWF0ZSBzY2hlZHVsZWQgdGFzayB0byBjaGVjayBmb3Igb3V0ZGF0ZWQgbG9nZmlsZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>526</text>
