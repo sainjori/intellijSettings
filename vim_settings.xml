@@ -18,11 +18,11 @@
         <mark key="." line="24" column="9" />
         <mark key="^" line="24" column="9" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1490723765100">
-        <mark key="[" line="136" column="1" />
-        <mark key="]" line="136" column="1" />
-        <mark key="." line="136" column="1" />
-        <mark key="^" line="136" column="1" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1490792927138">
+        <mark key="[" line="158" column="22" />
+        <mark key="]" line="158" column="26" />
+        <mark key="." line="158" column="26" />
+        <mark key="^" line="158" column="26" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/LogUploadEndpoint.java" timestamp="1490722838856">
         <mark key="[" line="121" column="5" />
@@ -132,7 +132,7 @@
         <mark key="." line="77" column="37" />
         <mark key="^" line="77" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1490709062110">
+      <file name="/fragment.java" timestamp="1490792476937">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -179,11 +179,11 @@
       <jump line="121" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIDIuIDIgTWlkd2F5cyBtaXQgbG9nZmlsZXMK</text>
+      <register name="&quot;" type="4">
+        <text>pojo</text>
       </register>
       <register name="-" type="4">
-        <text>Midway der keine logfiles hat</text>
+        <text>pojo</text>
       </register>
       <register name="/" type="4">
         <text>key</text>
