@@ -33,7 +33,7 @@
         <mark key="^" line="205" column="22" />
       </file>
       <file name="/configuration.json" timestamp="1490962994812" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/db/dao/LogFileDAOTest.java" timestamp="1490976148391">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/db/dao/LogFileDAOTest.java" timestamp="1490977390115">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
@@ -46,7 +46,7 @@
         <mark key="^" line="36" column="37" />
         <mark key="." line="36" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490973985086">
+      <file name="/Dummy.txt" timestamp="1490977219191">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -89,12 +89,6 @@
         <mark key="]" line="16" column="25" />
         <mark key="." line="16" column="25" />
         <mark key="^" line="16" column="25" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcessTest.java" timestamp="1490976260112">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="91" column="105" />
-        <mark key="." line="54" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/configuration.json" timestamp="1490972360469" />
       <file name="C:/Projekte/sandbox/untitled/src/com/company/Main.java" timestamp="1490353921953">
