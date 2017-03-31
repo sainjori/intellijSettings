@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1490702358541">
-        <mark key="'" line="179" column="36" />
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="0" />
-        <mark key="." line="117" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1490807166458">
         <mark key="[" line="0" column="0" />
       </file>
@@ -18,17 +12,11 @@
         <mark key="." line="24" column="9" />
         <mark key="^" line="24" column="9" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1490889907045">
-        <mark key="[" line="104" column="94" />
-        <mark key="]" line="104" column="94" />
-        <mark key="^" line="104" column="64" />
-        <mark key="." line="104" column="94" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/LogUploadEndpoint.java" timestamp="1490722838856">
-        <mark key="[" line="121" column="5" />
-        <mark key="]" line="121" column="12" />
-        <mark key="^" line="121" column="12" />
-        <mark key="." line="121" column="12" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1490960314557">
+        <mark key="[" line="105" column="34" />
+        <mark key="]" line="105" column="32" />
+        <mark key="^" line="105" column="32" />
+        <mark key="." line="105" column="32" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/composition/GenericDAO.java" timestamp="1490036237674">
         <mark key="[" line="93" column="26" />
@@ -39,13 +27,15 @@
         <mark key="." line="210" column="0" />
         <mark key="^" line="205" column="22" />
       </file>
+      <file name="/configuration.json" timestamp="1490962994812" />
+      <file name="/LogUploadEndpoint.java" timestamp="1490961895589" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/objects/ClientSettingsProxyEndpoint.java" timestamp="1490099774898">
         <mark key="[" line="36" column="39" />
         <mark key="]" line="36" column="37" />
         <mark key="^" line="36" column="37" />
         <mark key="." line="36" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490877194400">
+      <file name="/Dummy.txt" timestamp="1490963267242">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcessTest.java" timestamp="1490361229864">
@@ -63,12 +53,6 @@
         <mark key="." line="118" column="6" />
         <mark key="^" line="118" column="6" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/preferences/PreferencesTest.java" timestamp="1490895674183">
-        <mark key="[" line="173" column="54" />
-        <mark key="]" line="172" column="2" />
-        <mark key="^" line="172" column="2" />
-        <mark key="." line="172" column="2" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/testingutils/GuiceUtils.java" timestamp="1489581234295">
         <mark key="[" line="10" column="56" />
       </file>
@@ -77,9 +61,6 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk/.gitignore" timestamp="1490615622430">
         <mark key="[" line="12" column="5" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/preferences/Preferences.java" timestamp="1490889918713">
-        <mark key="[" line="203" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/dropwizard/barry/src/main/java/com/example/helloworld/HelloWorldApplication.java" timestamp="1485770245351">
         <mark key="[" line="29" column="10" />
@@ -96,23 +77,12 @@
         <mark key="." line="126" column="105" />
         <mark key="^" line="126" column="105" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/configuration.json" timestamp="1490889805666">
-        <mark key="'" line="133" column="12" />
-        <mark key="[" line="14" column="5" />
-        <mark key="]" line="14" column="5" />
-        <mark key="^" line="14" column="5" />
-        <mark key="." line="14" column="5" />
-      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/configuration.json" timestamp="1490889805666" />
       <file name="C:/Projekte/sandbox/untitled/src/com/company/Main.java" timestamp="1490353921953">
         <mark key="[" line="8" column="24" />
         <mark key="]" line="8" column="29" />
         <mark key="." line="8" column="29" />
         <mark key="^" line="8" column="29" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/EventLogEntryDAO.java" timestamp="1490720334280">
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/midway_api/MidwayURLs.java" timestamp="1490376446276">
         <mark key="[" line="45" column="65" />
@@ -210,10 +180,11 @@
       <jump line="139" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcessTest.java" />
       <jump line="167" column="22" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcessTest.java" />
       <jump line="127" column="12" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/configuration.json" />
+      <jump line="175" column="41" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/preferences/PreferencesTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>f</text>
@@ -224,7 +195,13 @@
       <register name="0" type="4">
         <text>logfiles.keep.time.period.days</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHdoZW4ocHJlZnMuZ2V0UHJlZihhbnkoU3RyaW5nLmNsYXNzKSwgYW55KFN0cmluZy5jbGFzcyksIGFueShGdW5jdGlvbi5jbGFzcykpKQo=</text>
+      </register>
+      <register name="3" type="4">
         <text>: &quot;{
       &quot;elements&quot;: [
         {
@@ -238,29 +215,23 @@
       ]
     },</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICJuYW1lIjogImtpYmFuYS5lbmFibGUubGluay5yZXdyaXRpbmciLAogICAgICAgICAgICAgICJzaXplIjogNgogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIC8vICAgIG1pZHdheVBvam87CiAgICAvLyAgICBtaWR3YXlQb2pvOwogICAgLy8gICAgbWlkd2F5UG9qbzsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CiAgICAvLyAgICBMaXN0PE1pZHdheVBvam8+IGFsbE1pZHdheXMgPSBtaWR3YXlEQU8uZmluZEFsbCgpOwogICAgLy8gICAgTGlzdDxMb2dGaWxlUG9qbz4gYWxsTG9nRmlsZVBvam9zID0gbG9nRmlsZURBTy5maW5kQWxsKCk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CiAgICAvLyAgICBMaXN0PExvZ0ZpbGVQb2pvPiBsb2dGaWxlUG9qb3MgPSBsb2dGaWxlREFPLmZpbmRBbGwoKTsKICAgIC8vTWlkd2F5cG9qb3MgZXJ6ZXVnZW4gbWl0IGRlbiByaWNodGlnZW4gaWRzCiAgICAvL/xiZXJnZWJlbiBhbiBtZXRob2RlCiAgICAvL2Vyd2FydGV0IE1hcCBhdWZiYXVlbgogICAgLy9taXQgYXNzZXJ0RXF1YWxzIHZlcmdsZWljaGVuCiAgICAvLyAxLiBNaWR3YXkgZGVyIGtlaW5lIGxvZ2ZpbGVzIGhhdAogICAgLy8gMi4gMiBNaWR3YXlzIG1pdCBsb2dmaWxlcwogICAgLy8gMi4gMiBNaWR3YXlzIG1pdCBsb2dmaWxlcwoKICAgIC8vICAgIExvZ0ZpbGVDbGVhblByb2Nlc3MuZ2V0TWlkd2F5TG9nZmlsZXNNYXAoKQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIE1hcDxNaWR3YXlQb2pvLCBMaXN0PExvZ0ZpbGVQb2pvPj4gbWlkd2F5TG9nZmlsZXNNYXAgPSBMb2dGaWxlQ2xlYW5Qcm9jZXNzLmdldE1pZHdheUxvZ2ZpbGVzTWFwKGFsbE1pZHdheXMsIGFsbExvZ0ZpbGVQb2pvcyk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFsbE1pZHdheXMuY2xlYXIoKTsK</text>
+        <text encoding="base64">ICAgIE1hcDxNaWR3YXlQb2pvLCBMaXN0PExvZ0ZpbGVQb2pvPj4gbWlkd2F5TG9nZmlsZXNNYXAgPSBMb2dGaWxlQ2xlYW5Qcm9jZXNzLmdldE1pZHdheUxvZ2ZpbGVzTWFwKGFsbE1pZHdheXMsIGFsbExvZ0ZpbGVQb2pvcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>526</text>
