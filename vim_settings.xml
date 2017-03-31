@@ -29,13 +29,14 @@
       </file>
       <file name="/configuration.json" timestamp="1490962994812" />
       <file name="/LogUploadEndpoint.java" timestamp="1490961895589" />
+      <file name="/PreferencesTest.java" timestamp="1490963990826" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/objects/ClientSettingsProxyEndpoint.java" timestamp="1490099774898">
         <mark key="[" line="36" column="39" />
         <mark key="]" line="36" column="37" />
         <mark key="^" line="36" column="37" />
         <mark key="." line="36" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490963267242">
+      <file name="/Dummy.txt" timestamp="1490964155110">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcessTest.java" timestamp="1490361229864">
@@ -52,6 +53,9 @@
         <mark key="]" line="118" column="6" />
         <mark key="." line="118" column="6" />
         <mark key="^" line="118" column="6" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/preferences/PreferencesTest.java" timestamp="1490964030138">
+        <mark key="[" line="93" column="5" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/testingutils/GuiceUtils.java" timestamp="1489581234295">
         <mark key="[" line="10" column="56" />
