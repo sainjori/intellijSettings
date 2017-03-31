@@ -12,11 +12,11 @@
         <mark key="." line="24" column="9" />
         <mark key="^" line="24" column="9" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1490960314557">
-        <mark key="[" line="105" column="34" />
-        <mark key="]" line="105" column="32" />
-        <mark key="^" line="105" column="32" />
-        <mark key="." line="105" column="32" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1490966793927">
+        <mark key="[" line="104" column="94" />
+        <mark key="]" line="104" column="99" />
+        <mark key="^" line="104" column="99" />
+        <mark key="." line="104" column="99" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/composition/GenericDAO.java" timestamp="1490036237674">
         <mark key="[" line="93" column="26" />
@@ -54,8 +54,11 @@
         <mark key="." line="118" column="6" />
         <mark key="^" line="118" column="6" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/preferences/PreferencesTest.java" timestamp="1490964030138">
-        <mark key="[" line="93" column="5" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/preferences/PreferencesTest.java" timestamp="1490966754437">
+        <mark key="[" line="101" column="66" />
+        <mark key="]" line="101" column="71" />
+        <mark key="^" line="101" column="71" />
+        <mark key="." line="101" column="71" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/testingutils/GuiceUtils.java" timestamp="1489581234295">
         <mark key="[" line="10" column="56" />
@@ -65,6 +68,12 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk/.gitignore" timestamp="1490615622430">
         <mark key="[" line="12" column="5" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/preferences/Preferences.java" timestamp="1490966303817">
+        <mark key="[" line="208" column="50" />
+        <mark key="]" line="209" column="0" />
+        <mark key="^" line="209" column="0" />
+        <mark key="." line="209" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/dropwizard/barry/src/main/java/com/example/helloworld/HelloWorldApplication.java" timestamp="1485770245351">
         <mark key="[" line="29" column="10" />
@@ -187,11 +196,11 @@
       <jump line="175" column="41" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/preferences/PreferencesTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLnRoZW5SZXR1cm4oT3B0aW9uYWwuZW1wdHkoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, Long defaultValue</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>, Long defaultValue</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHdWljZVV0aWxzXD4=</text>
