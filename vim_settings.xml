@@ -12,17 +12,16 @@
         <mark key="." line="24" column="9" />
         <mark key="^" line="24" column="9" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1490971309599">
-        <mark key="[" line="225" column="68" />
-        <mark key="]" line="225" column="74" />
-        <mark key="^" line="225" column="74" />
-        <mark key="." line="225" column="74" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1490974749278">
+        <mark key="[" line="105" column="4" />
+        <mark key="]" line="105" column="4" />
+        <mark key="." line="105" column="4" />
+        <mark key="^" line="105" column="80" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker.java" timestamp="1490972277235">
-        <mark key="[" line="69" column="104" />
-        <mark key="]" line="69" column="108" />
-        <mark key="." line="69" column="108" />
-        <mark key="^" line="69" column="108" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker.java" timestamp="1490975036909">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/composition/GenericDAO.java" timestamp="1490036237674">
         <mark key="[" line="93" column="26" />
@@ -42,8 +41,10 @@
         <mark key="^" line="36" column="37" />
         <mark key="." line="36" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490964155110">
+      <file name="/Dummy.txt" timestamp="1490973985086">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcessTest.java" timestamp="1490361229864">
         <mark key="[" line="58" column="0" />
@@ -60,7 +61,7 @@
         <mark key="." line="118" column="6" />
         <mark key="^" line="118" column="6" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/preferences/PreferencesTest.java" timestamp="1490972893278">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/preferences/PreferencesTest.java" timestamp="1490973814593">
         <mark key="[" line="92" column="4" />
         <mark key="]" line="92" column="4" />
         <mark key="." line="92" column="4" />
@@ -90,12 +91,7 @@
         <mark key="." line="126" column="105" />
         <mark key="^" line="126" column="105" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/configuration.json" timestamp="1490972360469">
-        <mark key="[" line="18" column="22" />
-        <mark key="]" line="18" column="22" />
-        <mark key="^" line="18" column="37" />
-        <mark key="." line="18" column="22" />
-      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/configuration.json" timestamp="1490972360469" />
       <file name="C:/Projekte/sandbox/untitled/src/com/company/Main.java" timestamp="1490353921953">
         <mark key="[" line="8" column="24" />
         <mark key="]" line="8" column="29" />
@@ -140,9 +136,9 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/preference-defaults.properties" timestamp="1490972297545">
         <mark key="[" line="15" column="148" />
-        <mark key="]" line="16" column="27" />
-        <mark key="^" line="16" column="27" />
-        <mark key="." line="16" column="27" />
+        <mark key="]" line="15" column="27" />
+        <mark key="^" line="15" column="27" />
+        <mark key="." line="15" column="27" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/db/dao/LogFileDAOTest.java" timestamp="1489655801963">
         <mark key="[" line="77" column="34" />
@@ -208,18 +204,11 @@
       <jump line="175" column="41" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/preferences/PreferencesTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>@Test
-    public void testGetLong()
-    {
-        Preferences prefs = spy(new Preferences(null, null, false));
-        doReturn(Optional.empty()).when(prefs).getPref(any(String.class), any(String.class), any(Function.class));
-
-        Assert.assertEquals(null, prefs.getSystemPrefAsLong(&quot;asdf&quot;, null));
-    }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIGxvZyB0aGlzIHRvIHZlcmlmeSBpdCB3b3Jrcwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Prevent logfiles</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxHdWljZVV0aWxzXD4=</text>
@@ -227,7 +216,16 @@
       <register name="0" type="4">
         <text>logfiles.clean.enabled</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIGxvZyB0aGlzIHRvIHZlcmlmeSBpdCB3b3Jrcwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgbG8K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIEwK</text>
+      </register>
+      <register name="4" type="4">
         <text>@Test
     public void testGetLong()
     {
@@ -237,29 +235,20 @@
         Assert.assertEquals(null, prefs.getSystemPrefAsLong(&quot;asdf&quot;, null));
     }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">PT09PT09PQogIH0KCiAgcHJpdmF0ZSBQcmVmZXJlbmNlcyBnZXRQcmVmZXJlbmNlcyhQcmVmZXJlbmNlREFPIG1vY2tlZERBTywgTWFwPFN0cmluZywgU3RyaW5nPiBkZWZhdWx0c01hcCkKICB7CiAgICBQcmVmZXJlbmNlRGVmYXVsdHMgcHJlZmVyZW5jZURlZmF1bHRzID0gbmV3IE1hcEJhc2VkUHJlZmVyZW5jZURlZmF1bHRzKGRlZmF1bHRzTWFwKTsKICAgIFByZWZlcmVuY2VzIHByZWZlcmVuY2VzID0gbmV3IFByZWZlcmVuY2VzKG1vY2tlZERBTywgcHJlZmVyZW5jZURlZmF1bHRzLCBmYWxzZSk7CiAgICBwcmVmZXJlbmNlcy5pbW1lZGlhdGVVcGRhdGUoKTsKICAgIHJldHVybiBwcmVmZXJlbmNlczsKICB9CgogIHByaXZhdGUgUHJlZmVyZW5jZVBvam8gZ2V0UHJlZkZvclRlc3QoU3RyaW5nIG93bmVyLCBTdHJpbmcga2V5LCBTdHJpbmcgdmFsdWUpCiAgewogICAgUHJlZmVyZW5jZVBvam8gZXhpc3RpbmdQcmVmID0gbmV3IFByZWZlcmVuY2VQb2pvKCk7CiAgICBleGlzdGluZ1ByZWYuc2V0SWQoMUwpOwogICAgZXhpc3RpbmdQcmVmLnNldENyZWF0ZWRBdChuZXcgVGltZXN0YW1wKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKSk7CiAgICBleGlzdGluZ1ByZWYuc2V0TGFzdFVwZGF0ZWRBdChleGlzdGluZ1ByZWYuZ2V0Q3JlYXRlZEF0KCkpOwogICAgZXhpc3RpbmdQcmVmLnNldE93bmVyKG93bmVyKTsKICAgIGV4aXN0aW5nUHJlZi5zZXRQcmVmZXJlbmNlS2V5KGtleSk7CiAgICBleGlzdGluZ1ByZWYuc2V0UHJlZmVyZW5jZVZhbHVlKHZhbHVlKTsKICAgIHJldHVybiBleGlzdGluZ1ByZWY7CiAgfQo+Pj4+Pj4+IFN0YXNoZWQgY2hhbmdlcw==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">PT09PT09PQogIH0KCiAgcHJpdmF0ZSBQcmVmZXJlbmNlcyBnZXRQcmVmZXJlbmNlcyhQcmVmZXJlbmNlREFPIG1vY2tlZERBTywgTWFwPFN0cmluZywgU3RyaW5nPiBkZWZhdWx0c01hcCkKICB7CiAgICBQcmVmZXJlbmNlRGVmYXVsdHMgcHJlZmVyZW5jZURlZmF1bHRzID0gbmV3IE1hcEJhc2VkUHJlZmVyZW5jZURlZmF1bHRzKGRlZmF1bHRzTWFwKTsKICAgIFByZWZlcmVuY2VzIHByZWZlcmVuY2VzID0gbmV3IFByZWZlcmVuY2VzKG1vY2tlZERBTywgcHJlZmVyZW5jZURlZmF1bHRzLCBmYWxzZSk7CiAgICBwcmVmZXJlbmNlcy5pbW1lZGlhdGVVcGRhdGUoKTsKICAgIHJldHVybiBwcmVmZXJlbmNlczsKICB9CgogIHByaXZhdGUgUHJlZmVyZW5jZVBvam8gZ2V0UHJlZkZvclRlc3QoU3RyaW5nIG93bmVyLCBTdHJpbmcga2V5LCBTdHJpbmcgdmFsdWUpCiAgewogICAgUHJlZmVyZW5jZVBvam8gZXhpc3RpbmdQcmVmID0gbmV3IFByZWZlcmVuY2VQb2pvKCk7CiAgICBleGlzdGluZ1ByZWYuc2V0SWQoMUwpOwogICAgZXhpc3RpbmdQcmVmLnNldENyZWF0ZWRBdChuZXcgVGltZXN0YW1wKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKSk7CiAgICBleGlzdGluZ1ByZWYuc2V0TGFzdFVwZGF0ZWRBdChleGlzdGluZ1ByZWYuZ2V0Q3JlYXRlZEF0KCkpOwogICAgZXhpc3RpbmdQcmVmLnNldE93bmVyKG93bmVyKTsKICAgIGV4aXN0aW5nUHJlZi5zZXRQcmVmZXJlbmNlS2V5KGtleSk7CiAgICBleGlzdGluZ1ByZWYuc2V0UHJlZmVyZW5jZVZhbHVlKHZhbHVlKTsKICAgIHJldHVybiBleGlzdGluZ1ByZWY7CiAgfQo+Pj4+Pj4+IFN0YXNoZWQgY2hhbmdlcw==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">cHJpdmF0ZSBQcmVmZXJlbmNlcyBnZXRQcmVmZXJlbmNlcyhQcmVmZXJlbmNlREFPIG1vY2tlZERBTywgTWFwPFN0cmluZywgU3RyaW5nPiBkZWZhdWx0c01hcCkKICB7CiAgICBQcmVmZXJlbmNlRGVmYXVsdHMgcHJlZmVyZW5jZURlZmF1bHRzID0gbmV3IE1hcEJhc2VkUHJlZmVyZW5jZURlZmF1bHRzKGRlZmF1bHRzTWFwKTsKICAgIFByZWZlcmVuY2VzIHByZWZlcmVuY2VzID0gbmV3IFByZWZlcmVuY2VzKG1vY2tlZERBTywgcHJlZmVyZW5jZURlZmF1bHRzLCBmYWxzZSk7CiAgICBwcmVmZXJlbmNlcy5pbW1lZGlhdGVVcGRhdGUoKTsKICAgIHJldHVybiBwcmVmZXJlbmNlczsKICB9CgogIHByaXZhdGUgUHJlZmVyZW5jZVBvam8gZ2V0UHJlZkZvclRlc3QoU3RyaW5nIG93bmVyLCBTdHJpbmcga2V5LCBTdHJpbmcgdmFsdWUpCiAgewogICAgUHJlZmVyZW5jZVBvam8gZXhpc3RpbmdQcmVmID0gbmV3IFByZWZlcmVuY2VQb2pvKCk7CiAgICBleGlzdGluZ1ByZWYuc2V0SWQoMUwpOwogICAgZXhpc3RpbmdQcmVmLnNldENyZWF0ZWRBdChuZXcgVGltZXN0YW1wKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKSk7CiAgICBleGlzdGluZ1ByZWYuc2V0TGFzdFVwZGF0ZWRBdChleGlzdGluZ1ByZWYuZ2V0Q3JlYXRlZEF0KCkpOwogICAgZXhpc3RpbmdQcmVmLnNldE93bmVyKG93bmVyKTsKICAgIGV4aXN0aW5nUHJlZi5zZXRQcmVmZXJlbmNlS2V5KGtleSk7CiAgICBleGlzdGluZ1ByZWYuc2V0UHJlZmVyZW5jZVZhbHVlKHZhbHVlKTsKICAgIHJldHVybiBleGlzdGluZ1ByZWY7CiAgfQ==</text>
+        <text encoding="base64">PT09PT09PQogIH0KCiAgcHJpdmF0ZSBQcmVmZXJlbmNlcyBnZXRQcmVmZXJlbmNlcyhQcmVmZXJlbmNlREFPIG1vY2tlZERBTywgTWFwPFN0cmluZywgU3RyaW5nPiBkZWZhdWx0c01hcCkKICB7CiAgICBQcmVmZXJlbmNlRGVmYXVsdHMgcHJlZmVyZW5jZURlZmF1bHRzID0gbmV3IE1hcEJhc2VkUHJlZmVyZW5jZURlZmF1bHRzKGRlZmF1bHRzTWFwKTsKICAgIFByZWZlcmVuY2VzIHByZWZlcmVuY2VzID0gbmV3IFByZWZlcmVuY2VzKG1vY2tlZERBTywgcHJlZmVyZW5jZURlZmF1bHRzLCBmYWxzZSk7CiAgICBwcmVmZXJlbmNlcy5pbW1lZGlhdGVVcGRhdGUoKTsKICAgIHJldHVybiBwcmVmZXJlbmNlczsKICB9CgogIHByaXZhdGUgUHJlZmVyZW5jZVBvam8gZ2V0UHJlZkZvclRlc3QoU3RyaW5nIG93bmVyLCBTdHJpbmcga2V5LCBTdHJpbmcgdmFsdWUpCiAgewogICAgUHJlZmVyZW5jZVBvam8gZXhpc3RpbmdQcmVmID0gbmV3IFByZWZlcmVuY2VQb2pvKCk7CiAgICBleGlzdGluZ1ByZWYuc2V0SWQoMUwpOwogICAgZXhpc3RpbmdQcmVmLnNldENyZWF0ZWRBdChuZXcgVGltZXN0YW1wKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKSk7CiAgICBleGlzdGluZ1ByZWYuc2V0TGFzdFVwZGF0ZWRBdChleGlzdGluZ1ByZWYuZ2V0Q3JlYXRlZEF0KCkpOwogICAgZXhpc3RpbmdQcmVmLnNldE93bmVyKG93bmVyKTsKICAgIGV4aXN0aW5nUHJlZi5zZXRQcmVmZXJlbmNlS2V5KGtleSk7CiAgICBleGlzdGluZ1ByZWYuc2V0UHJlZmVyZW5jZVZhbHVlKHZhbHVlKTsKICAgIHJldHVybiBleGlzdGluZ1ByZWY7CiAgfQo+Pj4+Pj4+IFN0YXNoZWQgY2hhbmdlcw==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+      <register name="7" type="4">
+        <text encoding="base64">PT09PT09PQogIH0KCiAgcHJpdmF0ZSBQcmVmZXJlbmNlcyBnZXRQcmVmZXJlbmNlcyhQcmVmZXJlbmNlREFPIG1vY2tlZERBTywgTWFwPFN0cmluZywgU3RyaW5nPiBkZWZhdWx0c01hcCkKICB7CiAgICBQcmVmZXJlbmNlRGVmYXVsdHMgcHJlZmVyZW5jZURlZmF1bHRzID0gbmV3IE1hcEJhc2VkUHJlZmVyZW5jZURlZmF1bHRzKGRlZmF1bHRzTWFwKTsKICAgIFByZWZlcmVuY2VzIHByZWZlcmVuY2VzID0gbmV3IFByZWZlcmVuY2VzKG1vY2tlZERBTywgcHJlZmVyZW5jZURlZmF1bHRzLCBmYWxzZSk7CiAgICBwcmVmZXJlbmNlcy5pbW1lZGlhdGVVcGRhdGUoKTsKICAgIHJldHVybiBwcmVmZXJlbmNlczsKICB9CgogIHByaXZhdGUgUHJlZmVyZW5jZVBvam8gZ2V0UHJlZkZvclRlc3QoU3RyaW5nIG93bmVyLCBTdHJpbmcga2V5LCBTdHJpbmcgdmFsdWUpCiAgewogICAgUHJlZmVyZW5jZVBvam8gZXhpc3RpbmdQcmVmID0gbmV3IFByZWZlcmVuY2VQb2pvKCk7CiAgICBleGlzdGluZ1ByZWYuc2V0SWQoMUwpOwogICAgZXhpc3RpbmdQcmVmLnNldENyZWF0ZWRBdChuZXcgVGltZXN0YW1wKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKSk7CiAgICBleGlzdGluZ1ByZWYuc2V0TGFzdFVwZGF0ZWRBdChleGlzdGluZ1ByZWYuZ2V0Q3JlYXRlZEF0KCkpOwogICAgZXhpc3RpbmdQcmVmLnNldE93bmVyKG93bmVyKTsKICAgIGV4aXN0aW5nUHJlZi5zZXRQcmVmZXJlbmNlS2V5KGtleSk7CiAgICBleGlzdGluZ1ByZWYuc2V0UHJlZmVyZW5jZVZhbHVlKHZhbHVlKTsKICAgIHJldHVybiBleGlzdGluZ1ByZWY7CiAgfQo+Pj4+Pj4+IFN0YXNoZWQgY2hhbmdlcw==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">cHJpdmF0ZSBQcmVmZXJlbmNlcyBnZXRQcmVmZXJlbmNlcyhQcmVmZXJlbmNlREFPIG1vY2tlZERBTywgTWFwPFN0cmluZywgU3RyaW5nPiBkZWZhdWx0c01hcCkKICB7CiAgICBQcmVmZXJlbmNlRGVmYXVsdHMgcHJlZmVyZW5jZURlZmF1bHRzID0gbmV3IE1hcEJhc2VkUHJlZmVyZW5jZURlZmF1bHRzKGRlZmF1bHRzTWFwKTsKICAgIFByZWZlcmVuY2VzIHByZWZlcmVuY2VzID0gbmV3IFByZWZlcmVuY2VzKG1vY2tlZERBTywgcHJlZmVyZW5jZURlZmF1bHRzLCBmYWxzZSk7CiAgICBwcmVmZXJlbmNlcy5pbW1lZGlhdGVVcGRhdGUoKTsKICAgIHJldHVybiBwcmVmZXJlbmNlczsKICB9CgogIHByaXZhdGUgUHJlZmVyZW5jZVBvam8gZ2V0UHJlZkZvclRlc3QoU3RyaW5nIG93bmVyLCBTdHJpbmcga2V5LCBTdHJpbmcgdmFsdWUpCiAgewogICAgUHJlZmVyZW5jZVBvam8gZXhpc3RpbmdQcmVmID0gbmV3IFByZWZlcmVuY2VQb2pvKCk7CiAgICBleGlzdGluZ1ByZWYuc2V0SWQoMUwpOwogICAgZXhpc3RpbmdQcmVmLnNldENyZWF0ZWRBdChuZXcgVGltZXN0YW1wKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKSk7CiAgICBleGlzdGluZ1ByZWYuc2V0TGFzdFVwZGF0ZWRBdChleGlzdGluZ1ByZWYuZ2V0Q3JlYXRlZEF0KCkpOwogICAgZXhpc3RpbmdQcmVmLnNldE93bmVyKG93bmVyKTsKICAgIGV4aXN0aW5nUHJlZi5zZXRQcmVmZXJlbmNlS2V5KGtleSk7CiAgICBleGlzdGluZ1ByZWYuc2V0UHJlZmVyZW5jZVZhbHVlKHZhbHVlKTsKICAgIHJldHVybiBleGlzdGluZ1ByZWY7CiAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>526</text>
