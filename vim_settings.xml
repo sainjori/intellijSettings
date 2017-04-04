@@ -10,18 +10,6 @@
         <mark key="." line="24" column="9" />
         <mark key="^" line="24" column="9" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1491303847330">
-        <mark key="[" line="188" column="31" />
-        <mark key="]" line="189" column="41" />
-        <mark key="." line="189" column="41" />
-        <mark key="^" line="189" column="41" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker.java" timestamp="1491300872994">
-        <mark key="[" line="77" column="32" />
-        <mark key="]" line="77" column="38" />
-        <mark key="." line="77" column="38" />
-        <mark key="^" line="77" column="38" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/LogUploadEndpoint.java" timestamp="1491303285897">
         <mark key="'" line="0" column="0" />
       </file>
@@ -31,11 +19,15 @@
         <mark key="." line="210" column="0" />
         <mark key="^" line="205" column="22" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/test/java/com/dscsag/monitoring/midway/api/LogUploadEndpointTest.java" timestamp="1491299068951" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/db/dao/LogFileDAOTest.java" timestamp="1490977390115">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/test/java/com/dscsag/monitoring/midway/api/LogUploadEndpointTest.java" timestamp="1491306731465">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/db/dao/LogFileDAOTest.java" timestamp="1491306929002">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/objects/ClientSettingsProxyEndpoint.java" timestamp="1490099774898">
         <mark key="[" line="36" column="39" />
@@ -65,6 +57,7 @@
         <mark key="]" line="92" column="4" />
         <mark key="." line="92" column="4" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/webcohesion/enunciate/enunciate-core-annotations/2.8.1/enunciate-core-annotations-2.8.1-sources.jar!/com/webcohesion/enunciate/metadata/rs/ResourceLabel.java" timestamp="1491306619754" />
       <file name="$USER_HOME$/sandbox/comtest/pom.xml" timestamp="1490094666982">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="16" column="25" />
@@ -184,11 +177,11 @@
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/LogUploadEndpoint.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>MILLISECONDS</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>MILLISECONDS</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>delete</text>
@@ -196,37 +189,39 @@
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICAgICAgU2NoZWR1bGVkRnV0dXJlPD8+IHNjaGVkdWxlZEZ1dHVyZSA9IGV4ZWN1dG9yU2VydmljZS5zY2hlZHVsZUF0Rml4ZWRSYXRlKGxvZ0ZpbGVDbGVhblByb2Nlc3MsIHNlY29uZHMuZ2V0U2Vjb25kcygpICogMTAwMCwKLy8gICAgICAgICAgICAgICAgICAgIGludGVydmFsLCBUaW1lVW5pdC5NSUxMSVNFQ09ORFMpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>logFileCleanProcess, seconds.getSeconds() * 1000,
-                    interval, TimeUnit.MILLISECONDS</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAQmVmb3JlQ2xhc3MKICBwdWJsaWMgc3RhdGljIHZvaWQgc2V0VXBEYXRhYmFzZSgpCiAgewogICAgU3lzdGVtLm91dC5wcmludGxuKCJiZWZvcmUgY2xhc3MiKTsKICB9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="4" type="4">
+        <text encoding="base64">Ly8gICAgZm9yIChpbnQgaSA9IDE7IGkgPCA1OyBpKyspIHsKICAgIC8vICAgICAgaW5zZXJ0TG9nZmlsZUluREIoaSk7CiAgICAvLyAgICAgIGluc2VydExvZ2ZpbGVJbkRCKGkpOwogICAgLy8gICAgfQogICAgLy8gICAgaW5zZXJ0TG9nZmlsZUluREIoMSk7</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAvLyAgcHJpdmF0ZSBzdGF0aWMgbG9uZyBsYXN0TWlkd2F5SWQgPSAwOwogIC8vICBwcml2YXRlIHN0YXRpYyBsb25nIGxvZ2ZpbGVQb2pvSWQgPSAwOwogIC8vICBwcml2YXRlIHN0YXRpYyBMb2dGaWxlREFPIGxvZ0ZpbGVEQU87CiAgLy8gIHByaXZhdGUgc3RhdGljIE1pZHdheURBTyBtaWR3YXlEQU87CiAgLy8gIHByaXZhdGUgc3RhdGljIEluamVjdG9yIGluamVjdG9yID0gR3VpY2VVdGlscy5nZXRJbmplY3RvcigpOwoKICBwdWJsaWMgTG9nRmlsZUNsZWFuUHJvY2Vzc1Rlc3QoKQogIHsKICAgIC8vICAgIFN5c3RlbS5vdXQucHJpbnRsbigiY29uc3RydWN0b3IiKTsKICAgIC8vICAgIGlmIChsb2dGaWxlREFPID09IG51bGwpCiAgICAvLyAgICAgIGxvZ0ZpbGVEQU8gPSBpbmplY3Rvci5nZXRJbnN0YW5jZShMb2dGaWxlREFPLmNsYXNzKTsKICAgIC8vICAgIGlmIChtaWR3YXlEQU8gPT0gbnVsbCkKICAgIC8vICAgICAgbWlkd2F5REFPID0gaW5qZWN0b3IuZ2V0SW5zdGFuY2UoTWlkd2F5REFPLmNsYXNzKTsKICB9CgogIEBCZWZvcmVDbGFzcwogIHB1YmxpYyBzdGF0aWMgdm9pZCBzZXRVcERhdGFiYXNlKCkKICB7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oImJlZm9yZSBjbGFzcyIpOwogIH0KCiAgQEFmdGVyQ2xhc3MKICBwdWJsaWMgc3RhdGljIHZvaWQgdGVhckRvd24oKSB0aHJvd3MgRXhjZXB0aW9uCiAgewogICAgLy8gICAgRGF0YWJhc2VVdGlscy50cnVuY2F0ZURCKGluamVjdG9yLmdldEluc3RhbmNlKEpPT1FDb250ZXh0UHJvdmlkZXIuY2xhc3MpKTsKICB9CgogIEBCZWZvcmUKICBwdWJsaWMgdm9pZCBzZXRVcERhdGEoKQogIHsKCiAgfQ==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="6" type="4">
-        <text>@Before
-  public void setUpData()
-  {
-
-  }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAvLyAgcHJpdmF0ZSBzdGF0aWMgdm9pZCBjcmVhdGVMb2dmaWxlKCkKICAvLyAgewogIC8vICAgIExvZ0ZpbGVQb2pvIGxvZ0ZpbGVQb2pvID0gbmV3IExvZ0ZpbGVQb2pvKCk7CiAgLy8gICAgbG9nRmlsZVBvam8uc2V0Q2xpZW50TmFtZSgiTkItQk9PSy1URVNUIik7CiAgLy8gICAgbG9nRmlsZVBvam8uc2V0SWQoKytsb2dmaWxlUG9qb0lkKTsKICAvLyAgICBsb2dGaWxlUG9qby5zZXRMb2dGaWxlTmFtZSgiVGVzdCBwYXRoIik7CiAgLy8gICAgbG9nRmlsZURBTy5pbnNlcnQobG9nRmlsZVBvam8pOwogIC8vCiAgLy8gIH0K</text>
+      <register name="8" type="4">
+        <text>//  private static void createLogfile()
+  //  {
+  //    LogFilePojo logFilePojo = new LogFilePojo();
+  //    logFilePojo.setClientName(&quot;NB-BOOK-TEST&quot;);
+  //    logFilePojo.setId(++logfilePojoId);
+  //    logFilePojo.setLogFileName(&quot;Test path&quot;);
+  //    logFileDAO.insert(logFilePojo);
+  //</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
