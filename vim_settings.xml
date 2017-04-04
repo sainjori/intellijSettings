@@ -64,7 +64,12 @@
         <mark key="." line="92" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/webcohesion/enunciate/enunciate-core-annotations/2.8.1/enunciate-core-annotations-2.8.1-sources.jar!/com/webcohesion/enunciate/metadata/rs/ResourceLabel.java" timestamp="1491306619754" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/LogFileEndpoint.java" timestamp="1491316917768" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/LogFileEndpoint.java" timestamp="1491317821151">
+        <mark key="[" line="69" column="25" />
+        <mark key="]" line="70" column="8" />
+        <mark key="^" line="70" column="8" />
+        <mark key="." line="70" column="8" />
+      </file>
       <file name="$USER_HOME$/sandbox/comtest/pom.xml" timestamp="1490094666982">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="16" column="25" />
@@ -184,8 +189,8 @@
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/LogUploadEndpoint.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Scheduled task started to</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBAQ29uc3VtZXMgKHtNZWRpYVR5cGUuQVBQTElDQVRJT05fSlNPTn0pCiAgQFByb2R1Y2VzICh7TWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT059KQo=</text>
       </register>
       <register name="-" type="4">
         <text>Scheduled task started to</text>
@@ -194,7 +199,7 @@
         <text>delete</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgU2NoZWR1bGVkRnV0dXJlPD8+IHNjaGVkdWxlZEZ1dHVyZSA9IGV4ZWN1dG9yU2VydmljZS5zY2hlZHVsZUF0Rml4ZWRSYXRlKGxvZ0ZpbGVDbGVhblByb2Nlc3MsIHNlY29uZHMuZ2V0U2Vjb25kcygpICogMTAwMCwKLy8gICAgICAgICAgICAgICAgICAgIGludGVydmFsLCBUaW1lVW5pdC5NSUxMSVNFQ09ORFMpOwo=</text>
+        <text encoding="base64">ICBAQ29uc3VtZXMgKHtNZWRpYVR5cGUuQVBQTElDQVRJT05fSlNPTn0pCiAgQFByb2R1Y2VzICh7TWVkaWFUeXBlLkFQUExJQ0FUSU9OX0pTT059KQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
