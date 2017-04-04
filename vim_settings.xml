@@ -10,6 +10,12 @@
         <mark key="." line="24" column="9" />
         <mark key="^" line="24" column="9" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1491308369438">
+        <mark key="[" line="114" column="51" />
+        <mark key="]" line="114" column="58" />
+        <mark key="." line="114" column="58" />
+        <mark key="^" line="114" column="58" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/LogUploadEndpoint.java" timestamp="1491303285897">
         <mark key="'" line="0" column="0" />
       </file>
@@ -20,14 +26,14 @@
         <mark key="^" line="205" column="22" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/test/java/com/dscsag/monitoring/midway/api/LogUploadEndpointTest.java" timestamp="1491306731465">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/db/dao/LogFileDAOTest.java" timestamp="1491306929002">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/objects/ClientSettingsProxyEndpoint.java" timestamp="1490099774898">
         <mark key="[" line="36" column="39" />
@@ -177,11 +183,11 @@
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/LogUploadEndpoint.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Scheduled task started to</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>Scheduled task started to</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
@@ -193,35 +199,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4ZWN1dGUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">Ly8gICAgZm9yIChpbnQgaSA9IDE7IGkgPCA1OyBpKyspIHsKICAgIC8vICAgICAgaW5zZXJ0TG9nZmlsZUluREIoaSk7CiAgICAvLyAgICAgIGluc2VydExvZ2ZpbGVJbkRCKGkpOwogICAgLy8gICAgfQogICAgLy8gICAgaW5zZXJ0TG9nZmlsZUluREIoMSk7</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAvLyAgcHJpdmF0ZSBzdGF0aWMgbG9uZyBsYXN0TWlkd2F5SWQgPSAwOwogIC8vICBwcml2YXRlIHN0YXRpYyBsb25nIGxvZ2ZpbGVQb2pvSWQgPSAwOwogIC8vICBwcml2YXRlIHN0YXRpYyBMb2dGaWxlREFPIGxvZ0ZpbGVEQU87CiAgLy8gIHByaXZhdGUgc3RhdGljIE1pZHdheURBTyBtaWR3YXlEQU87CiAgLy8gIHByaXZhdGUgc3RhdGljIEluamVjdG9yIGluamVjdG9yID0gR3VpY2VVdGlscy5nZXRJbmplY3RvcigpOwoKICBwdWJsaWMgTG9nRmlsZUNsZWFuUHJvY2Vzc1Rlc3QoKQogIHsKICAgIC8vICAgIFN5c3RlbS5vdXQucHJpbnRsbigiY29uc3RydWN0b3IiKTsKICAgIC8vICAgIGlmIChsb2dGaWxlREFPID09IG51bGwpCiAgICAvLyAgICAgIGxvZ0ZpbGVEQU8gPSBpbmplY3Rvci5nZXRJbnN0YW5jZShMb2dGaWxlREFPLmNsYXNzKTsKICAgIC8vICAgIGlmIChtaWR3YXlEQU8gPT0gbnVsbCkKICAgIC8vICAgICAgbWlkd2F5REFPID0gaW5qZWN0b3IuZ2V0SW5zdGFuY2UoTWlkd2F5REFPLmNsYXNzKTsKICB9CgogIEBCZWZvcmVDbGFzcwogIHB1YmxpYyBzdGF0aWMgdm9pZCBzZXRVcERhdGFiYXNlKCkKICB7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oImJlZm9yZSBjbGFzcyIpOwogIH0KCiAgQEFmdGVyQ2xhc3MKICBwdWJsaWMgc3RhdGljIHZvaWQgdGVhckRvd24oKSB0aHJvd3MgRXhjZXB0aW9uCiAgewogICAgLy8gICAgRGF0YWJhc2VVdGlscy50cnVuY2F0ZURCKGluamVjdG9yLmdldEluc3RhbmNlKEpPT1FDb250ZXh0UHJvdmlkZXIuY2xhc3MpKTsKICB9CgogIEBCZWZvcmUKICBwdWJsaWMgdm9pZCBzZXRVcERhdGEoKQogIHsKCiAgfQ==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>//  private static void createLogfile()
-  //  {
-  //    LogFilePojo logFilePojo = new LogFilePojo();
-  //    logFilePojo.setClientName(&quot;NB-BOOK-TEST&quot;);
-  //    logFilePojo.setId(++logfilePojoId);
-  //    logFilePojo.setLogFileName(&quot;Test path&quot;);
-  //    logFileDAO.insert(logFilePojo);
-  //</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">Ly8gICAgZm9yIChpbnQgaSA9IDE7IGkgPCA1OyBpKyspIHsKICAgIC8vICAgICAgaW5zZXJ0TG9nZmlsZUluREIoaSk7CiAgICAvLyAgICAgIGluc2VydExvZ2ZpbGVJbkRCKGkpOwogICAgLy8gICAgfQogICAgLy8gICAgaW5zZXJ0TG9nZmlsZUluREIoMSk7</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAvLyAgcHJpdmF0ZSBzdGF0aWMgbG9uZyBsYXN0TWlkd2F5SWQgPSAwOwogIC8vICBwcml2YXRlIHN0YXRpYyBsb25nIGxvZ2ZpbGVQb2pvSWQgPSAwOwogIC8vICBwcml2YXRlIHN0YXRpYyBMb2dGaWxlREFPIGxvZ0ZpbGVEQU87CiAgLy8gIHByaXZhdGUgc3RhdGljIE1pZHdheURBTyBtaWR3YXlEQU87CiAgLy8gIHByaXZhdGUgc3RhdGljIEluamVjdG9yIGluamVjdG9yID0gR3VpY2VVdGlscy5nZXRJbmplY3RvcigpOwoKICBwdWJsaWMgTG9nRmlsZUNsZWFuUHJvY2Vzc1Rlc3QoKQogIHsKICAgIC8vICAgIFN5c3RlbS5vdXQucHJpbnRsbigiY29uc3RydWN0b3IiKTsKICAgIC8vICAgIGlmIChsb2dGaWxlREFPID09IG51bGwpCiAgICAvLyAgICAgIGxvZ0ZpbGVEQU8gPSBpbmplY3Rvci5nZXRJbnN0YW5jZShMb2dGaWxlREFPLmNsYXNzKTsKICAgIC8vICAgIGlmIChtaWR3YXlEQU8gPT0gbnVsbCkKICAgIC8vICAgICAgbWlkd2F5REFPID0gaW5qZWN0b3IuZ2V0SW5zdGFuY2UoTWlkd2F5REFPLmNsYXNzKTsKICB9CgogIEBCZWZvcmVDbGFzcwogIHB1YmxpYyBzdGF0aWMgdm9pZCBzZXRVcERhdGFiYXNlKCkKICB7CiAgICBTeXN0ZW0ub3V0LnByaW50bG4oImJlZm9yZSBjbGFzcyIpOwogIH0KCiAgQEFmdGVyQ2xhc3MKICBwdWJsaWMgc3RhdGljIHZvaWQgdGVhckRvd24oKSB0aHJvd3MgRXhjZXB0aW9uCiAgewogICAgLy8gICAgRGF0YWJhc2VVdGlscy50cnVuY2F0ZURCKGluamVjdG9yLmdldEluc3RhbmNlKEpPT1FDb250ZXh0UHJvdmlkZXIuY2xhc3MpKTsKICB9CgogIEBCZWZvcmUKICBwdWJsaWMgdm9pZCBzZXRVcERhdGEoKQogIHsKCiAgfQ==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyAgfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
