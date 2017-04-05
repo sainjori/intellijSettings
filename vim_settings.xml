@@ -15,11 +15,11 @@
         <mark key="." line="24" column="9" />
         <mark key="^" line="24" column="9" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1491409880654">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1491410506670">
         <mark key="[" line="177" column="62" />
-        <mark key="]" line="177" column="60" />
-        <mark key="." line="177" column="60" />
-        <mark key="^" line="177" column="60" />
+        <mark key="]" line="174" column="18" />
+        <mark key="." line="174" column="18" />
+        <mark key="^" line="174" column="18" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker.java" timestamp="1491398907090">
         <mark key="[" line="47" column="56" />
