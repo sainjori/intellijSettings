@@ -15,11 +15,11 @@
         <mark key="." line="24" column="9" />
         <mark key="^" line="24" column="9" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1491402264703">
-        <mark key="[" line="219" column="0" />
-        <mark key="]" line="219" column="0" />
-        <mark key="." line="219" column="0" />
-        <mark key="^" line="271" column="159" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1491409880654">
+        <mark key="[" line="177" column="62" />
+        <mark key="]" line="177" column="60" />
+        <mark key="." line="177" column="60" />
+        <mark key="^" line="177" column="60" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker.java" timestamp="1491398907090">
         <mark key="[" line="47" column="56" />
@@ -145,7 +145,7 @@
         <mark key="." line="77" column="37" />
         <mark key="^" line="77" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1491300403102">
+      <file name="/fragment.java" timestamp="1491403866206">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -205,44 +205,44 @@
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/LogUploadEndpoint.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>insert(eventLogsToInsert);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>insert(eventLogsToInsert);</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGxvZ0ZpbGVzT2xkZXJUaGFuLnN0cmVhbSgpLm1hcChsb2dmaWxlIC0+IG5ldyBBY2tub3dsZWRnZURlbGV0ZVJlc3BvbnNlKCkuc2V0U3RhdHVzKCJFUlJPUiIpLnNldExvZ0ZpbGVQb2pvKGxvZ2ZpbGUpKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgIG1lc3NhZ2UgKz0gbG9ncG9qby5nZXRDbGllbnROYW1lKCkgCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBDcmVhdGUgZXZlbnQgbG9nIGVudHJ5IGRvY3VtZW50aW5nIG9jY3VyZWQgZXJyb3Igd2l0aCBsb2cgZmlsZSBjbGVhbnVwCiAgICogQHBhcmFtIGFja25vd2xlZGdlRGVsZXRlUmVzcG9uc2UKICAgKiBAcmV0dXJuCiAgICovCiAgcHJpdmF0ZSBFdmVudExvZ0VudHJ5UG9qbyBnZXRFdmVudExvZ0VudHJ5UG9qbyhBY2tub3dsZWRnZURlbGV0ZVJlc3BvbnNlIGFja25vd2xlZGdlRGVsZXRlUmVzcG9uc2UpCiAgewogICAgRXZlbnRMb2dFbnRyeVBvam8gZXZlbnQgPSBuZXcgRXZlbnRMb2dFbnRyeVBvam8oKTsKICAgIExvZ0ZpbGVQb2pvIGxvZ0ZpbGVQb2pvID0gYWNrbm93bGVkZ2VEZWxldGVSZXNwb25zZS5nZXRMb2dGaWxlUG9qbygpOwogICAgZXZlbnQuc2V0TWVzc2FnZShTdHJpbmcuZm9ybWF0KCJVbmFibGUgdG8gZGVsZXRlIGxvZ2ZpbGUgZW50cnk6ICVzICVzIiwgbG9nRmlsZVBvam8uZ2V0Q2xpZW50TmFtZSgpLCBsb2dGaWxlUG9qby5nZXRMb2dGaWxlTmFtZSgpKSk7CiAgICBldmVudC5zZXRBcHBsaWNhdGlvblR5cGUoIm1vbml0b3JpbmciKTsKICAgIGV2ZW50LnNldExldmVsKEV2ZW50TG9nRW50cnlMZXZlbC5FUlJPUik7CiAgICBldmVudC5zZXRFdmVudFR5cGUoIkVSUk9SIik7CiAgICBldmVudC5zZXRFdmVudElkKCJFMDAwMDEiKTsKICAgIGV2ZW50LnNldExvZ0ZpbGVJZChsb2dGaWxlUG9qby5nZXRJZCgpKTsKICAgIGV2ZW50LnNldENsaWVudE5hbWUoImRhc2hib2FyZCIpOwogICAgcmV0dXJuIGV2ZW50OwogIH0K</text>
+      <register name="2" type="4">
+        <text encoding="base64">LCAoYSwgYikgLT4gewogICAgICAgcmV0dXJuIGEgOwogICAgIH0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBDb2xsZWN0aW9ucy5lbXB0eUxpc3QoKTsK</text>
+        <text encoding="base64">ICAgICAgIGlmCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIG1lc3NhZ2UgPW1lc3NhZ2UK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgIH0KICB9Cg==</text>
+        <text encoding="base64">ICAgICAgIFN0cmluZyBtZXNzYWdlID0gZXZlbnRMb2cuZ2V0TWVzc2FnZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudExvZ0VudHJ5UG9qby5zZXRMb2dGaWxlSWQobG9nRmlsZVBvam8uZ2V0SWQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgIG1lc3NhZ2UKICAgICAgIG1lc3NhZ2UgKz0gbG9ncG9qby5nZXRDbGllbnROYW1lKCk7CiAgICAgICBtZXNzYWdlICs9IGxvZ3Bvam8uZ2V0TG9nRmlsZU5hbWUoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBFdmVudExvZ0VudHJ5IGV2ZW50TG9nRW50cnkgPSBuZXcgRXZlbnRMb2dFbnRyeSgpOwo=</text>
+        <text encoding="base64">ICAgIGV2ZW50LnNldE1lc3NhZ2UoIkVycm9yIGR1cmluZyBsb2dmaWxlIGNsZWFuIFByb2Nlc3M6IExvZ2ZpbGVzIGNvdWxkIG5vdCBiZSBkZWxldGVkOiAiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBFdmVudExvZ0VudHJ5IGV2ZW50TG9nRW50cnkgPSBuZXcgRXZlbnRMb2dFbnRyeSgpOwo=</text>
+        <text encoding="base64">ICAgIGV2ZW50LnNldExvZ0ZpbGVJZChsb2dGaWxlUG9qby5nZXRJZCgpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudExvZ0VudHJ5REFPLmluc2VydChldmVudExvZ0VudHJ5KTsK</text>
+        <text encoding="base64">ICAgIExvZ0ZpbGVQb2pvIGxvZ0ZpbGVQb2pvID0gYWNrbm93bGVkZ2VEZWxldGVSZXNwb25zZS5nZXRMb2dGaWxlUG9qbygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
