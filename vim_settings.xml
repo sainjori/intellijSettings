@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/LogFileDAO.java" timestamp="1491399447235">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/LogFileDAO.java" timestamp="1491400600616">
         <mark key="[" line="105" column="53" />
         <mark key="]" line="105" column="56" />
         <mark key="^" line="105" column="56" />
@@ -15,11 +15,11 @@
         <mark key="." line="24" column="9" />
         <mark key="^" line="24" column="9" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1491399748633">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="106" column="4" />
-        <mark key="." line="106" column="4" />
-        <mark key="^" line="106" column="4" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1491400642346">
+        <mark key="[" line="208" column="72" />
+        <mark key="]" line="208" column="72" />
+        <mark key="." line="208" column="72" />
+        <mark key="^" line="208" column="158" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker.java" timestamp="1491398907090">
         <mark key="[" line="47" column="56" />
@@ -206,10 +206,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>count</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>count</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
