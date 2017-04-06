@@ -9,12 +9,10 @@
         <mark key="." line="24" column="9" />
         <mark key="^" line="24" column="9" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1491478378540">
-        <mark key="i" line="169" column="15" />
-        <mark key="[" line="105" column="8" />
-        <mark key="]" line="105" column="27" />
-        <mark key="^" line="105" column="27" />
-        <mark key="." line="105" column="27" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1491481493451">
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker.java" timestamp="1491478243595">
         <mark key="[" line="58" column="30" />
@@ -46,7 +44,7 @@
         <mark key="^" line="36" column="37" />
         <mark key="." line="36" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491478624779">
+      <file name="/Dummy.txt" timestamp="1491481612381">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -63,7 +61,8 @@
         <mark key="." line="118" column="6" />
         <mark key="^" line="118" column="6" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/preferences/PreferencesTest.java" timestamp="1490973814593">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/preferences/PreferencesTest.java" timestamp="1491480915887">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="92" column="4" />
         <mark key="]" line="92" column="4" />
         <mark key="." line="92" column="4" />
@@ -80,11 +79,12 @@
         <mark key="." line="8" column="29" />
         <mark key="^" line="8" column="29" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/EventLogEntryDAO.java" timestamp="1491399199129">
-        <mark key="[" line="135" column="30" />
-        <mark key="]" line="135" column="67" />
-        <mark key="^" line="135" column="67" />
-        <mark key="." line="135" column="67" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/EventLogEntryDAO.java" timestamp="1491480839221">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="135" column="5" />
+        <mark key="]" line="135" column="100" />
+        <mark key="^" line="135" column="100" />
+        <mark key="." line="135" column="100" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/midway_api/MidwayURLs.java" timestamp="1490376446276">
         <mark key="[" line="45" column="65" />
@@ -184,13 +184,16 @@
       <jump line="175" column="41" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/preferences/PreferencesTest.java" />
       <jump line="141" column="5" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/LogUploadEndpoint.java" />
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/LogUploadEndpoint.java" />
+      <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/EventLogEntryDAO.java" />
+      <jump line="134" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/EventLogEntryDAO.java" />
+      <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/preferences/PreferencesTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">UHJlZmVyZW5jZXMgcHJlZmVyZW5jZXMsIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UHJlZmVyZW5jZXMgcHJlZmVyZW5jZXMsIA==</text>
+        <text>Remove logfile reference that have been deleted from event logs</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
@@ -199,31 +202,31 @@
         <text>logfiles.clean.enabled</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUHJlZmVyZW5jZXMgcHJlZmVyZW5jZXM7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByZWZlcmVuY2VzID0gcHJlZmVyZW5jZXM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">PT09PT09PQogICAgICAgIGlmKGxvZ0ZpbGVzVG9LZWVwVGltZSA9PSBudWxsKSByZXR1cm47CiAgICBMaXN0PExvZ0ZpbGVQb2pvPiBsb2dGaWxlc09sZGVyVGhhbiA9IGxvZ0ZpbGVEQU8uZ2V0TG9nRmlsZXNPbGRlclRoYW4obG9nRmlsZXNUb0tlZXBUaW1lLCBUaW1lVW5pdC5EQVlTKTsKICAgICAgICBpZiAobG9nRmlsZXNPbGRlclRoYW4uaXNFbXB0eSgpKSByZXR1cm47Cj4+Pj4+Pj4gZDJiMTU5MS4uLiBNT05JVE9SSU5HLTY3IFdyaXRlIHNpbmdsZSBldmVudCBsb2cgZm9yIGVycm9ycw==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVuYWJsZUxvZ2ZpbGVDbGVhbnVwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBlbmFibGVMb2dmaWxlQ2xlYW51cCA9IHByZWZlcmVuY2VzLmdldFN5c3RlbVByZWZBc0Jvb2xlYW4oImxvZ2ZpbGVzLmNsZWFuLmVuYWJsZWQiLCBmYWxzZSk7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">PT09PT09PQogICAgdHJ5CiAgICB7CiAgICAgIGV4ZWN1dGUoKTsKICAgIH0KICAgIGNhdGNoIChFeGNlcHRpb24gZSkKICAgIHsKICAgICAgTE9HR0VSLmxvZyhMZXZlbC5TRVZFUkUsIGUuZ2V0TWVzc2FnZSgpKTsKICAgICAgY3JlYXRlRXZlbnRsb2dFbnRyeShlKTsKPj4+Pj4+PiBkMmIxNTkxLi4uIE1PTklUT1JJTkctNjcgV3JpdGUgc2luZ2xlIGV2ZW50IGxvZyBmb3IgZXJyb3Jz</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBlbmFibGVMb2dmaWxlQ2xlYW51cCA9IHByZWZlcmVuY2VzLmdldFN5c3RlbVByZWZBc0Jvb2xlYW4oImxvZ2ZpbGVzLmNsZWFuLmVuYWJsZWQiLCBmYWxzZSk7Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiA4NGVjYmE0Li4uIE1PTklUT1JJTkctNjcgTW92ZSB0aGUgY2hlY2sgZm9yIGNvbmZpZ3VyYXRpb24gb3B0aW9ucyBpbnRvIGxvZ2ZpbGUgY2xlYW4gcHJvY2Vzcwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBpZihsb2dGaWxlc1RvS2VlcFRpbWUgPT0gbnVsbCkgcmV0dXJuOwogICAgTGlzdDxMb2dGaWxlUG9qbz4gbG9nRmlsZXNPbGRlclRoYW4gPSBsb2dGaWxlREFPLmdldExvZ0ZpbGVzT2xkZXJUaGFuKGxvZ0ZpbGVzVG9LZWVwVGltZSwgVGltZVVuaXQuREFZUyk7CiAgICBpZiAobG9nRmlsZXNPbGRlclRoYW4uaXNFbXB0eSgpKSByZXR1cm47Cj09PT09PT0=</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
@@ -275,7 +278,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
