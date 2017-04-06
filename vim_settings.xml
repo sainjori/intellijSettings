@@ -15,11 +15,12 @@
         <mark key="." line="24" column="9" />
         <mark key="^" line="24" column="9" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1491410506670">
-        <mark key="[" line="177" column="62" />
-        <mark key="]" line="174" column="18" />
-        <mark key="." line="174" column="18" />
-        <mark key="^" line="174" column="18" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1491470028995">
+        <mark key="i" line="168" column="15" />
+        <mark key="[" line="115" column="23" />
+        <mark key="]" line="115" column="28" />
+        <mark key="." line="115" column="28" />
+        <mark key="^" line="115" column="28" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker.java" timestamp="1491398907090">
         <mark key="[" line="47" column="56" />
@@ -206,10 +207,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>insert(eventLogsToInsert);</text>
+        <text>ALL</text>
       </register>
       <register name="-" type="4">
-        <text>insert(eventLogsToInsert);</text>
+        <text>ALL</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
@@ -218,31 +219,31 @@
         <text encoding="base64">ICAgICAgIG1lc3NhZ2UgKz0gbG9ncG9qby5nZXRDbGllbnROYW1lKCkgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIHJldHVybiBldmVudExvZzsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LCAoYSwgYikgLT4gewogICAgICAgcmV0dXJuIGEgOwogICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgIGV2ZW50TG9nLnNldE1lc3NhZ2UobWVzc2FnZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIGlmCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIG1lc3NhZ2UgPW1lc3NhZ2UK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgIFN0cmluZyBtZXNzYWdlID0gZXZlbnRMb2cuZ2V0TWVzc2FnZSgpOwo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGV2ZW50LnNldE1lc3NhZ2UoIiIpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgIGlmKG1lc3NhZ2UgPT0gbnVsbCkgbWVzc2FnZSA9ICIiOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIG1lc3NhZ2UKICAgICAgIG1lc3NhZ2UgKz0gbG9ncG9qby5nZXRDbGllbnROYW1lKCk7CiAgICAgICBtZXNzYWdlICs9IGxvZ3Bvam8uZ2V0TG9nRmlsZU5hbWUoKTsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiZmVmYSIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV2ZW50LnNldE1lc3NhZ2UoIkVycm9yIGR1cmluZyBsb2dmaWxlIGNsZWFuIFByb2Nlc3M6IExvZ2ZpbGVzIGNvdWxkIG5vdCBiZSBkZWxldGVkOiAiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGV2ZW50LnNldExvZ0ZpbGVJZChsb2dGaWxlUG9qby5nZXRJZCgpKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">LCAoYSwgYikgLT4gewogICAgICAgcmV0dXJuIGEgOwogICAgIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIExvZ0ZpbGVQb2pvIGxvZ0ZpbGVQb2pvID0gYWNrbm93bGVkZ2VEZWxldGVSZXNwb25zZS5nZXRMb2dGaWxlUG9qbygpOwo=</text>
+        <text encoding="base64">ICAgICAgIGlmCg==</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
