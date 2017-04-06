@@ -3,30 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/LogFileDAO.java" timestamp="1491400600616">
-        <mark key="[" line="105" column="53" />
-        <mark key="]" line="105" column="56" />
-        <mark key="^" line="105" column="56" />
-        <mark key="." line="105" column="56" />
-      </file>
       <file name="C:/Projekte/sandbox/ObjectMapperJava/src/com/company/Main.java" timestamp="1490350618310">
         <mark key="[" line="23" column="62" />
         <mark key="]" line="24" column="9" />
         <mark key="." line="24" column="9" />
         <mark key="^" line="24" column="9" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1491470028995">
-        <mark key="i" line="168" column="15" />
-        <mark key="[" line="115" column="23" />
-        <mark key="]" line="115" column="28" />
-        <mark key="." line="115" column="28" />
-        <mark key="^" line="115" column="28" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker.java" timestamp="1491398907090">
-        <mark key="[" line="47" column="56" />
-        <mark key="]" line="40" column="37" />
-        <mark key="^" line="40" column="37" />
-        <mark key="." line="40" column="37" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1491470987848">
+        <mark key="i" line="162" column="15" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="^" line="109" column="28" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/LogUploadEndpoint.java" timestamp="1491303285897">
         <mark key="'" line="0" column="0" />
@@ -134,9 +122,9 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/preference-defaults.properties" timestamp="1491386058332">
-        <mark key="[" line="16" column="23" />
-        <mark key="]" line="16" column="27" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/preference-defaults.properties" timestamp="1491470773462">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="21" />
         <mark key="^" line="16" column="27" />
         <mark key="." line="16" column="27" />
       </file>
@@ -206,44 +194,48 @@
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/LogUploadEndpoint.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ALL</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ALL</text>
+        <text>logfile.cleanup</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgIG1lc3NhZ2UgKz0gbG9ncG9qby5nZXRDbGllbnROYW1lKCkgCg==</text>
+      <register name="0" type="4">
+        <text>logfiles.clean.enabled</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIHJldHVybiBldmVudExvZzsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIGV2ZW50TG9nLnNldE1lc3NhZ2UobWVzc2FnZSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIFN0cmluZyBtZXNzYWdlID0gZXZlbnRMb2cuZ2V0TWVzc2FnZSgpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGV2ZW50LnNldE1lc3NhZ2UoIiIpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIGlmKG1lc3NhZ2UgPT0gbnVsbCkgbWVzc2FnZSA9ICIiOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiZmVmYSIpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LCAoYSwgYikgLT4gewogICAgICAgcmV0dXJuIGEgOwogICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="3" type="4">
+        <text>/**
+   * Determin if there are logfiles exceeding age set in preferences.
+   * Delete from database and send requests to midway to remove from disk.
+   * Write event logs if there are any errors.
+   */</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgIHJldHVybiBldmVudExvZzsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgIGV2ZW50TG9nLnNldE1lc3NhZ2UobWVzc2FnZSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgIFN0cmluZyBtZXNzYWdlID0gZXZlbnRMb2cuZ2V0TWVzc2FnZSgpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGV2ZW50LnNldE1lc3NhZ2UoIiIpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgIGlmKG1lc3NhZ2UgPT0gbnVsbCkgbWVzc2FnZSA9ICIiOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIGlmCg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiZmVmYSIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
