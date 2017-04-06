@@ -9,12 +9,17 @@
         <mark key="." line="24" column="9" />
         <mark key="^" line="24" column="9" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1491470987848">
-        <mark key="i" line="162" column="15" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="^" line="109" column="28" />
-        <mark key="." line="96" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1491478378540">
+        <mark key="i" line="169" column="15" />
+        <mark key="[" line="105" column="8" />
+        <mark key="]" line="105" column="27" />
+        <mark key="^" line="105" column="27" />
+        <mark key="." line="105" column="27" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker.java" timestamp="1491478243595">
+        <mark key="[" line="58" column="30" />
+        <mark key="]" line="58" column="30" />
+        <mark key="." line="58" column="30" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/LogUploadEndpoint.java" timestamp="1491303285897">
         <mark key="'" line="0" column="0" />
@@ -182,11 +187,11 @@
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/LogUploadEndpoint.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">UHJlZmVyZW5jZXMgcHJlZmVyZW5jZXMsIA==</text>
       </register>
       <register name="-" type="4">
-        <text>logfile.cleanup</text>
+        <text encoding="base64">UHJlZmVyZW5jZXMgcHJlZmVyZW5jZXMsIA==</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
@@ -195,35 +200,31 @@
         <text>logfiles.clean.enabled</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgUHJlZmVyZW5jZXMgcHJlZmVyZW5jZXM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnByZWZlcmVuY2VzID0gcHJlZmVyZW5jZXM7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>/**
-   * Determin if there are logfiles exceeding age set in preferences.
-   * Delete from database and send requests to midway to remove from disk.
-   * Write event logs if there are any errors.
-   */</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIHJldHVybiBldmVudExvZzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIGV2ZW50TG9nLnNldE1lc3NhZ2UobWVzc2FnZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVuYWJsZUxvZ2ZpbGVDbGVhbnVwKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIFN0cmluZyBtZXNzYWdlID0gZXZlbnRMb2cuZ2V0TWVzc2FnZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBlbmFibGVMb2dmaWxlQ2xlYW51cCA9IHByZWZlcmVuY2VzLmdldFN5c3RlbVByZWZBc0Jvb2xlYW4oImxvZ2ZpbGVzLmNsZWFuLmVuYWJsZWQiLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV2ZW50LnNldE1lc3NhZ2UoIiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBlbmFibGVMb2dmaWxlQ2xlYW51cCA9IHByZWZlcmVuY2VzLmdldFN5c3RlbVByZWZBc0Jvb2xlYW4oImxvZ2ZpbGVzLmNsZWFuLmVuYWJsZWQiLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIGlmKG1lc3NhZ2UgPT0gbnVsbCkgbWVzc2FnZSA9ICIiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiZmVmYSIpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
