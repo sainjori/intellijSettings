@@ -58,11 +58,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Entwicklung/sandbox/Java8LearningPath/src/com/company/Main.java" timestamp="1492281773967">
-        <mark key="[" line="11" column="43" />
-        <mark key="]" line="11" column="43" />
-        <mark key="^" line="15" column="17" />
-        <mark key="." line="11" column="43" />
+      <file name="C:/Entwicklung/sandbox/Java8LearningPath/src/com/company/Main.java" timestamp="1492287190409">
+        <mark key="[" line="41" column="47" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcessTest.java" timestamp="1490361229864">
         <mark key="[" line="58" column="0" />
@@ -85,6 +82,9 @@
         <mark key="." line="8" column="29" />
         <mark key="^" line="8" column="29" />
       </file>
+      <file name="C:/Entwicklung/sandbox/Java8LearningPath/src/com/company/people.txt" timestamp="1492286542295">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/EventLogEntryDAO.java" timestamp="1491480839221">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="135" column="5" />
@@ -97,6 +97,12 @@
         <mark key="]" line="45" column="70" />
         <mark key="." line="45" column="70" />
         <mark key="^" line="45" column="70" />
+      </file>
+      <file name="C:/Entwicklung/sandbox/Java8LearningPath/src/com/company/Person.java" timestamp="1492287236228">
+        <mark key="[" line="30" column="3" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="59" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/pom.xml" timestamp="1490878955912">
         <mark key="[" line="152" column="21" />
@@ -138,7 +144,7 @@
         <mark key="." line="77" column="37" />
         <mark key="^" line="77" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1492281222368">
+      <file name="/fragment.java" timestamp="1492285749322">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -202,43 +208,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-10, -10</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>-10, -10</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
       </register>
-      <register name="0" type="4">
-        <text>logfiles.clean.enabled</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHRoaXMubmFtZSA9IG5hbWU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgQnVmZmVyZWRSZWFkZXIgcmVhZGVyID0gbmV3IEJ1ZmZlcmVkUmVhZGVyKG5ldyBJbnB1dFN0cmVhbVJlYWRlcihNYWluLmNsYXNzLmdldFJlc291cmNlQXNTdHJlYW0oInBlb3BsZS50eHQiKSkpOwo=</text>
+      </register>
       <register name="3" type="4">
-        <text encoding="base64">PT09PT09PQogICAgICAgIGlmKGxvZ0ZpbGVzVG9LZWVwVGltZSA9PSBudWxsKSByZXR1cm47CiAgICBMaXN0PExvZ0ZpbGVQb2pvPiBsb2dGaWxlc09sZGVyVGhhbiA9IGxvZ0ZpbGVEQU8uZ2V0TG9nRmlsZXNPbGRlclRoYW4obG9nRmlsZXNUb0tlZXBUaW1lLCBUaW1lVW5pdC5EQVlTKTsKICAgICAgICBpZiAobG9nRmlsZXNPbGRlclRoYW4uaXNFbXB0eSgpKSByZXR1cm47Cj4+Pj4+Pj4gZDJiMTU5MS4uLiBNT05JVE9SSU5HLTY3IFdyaXRlIHNpbmdsZSBldmVudCBsb2cgZm9yIGVycm9ycw==</text>
+        <text encoding="base64">TGlzdDxJbnRlZ2VyPiBsaXN0ID0gQXJyYXlzLmFzTGlzdCgpOwoKICAgICAgICBPcHRpb25hbDxJbnRlZ2VyPiByZWQgPQogICAgICAgIGxpc3Quc3RyZWFtKCkKICAgICAgICAgIC5yZWR1Y2UoSW50ZWdlcjo6bWF4KTsKCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJyZWQgPSAiICtyZWQpOwoKCiAgICAgICAgTGlzdDxQZXJzb24+IHBlb3BsZSA9IEFycmF5cy5hc0xpc3QoUGVyc29uLmdldFJhbmRvbVBlcnNvbigpLCBQZXJzb24uZ2V0UmFuZG9tUGVyc29uKCkpOwoKICAgICAgICBwZW9wbGU=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PT09PT09PQogICAgdHJ5CiAgICB7CiAgICAgIGV4ZWN1dGUoKTsKICAgIH0KICAgIGNhdGNoIChFeGNlcHRpb24gZSkKICAgIHsKICAgICAgTE9HR0VSLmxvZyhMZXZlbC5TRVZFUkUsIGUuZ2V0TWVzc2FnZSgpKTsKICAgICAgY3JlYXRlRXZlbnRsb2dFbnRyeShlKTsKPj4+Pj4+PiBkMmIxNTkxLi4uIE1PTklUT1JJTkctNjcgV3JpdGUgc2luZ2xlIGV2ZW50IGxvZyBmb3IgZXJyb3Jz</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiA4NGVjYmE0Li4uIE1PTklUT1JJTkctNjcgTW92ZSB0aGUgY2hlY2sgZm9yIGNvbmZpZ3VyYXRpb24gb3B0aW9ucyBpbnRvIGxvZ2ZpbGUgY2xlYW4gcHJvY2Vzcwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgbmV4dFNlc3Npb25JZChyYW5kb20pIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL0xpc3Q8UGVyc29uPiBwZW9wbGUgPSBuZXcK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBpZihsb2dGaWxlc1RvS2VlcFRpbWUgPT0gbnVsbCkgcmV0dXJuOwogICAgTGlzdDxMb2dGaWxlUG9qbz4gbG9nRmlsZXNPbGRlclRoYW4gPSBsb2dGaWxlREFPLmdldExvZ0ZpbGVzT2xkZXJUaGFuKGxvZ0ZpbGVzVG9LZWVwVGltZSwgVGltZVVuaXQuREFZUyk7CiAgICBpZiAobG9nRmlsZXNPbGRlclRoYW4uaXNFbXB0eSgpKSByZXR1cm47Cj09PT09PT0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
