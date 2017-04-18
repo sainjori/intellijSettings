@@ -66,7 +66,12 @@
         <mark key="^" line="59" column="18" />
         <mark key="." line="59" column="18" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/AuthEndpoint.java" timestamp="1491900168959" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/DashboardApplication.java" timestamp="1492504616948">
+        <mark key="[" line="47" column="16" />
+        <mark key="]" line="47" column="23" />
+        <mark key="^" line="47" column="23" />
+        <mark key="." line="47" column="23" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/LogUploadEndpoint.java" timestamp="1490378415592">
         <mark key="[" line="118" column="3" />
         <mark key="]" line="118" column="6" />
@@ -198,11 +203,11 @@
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/preferences/PreferencesTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>Remove logfile reference that have been deleted from event logs</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
