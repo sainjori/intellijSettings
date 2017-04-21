@@ -19,6 +19,7 @@
         <mark key="]" line="135" column="0" />
         <mark key="." line="135" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/dropwizard/dropwizard-logging/1.0.2/dropwizard-logging-1.0.2-sources.jar!/io/dropwizard/logging/BootstrapLogging.java" timestamp="1492775672342" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker.java" timestamp="1491478243595">
         <mark key="[" line="58" column="30" />
         <mark key="]" line="58" column="30" />
@@ -66,7 +67,7 @@
         <mark key="^" line="59" column="18" />
         <mark key="." line="59" column="18" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/DashboardApplication.java" timestamp="1492774177968">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/DashboardApplication.java" timestamp="1492775548435">
         <mark key="[" line="47" column="16" />
         <mark key="]" line="47" column="23" />
         <mark key="^" line="47" column="23" />
@@ -112,6 +113,7 @@
         <mark key="^" line="166" column="22" />
         <mark key="." line="166" column="22" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/dropwizard/dropwizard-core/1.0.2/dropwizard-core-1.0.2-sources.jar!/io/dropwizard/Application.java" timestamp="1492775620559" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker.java" timestamp="1490366466401">
         <mark key="[" line="71" column="136" />
         <mark key="]" line="71" column="136" />
@@ -140,7 +142,7 @@
         <mark key="." line="77" column="37" />
         <mark key="^" line="77" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1492774165739">
+      <file name="/fragment.java" timestamp="1492775590260">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -204,10 +206,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Runtime.getRuntime()</text>
+        <text>bootstrap</text>
       </register>
       <register name="-" type="4">
-        <text>Runtime.getRuntime()</text>
+        <text>bootstrap</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
