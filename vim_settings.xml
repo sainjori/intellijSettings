@@ -136,6 +136,7 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/dropwizard/dropwizard-core/1.0.2/dropwizard-core-1.0.2-sources.jar!/io/dropwizard/cli/Cli.java" timestamp="1492780197713" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/db/dao/LogFileDAOTest.java" timestamp="1489655801963">
         <mark key="[" line="77" column="34" />
         <mark key="]" line="77" column="37" />
