@@ -50,6 +50,7 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="12" column="39" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/dropwizard/dropwizard-core/1.0.2/dropwizard-core-1.0.2-sources.jar!/io/dropwizard/cli/ServerCommand.java" timestamp="1492780927115" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/objects/ClientSettingsProxyEndpoint.java" timestamp="1490099774898">
         <mark key="[" line="36" column="39" />
         <mark key="]" line="36" column="37" />
@@ -143,7 +144,7 @@
         <mark key="." line="77" column="37" />
         <mark key="^" line="77" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1492776797274">
+      <file name="/fragment.java" timestamp="1492780942480">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
