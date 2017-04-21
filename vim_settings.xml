@@ -66,7 +66,7 @@
         <mark key="^" line="59" column="18" />
         <mark key="." line="59" column="18" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/DashboardApplication.java" timestamp="1492769300257">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/DashboardApplication.java" timestamp="1492774177968">
         <mark key="[" line="47" column="16" />
         <mark key="]" line="47" column="23" />
         <mark key="^" line="47" column="23" />
@@ -140,10 +140,10 @@
         <mark key="." line="77" column="37" />
         <mark key="^" line="77" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1492769869219">
+      <file name="/fragment.java" timestamp="1492774165739">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -204,10 +204,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>out.println(&quot;test&quot;)</text>
+        <text>Runtime.getRuntime()</text>
       </register>
       <register name="-" type="4">
-        <text>out.println(&quot;test&quot;)</text>
+        <text>Runtime.getRuntime()</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
