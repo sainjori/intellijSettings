@@ -144,10 +144,10 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_3_0.xml" timestamp="1493397619147">
-        <mark key="[" line="6" column="47" />
-        <mark key="]" line="7" column="51" />
-        <mark key="." line="7" column="51" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_3_0.xml" timestamp="1493726615834">
+        <mark key="[" line="7" column="109" />
+        <mark key="]" line="7" column="109" />
+        <mark key="." line="7" column="109" />
         <mark key="^" line="7" column="51" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/testingutils/MysqlIntegrationTest.java" timestamp="1490810050025">
@@ -224,11 +224,11 @@
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/preferences/PreferencesTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxpbmNsdWRlIHJlbGF0aXZlVG9DaGFuZ2Vsb2dGaWxlPSJ0cnVlIiBmaWxlPSJtaWdyYXRpb25zLzJfMl8wLnhtbCIgLz4K</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>enum</text>
