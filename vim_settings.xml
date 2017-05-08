@@ -36,7 +36,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/DashboardModule.java" timestamp="1493280473001">
         <mark key="[" line="93" column="51" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/generic/DataAccessEndpoint.java" timestamp="1493724622355" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/test/java/com/dscsag/monitoring/midway/api/LogUploadEndpointTest.java" timestamp="1491306731465">
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
@@ -53,7 +52,6 @@
         <mark key="^" line="12" column="39" />
         <mark key="." line="12" column="39" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/cacheServerConfig.json" timestamp="1493717033768" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/objects/ClientSettingsProxyEndpoint.java" timestamp="1490099774898">
         <mark key="[" line="36" column="39" />
         <mark key="]" line="36" column="37" />
@@ -95,7 +93,6 @@
         <mark key="]" line="7" column="64" />
         <mark key="." line="7" column="64" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_0_0.xml" timestamp="1493397542829" />
       <file name="$USER_HOME$/sandbox/comtest/pom.xml" timestamp="1490094666982">
         <mark key="[" line="16" column="21" />
         <mark key="]" line="16" column="25" />
@@ -161,7 +158,7 @@
         <mark key="." line="77" column="37" />
         <mark key="^" line="77" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1493295327043">
+      <file name="/fragment.java" timestamp="1494245787858">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
