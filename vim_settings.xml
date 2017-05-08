@@ -105,13 +105,6 @@
         <mark key="." line="8" column="29" />
         <mark key="^" line="8" column="29" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/EventLogEntryDAO.java" timestamp="1491480839221">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="135" column="5" />
-        <mark key="]" line="135" column="100" />
-        <mark key="^" line="135" column="100" />
-        <mark key="." line="135" column="100" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/midway_api/MidwayURLs.java" timestamp="1490376446276">
         <mark key="[" line="45" column="65" />
         <mark key="]" line="45" column="70" />
@@ -124,6 +117,9 @@
         <mark key="^" line="166" column="22" />
         <mark key="." line="166" column="22" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/plm++/java/src/plm/gui/browser/DefaultFoldableBrowserComponent.java" timestamp="1494250766458" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/plm++/java/src/plm/gui/browser/DefaultObrTableBrowserComponent.java" timestamp="1494250731905" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/plm++/java/src/plm/gui/browser/DefaultBrowserTreeComponent.java" timestamp="1494250783755" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker.java" timestamp="1490366466401">
         <mark key="[" line="71" column="136" />
         <mark key="]" line="71" column="136" />
@@ -147,6 +143,7 @@
         <mark key="." line="10" column="19" />
         <mark key="^" line="10" column="19" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/plm++/java/src/plm/gui/browser/components/MatBomPanel.java" timestamp="1494250835133" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/testingutils/MysqlIntegrationTest.java" timestamp="1490810050025">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -158,7 +155,7 @@
         <mark key="." line="77" column="37" />
         <mark key="^" line="77" column="37" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/plm++/java/src/plm/modules/ps/gui/browser/components/PsNetworkActivityConfirmationPanel.java" timestamp="1494249770425" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/plm++/java/src/plm/modules/ps/gui/browser/components/PsNetworkActivityConfirmationPanel.java" timestamp="1494250526226" />
       <file name="/fragment.java" timestamp="1494245787858">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
