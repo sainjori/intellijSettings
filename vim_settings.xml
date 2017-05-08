@@ -62,7 +62,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493397531932">
+      <file name="/Dummy.txt" timestamp="1494253474647">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -217,6 +217,7 @@
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/EventLogEntryDAO.java" />
       <jump line="134" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/EventLogEntryDAO.java" />
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/preferences/PreferencesTest.java" />
+      <jump line="60" column="32" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/addons/src/main/java/plm/modules/dataexchange/ddx/gui/DDXSettingsDialog.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
