@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/cfc/env/Environment.java" timestamp="1494267550895" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/sonar-project.properties" timestamp="1491913023510">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="23" />
@@ -58,6 +59,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/convert/pom.xml" timestamp="1494253911131">
         <mark key="'" line="9" column="31" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/cfc/util/StringTool.java" timestamp="1494267345149" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/objects/ClientSettingsProxyEndpoint.java" timestamp="1490099774898">
         <mark key="[" line="36" column="39" />
         <mark key="]" line="36" column="37" />
@@ -158,7 +160,7 @@
         <mark key="." line="77" column="37" />
         <mark key="^" line="77" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1494256858849">
+      <file name="/fragment.java" timestamp="1494267552583">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
