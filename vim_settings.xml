@@ -8,6 +8,9 @@
         <mark key="]" line="15" column="23" />
         <mark key="." line="15" column="23" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/plm++/java/src/plm/sess/PlmSessionManager.java" timestamp="1494265833639">
+        <mark key="'" line="2157" column="0" />
+      </file>
       <file name="C:/Projekte/sandbox/ObjectMapperJava/src/com/company/Main.java" timestamp="1490350618310">
         <mark key="[" line="23" column="62" />
         <mark key="]" line="24" column="9" />
@@ -114,7 +117,7 @@
         <mark key="." line="45" column="70" />
         <mark key="^" line="45" column="70" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/convert/java/src/cadagent/exc/DocumentLockException.java" timestamp="1494259968736" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObjectManagerGui.java" timestamp="1494265442203" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/pom.xml" timestamp="1491916511493">
         <mark key="[" line="152" column="21" />
         <mark key="]" line="166" column="22" />
@@ -218,6 +221,8 @@
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/preferences/PreferencesTest.java" />
       <jump line="60" column="32" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/addons/src/main/java/plm/modules/dataexchange/ddx/gui/DDXSettingsDialog.java" />
       <jump line="9" column="31" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/convert/pom.xml" />
+      <jump line="1661" column="23" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/plm++/java/src/plm/sess/PlmSessionManager.java" />
+      <jump line="2157" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/plm++/java/src/plm/sess/PlmSessionManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
