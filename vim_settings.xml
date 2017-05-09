@@ -10,9 +10,6 @@
         <mark key="]" line="15" column="23" />
         <mark key="." line="15" column="23" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/plm++/java/src/plm/sess/PlmSessionManager.java" timestamp="1494265833639">
-        <mark key="'" line="2157" column="0" />
-      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_101/src.zip!/javax/swing/JTable.java" timestamp="1494328063115" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1491481493451">
         <mark key="[" line="135" column="0" />
@@ -31,6 +28,7 @@
         <mark key="." line="67" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionScheduleCid.java" timestamp="1494321548001" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrClipboard.java" timestamp="1494334387470" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1494323141238" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java" timestamp="1494321523777" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations.xml" timestamp="1493397673309">
@@ -39,6 +37,8 @@
         <mark key="." line="7" column="64" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionInfo.java" timestamp="1494321868660" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1494335157857" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/plm++/java/src/plm/gui/browser/components/widgets/ClassificationTable.java" timestamp="1494334309776" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/statistics/upload/server_check/ServerCheckProcess.java" timestamp="1490720190066">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
@@ -52,21 +52,29 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1494322158599" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/omf/OmfExpansionPerformed.java" timestamp="1494321271343" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/sess/ctx/PlmConvertContextInit.java" timestamp="1494329012969" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/modules/convert/omf/OmfConvertInfoUpdate.java" timestamp="1494328984549" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/plm++/java/src/plm/omf/OmfBrClipboard.java" timestamp="1494324070476" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/modules/convert/omf/OmfConvertInfoUpdate.java" timestamp="1494335262600" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/plm++/java/src/plm/omf/OmfBrClipboard.java" timestamp="1494335446747">
+        <mark key="[" line="248" column="3" />
+        <mark key="]" line="249" column="3" />
+        <mark key="^" line="249" column="3" />
+        <mark key="." line="249" column="3" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/dlg/TableSelectionEvent.java" timestamp="1494335220686" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/test/java/com/dscsag/monitoring/midway/api/LogUploadEndpointTest.java" timestamp="1491306731465">
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/cfc/util/StringTool.java" timestamp="1494267345149" />
-      <file name="/Dummy.txt" timestamp="1494327970417">
+      <file name="/Dummy.txt" timestamp="1494334430441">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/cfc/util/ClipboardTool.java" timestamp="1494334430223" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/modules/convert/omf/OmfConvertJobRrdocMaterialSendTo.java" timestamp="1494321576426" />
       <file name="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/awt/Container.java" timestamp="1494328487907" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/PastePropertyValueListener.java" timestamp="1494334338757" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/modules/convert/omf/OmfConvertJobShowLog.java" timestamp="1494322508614">
         <mark key="[" line="65" column="3" />
         <mark key="]" line="65" column="6" />
@@ -74,7 +82,7 @@
         <mark key="." line="65" column="6" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObjectManagerGui.java" timestamp="1494265442203" />
-      <file name="/fragment.java" timestamp="1494267552583">
+      <file name="/fragment.java" timestamp="1494334765439">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />

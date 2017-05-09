@@ -1,7 +1,5 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
-  <action id="Back">
-    <keyboard-shortcut first-keystroke="ctrl h" />
-  </action>
+  <action id="Back" />
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
     <keyboard-shortcut first-keystroke="alt f" />
@@ -31,7 +29,6 @@
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
-  <action id="FindInPath" />
   <action id="FindNext" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl e" />
