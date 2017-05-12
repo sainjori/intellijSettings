@@ -67,6 +67,9 @@
         <mark key="^" line="22" column="4" />
         <mark key="." line="22" column="4" />
       </file>
+      <file name="C:/ENTWICKLUNG/sandbox/javaLampda/src/org/yasar/KeyBindings.java" timestamp="1494602340905">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcessTest.java" timestamp="1490361229864">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="59" column="18" />
@@ -144,12 +147,12 @@
         <mark key="." line="27" column="0" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/awt/datatransfer/Clipboard.java" timestamp="1494425576102" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1494600680925">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1494602199143">
         <mark key="'" line="212" column="0" />
-        <mark key="[" line="1366" column="37" />
-        <mark key="]" line="1366" column="48" />
-        <mark key="." line="1366" column="48" />
-        <mark key="^" line="1366" column="48" />
+        <mark key="[" line="1388" column="8" />
+        <mark key="]" line="1388" column="32" />
+        <mark key="." line="1388" column="0" />
+        <mark key="^" line="1387" column="7" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/omf/OmfExpansionPerformed.java" timestamp="1494321271343" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/sess/ctx/PlmConvertContextInit.java" timestamp="1494329012969" />
@@ -231,11 +234,6 @@
         <mark key="^" line="45" column="70" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObjectManagerGui.java" timestamp="1494265442203" />
-      <file name="C:/ENTWICKLUNG/sandbox/javaLampda/src/org/yasar/MainComparator.java" timestamp="1494596154435">
-        <mark key="]" line="32" column="70" />
-        <mark key="." line="32" column="70" />
-        <mark key="^" line="32" column="70" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker.java" timestamp="1490366466401">
         <mark key="[" line="71" column="136" />
         <mark key="]" line="71" column="136" />
@@ -326,8 +324,8 @@
       <jump line="416" column="48" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/gui/convert/ConvertDisplay.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>WHEN_ANCESTOR_OF_FOCUSED_COMPONENT</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKDAsICJmZWYiKTsK</text>
       </register>
       <register name="-" type="4">
         <text>WHEN_ANCESTOR_OF_FOCUSED_COMPONENT</text>
