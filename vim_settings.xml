@@ -21,11 +21,11 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/.gitlab-ci.yml" timestamp="1494408794781" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/modules/convert/omf/OmfConvertJobSet.java" timestamp="1494321605276" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrChildrenDisplay.java" timestamp="1494596963852">
-        <mark key="[" line="216" column="35" />
-        <mark key="]" line="216" column="47" />
-        <mark key="^" line="216" column="47" />
-        <mark key="." line="216" column="47" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrChildrenDisplay.java" timestamp="1494599373271">
+        <mark key="[" line="201" column="0" />
+        <mark key="]" line="201" column="0" />
+        <mark key="^" line="443" column="38" />
+        <mark key="." line="201" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/modules/convert/ConvertModulImpl.java" timestamp="1494503115116" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker.java" timestamp="1491478243595">
@@ -144,12 +144,12 @@
         <mark key="." line="27" column="0" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/awt/datatransfer/Clipboard.java" timestamp="1494425576102" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1494429420136">
-        <mark key="'" line="254" column="0" />
-        <mark key="[" line="1346" column="0" />
-        <mark key="]" line="1346" column="0" />
-        <mark key="." line="1346" column="0" />
-        <mark key="^" line="1346" column="26" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1494600680925">
+        <mark key="'" line="212" column="0" />
+        <mark key="[" line="1366" column="37" />
+        <mark key="]" line="1366" column="48" />
+        <mark key="." line="1366" column="48" />
+        <mark key="^" line="1366" column="48" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/omf/OmfExpansionPerformed.java" timestamp="1494321271343" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/sess/ctx/PlmConvertContextInit.java" timestamp="1494329012969" />
@@ -254,10 +254,10 @@
         <mark key="." line="77" column="37" />
         <mark key="^" line="77" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1494588684794">
+      <file name="/fragment.java" timestamp="1494599522500">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="46" />
-        <mark key="." line="0" column="46" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -327,45 +327,53 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">S2V5U3Ryb2tlIA==</text>
+        <text>WHEN_ANCESTOR_OF_FOCUSED_COMPONENT</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">S2V5U3Ryb2tlIA==</text>
+        <text>WHEN_ANCESTOR_OF_FOCUSED_COMPONENT</text>
       </register>
       <register name="/" type="4">
         <text>f1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBsaXN0LmFkZChwMSkK</text>
+        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKDAsICJmZWYiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBPYnJPYmplY3QgbyA9IChPYnJPYmplY3QpIGV2dC5nZXRTb3VyY2UoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHAxLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNtcAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="8">
-        <text>1
-1
-1</text>
+      <register name="4" type="4">
+        <text>private void replaceControlCMapping()
+  {
+    htObrTableDisplays.values().forEach(this::AddMapping);
+  }
+
+  private void AddMapping(ObrTableDisplay obrTableDisplay)
+  {
+
+
+  }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIENvbXBhcmF0b3I8VD4gY21wID0gOwo=</text>
+        <text encoding="base64">ICAgIHJlcGxhY2VDb250cm9sQ01hcHBpbmcoKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">cHVibGljIGRlZmF1bHQgQ29tcGFyYXRvcjxUPiB0aGVuQ29tcGFyaW5nKEZ1bmN0aW9uPFQsIENvbXBhcmFibGU+IGYpIHsKICAgIHJldHVybiAocDEsIHAyKSAtPiAtMTsKICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBlLmNoYW5nZVNlbGVjdGlvbihlLmdldFNlbGVjdGVkUm93KCksIDIsIGZhbHNlLCBmYWxzZSk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="8">
+        <text>Action.enter
+Action.enter</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwdWJsaWMgZGVmYXVsdCBDb21wYXJhdG9yPFQ+IHRoZW5Db21wYXJpbmcoQ29tcGFyYXRvcjxUPiBjbXApIHsKICAgcmV0dXJuIChwMSwgcDIpIC0+IGNvbXBhcmUocDEsIHAyKSA9PSAwID8gY21wLmNvbXBhcmUocDEsIHAyKSA6IGNvbXBhcmUocDEsIHAyKTsKICB9Cg==</text>
+        <text encoding="base64">ICAgIEFjCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
