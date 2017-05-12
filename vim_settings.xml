@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/cfc/env/Environment.java" timestamp="1494318577811" />
-      <file name="C:/Program Files/Java/jdk1.8.0_101/src.zip!/javax/swing/JComponent.java" timestamp="1494596915977" />
+      <file name="C:/Program Files/Java/jdk1.8.0_101/src.zip!/javax/swing/JComponent.java" timestamp="1494612042026" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/sonar-project.properties" timestamp="1491913023510">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="23" />
@@ -18,20 +18,17 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/.gitlab-ci.yml" timestamp="1494408794781" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/modules/convert/omf/OmfConvertJobSet.java" timestamp="1494321605276" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrChildrenDisplay.java" timestamp="1494599373271">
-        <mark key="[" line="201" column="0" />
-        <mark key="]" line="201" column="0" />
-        <mark key="^" line="443" column="38" />
-        <mark key="." line="201" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrChildrenDisplay.java" timestamp="1494614084108">
+        <mark key="[" line="191" column="31" />
+        <mark key="]" line="191" column="31" />
+        <mark key="^" line="191" column="31" />
+        <mark key="." line="191" column="31" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/modules/convert/ConvertModulImpl.java" timestamp="1494503115116" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker.java" timestamp="1491478243595">
         <mark key="[" line="58" column="30" />
         <mark key="]" line="58" column="30" />
         <mark key="." line="58" column="30" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/LogUploadEndpoint.java" timestamp="1491303285897">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/sandbox/javaLampda/src/org/yasar/Keybindings2.java" timestamp="1494603469189">
         <mark key="[" line="0" column="0" />
@@ -73,6 +70,10 @@
       <file name="C:/ENTWICKLUNG/sandbox/javaLampda/src/org/yasar/KeyBindings.java" timestamp="1494604189302">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/cfc/gfx/GxTabbedPane.java" timestamp="1494614395418">
+        <mark key="'" line="127" column="52" />
+        <mark key="[" line="126" column="3" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcessTest.java" timestamp="1490361229864">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="59" column="18" />
@@ -88,17 +89,18 @@
         <mark key="." line="118" column="6" />
         <mark key="^" line="118" column="6" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/preferences/PreferencesTest.java" timestamp="1491480915887">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java" timestamp="1494321523777" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations.xml" timestamp="1493397673309">
         <mark key="[" line="7" column="63" />
         <mark key="]" line="7" column="64" />
         <mark key="." line="7" column="64" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/gui/convert/ConvertDisplay.java" timestamp="1494597049261">
-        <mark key="'" line="416" column="48" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/gui/convert/ConvertDisplay.java" timestamp="1494614547520">
+        <mark key="'" line="659" column="0" />
+        <mark key="[" line="252" column="3" />
+        <mark key="]" line="251" column="36" />
+        <mark key="^" line="251" column="36" />
+        <mark key="." line="251" column="36" />
       </file>
       <file name="$USER_HOME$/sandbox/comtest/pom.xml" timestamp="1490094666982">
         <mark key="[" line="16" column="21" />
@@ -150,12 +152,10 @@
         <mark key="." line="27" column="0" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/awt/datatransfer/Clipboard.java" timestamp="1494425576102" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1494610952431">
-        <mark key="'" line="212" column="0" />
-        <mark key="[" line="2888" column="39" />
-        <mark key="]" line="2888" column="24" />
-        <mark key="." line="2888" column="24" />
-        <mark key="^" line="2888" column="24" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1494614503086">
+        <mark key="[" line="1368" column="37" />
+        <mark key="]" line="1368" column="37" />
+        <mark key="." line="1368" column="37" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/omf/OmfExpansionPerformed.java" timestamp="1494321271343" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/sess/ctx/PlmConvertContextInit.java" timestamp="1494329012969" />
@@ -184,8 +184,11 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/convert/pom.xml" timestamp="1494253911131">
-        <mark key="'" line="9" column="31" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/cfc/gfx/GxPanel.java" timestamp="1494614397716">
+        <mark key="[" line="121" column="30" />
+        <mark key="]" line="121" column="30" />
+        <mark key="^" line="121" column="30" />
+        <mark key="." line="121" column="30" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/cfc/util/StringTool.java" timestamp="1494267345149" />
       <file name="C:/ENTWICKLUNG/sandbox/javaLampda/src/org/yasar/Comperator.java" timestamp="1494590434504">
@@ -252,7 +255,7 @@
         <mark key="." line="77" column="37" />
         <mark key="^" line="77" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1494599522500">
+      <file name="/fragment.java" timestamp="1494614590235">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -322,6 +325,8 @@
       <jump line="15" column="65" filename="C:/ENTWICKLUNG/sandbox/javaLampda/src/MainComparator.java" />
       <jump line="25" column="5" filename="C:/ENTWICKLUNG/sandbox/javaLampda/src/MainComparator.java" />
       <jump line="416" column="48" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/gui/convert/ConvertDisplay.java" />
+      <jump line="127" column="52" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/cfc/gfx/GxTabbedPane.java" />
+      <jump line="644" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/gui/convert/ConvertDisplay.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -334,52 +339,35 @@
         <text>f1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKDAsICJmZWYiKTsK</text>
+        <text encoding="base64">ICAgIElucHV0TWFwIGlucHV0TWFwUm9vdHBhbiA9IGdldFJvb3RQYW5lKCkuZ2V0SW5wdXRNYXAoKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>ActionMap am = pnSB.getActionMap();
-      am.put(&quot;copy&quot;, new AbstractAction()
-      {
-        @Override public void actionPerformed(ActionEvent e)
-        {
-
-          Trace.println(0, &quot;fef&quot;);
-        }
-      });</text>
+        <text encoding="base64">IEpSb290UGFuZSByb290UGFuZSA9IGdldFJvb3RQYW5lKCk7CiAgICBpZiAoIXJvb3RQYW5lLmdldE5hbWUoKS5pc0VtcHR5KCkpewogICAgICBJbnB1dE1hcCBpbnB1dE1hcFJvb3RwYW4gPSBnZXRSb290UGFuZSgpLmdldElucHV0TWFwKCk7CiAgICAgIGlucHV0TWFwUm9vdHBhbi5wdXQoY29udHJvbEMsICJjb250cm9sQyIpOwogICAgICBBY3Rpb25NYXAgYWN0aW9uTWFwUm9vdHBhbiA9IGdldFJvb3RQYW5lKCkuZ2V0QWN0aW9uTWFwKCk7CiAgICAgIGFjdGlvbk1hcFJvb3RwYW4ucHV0KCJjb250cm9sQyIsIGFjdGlvbik7CiAgICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgb2JqZWN0RHJhZ0FsbG93ZWQK</text>
+        <text encoding="base64">ICAgIEFjdGlvbk1hcCBhY3Rpb25NYXBSb290cGFuID0gZ2V0Um9vdFBhbmUoKS5nZXRBY3Rpb25NYXAoKTsKICAgIGFjdGlvbk1hcFJvb3RwYW4ucHV0KCJjb250cm9sQyIsIGFjdGlvbik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBPYnJPYmplY3QgbyA9IChPYnJPYmplY3QpIGV2dC5nZXRTb3VyY2UoKTsK</text>
+        <text encoding="base64">ICAgIGlucHV0TWFwUm9vdHBhbi5wdXQoY29udHJvbEMsICJjb250cm9sQyIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmKGlucHV0TWFwUm9vdHBhbi4pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>private void replaceControlCMapping()
-  {
-    htObrTableDisplays.values().forEach(this::AddMapping);
-  }
-
-  private void AddMapping(ObrTableDisplay obrTableDisplay)
-  {
-
-
-  }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIElucHV0TWFwIGlucHV0TWFwUm9vdHBhbiA9IGdldFJvb3RQYW5lKCkuZ2V0SW5wdXRNYXAoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlcGxhY2VDb250cm9sQ01hcHBpbmcoKTsK</text>
+        <text encoding="base64">ICAgIEtleVN0cm9rZSBjb250cm9sQzIgPSBLZXlTdHJva2UuZ2V0S2V5U3Ryb2tlKCJjb250cm9sIEMiKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlLmNoYW5nZVNlbGVjdGlvbihlLmdldFNlbGVjdGVkUm93KCksIDIsIGZhbHNlLCBmYWxzZSk7Cg==</text>
+      <register name="8" type="4">
+        <text>InputMap inputMapRootpan = getRootPane().getInputMap();
+    ActionMap actionMapRootpan = getRootPane().getActionMap();</text>
       </register>
-      <register name="9" type="8">
-        <text>Action.enter
-Action.enter</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIENvbnRhaW5lciBwYXJlbnQgPSBnZXRQYXJlbnQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
