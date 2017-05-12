@@ -46,12 +46,12 @@
         <mark key="]" line="7" column="64" />
         <mark key="." line="7" column="64" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/gui/convert/ConvertDisplay.java" timestamp="1494502639662">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/gui/convert/ConvertDisplay.java" timestamp="1494581830588">
         <mark key="'" line="433" column="10" />
-        <mark key="[" line="416" column="6" />
-        <mark key="]" line="432" column="8" />
-        <mark key="." line="432" column="8" />
-        <mark key="^" line="432" column="8" />
+        <mark key="[" line="417" column="20" />
+        <mark key="]" line="417" column="18" />
+        <mark key="." line="417" column="18" />
+        <mark key="^" line="417" column="18" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionInfo.java" timestamp="1494321868660" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/pom.xml" timestamp="1494408947509">
@@ -186,16 +186,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>KeyStroke</text>
+        <text>i1 + i2;</text>
       </register>
       <register name="-" type="4">
-        <text>KeyStroke</text>
+        <text>i1 + i2;</text>
       </register>
       <register name="/" type="4">
         <text>enum</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxpbmNsdWRlIHJlbGF0aXZlVG9DaGFuZ2Vsb2dGaWxlPSJ0cnVlIiBmaWxlPSJtaWdyYXRpb25zLzJfMl8wLnhtbCIgLz4K</text>
+        <text encoding="base64">ICAgIEJpbmFyeU9wZXJhdG9yPEludGVnZXI+IHN1bSAoaTEsIGkyKSAtPiBpMSArIGkyOwo=</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">dGFibGVWaWV3LmdldE9iclRhYmxlRGlzcGxheXMoKS52YWx1ZXMoKS5zdHJlYW0oKS5mb3JFYWNoKGUgLT4gewoKCgogICAgICBPYmplY3QgbyA9IGUuZ2V0SW5wdXRNYXAoKS5nZXQoY29udHJvbEMpOwogICAgICBUcmFjZS5wcmludCgwLCJmZWYiKTsKCiAgICB9KTs=</text>
