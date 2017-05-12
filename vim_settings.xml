@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/cfc/env/Environment.java" timestamp="1494318577811" />
@@ -150,12 +150,12 @@
         <mark key="." line="27" column="0" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/awt/datatransfer/Clipboard.java" timestamp="1494425576102" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1494606616173">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1494610952431">
         <mark key="'" line="212" column="0" />
-        <mark key="[" line="1388" column="8" />
-        <mark key="]" line="1388" column="32" />
-        <mark key="." line="1388" column="0" />
-        <mark key="^" line="1387" column="7" />
+        <mark key="[" line="2888" column="39" />
+        <mark key="]" line="2888" column="24" />
+        <mark key="." line="2888" column="24" />
+        <mark key="^" line="2888" column="24" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/omf/OmfExpansionPerformed.java" timestamp="1494321271343" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/sess/ctx/PlmConvertContextInit.java" timestamp="1494329012969" />
@@ -324,8 +324,8 @@
       <jump line="416" column="48" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/gui/convert/ConvertDisplay.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKDAsICJmZWYiKTsK</text>
+      <register name="&quot;" type="4">
+        <text>WHEN_ANCESTOR_OF_FOCUSED_COMPONENT</text>
       </register>
       <register name="-" type="4">
         <text>WHEN_ANCESTOR_OF_FOCUSED_COMPONENT</text>
@@ -336,16 +336,30 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKDAsICJmZWYiKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBPYnJPYmplY3QgbyA9IChPYnJPYmplY3QpIGV2dC5nZXRTb3VyY2UoKTsK</text>
+      <register name="1" type="4">
+        <text>ActionMap am = pnSB.getActionMap();
+      am.put(&quot;copy&quot;, new AbstractAction()
+      {
+        @Override public void actionPerformed(ActionEvent e)
+        {
+
+          Trace.println(0, &quot;fef&quot;);
+        }
+      });</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgb2JqZWN0RHJhZ0FsbG93ZWQK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBPYnJPYmplY3QgbyA9IChPYnJPYmplY3QpIGV2dC5nZXRTb3VyY2UoKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>private void replaceControlCMapping()
   {
     htObrTableDisplays.values().forEach(this::AddMapping);
@@ -357,21 +371,15 @@
 
   }</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHJlcGxhY2VDb250cm9sQ01hcHBpbmcoKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBlLmNoYW5nZVNlbGVjdGlvbihlLmdldFNlbGVjdGVkUm93KCksIDIsIGZhbHNlLCBmYWxzZSk7Cg==</text>
       </register>
-      <register name="7" type="8">
+      <register name="9" type="8">
         <text>Action.enter
 Action.enter</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEFjCg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
