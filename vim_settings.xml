@@ -3,27 +3,38 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1492281197752">
-        <mark key="[" line="0" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/cfc/env/Environment.java" timestamp="1494318577811" />
+      <file name="C:/Program Files/Java/jdk1.8.0_101/src.zip!/javax/swing/JComponent.java" timestamp="1494612042026" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/sonar-project.properties" timestamp="1491913023510">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="23" />
+        <mark key="." line="15" column="23" />
       </file>
-      <file name="C:/Projekte/sandbox/ObjectMapperJava/src/com/company/Main.java" timestamp="1490350618310">
-        <mark key="[" line="23" column="62" />
-        <mark key="]" line="24" column="9" />
-        <mark key="." line="24" column="9" />
-        <mark key="^" line="24" column="9" />
-      </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_101/src.zip!/javax/swing/JTable.java" timestamp="1494328063115" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1491481493451">
         <mark key="[" line="135" column="0" />
         <mark key="]" line="135" column="0" />
         <mark key="." line="135" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/.gitlab-ci.yml" timestamp="1494408794781" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/modules/convert/omf/OmfConvertJobSet.java" timestamp="1494321605276" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrChildrenDisplay.java" timestamp="1494614084108">
+        <mark key="[" line="191" column="31" />
+        <mark key="]" line="191" column="31" />
+        <mark key="^" line="191" column="31" />
+        <mark key="." line="191" column="31" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/modules/convert/ConvertModulImpl.java" timestamp="1494503115116" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker.java" timestamp="1491478243595">
         <mark key="[" line="58" column="30" />
         <mark key="]" line="58" column="30" />
         <mark key="." line="58" column="30" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/LogUploadEndpoint.java" timestamp="1491303285897">
-        <mark key="'" line="0" column="0" />
+      <file name="C:/ENTWICKLUNG/sandbox/javaLampda/src/org/yasar/Keybindings2.java" timestamp="1494603469189">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="36" column="19" />
+        <mark key="^" line="36" column="19" />
+        <mark key="." line="36" column="19" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/preferences/Preferences.java" timestamp="1490360673303">
         <mark key="[" line="210" column="0" />
@@ -31,38 +42,37 @@
         <mark key="." line="210" column="0" />
         <mark key="^" line="205" column="22" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/test/java/com/dscsag/monitoring/midway/api/LogUploadEndpointTest.java" timestamp="1491306731465">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/db/dao/LogFileDAOTest.java" timestamp="1491306929002">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/sandbox/javaLampda/src/MainComparator.java" timestamp="1494590186638">
+        <mark key="'" line="26" column="5" />
+        <mark key="[" line="0" column="35" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/gui/convert/ConvertContextInfo.java" timestamp="1494496961617" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk/additions/pom.xml" timestamp="1491810429044">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="12" column="39" />
         <mark key="^" line="12" column="39" />
         <mark key="." line="12" column="39" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/objects/ClientSettingsProxyEndpoint.java" timestamp="1490099774898">
-        <mark key="[" line="36" column="39" />
-        <mark key="]" line="36" column="37" />
-        <mark key="^" line="36" column="37" />
-        <mark key="." line="36" column="37" />
+      <file name="C:/ENTWICKLUNG/sandbox/javaLampda/.gitignore" timestamp="1494594463488">
+        <mark key="[" line="21" column="5" />
+        <mark key="]" line="22" column="4" />
+        <mark key="^" line="22" column="4" />
+        <mark key="." line="22" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491481612381">
+      <file name="C:/ENTWICKLUNG/sandbox/javaLampda/src/org/yasar/KeyBindings.java" timestamp="1494604189302">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Entwicklung/sandbox/Java8LearningPath/src/com/company/Main.java" timestamp="1492289616077">
-        <mark key="[" line="57" column="17" />
-        <mark key="]" line="57" column="20" />
-        <mark key="^" line="57" column="20" />
-        <mark key="." line="57" column="20" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/cfc/gfx/GxTabbedPane.java" timestamp="1494614395418">
+        <mark key="'" line="127" column="52" />
+        <mark key="[" line="126" column="3" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcessTest.java" timestamp="1490361229864">
         <mark key="[" line="58" column="0" />
@@ -70,14 +80,33 @@
         <mark key="^" line="59" column="18" />
         <mark key="." line="59" column="18" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionScheduleCid.java" timestamp="1494321548001" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrClipboard.java" timestamp="1494334387470" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1494323141238" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/LogUploadEndpoint.java" timestamp="1490378415592">
         <mark key="[" line="118" column="3" />
         <mark key="]" line="118" column="6" />
         <mark key="." line="118" column="6" />
         <mark key="^" line="118" column="6" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/preferences/PreferencesTest.java" timestamp="1491480915887">
-        <mark key="'" line="0" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java" timestamp="1494321523777" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations.xml" timestamp="1493397673309">
+        <mark key="[" line="7" column="63" />
+        <mark key="]" line="7" column="64" />
+        <mark key="." line="7" column="64" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/gui/convert/ConvertDisplay.java" timestamp="1494614547520">
+        <mark key="'" line="659" column="0" />
+        <mark key="[" line="252" column="3" />
+        <mark key="]" line="251" column="36" />
+        <mark key="^" line="251" column="36" />
+        <mark key="." line="251" column="36" />
+      </file>
+      <file name="$USER_HOME$/sandbox/comtest/pom.xml" timestamp="1490094666982">
+        <mark key="[" line="16" column="21" />
+        <mark key="]" line="16" column="25" />
+        <mark key="." line="16" column="25" />
+        <mark key="^" line="16" column="25" />
       </file>
       <file name="C:/Projekte/sandbox/untitled/src/com/company/Main.java" timestamp="1490353921953">
         <mark key="[" line="8" column="24" />
@@ -85,47 +114,31 @@
         <mark key="." line="8" column="29" />
         <mark key="^" line="8" column="29" />
       </file>
-      <file name="C:/Entwicklung/sandbox/Java8LearningPath/src/com/company/people.txt" timestamp="1492289508763">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="3" />
-        <mark key="." line="2" column="3" />
-        <mark key="^" line="2" column="3" />
+      <file name="C:/ENTWICKLUNG/sandbox/javaLampda/src/mainMethod.java" timestamp="1494588681303">
+        <mark key="[" line="15" column="37" />
+        <mark key="]" line="15" column="43" />
+        <mark key="." line="15" column="43" />
+        <mark key="^" line="15" column="43" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/EventLogEntryDAO.java" timestamp="1491480839221">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="135" column="5" />
-        <mark key="]" line="135" column="100" />
-        <mark key="^" line="135" column="100" />
-        <mark key="." line="135" column="100" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/midway_api/MidwayURLs.java" timestamp="1490376446276">
-        <mark key="[" line="45" column="65" />
-        <mark key="]" line="45" column="70" />
-        <mark key="." line="45" column="70" />
-        <mark key="^" line="45" column="70" />
-      </file>
-      <file name="C:/Entwicklung/sandbox/Java8LearningPath/src/com/company/Person.java" timestamp="1492288740333">
-        <mark key="[" line="18" column="3" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="45" column="59" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/pom.xml" timestamp="1490878955912">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionInfo.java" timestamp="1494321868660" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/pom.xml" timestamp="1494408947509">
         <mark key="[" line="152" column="21" />
         <mark key="]" line="166" column="22" />
         <mark key="^" line="166" column="22" />
         <mark key="." line="166" column="22" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker.java" timestamp="1490366466401">
-        <mark key="[" line="71" column="136" />
-        <mark key="]" line="71" column="136" />
-        <mark key="." line="71" column="136" />
-        <mark key="^" line="70" column="83" />
-      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1494335157857" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/plm++/java/src/plm/gui/browser/components/widgets/ClassificationTable.java" timestamp="1494427876615" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/statistics/upload/server_check/ServerCheckProcess.java" timestamp="1490720190066">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/sandbox/javaLampda/src/Person.java" timestamp="1494588924012">
+        <mark key="[" line="58" column="91" />
+        <mark key="]" line="58" column="89" />
+        <mark key="." line="58" column="89" />
+        <mark key="^" line="58" column="89" />
       </file>
       <file name="C:/Projekte/sandbox/untitled/src/com/company/test.java" timestamp="1490353603343">
         <mark key="[" line="9" column="13" />
@@ -138,11 +151,103 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/sandbox/comtest/pom.xml" timestamp="1490094666982">
-        <mark key="[" line="16" column="21" />
-        <mark key="]" line="16" column="25" />
-        <mark key="." line="16" column="25" />
-        <mark key="^" line="16" column="25" />
+      <file name="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/awt/datatransfer/Clipboard.java" timestamp="1494425576102" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1494614503086">
+        <mark key="[" line="1368" column="37" />
+        <mark key="]" line="1368" column="37" />
+        <mark key="." line="1368" column="37" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/omf/OmfExpansionPerformed.java" timestamp="1494321271343" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/sess/ctx/PlmConvertContextInit.java" timestamp="1494329012969" />
+      <file name="C:/ENTWICKLUNG/sandbox/javaLampda/src/org/yasar/Comparator.java" timestamp="1494592806312">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="C:/Projekte/sandbox/ObjectMapperJava/src/com/company/Main.java" timestamp="1490350618310">
+        <mark key="[" line="23" column="62" />
+        <mark key="]" line="24" column="9" />
+        <mark key="." line="24" column="9" />
+        <mark key="^" line="24" column="9" />
+      </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_101/src.zip!/javax/swing/table/TableModel.java" timestamp="1494419136430" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/modules/convert/omf/OmfConvertInfoUpdate.java" timestamp="1494335262600" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/plm++/java/src/plm/omf/OmfBrClipboard.java" timestamp="1494498643590">
+        <mark key="[" line="248" column="3" />
+        <mark key="]" line="248" column="3" />
+        <mark key="^" line="248" column="3" />
+        <mark key="." line="248" column="3" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/dlg/TableSelectionEvent.java" timestamp="1494335220686" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/test/java/com/dscsag/monitoring/midway/api/LogUploadEndpointTest.java" timestamp="1491306731465">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/cfc/gfx/GxPanel.java" timestamp="1494614397716">
+        <mark key="[" line="121" column="30" />
+        <mark key="]" line="121" column="30" />
+        <mark key="^" line="121" column="30" />
+        <mark key="." line="121" column="30" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/cfc/util/StringTool.java" timestamp="1494267345149" />
+      <file name="C:/ENTWICKLUNG/sandbox/javaLampda/src/org/yasar/Comperator.java" timestamp="1494590434504">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="11" column="20" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/midway/midway-backend/src/main/java/com/dscsag/monitoring/midway/api/objects/ClientSettingsProxyEndpoint.java" timestamp="1490099774898">
+        <mark key="[" line="36" column="39" />
+        <mark key="]" line="36" column="37" />
+        <mark key="^" line="36" column="37" />
+        <mark key="." line="36" column="37" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1494502826829">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/DashboardApplication.java" timestamp="1493293701129">
+        <mark key="[" line="47" column="16" />
+        <mark key="]" line="47" column="23" />
+        <mark key="^" line="47" column="23" />
+        <mark key="." line="47" column="23" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/cfc/util/ClipboardTool.java" timestamp="1494334430223" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/modules/convert/omf/OmfConvertJobRrdocMaterialSendTo.java" timestamp="1494321576426" />
+      <file name="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/awt/Container.java" timestamp="1494328487907" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/PastePropertyValueListener.java" timestamp="1494334338757" />
+      <file name="C:/ENTWICKLUNG/sandbox/javaLampda/src/Comperator.java" timestamp="1494589912494">
+        <mark key="[" line="15" column="49" />
+        <mark key="]" line="15" column="47" />
+        <mark key="^" line="15" column="47" />
+        <mark key="." line="15" column="47" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/modules/convert/omf/OmfConvertJobShowLog.java" timestamp="1494502896663">
+        <mark key="[" line="65" column="3" />
+        <mark key="]" line="65" column="6" />
+        <mark key="^" line="65" column="6" />
+        <mark key="." line="65" column="6" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/midway_api/MidwayURLs.java" timestamp="1490376446276">
+        <mark key="[" line="45" column="65" />
+        <mark key="]" line="45" column="70" />
+        <mark key="." line="45" column="70" />
+        <mark key="^" line="45" column="70" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObjectManagerGui.java" timestamp="1494265442203" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker.java" timestamp="1490366466401">
+        <mark key="[" line="71" column="136" />
+        <mark key="]" line="71" column="136" />
+        <mark key="." line="71" column="136" />
+        <mark key="^" line="70" column="83" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_3_0.xml" timestamp="1493997007888">
+        <mark key="[" line="7" column="156" />
+        <mark key="]" line="10" column="19" />
+        <mark key="." line="10" column="19" />
+        <mark key="^" line="10" column="19" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring_git/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/db/dao/LogFileDAOTest.java" timestamp="1489655801963">
         <mark key="[" line="77" column="34" />
@@ -150,10 +255,10 @@
         <mark key="." line="77" column="37" />
         <mark key="^" line="77" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1492285749322">
+      <file name="/fragment.java" timestamp="1494614590235">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="20" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -211,55 +316,67 @@
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/EventLogEntryDAO.java" />
       <jump line="134" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/EventLogEntryDAO.java" />
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/preferences/PreferencesTest.java" />
+      <jump line="60" column="32" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/addons/src/main/java/plm/modules/dataexchange/ddx/gui/DDXSettingsDialog.java" />
+      <jump line="9" column="31" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/convert/pom.xml" />
+      <jump line="1661" column="23" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/plm++/java/src/plm/sess/PlmSessionManager.java" />
+      <jump line="2157" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/plm++/java/src/plm/sess/PlmSessionManager.java" />
+      <jump line="254" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
+      <jump line="433" column="10" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/gui/convert/ConvertDisplay.java" />
+      <jump line="15" column="65" filename="C:/ENTWICKLUNG/sandbox/javaLampda/src/MainComparator.java" />
+      <jump line="25" column="5" filename="C:/ENTWICKLUNG/sandbox/javaLampda/src/MainComparator.java" />
+      <jump line="416" column="48" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/gui/convert/ConvertDisplay.java" />
+      <jump line="127" column="52" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/cfc/gfx/GxTabbedPane.java" />
+      <jump line="644" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/gui/convert/ConvertDisplay.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>WHEN_ANCESTOR_OF_FOCUSED_COMPONENT</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>WHEN_ANCESTOR_OF_FOCUSED_COMPONENT</text>
       </register>
       <register name="/" type="4">
-        <text>delete</text>
+        <text>f1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bWlrZSAxMgo=</text>
+        <text encoding="base64">ICAgIElucHV0TWFwIGlucHV0TWFwUm9vdHBhbiA9IGdldFJvb3RQYW5lKCkuZ2V0SW5wdXRNYXAoKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IEpSb290UGFuZSByb290UGFuZSA9IGdldFJvb3RQYW5lKCk7CiAgICBpZiAoIXJvb3RQYW5lLmdldE5hbWUoKS5pc0VtcHR5KCkpewogICAgICBJbnB1dE1hcCBpbnB1dE1hcFJvb3RwYW4gPSBnZXRSb290UGFuZSgpLmdldElucHV0TWFwKCk7CiAgICAgIGlucHV0TWFwUm9vdHBhbi5wdXQoY29udHJvbEMsICJjb250cm9sQyIpOwogICAgICBBY3Rpb25NYXAgYWN0aW9uTWFwUm9vdHBhbiA9IGdldFJvb3RQYW5lKCkuZ2V0QWN0aW9uTWFwKCk7CiAgICAgIGFjdGlvbk1hcFJvb3RwYW4ucHV0KCJjb250cm9sQyIsIGFjdGlvbik7CiAgICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFjdGlvbk1hcCBhY3Rpb25NYXBSb290cGFuID0gZ2V0Um9vdFBhbmUoKS5nZXRBY3Rpb25NYXAoKTsKICAgIGFjdGlvbk1hcFJvb3RwYW4ucHV0KCJjb250cm9sQyIsIGFjdGlvbik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgQnVmZmVyZWRSZWFkZXIgcmVhZGVyID0gbmV3IEJ1ZmZlcmVkUmVhZGVyKG5ldyBJbnB1dFN0cmVhbVJlYWRlcihNYWluLmNsYXNzLmdldFJlc291cmNlQXNTdHJlYW0oInBlb3BsZS50eHQiKSkpOwo=</text>
+        <text encoding="base64">ICAgIGlucHV0TWFwUm9vdHBhbi5wdXQoY29udHJvbEMsICJjb250cm9sQyIpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">TGlzdDxJbnRlZ2VyPiBsaXN0ID0gQXJyYXlzLmFzTGlzdCgpOwoKICAgICAgICBPcHRpb25hbDxJbnRlZ2VyPiByZWQgPQogICAgICAgIGxpc3Quc3RyZWFtKCkKICAgICAgICAgIC5yZWR1Y2UoSW50ZWdlcjo6bWF4KTsKCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJyZWQgPSAiICtyZWQpOwoKCiAgICAgICAgTGlzdDxQZXJzb24+IHBlb3BsZSA9IEFycmF5cy5hc0xpc3QoUGVyc29uLmdldFJhbmRvbVBlcnNvbigpLCBQZXJzb24uZ2V0UmFuZG9tUGVyc29uKCkpOwoKICAgICAgICBwZW9wbGU=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGlmKGlucHV0TWFwUm9vdHBhbi4pCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIElucHV0TWFwIGlucHV0TWFwUm9vdHBhbiA9IGdldFJvb3RQYW5lKCkuZ2V0SW5wdXRNYXAoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIEtleVN0cm9rZSBjb250cm9sQzIgPSBLZXlTdHJva2UuZ2V0S2V5U3Ryb2tlKCJjb250cm9sIEMiKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgbmV4dFNlc3Npb25JZChyYW5kb20pIHsK</text>
+      <register name="8" type="4">
+        <text>InputMap inputMapRootpan = getRootPane().getInputMap();
+    ActionMap actionMapRootpan = getRootPane().getActionMap();</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL0xpc3Q8UGVyc29uPiBwZW9wbGUgPSBuZXcK</text>
+        <text encoding="base64">ICAgIENvbnRhaW5lciBwYXJlbnQgPSBnZXRQYXJlbnQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
       </register>
     </registers>
     <search>
-      <last-search>delete</last-search>
+      <last-search>f1</last-search>
       <last-offset />
-      <last-pattern>delete</last-pattern>
+      <last-pattern>f1</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -268,6 +385,9 @@
         <entry>key</entry>
         <entry encoding="base64">XDxHdWljZVV0aWxzXD4=</entry>
         <entry>delete</entry>
+        <entry>enum</entry>
+        <entry>cmp</entry>
+        <entry>f1</entry>
       </history-search>
       <history-cmd>
         <entry>68</entry>
