@@ -76,12 +76,12 @@
         <mark key="]" line="7" column="64" />
         <mark key="." line="7" column="64" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/gui/convert/ConvertDisplay.java" timestamp="1494837338119">
-        <mark key="'" line="644" column="0" />
-        <mark key="[" line="462" column="24" />
-        <mark key="]" line="462" column="29" />
-        <mark key="^" line="462" column="29" />
-        <mark key="." line="462" column="29" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/gui/convert/ConvertDisplay.java" timestamp="1494839075210">
+        <mark key="'" line="639" column="0" />
+        <mark key="[" line="134" column="14" />
+        <mark key="]" line="136" column="21" />
+        <mark key="^" line="136" column="21" />
+        <mark key="." line="136" column="21" />
       </file>
       <file name="$USER_HOME$/sandbox/comtest/pom.xml" timestamp="1490094666982">
         <mark key="[" line="16" column="21" />
@@ -285,10 +285,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>WHEN_ANCESTOR_OF_FOCUSED_COMPONENT</text>
+        <text>isVisible(false)</text>
       </register>
       <register name="-" type="4">
-        <text>WHEN_ANCESTOR_OF_FOCUSED_COMPONENT</text>
+        <text>isVisible(false)</text>
       </register>
       <register name="/" type="4">
         <text>f1</text>
