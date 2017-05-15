@@ -13,7 +13,13 @@
         <mark key="]" line="135" column="0" />
         <mark key="." line="135" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrChildrenDisplay.java" timestamp="1494836935530" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrFunctionEventQueue.java" timestamp="1494848620376" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrChildrenDisplay.java" timestamp="1494850414132">
+        <mark key="[" line="129" column="32" />
+        <mark key="]" line="139" column="0" />
+        <mark key="^" line="139" column="0" />
+        <mark key="." line="139" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker.java" timestamp="1491478243595">
         <mark key="[" line="58" column="30" />
         <mark key="]" line="58" column="30" />
@@ -43,6 +49,7 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="/ObrTableDisplay.java" timestamp="1494849272181" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk/additions/pom.xml" timestamp="1491810429044">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="12" column="39" />
@@ -76,12 +83,8 @@
         <mark key="]" line="7" column="64" />
         <mark key="." line="7" column="64" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/gui/convert/ConvertDisplay.java" timestamp="1494839075210">
-        <mark key="'" line="639" column="0" />
-        <mark key="[" line="134" column="14" />
-        <mark key="]" line="136" column="21" />
-        <mark key="^" line="136" column="21" />
-        <mark key="." line="136" column="21" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/gui/convert/ConvertDisplay.java" timestamp="1494850733166">
+        <mark key="'" line="644" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/comtest/pom.xml" timestamp="1490094666982">
         <mark key="[" line="16" column="21" />
@@ -129,7 +132,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1494846012500" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1494850167681">
+        <mark key="[" line="1411" column="0" />
+        <mark key="]" line="1411" column="0" />
+        <mark key="." line="1411" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/sandbox/javaLampda/src/org/yasar/Comparator.java" timestamp="1494592806312">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -141,7 +148,7 @@
         <mark key="." line="24" column="9" />
         <mark key="^" line="24" column="9" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/plm++/java/src/plm/omf/OmfBrClipboard.java" timestamp="1494498643590">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/plm++/java/src/plm/omf/OmfBrClipboard.java" timestamp="1494848484445">
         <mark key="[" line="248" column="3" />
         <mark key="]" line="248" column="3" />
         <mark key="^" line="248" column="3" />
@@ -211,7 +218,7 @@
         <mark key="." line="77" column="37" />
         <mark key="^" line="77" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1494846347909">
+      <file name="/fragment.java" timestamp="1494850874351">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -287,10 +294,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>isVisible(false)</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>isVisible(false)</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>f1</text>
@@ -298,33 +305,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIElucHV0TWFwIGlucHV0TWFwUm9vdHBhbiA9IGdldFJvb3RQYW5lKCkuZ2V0SW5wdXRNYXAoKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IEpSb290UGFuZSByb290UGFuZSA9IGdldFJvb3RQYW5lKCk7CiAgICBpZiAoIXJvb3RQYW5lLmdldE5hbWUoKS5pc0VtcHR5KCkpewogICAgICBJbnB1dE1hcCBpbnB1dE1hcFJvb3RwYW4gPSBnZXRSb290UGFuZSgpLmdldElucHV0TWFwKCk7CiAgICAgIGlucHV0TWFwUm9vdHBhbi5wdXQoY29udHJvbEMsICJjb250cm9sQyIpOwogICAgICBBY3Rpb25NYXAgYWN0aW9uTWFwUm9vdHBhbiA9IGdldFJvb3RQYW5lKCkuZ2V0QWN0aW9uTWFwKCk7CiAgICAgIGFjdGlvbk1hcFJvb3RwYW4ucHV0KCJjb250cm9sQyIsIGFjdGlvbik7CiAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEFjdGlvbk1hcCBhY3Rpb25NYXBSb290cGFuID0gZ2V0Um9vdFBhbmUoKS5nZXRBY3Rpb25NYXAoKTsKICAgIGFjdGlvbk1hcFJvb3RwYW4ucHV0KCJjb250cm9sQyIsIGFjdGlvbik7Cg==</text>
+        <text encoding="base64">ICB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlucHV0TWFwUm9vdHBhbi5wdXQoY29udHJvbEMsICJjb250cm9sQyIpOwo=</text>
+        <text encoding="base64">ICBwdWJsaWMgdm9pZCBjcmV0YU1hcGluZygpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmKGlucHV0TWFwUm9vdHBhbi4pCg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IEpSb290UGFuZSByb290UGFuZSA9IGdldFJvb3RQYW5lKCk7CiAgICBpZiAoIXJvb3RQYW5lLmdldE5hbWUoKS5pc0VtcHR5KCkpewogICAgICBJbnB1dE1hcCBpbnB1dE1hcFJvb3RwYW4gPSBnZXRSb290UGFuZSgpLmdldElucHV0TWFwKCk7CiAgICAgIGlucHV0TWFwUm9vdHBhbi5wdXQoY29udHJvbEMsICJjb250cm9sQyIpOwogICAgICBBY3Rpb25NYXAgYWN0aW9uTWFwUm9vdHBhbiA9IGdldFJvb3RQYW5lKCkuZ2V0QWN0aW9uTWFwKCk7CiAgICAgIGFjdGlvbk1hcFJvb3RwYW4ucHV0KCJjb250cm9sQyIsIGFjdGlvbik7CiAgICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFjdGlvbk1hcCBhY3Rpb25NYXBSb290cGFuID0gZ2V0Um9vdFBhbmUoKS5nZXRBY3Rpb25NYXAoKTsKICAgIGFjdGlvbk1hcFJvb3RwYW4ucHV0KCJjb250cm9sQyIsIGFjdGlvbik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIElucHV0TWFwIGlucHV0TWFwUm9vdHBhbiA9IGdldFJvb3RQYW5lKCkuZ2V0SW5wdXRNYXAoKTsK</text>
+        <text encoding="base64">ICAgIGlucHV0TWFwUm9vdHBhbi5wdXQoY29udHJvbEMsICJjb250cm9sQyIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEtleVN0cm9rZSBjb250cm9sQzIgPSBLZXlTdHJva2UuZ2V0S2V5U3Ryb2tlKCJjb250cm9sIEMiKTsK</text>
+        <text encoding="base64">ICAgIGlmKGlucHV0TWFwUm9vdHBhbi4pCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>InputMap inputMapRootpan = getRootPane().getInputMap();
-    ActionMap actionMapRootpan = getRootPane().getActionMap();</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIENvbnRhaW5lciBwYXJlbnQgPSBnZXRQYXJlbnQoKTsK</text>
+        <text encoding="base64">ICAgIElucHV0TWFwIGlucHV0TWFwUm9vdHBhbiA9IGdldFJvb3RQYW5lKCkuZ2V0SW5wdXRNYXAoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
