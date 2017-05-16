@@ -14,11 +14,10 @@
         <mark key="." line="135" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrFunctionEventQueue.java" timestamp="1494848620376" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrChildrenDisplay.java" timestamp="1494863651074">
-        <mark key="[" line="129" column="32" />
-        <mark key="]" line="139" column="0" />
-        <mark key="^" line="139" column="0" />
-        <mark key="." line="139" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrChildrenDisplay.java" timestamp="1494963165802">
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="184" column="0" />
+        <mark key="." line="184" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker.java" timestamp="1491478243595">
         <mark key="[" line="58" column="30" />
@@ -83,12 +82,11 @@
         <mark key="]" line="7" column="64" />
         <mark key="." line="7" column="64" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/gui/convert/ConvertDisplay.java" timestamp="1494948866360">
-        <mark key="'" line="820" column="8" />
-        <mark key="[" line="454" column="71" />
-        <mark key="]" line="454" column="90" />
-        <mark key="^" line="454" column="90" />
-        <mark key="." line="454" column="90" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/gui/convert/ConvertDisplay.java" timestamp="1494962880860">
+        <mark key="'" line="819" column="8" />
+        <mark key="[" line="454" column="0" />
+        <mark key="]" line="454" column="0" />
+        <mark key="." line="454" column="0" />
       </file>
       <file name="$USER_HOME$/sandbox/comtest/pom.xml" timestamp="1490094666982">
         <mark key="[" line="16" column="21" />
@@ -136,7 +134,12 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1494863817440" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1494963853223">
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="227" column="0" />
+        <mark key="^" line="226" column="3" />
+        <mark key="." line="227" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/sandbox/javaLampda/src/org/yasar/Comparator.java" timestamp="1494592806312">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -294,11 +297,11 @@
       <jump line="828" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/gui/convert/ConvertDisplay.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNldEJvcmRlcihCb3JkZXJGYWN0b3J5LmNyZWF0ZUJldmVsQm9yZGVyKDAsIG5ldyBDb2xvcigyMzQsNDUsNjYpLCBuZXcgQ29sb3IoMjM0LDQsNDUpKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>BorderFactory.createBevelBorder(0, new Color(234,45,66), new Color(234,4,45))</text>
       </register>
       <register name="/" type="4">
         <text>f1</text>
@@ -307,31 +310,31 @@
         <text encoding="base64">ICAgICAgSW5wdXRNYXAgaW5wdXRNYXAgPSBnZXRJbnB1dE1hcCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuCg==</text>
+        <text encoding="base64">ICAgIHNldEJvcmRlcihCb3JkZXJGYWN0b3J5LmNyZWF0ZUJldmVsQm9yZGVyKDAsIG5ldyBDb2xvcigyMzQsNDUsNjYpLCBuZXcgQ29sb3IoMjM0LDQsNDUpKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuZ2V0Cg==</text>
+        <text encoding="base64">ICAgIHRhYmJlZFBhbmUuc2V0Qm9yZGVyKEJvcmRlckZhY3RvcnkuY3JlYXRlQmV2ZWxCb3JkZXIoMCwgbmV3IENvbG9yKDIzNCw0NSw2NiksIG5ldyBDb2xvcigyMzQsNCw0NSkpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGUuZ2V0U291cmNlKCkuCg==</text>
+        <text encoding="base64">ICAgIHNldEJvcmRlcigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYWRkSwo=</text>
+        <text encoding="base64">ICAgIHNldEJvcmRlcihCb3JkZXJGYWN0b3J5LmNyZWF0ZUJldmVsQm9yZGVyKDAsIG5ldyBDb2xvcigyMzQsNDUsNjYpLCBuZXcgQ29sb3IoMjM0LDQsNDUpKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KChIYXNoTWFwKSB0aGlzLnRhYmxlVmlldy5nZXRPYnJUYWJsZURpc3BsYXlzKCkpLgo=</text>
+        <text encoding="base64">ICAgIHNldEJvcmRlcihCb3JkZXJGYWN0b3J5LmNyZWF0ZUJldmVsQm9yZGVyKDAsIG5ldyBDb2xvcigyMzQsNDUsNjYpLCBuZXcgQ29sb3IoMjM0LDQsNDUpKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGRkKChDb252ZXJ0RGlzcGxheSkgdGhpcykuYWN0aW9uTWFwLmFsbEtleXMoKQo=</text>
+        <text encoding="base64">ICAgICAgc2V0Qm9yZGVyKEJvcmRlckZhY3RvcnkuY3JlYXRlQmV2ZWxCb3JkZXIoMCwgbmV3IENvbG9yKDIzNCw0NSw2NiksIG5ldyBDb2xvcigyMzQsNCw0NSkpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuZ2V0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBjcmV0YU1hcGluZygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGUuZ2V0U291cmNlKCkuCg==</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
