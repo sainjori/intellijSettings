@@ -136,12 +136,7 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1494863817440">
-        <mark key="[" line="3120" column="34" />
-        <mark key="]" line="153" column="16" />
-        <mark key="." line="153" column="16" />
-        <mark key="^" line="153" column="16" />
-      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1494863817440" />
       <file name="C:/ENTWICKLUNG/sandbox/javaLampda/src/org/yasar/Comparator.java" timestamp="1494592806312">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -223,10 +218,10 @@
         <mark key="." line="77" column="37" />
         <mark key="^" line="77" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1494861128545">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+      <file name="/fragment.java" timestamp="1494947273132">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
         <mark key="^" line="0" column="56" />
       </file>
     </filemarks>
@@ -298,11 +293,11 @@
       <jump line="644" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/gui/convert/ConvertDisplay.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuCg==</text>
+      <register name="&quot;" type="4">
+        <text>getInputMap(0)</text>
       </register>
       <register name="-" type="4">
-        <text>.toString()</text>
+        <text>getInputMap(0)</text>
       </register>
       <register name="/" type="4">
         <text>f1</text>
