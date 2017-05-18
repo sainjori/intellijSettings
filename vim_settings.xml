@@ -221,11 +221,11 @@
         <mark key="." line="77" column="37" />
         <mark key="^" line="77" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1494948633971">
+      <file name="/fragment.java" timestamp="1495100258514">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-        <mark key="^" line="0" column="56" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+        <mark key="^" line="0" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -296,13 +296,14 @@
       <jump line="644" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/gui/convert/ConvertDisplay.java" />
       <jump line="828" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/gui/convert/ConvertDisplay.java" />
       <jump line="1359" column="38" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
+      <jump line="94" column="17" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/cfc/gfx/GxScrollPane.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgSW5wdXRNYXAgaW5wdXRNYXAgPSBzcC5nZXRJbnB1dE1hcCgwKTsK</text>
+      <register name="&quot;" type="4">
+        <text>((ComponentInputMap) inputMap2).component.</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>((ComponentInputMap) inputMap2).component.</text>
       </register>
       <register name="/" type="4">
         <text>f1</text>
