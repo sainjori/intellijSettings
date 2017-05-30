@@ -8,12 +8,12 @@
         <mark key="]" line="15" column="23" />
         <mark key="." line="15" column="23" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1495115567553">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1496137110694">
         <mark key="'" line="1358" column="38" />
-        <mark key="[" line="3086" column="49" />
-        <mark key="]" line="3087" column="39" />
-        <mark key="^" line="3087" column="39" />
-        <mark key="." line="3087" column="39" />
+        <mark key="[" line="3096" column="39" />
+        <mark key="]" line="3096" column="38" />
+        <mark key="^" line="3096" column="38" />
+        <mark key="." line="3096" column="38" />
       </file>
       <file name="C:/ENTWICKLUNG/sandbox/javaLampda/src/org/yasar/Comparator.java" timestamp="1494592806312">
         <mark key="[" line="23" column="0" />
@@ -298,10 +298,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGUuZ2V0U291cmNlKCkuCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>f1</text>
@@ -310,31 +310,34 @@
         <text encoding="base64">ICAgICAgSW5wdXRNYXAgaW5wdXRNYXAgPSBnZXRJbnB1dE1hcCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGUuZ2V0U291cmNlKCkuCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuY29udgo=</text>
+      <register name="2" type="4">
+        <text>KeyStroke enterKey = KeyStroke.getKeyStroke(&quot;control C&quot;);
+      InputMap inputMap = getInputMap();
+      ActionMap actionMap = getActionMap();
+      actionMap.put(&quot;copy&quot;, null);</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaW5wdXRNYXAxLgo=</text>
+        <text encoding="base64">ICAgICAgY2FkYWdlbnQuZ3VpLm9ici5PYnJUYWJsZURpc3BsYXkkVGFibGVTZWxlY3Rpb25CdXR0b25AN2FjMGZkOWEK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaW5wdXRNYXAwLmcK</text>
+        <text encoding="base64">ICAgICAgQWN0aW9uIGNvcHkgPSBhY3Rpb25NYXAuZ2V0KCJjb3B5Iik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaW5wdXRNYXAwLmcK</text>
+        <text encoding="base64">ICAgICAgY29weS5hY3Rpb25QZXJmb3JtZWQoZSBfKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGQuCg==</text>
+        <text encoding="base64">ICAgICAgaW5wdXRNYXAuZ2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc3Auc2V0Qm9yZGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGUuZ2V0U291cmNlKCkuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy4K</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMuY29udgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc2V0Qm9yZGVyKEJvcmRlckZhY3RvcnkuY3JlYXRlQmV2ZWxCb3JkZXIoMCwgbmV3IENvbG9yKDIzNCw0NSw2NiksIG5ldyBDb2xvcigyMzQsNCw0NSkpKTsK</text>
+        <text encoding="base64">ICAgICAgaW5wdXRNYXAxLgo=</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
