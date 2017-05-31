@@ -136,12 +136,12 @@
         <mark key="." line="27" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/cfc/gfx/GxTextField.java" timestamp="1496142927852" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1496243120322">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1496244124258">
         <mark key="'" line="1117" column="0" />
-        <mark key="[" line="3638" column="0" />
-        <mark key="]" line="3638" column="0" />
-        <mark key="." line="3638" column="0" />
-        <mark key="^" line="3639" column="28" />
+        <mark key="[" line="3647" column="13" />
+        <mark key="]" line="3647" column="16" />
+        <mark key="." line="3647" column="16" />
+        <mark key="^" line="3647" column="16" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/CopyPropertyValueListener.java" timestamp="1496142760767" />
       <file name="C:/ENTWICKLUNG/sandbox/javaLampda/src/org/yasar/Comparator.java" timestamp="1494592806312">
@@ -317,11 +317,11 @@
       <jump line="1117" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHNlbGVjdGVkUm93ID09IC0xICYmIHNlbGVjdGVkT2JyT2JqZWN0cy5zaXplKCkgPT0gMCkgcmV0dXJuIGZhbHNlOwoK</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>ObrObjectSelected</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>f1</text>
@@ -329,29 +329,29 @@
       <register name="0" type="4">
         <text>selectedRow</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHNlbGVjdGVkUm93ID09IC0xICYmIHNlbGVjdGVkT2JyT2JqZWN0cy5zaXplKCkgPT0gMCkgcmV0dXJuIGZhbHNlOwoK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb28uZ2V0T2JyRnVuY3Rpb25Gb3JLZXlTdHJva2Uoa3MpOwogICAgICB9CiAgICAgIHJldHVybiBmYWxzZTs=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYoIWlzT2JyT2JqZWN0U2VsZWN0ZWQoKSkgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgaWYgKHNlbGVjdGVkUm93ID09IC0xICYmIHNlbGVjdGVkT2JyT2JqZWN0cy5zaXplKCkgPT0gMCkgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgT2JyT2JqZWN0IG9vMiA9IHNlbGVjdGVkT2JyT2JqZWN0cy5nZXQoMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAob28uZ2V0T2JyRnVuY3Rpb25Gb3JLZXlTdHJva2Uoa3MpICE9IG51bGwpewogICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgTGlzdDxPYnJPYmplY3Q+IHNlbGVjdGVkT2JyT2JqZWN0cyA9IGdldFNlbGVjdGVkT2JyT2JqZWN0cygpOwo=</text>
+        <text encoding="base64">ICAgICAgaWYgKHNlbGVjdGVkUm93ID09IC0xICYmIHNlbGVjdGVkT2JyT2JqZWN0cy5zaXplKCkgPT0gMCkgcmV0dXJuIGZhbHNlOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaW50IHNlbGVjdGVkUm93ID0gZ2V0U2VsZWN0ZWRSb3coKTsK</text>
+        <text encoding="base64">ICAgICAgaWYoIWlzT2JyT2JqZWN0U2VsZWN0ZWQoKSkgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgT2JyT2JqZWN0IG9vMiA9IHNlbGVjdGVkT2JyT2JqZWN0cy5nZXQoMCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgTGlzdDxPYnJPYmplY3Q+IHNlbGVjdGVkT2JyT2JqZWN0cyA9IGdldFNlbGVjdGVkT2JyT2JqZWN0cygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaW50IHNlbGVjdGVkUm93ID0gZ2V0U2VsZWN0ZWRSb3coKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
