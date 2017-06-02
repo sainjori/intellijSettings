@@ -9,7 +9,7 @@
         <mark key="]" line="15" column="23" />
         <mark key="." line="15" column="23" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/plm++/java/src/plm/sess/PlmSessionManager.java" timestamp="1496307663184" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/plm++/java/src/plm/sess/PlmSessionManager.java" timestamp="1496411331175" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1491481493451">
         <mark key="[" line="135" column="0" />
         <mark key="]" line="135" column="0" />
@@ -45,6 +45,13 @@
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/sandbox/javaLampda/src/MainComparator.java" timestamp="1494590186638">
+        <mark key="'" line="26" column="5" />
+        <mark key="[" line="0" column="35" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk/additions/pom.xml" timestamp="1491810429044">
         <mark key="[" line="11" column="0" />
@@ -136,12 +143,12 @@
         <mark key="." line="27" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/cfc/gfx/GxTextField.java" timestamp="1496142927852" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1496410147009">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1496412977847">
         <mark key="'" line="1117" column="0" />
-        <mark key="[" line="3589" column="0" />
-        <mark key="]" line="3589" column="0" />
-        <mark key="." line="3589" column="0" />
-        <mark key="^" line="3589" column="21" />
+        <mark key="[" line="3592" column="69" />
+        <mark key="]" line="3594" column="62" />
+        <mark key="." line="3594" column="62" />
+        <mark key="^" line="3594" column="62" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/CopyPropertyValueListener.java" timestamp="1496142760767" />
       <file name="C:/ENTWICKLUNG/sandbox/javaLampda/src/org/yasar/Comparator.java" timestamp="1494592806312">
@@ -318,11 +325,17 @@
       <jump line="1117" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>new AbstractAction()
+      {
+        @Override public void actionPerformed(ActionEvent e)
+        {
+          Trace.println(0, &quot;fef&quot;);
+        }
+      }</text>
       </register>
       <register name="-" type="4">
-        <text>oo</text>
+        <text>ActionListener</text>
       </register>
       <register name="/" type="4">
         <text>f1</text>
@@ -330,32 +343,38 @@
       <register name="0" type="4">
         <text>selectedRow</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>new AbstractAction()
+      {
+        @Override public void actionPerformed(ActionEvent e)
+        {
+          Trace.println(0, &quot;fef&quot;);
+        }
+      }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybjsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBPYnJPYmplY3QgID0gc2VsZWN0ZWRPYnJPYmplY3RzLmdldCgwKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJldHVybjsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBPYnJPYmplY3QgID0gc2VsZWN0ZWRPYnJPYmplY3RzLmdldCgwKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIHRhYmxlQnV0dG9uU2VsZWN0aW9uID0gc2VsZWN0ZWRPYnJPYmplY3RzLnNpemUoKSA+IDA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIHRhYmxlQ2xpY2tTZWxlY3Rpb24gPSBzZWxlY3RlZFJvdyA+IDAgJiYgc2VsZWN0ZWRPYnJPYmplY3RzLnNpemUoKSA9PSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIHRhYmxlQnV0dG9uU2VsZWN0aW9uID0gc2VsZWN0ZWRPYnJPYmplY3RzLnNpemUoKSA+IDA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PE9ick9iamVjdD4gc2VsZWN0ZWRPYnJPYmplY3RzID0gZ2V0U2VsZWN0ZWRPYnJPYmplY3RzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIHRhYmxlQ2xpY2tTZWxlY3Rpb24gPSBzZWxlY3RlZFJvdyA+IDAgJiYgc2VsZWN0ZWRPYnJPYmplY3RzLnNpemUoKSA9PSAwOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PE9ick9iamVjdD4gc2VsZWN0ZWRPYnJPYmplY3RzID0gZ2V0U2VsZWN0ZWRPYnJPYmplY3RzKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>64</text>
