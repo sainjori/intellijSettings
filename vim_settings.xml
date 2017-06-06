@@ -8,12 +8,11 @@
         <mark key="]" line="15" column="23" />
         <mark key="." line="15" column="23" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1496742455059">
-        <mark key="'" line="1121" column="0" />
-        <mark key="[" line="292" column="20" />
-        <mark key="]" line="292" column="52" />
-        <mark key="." line="292" column="52" />
-        <mark key="^" line="292" column="52" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1496748387001">
+        <mark key="'" line="1124" column="0" />
+        <mark key="]" line="3598" column="35" />
+        <mark key="." line="3598" column="35" />
+        <mark key="^" line="3598" column="35" />
       </file>
       <file name="C:/ENTWICKLUNG/sandbox/javaLampda/src/org/yasar/Comparator.java" timestamp="1494592806312">
         <mark key="[" line="23" column="0" />
@@ -32,6 +31,7 @@
         <mark key="^" line="1529" column="20" />
         <mark key="." line="454" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/plm++/java/src/plm/omf/OmfBrClipboard.java" timestamp="1496746328906" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker.java" timestamp="1491478243595">
         <mark key="[" line="58" column="30" />
         <mark key="]" line="58" column="30" />
@@ -55,6 +55,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrClipboard.java" timestamp="1496748348220" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations.xml" timestamp="1493397673309">
         <mark key="[" line="7" column="63" />
         <mark key="]" line="7" column="64" />
@@ -86,7 +87,7 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1496410192952">
+      <file name="/fragment.java" timestamp="1496747379426">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -176,52 +177,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>keyStroke</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>keyStroke</text>
       </register>
       <register name="/" type="4">
         <text>f1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ2V0QWN0aW9uTWFwKCkucHV0KCJjb3B5IiwgbnVsbCk7Cg==</text>
+        <text encoding="base64">ICAgICAgSW5wdXRNYXAgaW5wdXRNYXAgPSBnZXRJbnB1dE1hcCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZmlsdGVyQ29tcG9uZW50Cg==</text>
+        <text encoding="base64">Ly8gICAgZmlsdGVyQ29tcG9uZW50LmFkZEtleUxpc3RlbmVyKHRyZWVLZXlib2FyZEFjdGlvbik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ2V0QWN0aW9uTWFwKCkucHV0KCJjb3B5IiwgbnVsbCk7CiAgICBzYlRhYmxlLmdldEFjdGlvbk1hcCgpLnB1dCgiY29weSIsIG51bGwpOwo=</text>
+        <text encoding="base64">Ly8gICAgQWN0aW9uIGNvcHkgPSBmaWx0ZXJDb21wb25lbnQuZ2V0QWN0aW9uTWFwKCkuZ2V0KCJjb3B5Iik7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIEFjdGlvbk1hcCBhY3Rpb25NYXAgPSBmaWx0ZXJDb21wb25lbnQuZ2V0QWN0aW9uTWFwKCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgZmlsdGVyQ29tcG9uZW50Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHRoaXMuZ2V0QWN0aW9uTWFwKCkucHV0KCJjb3B5IiwgbnVsbCk7CiAgICBzYlRhYmxlLmdldEFjdGlvbk1hcCgpLnB1dCgiY29weSIsIG51bGwpOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>@Override public void actionPerformed(ActionEvent e)
     {
       keyReleased(e.);
     }</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoc2VsZWN0aW9uLmdldE9ick9iamVjdENvdW50KCkgPT0gMCkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3RlZE9ick9iamVjdHMuc3RyZWFtKCkuZm9yRWFjaChvYnJPYmplY3QgLT4gewogICAgICAgICAgYm9vbGVhbiB2aXNpYmxlID0gb2JyT2JqZWN0LmlzVmlzaWJsZSgpOwogICAgICAgIH0pOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3RlZE9ick9iamVjdHMuCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>new AbstractAction()
-      {
-        @Override public void actionPerformed(ActionEvent e)
-        {
-          Trace.println(0, &quot;fef&quot;);
-        }
-      }</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxlY3RlZE9ick9iamVjdHMuc3RyZWFtKCkuZm9yRWFjaChvYnJPYmplY3QgLT4gewogICAgICAgICAgYm9vbGVhbiB2aXNpYmxlID0gb2JyT2JqZWN0LmlzVmlzaWJsZSgpOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>288</text>
