@@ -23,12 +23,12 @@
         <mark key="]" line="135" column="0" />
         <mark key="." line="135" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrChildrenDisplay.java" timestamp="1496852614225">
-        <mark key="'" line="1519" column="12" />
-        <mark key="[" line="224" column="59" />
-        <mark key="]" line="455" column="0" />
-        <mark key="^" line="1530" column="20" />
-        <mark key="." line="455" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrChildrenDisplay.java" timestamp="1496921931703">
+        <mark key="'" line="1541" column="12" />
+        <mark key="[" line="479" column="0" />
+        <mark key="]" line="479" column="0" />
+        <mark key="^" line="462" column="20" />
+        <mark key="." line="479" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker.java" timestamp="1491478243595">
         <mark key="[" line="58" column="30" />
@@ -97,11 +97,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1496913491052">
+      <file name="/fragment.java" timestamp="1496921757199">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="1" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -186,25 +186,11 @@
       <jump line="1117" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>public int getColumnCount() {
-            return columnNames.length;
-        }
-
-        public int getRowCount() {
-            return data.length;
-        }
-
-        public String getColumnName(int col) {
-            return columnNames[col];
-        }
-
-        public Object getValueAt(int row, int col) {
-            return data[row][col];
-        }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFyZW50LnNldEJhY2tncm91bmQoQ29sb3IuQ1lBTik7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>parent</text>
       </register>
       <register name="/" type="4">
         <text>f1</text>
@@ -212,7 +198,25 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgT2JyVGFibGVEaXNwbGF5IHRhYmxlOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFyZW50LnNldEJhY2tncm91bmQoQ29sb3IuQ1lBTik7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFyZW50LmFkZChuZXcgSlRleHRGaWVsZCgidGVzdCIpKTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgaWYgKHBhcmVudCkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgb3RkLnNldE9iamVjdERyYWdBbGxvd2VkKGFsbG93ZWQpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG90ZC5nZXQK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgb3RkLgo=</text>
+      </register>
+      <register name="7" type="4">
         <text>public int getColumnCount() {
             return columnNames.length;
         }
@@ -229,29 +233,11 @@
             return data[row][col];
         }</text>
       </register>
-      <register name="2" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IHB1YmxpYyBpbnQgZ2V0Q29sdW1uQ291bnQoKSB7CiAgICAgICAgICAgIHJldHVybiBjb2x1bW5OYW1lcy5sZW5ndGg7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgaW50IGdldFJvd0NvdW50KCkgewogICAgICAgICAgICByZXR1cm4gZGF0YS5sZW5ndGg7CiAgICAgICAgfQoKICAgICAgICBwdWJsaWMgU3RyaW5nIGdldENvbHVtbk5hbWUoaW50IGNvbCkgewogICAgICAgICAgICByZXR1cm4gY29sdW1uTmFtZXNbY29sXTsKICAgICAgICB9CgogICAgICAgIHB1YmxpYyBPYmplY3QgZ2V0VmFsdWVBdChpbnQgcm93LCBpbnQgY29sKSB7CiAgICAgICAgICAgIHJldHVybiBkYXRhW3Jvd11bY29sXTsKICAgICAgICB9</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjY2NjY2NjY2NjYwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBLZXlTdHJva2Uga3MgPSBLZXlTdHJva2UuZ2V0S2V5U3Ryb2tlKGUuZ2V0S2V5Q29kZSgpLCBlLmdldE1vZGlmaWVycygpKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbigwLCAiaWVmZSIpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbigwLCAiZmUiKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gICAgICB0YWJsZS5zZWxlY3RSb3coZm9jdXNlZFJvdyk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gICAgICBpbnQgZm9jdXNlZFJvdyA9IHRhYmxlLmdldFNlbGVjdGVkUm93KCk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjY2NjY2NjY2NjYwo=</text>
       </register>
       <register name=":" type="4">
         <text>291</text>
