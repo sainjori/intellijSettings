@@ -63,6 +63,13 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/plm++/java/src/plm/utils/transformation/MaterialResolver.java" timestamp="1496935909654" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_new0608/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1496944705390">
+        <mark key="'" line="289" column="0" />
+        <mark key="[" line="3585" column="0" />
+        <mark key="]" line="3585" column="48" />
+        <mark key="^" line="3585" column="48" />
+        <mark key="." line="3585" column="48" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1496849064192" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations.xml" timestamp="1493397673309">
         <mark key="[" line="7" column="63" />
@@ -195,6 +202,7 @@
       <jump line="281" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
       <jump line="3655" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
       <jump line="286" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
+      <jump line="329" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_new0608/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
