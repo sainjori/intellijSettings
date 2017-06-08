@@ -8,10 +8,11 @@
         <mark key="]" line="15" column="23" />
         <mark key="." line="15" column="23" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1496924066072">
-        <mark key="[" line="3589" column="45" />
-        <mark key="]" line="3591" column="0" />
-        <mark key="." line="3591" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1496924718637">
+        <mark key="[" line="3582" column="0" />
+        <mark key="]" line="3582" column="0" />
+        <mark key="." line="3582" column="0" />
+        <mark key="^" line="3588" column="44" />
       </file>
       <file name="C:/ENTWICKLUNG/sandbox/Learning-Java-Swing/components-TableFTFEditDemoProject/src/components/SimpleTableDemo.java" timestamp="1496914097861">
         <mark key="[" line="47" column="28" />
@@ -204,28 +205,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyZW50LnNldEJhY2tncm91bmQoQ29sb3IuQ1lBTik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyZW50LmFkZChuZXcgSlRleHRGaWVsZCgidGVzdCIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyZW50LnNldEJhY2tncm91bmQoQ29sb3IuQ1lBTik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHBhcmVudCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyZW50LmFkZChuZXcgSlRleHRGaWVsZCgidGVzdCIpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgb3RkLnNldE9iamVjdERyYWdBbGxvd2VkKGFsbG93ZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgaWYgKHBhcmVudCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG90ZC5nZXQK</text>
+        <text encoding="base64">ICAgICAgb3RkLnNldE9iamVjdERyYWdBbGxvd2VkKGFsbG93ZWQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgb3RkLgo=</text>
+        <text encoding="base64">ICAgIG90ZC5nZXQK</text>
       </register>
       <register name=":" type="4">
         <text>291</text>
