@@ -8,11 +8,12 @@
         <mark key="]" line="15" column="23" />
         <mark key="." line="15" column="23" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1496925869589">
-        <mark key="[" line="3582" column="0" />
-        <mark key="]" line="3582" column="0" />
-        <mark key="." line="3582" column="0" />
-        <mark key="^" line="3588" column="44" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1496937438230">
+        <mark key="'" line="496" column="0" />
+        <mark key="[" line="3628" column="5" />
+        <mark key="]" line="3598" column="12" />
+        <mark key="^" line="3598" column="12" />
+        <mark key="." line="3598" column="12" />
       </file>
       <file name="C:/ENTWICKLUNG/sandbox/Learning-Java-Swing/components-TableFTFEditDemoProject/src/components/SimpleTableDemo.java" timestamp="1496914097861">
         <mark key="[" line="47" column="28" />
@@ -32,7 +33,7 @@
         <mark key="]" line="135" column="0" />
         <mark key="." line="135" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrChildrenDisplay.java" timestamp="1496921931703">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrChildrenDisplay.java" timestamp="1496934095071">
         <mark key="'" line="1518" column="12" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker.java" timestamp="1491478243595">
@@ -45,20 +46,23 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/cfc/gfx/EnterToKeyAdapter.java" timestamp="1496937915699" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/db/dao/LogFileDAOTest.java" timestamp="1491306929002">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/plm++/java/src/plm/sess/loadscen/LoadScenarios.java" timestamp="1496935848425" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/fnc/ObrFunction.java" timestamp="1496925709032">
         <mark key="'" line="356" column="49" />
       </file>
-      <file name="/ObrTableDisplay.java" timestamp="1496924013989" />
-      <file name="/Dummy.txt" timestamp="1496413891997">
+      <file name="/ObrTableDisplay.java" timestamp="1496937059785" />
+      <file name="/Dummy.txt" timestamp="1496937896778">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/plm++/java/src/plm/utils/transformation/MaterialResolver.java" timestamp="1496935909654" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1496849064192" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations.xml" timestamp="1493397673309">
         <mark key="[" line="7" column="63" />
@@ -82,8 +86,11 @@
         <mark key="." line="69" column="39" />
         <mark key="^" line="69" column="39" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTree.java" timestamp="1496925815412">
-        <mark key="'" line="1090" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTree.java" timestamp="1496938200899">
+        <mark key="[" line="31" column="9" />
+        <mark key="]" line="31" column="9" />
+        <mark key="." line="31" column="9" />
+        <mark key="^" line="31" column="8" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/plm++/java/src/plm/omf/OmfActiveFolderFind.java" timestamp="1496925553939" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/statistics/upload/server_check/ServerCheckProcess.java" timestamp="1490720190066">
@@ -97,7 +104,7 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1496923927663">
+      <file name="/fragment.java" timestamp="1496928793638">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -184,46 +191,50 @@
       <jump line="3602" column="119" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
       <jump line="1518" column="12" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrChildrenDisplay.java" />
       <jump line="1117" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
+      <jump line="3605" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
+      <jump line="281" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
+      <jump line="3655" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
+      <jump line="286" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>keyReleased</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>f1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKDAsICJoaSIpOwo=</text>
+        <text encoding="base64">ICAgICAgc3AuZ2V0SW5wdXRNYXAoMSkucHV0KGNvbnRyb2xDLCAiY29weSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Ly8gICAgICBPYnJGdW5jdGlvbiBvYnJGdW5rdGlvbkZvcktleVN0cm9rZSA9IGdldE9ickZ1bmt0aW9uRm9yS2V5U3Ryb2tlKGtzKTsKLy8gICAgICBpZiAob2JyRnVua3Rpb25Gb3JLZXlTdHJva2UgPT0gbnVsbCkKLy8gICAgICB7Ci8vICAgICAgICByZXR1cm47Ci8vICAgICAgfQovLwovLyAgICAgIGludCBzZWxlY3RlZFJvdyA9IHRhYmxlLmdldFNlbGVjdGVkUm93KCk7Ci8vICAgICAgTGlzdDxPYnJPYmplY3Q+IHNlbGVjdGVkT2JyT2JqZWN0cyA9IHRhYmxlLmdldFNlbGVjdGVkT2JyT2JqZWN0cygpOwovLyAgICAgIExpc3Q8T2JyT2JqZWN0PiBhbGxWaXNpYmxlT2JyT2JqZWN0cyA9IHRhYmxlLmdldEFsbFZpc2libGVPYnJPYmplY3RzKCk7Ci8vICAgICAgc2VsZWN0ZWRPYnJPYmplY3RzID0gc2VsZWN0ZWRPYnJPYmplY3RzLnN0cmVhbSgpLmZpbHRlcihvYnJPYmplY3QgLT4gYWxsVmlzaWJsZU9ick9iamVjdHMuY29udGFpbnMob2JyT2JqZWN0KSkKLy8gICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwovLyAgICAgIGlmIChzZWxlY3RlZFJvdyAhPSAtMSAmJiBzZWxlY3RlZE9ick9iamVjdHMuc2l6ZSgpID09IDApCi8vICAgICAgewovLyAgICAgICAgT2JyT2JqZWN0IG9vID0gdGFibGUuZ2V0T2JyT2JqZWN0QXQoc2VsZWN0ZWRSb3cpOwovLyAgICAgICAgc2VsZWN0ZWRPYnJPYmplY3RzLmFkZChvbyk7Ci8vICAgICAgfQovLwovLyAgICAgIE9ickZ1bmN0aW9uRXZlbnQgb2ZfZXZlbnQgPSBuZXcgT2JyRnVuY3Rpb25FdmVudChvYnJGdW5rdGlvbkZvcktleVN0cm9rZS5nZXRJZCgpKTsKLy8gICAgICBPYnJUcmVlU2VsZWN0aW9uIHNlbGVjdGlvbiA9IHRhYmxlLmNyZWF0ZVRyZWVTZWxlY3Rpb24oKTsKLy8gICAgICBzZWxlY3Rpb24uY2xlYXJTZWxlY3Rpb24oKTsKLy8gICAgICBzZWxlY3RlZE9ick9iamVjdHMuc3RyZWFtKCkuZm9yRWFjaChvYnJPYmplY3QgLT4gc2VsZWN0aW9uLmFkZFNlbGVjdGlvbihvYnJPYmplY3QsIG51bGwpKTsKLy8gICAgICBvZl9ldmVudC5zZXRPYnJDb250ZXh0S2V5KHRhYmxlLm9ickNvbnRleHRLZXkpOwovLyAgICAgIG9mX2V2ZW50LnNldENsaWVudElkZW50KHRhYmxlLmNsaWVudElkZW50KTsKLy8gICAgICBvZl9ldmVudC5zZXRPYnJUcmVlU2VsZWN0aW9uKHNlbGVjdGlvbik7Ci8vICAgICAgb2JyRnVua3Rpb25Gb3JLZXlTdHJva2UuZ2V0RGVmYXVsdEFjdGlvbkxpc3RlbmVyKG9mX2V2ZW50KS5hY3Rpb25QZXJmb3JtZWQobnVsbCk7</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyZW50LnNldEJhY2tncm91bmQoQ29sb3IuQ1lBTik7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">cHJpdmF0ZSBPYnJGdW5jdGlvbiBnZXRPYnJGdW5rdGlvbkZvcktleVN0cm9rZShLZXlTdHJva2Uga3MpCiAgICB7CiAgICAgIGludCBzZWxlY3RlZFJvdyA9IHRhYmxlLmdldFNlbGVjdGVkUm93KCk7CiAgICAgIExpc3Q8T2JyT2JqZWN0PiBzZWxlY3RlZE9ick9iamVjdHMgPSB0YWJsZS5nZXRTZWxlY3RlZE9ick9iamVjdHMoKTsKCiAgICAgIGlmIChzZWxlY3RlZFJvdyAhPSAtMSkKICAgICAgewogICAgICAgIE9ick9iamVjdCBvbyA9IHRhYmxlLmdldE9ick9iamVjdEF0KHNlbGVjdGVkUm93KTsKICAgICAgICByZXR1cm4gb28uZ2V0T2JyRnVuY3Rpb25Gb3JLZXlTdHJva2Uoa3MpOwogICAgICB9CiAgICAgIGlmIChzZWxlY3RlZE9ick9iamVjdHMuc2l6ZSgpID4gMCkKICAgICAgewogICAgICAgIE9ick9iamVjdCBvbyA9IHNlbGVjdGVkT2JyT2JqZWN0cy5nZXQoMCk7CiAgICAgICAgcmV0dXJuIG9vLmdldE9ickZ1bmN0aW9uRm9yS2V5U3Ryb2tlKGtzKTsKICAgICAgfQogICAgICByZXR1cm4gbnVsbDsKICAgIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyZW50LmFkZChuZXcgSlRleHRGaWVsZCgidGVzdCIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHBhcmVudCkK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ZWxzZSBpZiAoZS5nZXRLZXlDb2RlKCkgPT0gS2V5RXZlbnQuVktfRU5URVIpCiAgICAgICAgewogICAgICAgICAgaWYgKHRyZWVfc2VsZWN0aW9uLmdldE9ick9iamVjdENvdW50KCkgPT0gMSkKICAgICAgICAgIHsKICAgICAgICAgICAgSGFzaFNldDxPYmplY3Q+IGFsbF9jb21tb25fZnVuY19pZHMgPSBEZWZhdWx0QnJvd3NlT2JqZWN0LmdldEFsbEFsbG93ZWRPYnJGdW5jdGlvbklkcyhvYnJDb250ZXh0S2V5LCB0cmVlX3NlbGVjdGlvbik7CiAgICAgICAgICAgIE9iamVjdCBmdW5jX2lkID0gb28uZ2V0RGVmYXVsdE9ickZ1bmN0aW9uSWQoKTsKICAgICAgICAgICAgaWYgKGFsbF9jb21tb25fZnVuY19pZHMuY29udGFpbnMoZnVuY19pZCkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICBPYnJGdW5jdGlvbkV2ZW50IG9mX2V2ZW50ID0gbmV3IE9ickZ1bmN0aW9uRXZlbnQoZnVuY19pZCk7CiAgICAgICAgICAgICAgb2ZfZXZlbnQuc2V0T2JyVHJlZVNlbGVjdGlvbih0cmVlX3NlbGVjdGlvbik7CiAgICAgICAgICAgICAgb2ZfZXZlbnQuc2V0Q2xpZW50SWRlbnQob2JyRGlzcGxheUludGVyZmFjZS5nZXRDbGllbnRJZGVudCgpKTsKICAgICAgICAgICAgICBvZl9ldmVudC5zZXRPYnJDb250ZXh0S2V5KG9ickNvbnRleHRLZXkpOwogICAgICAgICAgICAgIG9icmZ1bmMgPSBvby5nZXRPYnJGdW5jdGlvbihmdW5jX2lkKTsKCiAgICAgICAgICAgICAgaWYgKG9icmZ1bmMgIT0gbnVsbCkKICAgICAgICAgICAgICAgIG9icmZ1bmMuZ2V0RGVmYXVsdEFjdGlvbkxpc3RlbmVyKG9mX2V2ZW50KS5hY3Rpb25QZXJmb3JtZWQobnVsbCk7CiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICAgIGUuY29uc3VtZSgpOwogICAgICAgIH0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgb3RkLnNldE9iamVjdERyYWdBbGxvd2VkKGFsbG93ZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlIGlmIChlLmdldEtleUNvZGUoKSA9PSBLZXlFdmVudC5WS19FU0NBUEUpCiAgICAgICAgewogICAgICAgICAgc2VsZWN0Um9vdCgpOwogICAgICAgICAgZS5jb25zdW1lKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG90ZC5nZXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5jb25zdW1lKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>291</text>
