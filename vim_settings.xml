@@ -67,11 +67,11 @@
         <mark key="^" line="65" column="6" />
         <mark key="." line="65" column="6" />
       </file>
-      <file name="$USER_HOME$/Downloads/components-TextComponentDemoProject/components-TextComponentDemoProject/src/components/TextComponentDemo.java" timestamp="1496910625983">
-        <mark key="[" line="79" column="35" />
-        <mark key="]" line="79" column="36" />
-        <mark key="." line="79" column="36" />
-        <mark key="^" line="79" column="36" />
+      <file name="$USER_HOME$/Downloads/components-TextComponentDemoProject/components-TextComponentDemoProject/src/components/TextComponentDemo.java" timestamp="1496912796676">
+        <mark key="[" line="69" column="74" />
+        <mark key="]" line="69" column="39" />
+        <mark key="." line="69" column="39" />
+        <mark key="^" line="69" column="39" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTree.java" timestamp="1496848531838">
         <mark key="'" line="1090" column="0" />
@@ -177,10 +177,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PAGE_END</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>PAGE_END</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>f1</text>
