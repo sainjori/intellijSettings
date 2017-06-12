@@ -20,7 +20,7 @@
         <mark key="]" line="47" column="28" />
         <mark key="." line="47" column="28" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/sess/PlmSessionManager.java" timestamp="1497259939696">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/sess/PlmSessionManager.java" timestamp="1497261413596">
         <mark key="[" line="1638" column="17" />
         <mark key="]" line="1639" column="29" />
         <mark key="." line="1639" column="29" />
@@ -39,6 +39,7 @@
         <mark key="]" line="135" column="0" />
         <mark key="." line="135" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/utils/configtransmitter/ConfigSapUploader.java" timestamp="1497262504143" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrChildrenDisplay.java" timestamp="1496934095071">
         <mark key="'" line="1518" column="12" />
       </file>
@@ -47,6 +48,7 @@
         <mark key="]" line="58" column="30" />
         <mark key="." line="58" column="30" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/src/SimpleThreads.java" timestamp="1497264383667" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/test/java/com/dscsag/monitoring/midway/api/LogUploadEndpointTest.java" timestamp="1491306731465">
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
@@ -214,44 +216,44 @@
       <jump line="3671" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_new0608/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Object</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNldAo=</text>
       </register>
       <register name="-" type="4">
-        <text>Object</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>f1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEFjdGlvbiBjb3B5ID0gdGhpcy5nZXRBY3Rpb25NYXAoKS5nZXRQYXJlbnQoKS5nZXQoImNvcHkiKTsK</text>
+        <text encoding="base64">ICAgbmV3IHRlc3QoKS5zdGFydCgpOwogICBuZXcgdGVzdCgpLnN0YXJ0KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHNldAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHNldAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgYXJncyAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChtZXNzYWdlICE9IG51bGwpCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEFjdGlvbiBjb3B5ID0gdGhpcy5nZXRBY3Rpb25NYXAoKS5nZXRQYXJlbnQoKS5nZXQoImNvcHkiKTsK</text>
+        <text encoding="base64">ICAgIGlmIChtZXNzYWdlICE9IG51bGwpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEFjdGlvbk1hcCBhY3Rpb25NYXAgPSAoQWN0aW9uTWFwKSBjb3B5Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdldEFjdGlvbk1hcCgpLmdldCgiY29weSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>291</text>
