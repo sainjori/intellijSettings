@@ -42,7 +42,8 @@
         <mark key="." line="88" column="31" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/dropwizard/dropwizard-core/1.0.2/dropwizard-core-1.0.2-sources.jar!/io/dropwizard/Application.java" timestamp="1497276918977" />
-      <file name="/fragment.java" timestamp="1497269507717">
+      <file name="$MAVEN_REPOSITORY$/io/dropwizard/dropwizard-core/1.0.2/dropwizard-core-1.0.2-sources.jar!/io/dropwizard/cli/Cli.java" timestamp="1497277805085" />
+      <file name="/fragment.java" timestamp="1497277885888">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
