@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/Multithreading/WaitAndNotify/src/app.java" timestamp="1497358647517">
-        <mark key="[" line="13" column="47" />
-        <mark key="]" line="13" column="47" />
-        <mark key="^" line="13" column="47" />
-        <mark key="." line="13" column="47" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/Multithreading/WaitAndNotify/src/app.java" timestamp="1497360059260">
+        <mark key="'" line="25" column="10" />
+        <mark key="[" line="50" column="7" />
+        <mark key="]" line="50" column="13" />
+        <mark key="^" line="50" column="13" />
+        <mark key="." line="50" column="13" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/dropwizard/dropwizard-core/1.0.2/dropwizard-core-1.0.2-sources.jar!/io/dropwizard/cli/EnvironmentCommand.java" timestamp="1497279190338" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/sonar-project.properties" timestamp="1491913023510">
@@ -34,6 +35,12 @@
         <mark key="]" line="135" column="0" />
         <mark key="." line="135" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/Multithreading/WaitAndNotify/src/Processor.java" timestamp="1497361748324">
+        <mark key="[" line="31" column="47" />
+        <mark key="]" line="32" column="121" />
+        <mark key="^" line="32" column="121" />
+        <mark key="." line="32" column="121" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrChildrenDisplay.java" timestamp="1496934095071">
         <mark key="'" line="1518" column="12" />
       </file>
@@ -56,8 +63,11 @@
       <file name="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/Hashtable.java" timestamp="1497259346701" />
       <file name="$MAVEN_REPOSITORY$/io/dropwizard/dropwizard-logging/1.0.2/dropwizard-logging-1.0.2-sources.jar!/io/dropwizard/logging/LoggingUtil.java" timestamp="1497274869349" />
       <file name="$MAVEN_REPOSITORY$/io/dropwizard/dropwizard-core/1.0.2/dropwizard-core-1.0.2-sources.jar!/io/dropwizard/setup/Bootstrap.java" timestamp="1497279058894" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/src/SynchronizedRGB.java" timestamp="1497270063733">
-        <mark key="." line="26" column="47" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/Multithreading/Low-levelProducer-Consumer/src/Processor.java" timestamp="1497362260238">
+        <mark key="[" line="32" column="39" />
+        <mark key="]" line="32" column="46" />
+        <mark key="." line="32" column="46" />
+        <mark key="^" line="32" column="46" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/src/ProducerConsumerExample.java" timestamp="1497268968279" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations.xml" timestamp="1493397673309">
@@ -133,10 +143,16 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/fnc/ObrFunction.java" timestamp="1496925709032">
         <mark key="'" line="356" column="49" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/Multithreading/Low-levelProducer-Consumer/src/app.java" timestamp="1497361925541">
+        <mark key="[" line="14" column="42" />
+        <mark key="]" line="16" column="3" />
+        <mark key="." line="16" column="3" />
+        <mark key="^" line="16" column="3" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/src/SynchronizedRGBImmutable.java" timestamp="1497270661197">
         <mark key="'" line="42" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497281439940">
+      <file name="/Dummy.txt" timestamp="1497361804169">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -166,7 +182,7 @@
         <mark key="^" line="88" column="31" />
         <mark key="." line="88" column="31" />
       </file>
-      <file name="/fragment.java" timestamp="1497358651157">
+      <file name="/fragment.java" timestamp="1497361795882">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -268,46 +284,47 @@
       <jump line="41" column="0" filename="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/src/SynchronizedRGBImmutable.java" />
       <jump line="92" column="0" filename="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/src/SafeLock.java" />
       <jump line="41" column="21" filename="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/Multithreading/src/App.java" />
+      <jump line="25" column="10" filename="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/Multithreading/WaitAndNotify/src/app.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHQxLmpvaW4oKTsK</text>
+      <register name="&quot;" type="4">
+        <text>println</text>
       </register>
       <register name="-" type="4">
-        <text>producer</text>
+        <text>println</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHQxLmpvaW4oKTsK</text>
+        <text encoding="base64">ICAgIHQxLnN0YXJ0KCk7CiAgICB0Mi5zdGFydCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgT2JqZWN0IHJhbmRvbTsK</text>
+        <text encoding="base64">ICBwdgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmd2KQogIHsKCiAgfQo=</text>
+        <text encoding="base64">ICAgIFRocmVhZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LmFubm90YXRpb24ucHJvY2Vzc2luZy5Qcm9jZXNzb3I7Cg==</text>
+        <text encoding="base64">ICAgICAgT2JqZWN0IHJhbmRvbTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGphdmEudXRpbC5jb25jdXJyZW50LkNvdW50RG93bkxhdGNoCg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmd2KQogIHsKCiAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGphdmEudXRpbC5jb25jdXJyZW50LkNvdW50RG93bkxhdGNoCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LmFubm90YXRpb24ucHJvY2Vzc2luZy5Qcm9jZXNzb3I7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNldAo=</text>
+        <text encoding="base64">ICAgIGphdmEudXRpbC5jb25jdXJyZW50LkNvdW50RG93bkxhdGNoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNldAo=</text>
+        <text encoding="base64">ICAgIGphdmEudXRpbC5jb25jdXJyZW50LkNvdW50RG93bkxhdGNoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgYXJncyAK</text>
+        <text encoding="base64">ICAgIHNldAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHNldAo=</text>
       </register>
       <register name=":" type="4">
         <text>291</text>
