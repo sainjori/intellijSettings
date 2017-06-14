@@ -65,6 +65,12 @@
         <mark key="." line="32" column="46" />
         <mark key="^" line="32" column="46" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/JavaCompleBeginnersCave/src/stringsbuilder/app.java" timestamp="1497444363156">
+        <mark key="[" line="26" column="23" />
+        <mark key="]" line="26" column="41" />
+        <mark key="." line="26" column="41" />
+        <mark key="^" line="26" column="41" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/JavaCompleBeginnersCave/src/userinput/app.java" timestamp="1497375534052">
         <mark key="[" line="21" column="43" />
         <mark key="]" line="21" column="44" />
@@ -125,6 +131,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/StringBuffer.java" timestamp="1497442038863" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/.gitignore" timestamp="1497358267365">
         <mark key="[" line="24" column="1" />
         <mark key="]" line="24" column="1" />
@@ -160,7 +167,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/src/SynchronizedRGBImmutable.java" timestamp="1497270661197">
         <mark key="'" line="42" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497361804169">
+      <file name="/Dummy.txt" timestamp="1497444159031">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -201,7 +208,7 @@
         <mark key="^" line="23" column="29" />
         <mark key="." line="23" column="29" />
       </file>
-      <file name="/fragment.java" timestamp="1497376570798">
+      <file name="/fragment.java" timestamp="1497444332378">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -321,34 +328,34 @@
         <text>in</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAic3RhcnQiOgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiTWFzY2hpbmUgc3RhcnRlZCEiKTsKICAgICAgICBicmVhazsK</text>
+        <text encoding="base64">ICAgIG15T2JqZWN0Lm5hbWUgPSAiQm9iIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHN1cGVyLnRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwdgo=</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFRocmVhZAo=</text>
+        <text encoding="base64">ICAgIG9iai50ZXN0ID0gInQzZXN0IjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgT2JqZWN0IHJhbmRvbTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmd2KQogIHsKCiAgfQo=</text>
+        <text encoding="base64">ICBwdgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LmFubm90YXRpb24ucHJvY2Vzc2luZy5Qcm9jZXNzb3I7Cg==</text>
+        <text encoding="base64">ICAgIFRocmVhZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGphdmEudXRpbC5jb25jdXJyZW50LkNvdW50RG93bkxhdGNoCg==</text>
+        <text encoding="base64">ICAgICAgT2JqZWN0IHJhbmRvbTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGphdmEudXRpbC5jb25jdXJyZW50LkNvdW50RG93bkxhdGNoCg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmd2KQogIHsKCiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNldAo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LmFubm90YXRpb24ucHJvY2Vzc2luZy5Qcm9jZXNzb3I7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>291</text>
