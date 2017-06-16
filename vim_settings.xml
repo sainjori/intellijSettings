@@ -126,10 +126,10 @@
         <mark key="^" line="21" column="44" />
         <mark key="." line="21" column="44" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/dropwizard-example/pom.xml" timestamp="1497617026884">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="12" />
-        <mark key="." line="5" column="12" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/dropwizard-example/pom.xml" timestamp="1497618513682">
+        <mark key="[" line="47" column="47" />
+        <mark key="]" line="47" column="47" />
+        <mark key="." line="47" column="47" />
         <mark key="^" line="5" column="12" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations.xml" timestamp="1493397673309">
@@ -313,10 +313,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>io.</text>
+        <text>com.example.helloworld.HelloWorldApplication</text>
       </register>
       <register name="-" type="4">
-        <text>io.</text>
+        <text>com.example.helloworld.HelloWorldApplication</text>
       </register>
       <register name="/" type="4">
         <text>in</text>
