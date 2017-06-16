@@ -3,7 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/dropwizard-example/src/com/example/helloworld/resources/HelloWorldResource.java" timestamp="1497615270068" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/dropwizard-example/src/com/example/helloworld/resources/HelloWorldResource.java" timestamp="1497616136320">
+        <mark key="[" line="28" column="44" />
+        <mark key="]" line="28" column="44" />
+        <mark key="^" line="28" column="44" />
+        <mark key="." line="28" column="44" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/sonar-project.properties" timestamp="1491913023510">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="23" />
@@ -99,6 +104,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/src/SynchronizedRGBImmutable.java" timestamp="1497270661197">
         <mark key="'" line="42" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/dropwizard-example/src/com/example/helloworld/HelloWorldApplication.java" timestamp="1497616249227" />
       <file name="/Dummy.txt" timestamp="1497444159031">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
