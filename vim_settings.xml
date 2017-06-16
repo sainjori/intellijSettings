@@ -143,10 +143,10 @@
         <mark key="^" line="21" column="44" />
         <mark key="." line="21" column="44" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/dropwizard-example/pom.xml" timestamp="1497611022668">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="18" />
-        <mark key="." line="6" column="18" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/dropwizard-example/pom.xml" timestamp="1497612816426">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="4" column="27" />
+        <mark key="." line="4" column="27" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations.xml" timestamp="1493397673309">
         <mark key="[" line="7" column="63" />
@@ -328,11 +328,11 @@
       <jump line="204" column="29" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDx2ZXJzaW9uPjEuMi4wLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
+      <register name="&quot;" type="4">
+        <text>example</text>
       </register>
       <register name="-" type="4">
-        <text>dropwizard</text>
+        <text>example</text>
       </register>
       <register name="/" type="4">
         <text>in</text>
