@@ -130,6 +130,9 @@
         <mark key="]" line="7" column="64" />
         <mark key="." line="7" column="64" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/Vector.java" timestamp="1498062740331">
+        <mark key="'" line="155" column="11" />
+      </file>
       <file name="C:/ENTWICKLUNG/sandbox/Learning-Java-Swing/components-TableFTFEditDemoProject/src/components/TableDemo.java" timestamp="1496914613878">
         <mark key="[" line="85" column="8" />
         <mark key="]" line="85" column="8" />
@@ -159,11 +162,11 @@
         <mark key="^" line="88" column="31" />
         <mark key="." line="88" column="31" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/KundenEntwicklung/cust-sandvik/src/main/java/sandvik/dadi/DadiExportAfter.java" timestamp="1498062169682">
-        <mark key="[" line="89" column="4" />
-        <mark key="]" line="89" column="4" />
-        <mark key="^" line="112" column="54" />
-        <mark key="." line="89" column="4" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/KundenEntwicklung/cust-sandvik/src/main/java/sandvik/dadi/DadiExportAfter.java" timestamp="1498063085898">
+        <mark key="[" line="110" column="4" />
+        <mark key="]" line="110" column="3" />
+        <mark key="." line="110" column="3" />
+        <mark key="^" line="110" column="3" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/statistics/upload/server_check/ServerCheckProcess.java" timestamp="1490720190066">
         <mark key="[" line="68" column="0" />
@@ -206,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="29" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcessTest.java" />
       <jump line="76" column="24" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcessTest.java" />
       <jump line="29" column="23" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/testingutils/MysqlIntegrationTest.java" />
       <jump line="102" column="24" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcessTest.java" />
@@ -306,13 +308,14 @@
       <jump line="197" column="32" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
       <jump line="204" column="29" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
       <jump line="11" column="7" filename="C:/ENTWICKLUNG/java/workspaces/sandbox/dropwizardExample2/pom.xml" />
+      <jump line="155" column="11" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/Vector.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>filterNotVerosDocuments</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>filterNotVerosDocuments</text>
       </register>
       <register name="/" type="4">
         <text>in</text>
@@ -321,31 +324,31 @@
         <text encoding="base64">ICAgIENvbGxlY3Rpb248U3RyaW5nPiBsaW5rZWREVHlwZXMgPSBMSU5LRURfRE9DVU1FTlRfVFlQRVM7CiAgICBWZWN0b3I8QnJFeHBvcnRPYmplY3Q+IHZlcm9zRG9jdW1lbnRzID0gbmV3IFZlY3Rvcjw+KCk7CiAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCAiQEBAQEAgbGlua2VkRFR5cGVzIiArIGxpbmtlZERUeXBlcyk7CiAgICBmb3IgKEJyRXhwb3J0T2JqZWN0IGJlbyA6IGV4cG9ydE9iamV0cy52YWx1ZXMoKSkKICAgIHsKICAgICAgUGxtRG9jdW1lbnQgcGxtRG9jdW1lbnQgPSBiZW8uZ2V0UGxtRG9jdW1lbnQoKTsKICAgICAgU3RyaW5nIGRvY1R5cGUgPSBwbG1Eb2N1bWVudC5nZXRUeXBlKCk7CiAgICAgIFRyYWNlLnByaW50bG4oVHJhY2UuREVCVUcsICJAQEBAQCBwbG1Eb2N1bWVudC5nZXRUeXBlKCkiICsgZG9jVHlwZSk7CiAgICAgIGlmIChsaW5rZWREVHlwZXMuY29udGFpbnMoZG9jVHlwZSkpCiAgICAgIHsKICAgICAgICBpZiAoIlZESSIuZXF1YWxzSWdub3JlQ2FzZShkb2NUeXBlKSkKICAgICAgICAgIHZlcm9zRG9jdW1lbnRzLmFkZCgwLCBiZW8pOwogICAgICAgIGVsc2UKICAgICAgICAgIHZlcm9zRG9jdW1lbnRzLmFkZEVsZW1lbnQoYmVvKTsKICAgICAgfQogICAgfQoKICAgIGlmIChoYXNJdGVtcyh2ZXJvc0RvY3VtZW50cykpCiAgICAgIHdyaXRlRWN0ckZpbGUodmVyb3NEb2N1bWVudHMpOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgd3JpdGVFY3RyRmlsZShub3RWZXJvc0RvY3VtZW50cyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgKG5vdFZlcm9zRG9jdW1lbnRzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvYnVpbGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuNC4xPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIG5vdFZlcm9zRG9jdW1lbnRzLmFkZCgwLCBiZW8pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoISJWREkiLmVxdWFsc0lnbm9yZUNhc2UoZG9jVHlwZSkpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5tYXZlbi5wbHVnaW5zPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tamFyLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDxhcmNoaXZlPgogICAgICAgICAgICAgICAgICAgICAgICA8bWFuaWZlc3Q+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YWRkRGVmYXVsdEltcGxlbWVudGF0aW9uRW50cmllcz50cnVlPC9hZGREZWZhdWx0SW1wbGVtZW50YXRpb25FbnRyaWVzPgogICAgICAgICAgICAgICAgICAgICAgICA8L21hbmlmZXN0PgogICAgICAgICAgICAgICAgICAgIDwvYXJjaGl2ZT4KICAgICAgICAgICAgICAgIDwvY29uZmlndXJhdGlvbj4KICAgICAgICAgICAgPC9wbHVnaW4+</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IDxwbHVnaW4+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5jb20ud2ViY29oZXNpb24uZW51bmNpYXRlPC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+ZW51bmNpYXRlLW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuNy4wPC92ZXJzaW9uPgoKICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDxmb3JjZVdhclBhY2thZ2luZz5mYWxzZTwvZm9yY2VXYXJQYWNrYWdpbmc+CiAgICAgICAgICAgICAgICAgICAgPGVudW5jaWF0ZUFydGlmYWN0SWQ+PC9lbnVuY2lhdGVBcnRpZmFjdElkPgogICAgICAgICAgICAgICAgICAgIDxjb25maWdGaWxlPi4vZW51bmNpYXRlLnhtbDwvY29uZmlnRmlsZT4KICAgICAgICAgICAgICAgICAgICA8YnVpbGREaXI+dGFyZ2V0L2VudW5jaWF0ZTwvYnVpbGREaXI+CiAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICA8ZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8Z29hbHM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Z29hbD5hc3NlbWJsZTwvZ29hbD4KICAgICAgICAgICAgICAgICAgICAgICAgPC9nb2Fscz4KICAgICAgICAgICAgICAgICAgICA8L2V4ZWN1dGlvbj4KICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9ucz4KICAgICAgICAgICAgPC9wbHVnaW4+</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDwvYnVpbGQ+Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5jb20uZHNjc2FnLm1vbml0b3Jpbmc8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmRhc2hib2FyZC1hcGk8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPiR7bW9uaXRvcmluZy52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuNC4xPC92ZXJzaW9uPgo=</text>
       </register>
       <register name=":" type="4">
         <text>291</text>
