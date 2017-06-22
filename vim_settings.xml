@@ -107,7 +107,7 @@
         <mark key="." line="25" column="37" />
         <mark key="^" line="25" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498126760608">
+      <file name="/Dummy.txt" timestamp="1498142285567">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -141,6 +141,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/KundenEntwicklung/cust-sandvik/.gitignore" timestamp="1498123393651">
         <mark key="[" line="18" column="12" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/KundenEntwicklung/cust-sandvik/src/main/java/sandvik/omf/OmfSandvikJumpToAdditionalDirectory.java" timestamp="1498139707057" />
       <file name="C:/ENTWICKLUNG/sandbox/Learning-Java-Swing/components-TableFTFEditDemoProject/src/components/TableDemo.java" timestamp="1496914613878">
         <mark key="[" line="85" column="8" />
         <mark key="]" line="85" column="8" />
@@ -170,12 +171,12 @@
         <mark key="^" line="88" column="31" />
         <mark key="." line="88" column="31" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/KundenEntwicklung/cust-sandvik/src/main/java/sandvik/dadi/DadiExportAfter.java" timestamp="1498137452819">
+      <file name="C:/ENTWICKLUNG/java/workspaces/KundenEntwicklung/cust-sandvik/src/main/java/sandvik/dadi/DadiExportAfter.java" timestamp="1498142329456">
         <mark key="'" line="89" column="13" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="^" line="101" column="82" />
-        <mark key="." line="102" column="0" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="^" line="97" column="5" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/statistics/upload/server_check/ServerCheckProcess.java" timestamp="1490720190066">
         <mark key="[" line="68" column="0" />
@@ -210,11 +211,11 @@
         <mark key="." line="5" column="16" />
         <mark key="^" line="8" column="29" />
       </file>
-      <file name="/fragment.java" timestamp="1498121306107">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="0" column="4" />
+      <file name="/fragment.java" timestamp="1498141822941">
+        <mark key="[" line="0" column="52" />
+        <mark key="]" line="0" column="50" />
+        <mark key="." line="0" column="50" />
+        <mark key="^" line="0" column="50" />
       </file>
     </filemarks>
     <jumps>
@@ -321,43 +322,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCAibW92ZWQgLSAiICsgaXNNb3ZlZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>notVerosDocuments</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>in</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIENvbGxlY3Rpb248U3RyaW5nPiBsaW5rZWREVHlwZXMgPSBMSU5LRURfRE9DVU1FTlRfVFlQRVM7CiAgICBWZWN0b3I8QnJFeHBvcnRPYmplY3Q+IHZlcm9zRG9jdW1lbnRzID0gbmV3IFZlY3Rvcjw+KCk7CiAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCAiQEBAQEAgbGlua2VkRFR5cGVzIiArIGxpbmtlZERUeXBlcyk7CiAgICBmb3IgKEJyRXhwb3J0T2JqZWN0IGJlbyA6IGV4cG9ydE9iamV0cy52YWx1ZXMoKSkKICAgIHsKICAgICAgUGxtRG9jdW1lbnQgcGxtRG9jdW1lbnQgPSBiZW8uZ2V0UGxtRG9jdW1lbnQoKTsKICAgICAgU3RyaW5nIGRvY1R5cGUgPSBwbG1Eb2N1bWVudC5nZXRUeXBlKCk7CiAgICAgIFRyYWNlLnByaW50bG4oVHJhY2UuREVCVUcsICJAQEBAQCBwbG1Eb2N1bWVudC5nZXRUeXBlKCkiICsgZG9jVHlwZSk7CiAgICAgIGlmIChsaW5rZWREVHlwZXMuY29udGFpbnMoZG9jVHlwZSkpCiAgICAgIHsKICAgICAgICBpZiAoIlZESSIuZXF1YWxzSWdub3JlQ2FzZShkb2NUeXBlKSkKICAgICAgICAgIHZlcm9zRG9jdW1lbnRzLmFkZCgwLCBiZW8pOwogICAgICAgIGVsc2UKICAgICAgICAgIHZlcm9zRG9jdW1lbnRzLmFkZEVsZW1lbnQoYmVvKTsKICAgICAgfQogICAgfQoKICAgIGlmIChoYXNJdGVtcyh2ZXJvc0RvY3VtZW50cykpCiAgICAgIHdyaXRlRWN0ckZpbGUodmVyb3NEb2N1bWVudHMpOw==</text>
+        <text>noExtensionFileName</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCAibW92ZWQgLSAiICsgaXNNb3ZlZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVHJhY2UucHJpbnRsbihUcmFjZS5ERUJVRywgIm1vdmVkIC0gIiArIGlzTW92ZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCAibW92ZSBmaWxlICIgKyBtYXN0ZXJFeHBvcnRGaWxlICsgInRvIGFkZGl0aW9uYWwgIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbihUcmFjZS5ERUJVRywgInRhcmdldCAtICIgKyBmX2FkZERpcik7Cg==</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIGFic29sdXRlUGF0aCA9IGZfYWRkRGlyLmdldEFic29sdXRlUGF0aCgpOwogICAgICBTdHJpbmcgc3Vic3RyaW5nID0gYWJzb2x1dGVQYXRoLnN1YnN0cmluZygwLCBhYnNvbHV0ZVBhdGguaW5kZXhPZigiLCIpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgRmlsZSBtYXN0ZXJFeHBvcnRGaWxlID0gYm9lLmdldE1hc3RlckV4cG9ydEZpbGUoKTsKICAgICAgVHJhY2UucHJpbnRsbihUcmFjZS5ERUJVRywgInRhcmdldCAtICIgKyBmX2FkZERpcik7Cg==</text>
+        <text encoding="base64">ICAgICAgZl9hZGREaXIuc2V0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCAibW92ZWQgLSAiICsgaXNNb3ZlZCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICBmX2FkZERpci5nZXROYW1lKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGZfYWRkRGlyLnNldAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgZ2V0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>291</text>
