@@ -80,6 +80,7 @@
         <mark key="^" line="28" column="43" />
         <mark key="." line="28" column="43" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/KundenEntwicklung/cust-sandvik/src/main/java/sandvik/proc/cad/SandvikProcessCadDocumentProvideInfo.java" timestamp="1498121372408" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/Multithreading/Low-levelProducer-Consumer/src/app.java" timestamp="1497361925541">
         <mark key="[" line="14" column="42" />
         <mark key="]" line="16" column="3" />
@@ -162,12 +163,6 @@
         <mark key="^" line="88" column="31" />
         <mark key="." line="88" column="31" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/KundenEntwicklung/cust-sandvik/src/main/java/sandvik/dadi/DadiExportAfter.java" timestamp="1498120033486">
-        <mark key="[" line="82" column="37" />
-        <mark key="]" line="83" column="3" />
-        <mark key="." line="83" column="3" />
-        <mark key="^" line="83" column="3" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/statistics/upload/server_check/ServerCheckProcess.java" timestamp="1490720190066">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
@@ -201,7 +196,7 @@
         <mark key="." line="5" column="16" />
         <mark key="^" line="8" column="29" />
       </file>
-      <file name="/fragment.java" timestamp="1498063842688">
+      <file name="/fragment.java" timestamp="1498121306107">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -311,11 +306,11 @@
       <jump line="155" column="11" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/Vector.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>filterNotVerosDocuments</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLy8gICAgICBGaWxlIGZfYWRkRGlyID0gbmV3IEZpbGUoYWRkRGlyX2ZpbGVuYW1lKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>filterNotVerosDocuments</text>
+        <text>masterfile</text>
       </register>
       <register name="/" type="4">
         <text>in</text>
@@ -324,31 +319,31 @@
         <text encoding="base64">ICAgIENvbGxlY3Rpb248U3RyaW5nPiBsaW5rZWREVHlwZXMgPSBMSU5LRURfRE9DVU1FTlRfVFlQRVM7CiAgICBWZWN0b3I8QnJFeHBvcnRPYmplY3Q+IHZlcm9zRG9jdW1lbnRzID0gbmV3IFZlY3Rvcjw+KCk7CiAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCAiQEBAQEAgbGlua2VkRFR5cGVzIiArIGxpbmtlZERUeXBlcyk7CiAgICBmb3IgKEJyRXhwb3J0T2JqZWN0IGJlbyA6IGV4cG9ydE9iamV0cy52YWx1ZXMoKSkKICAgIHsKICAgICAgUGxtRG9jdW1lbnQgcGxtRG9jdW1lbnQgPSBiZW8uZ2V0UGxtRG9jdW1lbnQoKTsKICAgICAgU3RyaW5nIGRvY1R5cGUgPSBwbG1Eb2N1bWVudC5nZXRUeXBlKCk7CiAgICAgIFRyYWNlLnByaW50bG4oVHJhY2UuREVCVUcsICJAQEBAQCBwbG1Eb2N1bWVudC5nZXRUeXBlKCkiICsgZG9jVHlwZSk7CiAgICAgIGlmIChsaW5rZWREVHlwZXMuY29udGFpbnMoZG9jVHlwZSkpCiAgICAgIHsKICAgICAgICBpZiAoIlZESSIuZXF1YWxzSWdub3JlQ2FzZShkb2NUeXBlKSkKICAgICAgICAgIHZlcm9zRG9jdW1lbnRzLmFkZCgwLCBiZW8pOwogICAgICAgIGVsc2UKICAgICAgICAgIHZlcm9zRG9jdW1lbnRzLmFkZEVsZW1lbnQoYmVvKTsKICAgICAgfQogICAgfQoKICAgIGlmIChoYXNJdGVtcyh2ZXJvc0RvY3VtZW50cykpCiAgICAgIHdyaXRlRWN0ckZpbGUodmVyb3NEb2N1bWVudHMpOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgd3JpdGVFY3RyRmlsZShub3RWZXJvc0RvY3VtZW50cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gICAgICBGaWxlIGZfYWRkRGlyID0gbmV3IEZpbGUoYWRkRGlyX2ZpbGVuYW1lKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgKG5vdFZlcm9zRG9jdW1lbnRzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBhZGREaXJfZmlsZW5hbWUgPSBQbG1QYXJ0TmFtZVJ1bGVzLmdldEluc3QoKS5nZXRBcHBsaWNhdGlvbkRpcmVjdG9yeU5hbWUobWFzdGVyZmlsZSk7CiAgICBGaWxlIGZfYWRkRGlyID0gbmV3IEZpbGUoYWRkRGlyX2ZpbGVuYW1lKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5vdFZlcm9zRG9jdW1lbnRzLmFkZCgwLCBiZW8pOwo=</text>
+        <text encoding="base64">ICAgICAgd3JpdGVFY3RyRmlsZShub3RWZXJvc0RvY3VtZW50cyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoISJWREkiLmVxdWFsc0lnbm9yZUNhc2UoZG9jVHlwZSkpCg==</text>
+        <text encoding="base64">ICAgICAgKG5vdFZlcm9zRG9jdW1lbnRzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG5vdFZlcm9zRG9jdW1lbnRzLmFkZCgwLCBiZW8pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwvYnVpbGQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoISJWREkiLmVxdWFsc0lnbm9yZUNhc2UoZG9jVHlwZSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPjIuNC4xPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>291</text>
