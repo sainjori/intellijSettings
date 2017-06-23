@@ -20,7 +20,8 @@
         <mark key="]" line="47" column="28" />
         <mark key="." line="47" column="28" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/sess/PlmSessionManager.java" timestamp="1498228614150">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/sess/PlmSessionManager.java" timestamp="1498233726355">
+        <mark key="'" line="752" column="44" />
         <mark key="[" line="1638" column="17" />
         <mark key="]" line="1639" column="29" />
         <mark key="." line="1639" column="29" />
@@ -56,6 +57,7 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/plm/plugins/OSGIFrameworkManager.java" timestamp="1498234182288" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/Multithreading/Low-levelProducer-Consumer/src/Processor.java" timestamp="1497362260238">
         <mark key="[" line="32" column="39" />
         <mark key="]" line="32" column="46" />
@@ -161,6 +163,7 @@
         <mark key="^" line="28" column="43" />
         <mark key="." line="28" column="43" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/omf/OmfExpansionPerformed.java" timestamp="1498233482873" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/Multithreading/Low-levelProducer-Consumer/src/app.java" timestamp="1497361925541">
         <mark key="[" line="14" column="42" />
         <mark key="]" line="16" column="3" />
@@ -221,7 +224,7 @@
         <mark key="^" line="23" column="29" />
         <mark key="." line="23" column="29" />
       </file>
-      <file name="/fragment.java" timestamp="1498223820763">
+      <file name="/fragment.java" timestamp="1498233484194">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="50" />
         <mark key="." line="0" column="50" />
@@ -229,7 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="24" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcessTest.java" />
       <jump line="139" column="2" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcessTest.java" />
       <jump line="167" column="22" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcessTest.java" />
       <jump line="127" column="12" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/configuration.json" />
@@ -329,6 +331,7 @@
       <jump line="155" column="11" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/Vector.java" />
       <jump line="89" column="13" filename="C:/ENTWICKLUNG/java/workspaces/KundenEntwicklung/cust-sandvik/src/main/java/sandvik/dadi/DadiExportAfter.java" />
       <jump line="306" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/cfc/gfx/Gfx.java" />
+      <jump line="752" column="44" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/sess/PlmSessionManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
