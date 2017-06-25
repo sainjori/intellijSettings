@@ -1,5 +1,15 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
-  <action id="Back" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
     <keyboard-shortcut first-keystroke="alt f" />
@@ -12,6 +22,7 @@
     <keyboard-shortcut first-keystroke="alt q" />
   </action>
   <action id="CompareTwoFiles" />
+  <action id="Diff.SelectedChange" />
   <action id="Diff.ShowDiff" />
   <action id="EditorContextInfo" />
   <action id="EditorDeleteLine" />
@@ -30,6 +41,13 @@
   </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="FindNext" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl e" />
     <mouse-shortcut keystroke="control button1" />
@@ -55,6 +73,9 @@
   </action>
   <action id="Print" />
   <action id="RecentFiles" />
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="ctrl f11" />
     <keyboard-shortcut first-keystroke="numpad6" />
