@@ -164,6 +164,12 @@
         <mark key="^" line="456" column="10" />
         <mark key="." line="456" column="0" />
       </file>
+      <file name="C:/Entwicklung/sandbox/Java8LearningPath/src/com/company/TradersStreamLearing.java" timestamp="1498423090008">
+        <mark key="[" line="9" column="29" />
+        <mark key="]" line="13" column="50" />
+        <mark key="^" line="13" column="50" />
+        <mark key="." line="13" column="50" />
+      </file>
       <file name="C:/ENTWICKLUNG/sandbox/javaLampda/src/Comperator.java" timestamp="1494589912494">
         <mark key="[" line="15" column="49" />
         <mark key="]" line="15" column="47" />
@@ -202,6 +208,12 @@
         <mark key="]" line="166" column="22" />
         <mark key="^" line="166" column="22" />
         <mark key="." line="166" column="22" />
+      </file>
+      <file name="C:/Entwicklung/sandbox/Java8LearningPath/src/com/company/Trader.java" timestamp="1498423099708">
+        <mark key="[" line="6" column="1" />
+        <mark key="]" line="5" column="1" />
+        <mark key="^" line="5" column="1" />
+        <mark key="." line="5" column="1" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/statistics/upload/server_check/ServerCheckProcess.java" timestamp="1490720190066">
         <mark key="[" line="68" column="0" />
@@ -249,7 +261,7 @@
         <mark key="." line="77" column="37" />
         <mark key="^" line="77" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1496615503760">
+      <file name="/fragment.java" timestamp="1498423094145">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -338,11 +350,11 @@
       <jump line="1117" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>f1</text>
