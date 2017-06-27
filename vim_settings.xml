@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/KundenEntwicklung/cust-sandvik2/src/main/java/sandvik/dadi/DadiExportAfter.java" timestamp="1498579791026" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/KundenEntwicklung/cust-sandvik2/src/main/java/sandvik/dadi/DadiExportAfter.java" timestamp="1498580024416" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/dropwizard-example/src/com/example/helloworld/resources/HelloWorldResource.java" timestamp="1497616136320">
         <mark key="[" line="28" column="44" />
         <mark key="]" line="28" column="44" />
@@ -179,7 +179,7 @@
         <mark key="." line="36" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ObrFunctionEventQueue.java" timestamp="1498240724171" />
-      <file name="/Dummy.txt" timestamp="1498576563794">
+      <file name="/Dummy.txt" timestamp="1498580104124">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -208,12 +208,8 @@
         <mark key="^" line="88" column="31" />
         <mark key="." line="88" column="31" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/KundenEntwicklung/cust-sandvik/src/main/java/sandvik/dadi/DadiExportAfter.java" timestamp="1498577186120">
-        <mark key="'" line="399" column="0" />
-        <mark key="[" line="96" column="3" />
-        <mark key="]" line="97" column="3" />
-        <mark key="^" line="97" column="3" />
-        <mark key="." line="97" column="3" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/KundenEntwicklung/cust-sandvik/src/main/java/sandvik/dadi/DadiExportAfter.java" timestamp="1498580061745">
+        <mark key="'" line="360" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/JavaCompleBeginnersCave/src/doWhile/doWhile.java" timestamp="1497377074162">
         <mark key="[" line="24" column="25" />
@@ -338,16 +334,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>moveToAdditionalFolder</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>moveToAdditionalFolder</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>in</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIChoYXNJdGVtcyhub3RWZXJvc0RvY3VtZW50cykpCiAgICAgIG1vdmVUb0FkZGl0aW9uYWxGb2xkZXIobm90VmVyb3NEb2N1bWVudHMpOwo=</text>
+        <text encoding="base64">ICAgIExpc3Q8QnJFeHBvcnRPYmplY3Q+IG5vdFZlcm9zRG9jdW1lbnRzID0gZ2V0Tm90VmVyb3NEb2N1bWVudHMoZXhwb3J0T2JqZXRzKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbihUcmFjZS5ERUJVRywgIkBAQEBAIHBsbURvY3VtZW50LmdldFR5cGUoKSIgKyBkb2NUeXBlKTsK</text>
