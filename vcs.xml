@@ -10,4 +10,7 @@
     </option>
     <option name="cloneParentDir" value="C:\ENTWICKLUNG\java\workspaces" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="C:/ENTWICKLUNG/java/workspaces/KundenEntwicklung/cust-sandvik" />
+  </component>
 </application>

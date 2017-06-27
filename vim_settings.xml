@@ -3,7 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/KundenEntwicklung/cust-sandvik2/src/main/java/sandvik/dadi/DadiExportAfter.java" timestamp="1498580024416" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/KundenEntwicklung/cust-sandvik2/src/main/java/sandvik/dadi/DadiExportAfter.java" timestamp="1498580615601">
+        <mark key="[" line="103" column="57" />
+        <mark key="]" line="103" column="69" />
+        <mark key="." line="103" column="69" />
+        <mark key="^" line="103" column="69" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/dropwizard-example/src/com/example/helloworld/resources/HelloWorldResource.java" timestamp="1497616136320">
         <mark key="[" line="28" column="44" />
         <mark key="]" line="28" column="44" />
@@ -179,7 +184,7 @@
         <mark key="." line="36" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ObrFunctionEventQueue.java" timestamp="1498240724171" />
-      <file name="/Dummy.txt" timestamp="1498580104124">
+      <file name="/Dummy.txt" timestamp="1498580240853">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -334,16 +339,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>, f_addDir.getName()</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>, f_addDir.getName()</text>
       </register>
       <register name="/" type="4">
         <text>in</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIExpc3Q8QnJFeHBvcnRPYmplY3Q+IG5vdFZlcm9zRG9jdW1lbnRzID0gZ2V0Tm90VmVyb3NEb2N1bWVudHMoZXhwb3J0T2JqZXRzKTsK</text>
+        <text encoding="base64">ICAgIFN0cmluZyBleHBvcnREaXJOYW1lID0gZ2V0T2JqZWN0SW5wdXQoRGF0YUV4Y2hhbmdlSGVscGVyLkRBRElfRVhQT1JUX0RJUik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbihUcmFjZS5ERUJVRywgIkBAQEBAIHBsbURvY3VtZW50LmdldFR5cGUoKSIgKyBkb2NUeXBlKTsK</text>
