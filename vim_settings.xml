@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/KundenEntwicklung/cust-sandvik2/src/main/java/sandvik/dadi/DadiExportAfter.java" timestamp="1498653377405">
-        <mark key="[" line="103" column="57" />
-        <mark key="]" line="103" column="69" />
-        <mark key="." line="103" column="69" />
-        <mark key="^" line="103" column="69" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/dropwizard-example/src/com/example/helloworld/resources/HelloWorldResource.java" timestamp="1497616136320">
         <mark key="[" line="28" column="44" />
         <mark key="]" line="28" column="44" />
@@ -184,7 +178,7 @@
         <mark key="." line="36" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ObrFunctionEventQueue.java" timestamp="1498240724171" />
-      <file name="/Dummy.txt" timestamp="1498580240853">
+      <file name="/Dummy.txt" timestamp="1498654681223">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
