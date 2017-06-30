@@ -88,11 +88,13 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ctx/filter/DefaultFilterUIBuilder.java" timestamp="1498840834511" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations.xml" timestamp="1493397673309">
         <mark key="[" line="7" column="63" />
         <mark key="]" line="7" column="64" />
         <mark key="." line="7" column="64" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/utils/filtering/ObrObjectFilterHandler.java" timestamp="1498840802549" />
       <file name="$USER_HOME$/Downloads/components-TextComponentDemoProject/components-TextComponentDemoProject/src/components/TextComponentDemo.java" timestamp="1496912796676">
         <mark key="[" line="69" column="74" />
         <mark key="]" line="69" column="39" />
@@ -131,6 +133,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/modules/structureview/ctx/StructureViewContextInfo.java" timestamp="1498840827988" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/.gitignore" timestamp="1497358267365">
         <mark key="[" line="24" column="1" />
         <mark key="]" line="24" column="1" />
@@ -165,7 +168,7 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498820607007">
+      <file name="/Dummy.txt" timestamp="1498840828905">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
