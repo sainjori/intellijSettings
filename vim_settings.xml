@@ -19,13 +19,6 @@
         <mark key="]" line="47" column="28" />
         <mark key="." line="47" column="28" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/sess/PlmSessionManager.java" timestamp="1498236981578">
-        <mark key="'" line="752" column="44" />
-        <mark key="[" line="1638" column="17" />
-        <mark key="]" line="1639" column="29" />
-        <mark key="." line="1639" column="29" />
-        <mark key="^" line="1639" column="29" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/plantMaintenanceExtensions/src/main/java/plm/modules/plantmaintenance/gui/ctx/PlantMaintenanceContextInit.java" timestamp="1498843000209" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1491481493451">
         <mark key="[" line="135" column="0" />
@@ -60,8 +53,8 @@
         <mark key="." line="32" column="46" />
         <mark key="^" line="32" column="46" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ctx/ObrTreeContextInfo.java" timestamp="1499094327523">
-        <mark key="'" line="832" column="4" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ctx/ObrTreeContextInfo.java" timestamp="1499105231487">
+        <mark key="'" line="155" column="2" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ObjectManagerGui.java" timestamp="1498845775872">
         <mark key="[" line="842" column="53" />
@@ -81,7 +74,7 @@
         <mark key="." line="26" column="41" />
         <mark key="^" line="26" column="41" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/plantMaintenanceExtensions/src/main/java/plm/modules/plantmaintenance/PlantMaintenanceContextInfo.java" timestamp="1498842947728" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/plantMaintenanceExtensions/src/main/java/plm/modules/plantmaintenance/PlantMaintenanceContextInfo.java" timestamp="1499105105110" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/JavaCompleBeginnersCave/src/userinput/app.java" timestamp="1497375534052">
         <mark key="[" line="21" column="43" />
         <mark key="]" line="21" column="44" />
@@ -93,13 +86,22 @@
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ctx/filter/DefaultFilterUIBuilder.java" timestamp="1498846488567" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ctx/filter/DefaultFilterUIBuilder.java" timestamp="1499105595416">
+        <mark key="'" line="149" column="0" />
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="^" line="147" column="5" />
+        <mark key="." line="147" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations.xml" timestamp="1493397673309">
         <mark key="[" line="7" column="63" />
         <mark key="]" line="7" column="64" />
         <mark key="." line="7" column="64" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/utils/filtering/ObrObjectFilterHandler.java" timestamp="1498842904479" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ctx/filter/TreeFilterController.java" timestamp="1499104614386" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/utils/filtering/ObrObjectFilterHandler.java" timestamp="1499105061125">
+        <mark key="'" line="296" column="26" />
+      </file>
       <file name="$USER_HOME$/Downloads/components-TextComponentDemoProject/components-TextComponentDemoProject/src/components/TextComponentDemo.java" timestamp="1496912796676">
         <mark key="[" line="69" column="74" />
         <mark key="]" line="69" column="39" />
@@ -139,7 +141,8 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/modules/structureview/ctx/StructureViewContextInfo.java" timestamp="1498840827988" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/modules/structureview/ctx/StructureViewContextInfo.java" timestamp="1499104924653" />
+      <file name="C:/Program Files/Java/jdk1.8.0_101/src.zip!/javax/swing/AbstractButton.java" timestamp="1499102563813" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/.gitignore" timestamp="1497358267365">
         <mark key="[" line="24" column="1" />
         <mark key="]" line="24" column="1" />
@@ -175,10 +178,16 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499093470233">
+      <file name="/Dummy.txt" timestamp="1499104082082">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" timestamp="1499105847939">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="^" line="103" column="22" />
+        <mark key="." line="103" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1499095358917">
         <mark key="'" line="3679" column="75" />
@@ -227,7 +236,7 @@
         <mark key="^" line="23" column="29" />
         <mark key="." line="23" column="29" />
       </file>
-      <file name="/fragment.java" timestamp="1499095016148">
+      <file name="/fragment.java" timestamp="1499103947112">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -235,10 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/EventLogEntryDAO.java" />
-      <jump line="134" column="4" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/EventLogEntryDAO.java" />
-      <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/proc/system/preferences/PreferencesTest.java" />
-      <jump line="60" column="32" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/addons/src/main/java/plm/modules/dataexchange/ddx/gui/DDXSettingsDialog.java" />
       <jump line="9" column="31" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/convert/pom.xml" />
       <jump line="1661" column="23" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/plm++/java/src/plm/sess/PlmSessionManager.java" />
       <jump line="2157" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/plm++/java/src/plm/sess/PlmSessionManager.java" />
@@ -335,10 +340,14 @@
       <jump line="3681" column="86" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
       <jump line="3679" column="75" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
       <jump line="832" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ctx/ObrTreeContextInfo.java" />
+      <jump line="136" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/utils/filtering/ObrObjectFilterHandler.java" />
+      <jump line="296" column="26" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/utils/filtering/ObrObjectFilterHandler.java" />
+      <jump line="149" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ctx/filter/DefaultFilterUIBuilder.java" />
+      <jump line="155" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ctx/ObrTreeContextInfo.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldGZvCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -350,32 +359,32 @@
         <text encoding="base64">ICAgIFN0cmluZyBleHBvcnREaXJOYW1lID0gZ2V0T2JqZWN0SW5wdXQoRGF0YUV4Y2hhbmdlSGVscGVyLkRBRElfRVhQT1JUX0RJUik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldGZvCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgbG9hZEZpbHRlclN0cnVjdHVyZSgpLgo=</text>
       </register>
-      <register name="3" type="4">
-        <text>//Remove native copy of JTable
-    //getActionMap().getParent().remove(&quot;copy&quot;);</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGV4cGFuZEFsbE9iamVjdHMoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNldGZvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBlLmNvbnN1bWUoKTsK</text>
+      <register name="6" type="4">
+        <text>//Remove native copy of JTable
+    //getActionMap().getParent().remove(&quot;copy&quot;);</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CgoK</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmKFByZWZlcmVuY2VzLmJvb2xlYW5WYWx1ZSgib2JyLnRhYmxlLmRpc3BsYXkuY3RybC5jb3B5LmFjdGl2ZSIpKXsKICAgICAgYWRkVGFibGVLZXlib2FyZEFjdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBlLmNvbnN1bWUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>291</text>
