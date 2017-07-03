@@ -178,12 +178,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1499086470389">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1499090861557">
         <mark key="'" line="3679" column="75" />
-        <mark key="[" line="3671" column="0" />
-        <mark key="]" line="3671" column="0" />
-        <mark key="." line="3671" column="0" />
-        <mark key="^" line="3644" column="50" />
+        <mark key="[" line="343" column="0" />
+        <mark key="]" line="343" column="0" />
+        <mark key="." line="343" column="0" />
+        <mark key="^" line="344" column="3" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ObjectBrowsePanel.java" timestamp="1498845452196" />
       <file name="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/Vector.java" timestamp="1498062740331">
@@ -225,7 +225,7 @@
         <mark key="^" line="23" column="29" />
         <mark key="." line="23" column="29" />
       </file>
-      <file name="/fragment.java" timestamp="1499083021288">
+      <file name="/fragment.java" timestamp="1499089377010">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
@@ -336,10 +336,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>java.awt.event.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>in</text>
@@ -348,31 +348,32 @@
         <text encoding="base64">ICAgIFN0cmluZyBleHBvcnREaXJOYW1lID0gZ2V0T2JqZWN0SW5wdXQoRGF0YUV4Y2hhbmdlSGVscGVyLkRBRElfRVhQT1JUX0RJUik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxzZQo=</text>
+      <register name="2" type="4">
+        <text>//Remove native copy of JTable
+    //getActionMap().getParent().remove(&quot;copy&quot;);</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBlLmNvbnN1bWUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWxzZQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CgoK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBlLmNvbnN1bWUoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmKFByZWZlcmVuY2VzLmJvb2xlYW5WYWx1ZSgib2JyLnRhYmxlLmRpc3BsYXkuY3RybC5jb3B5LmFjdGl2ZSIpKXsKICAgICAgYWRkVGFibGVLZXlib2FyZEFjdGlvbigpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="4">
+        <text encoding="base64">CgoK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFkZFRhYmxlS2V5Ym9hcmRBY3Rpb24oKTsK</text>
+        <text encoding="base64">ICAgIGlmKFByZWZlcmVuY2VzLmJvb2xlYW5WYWx1ZSgib2JyLnRhYmxlLmRpc3BsYXkuY3RybC5jb3B5LmFjdGl2ZSIpKXsKICAgICAgYWRkVGFibGVLZXlib2FyZEFjdGlvbigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>291</text>
