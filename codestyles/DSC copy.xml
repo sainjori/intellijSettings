@@ -8,6 +8,7 @@
   <option name="IMPORT_LAYOUT_TABLE">
     <value>
       <package name="" withSubpackages="true" static="false" />
+      <emptyLine />
     </value>
   </option>
   <option name="RIGHT_MARGIN" value="140" />
