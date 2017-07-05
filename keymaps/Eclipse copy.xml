@@ -67,10 +67,6 @@
   <action id="GotoTypeDeclaration">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
-  <action id="HippieCompletion">
-    <keyboard-shortcut first-keystroke="alt slash" />
-    <keyboard-shortcut first-keystroke="shift space" />
-  </action>
   <action id="Print" />
   <action id="RecentFiles" />
   <action id="ReopenClosedTab">
@@ -90,6 +86,10 @@
     <keyboard-shortcut first-keystroke="shift alt s" />
     <keyboard-shortcut first-keystroke="ctrl f10" />
     <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="shift alt space" />
+    <keyboard-shortcut first-keystroke="shift space" />
   </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f5" />
