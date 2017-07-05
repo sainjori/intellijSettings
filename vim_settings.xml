@@ -58,6 +58,7 @@
         <mark key="." line="32" column="46" />
         <mark key="^" line="32" column="46" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/modules/structureview/model/StructureModelReader.java" timestamp="1499265163751" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ctx/ObrTreeContextInfo.java" timestamp="1499176969213">
         <mark key="'" line="167" column="46" />
       </file>
@@ -196,7 +197,7 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499259281222">
+      <file name="/Dummy.txt" timestamp="1499265158589">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -217,8 +218,12 @@
         <mark key="." line="85" column="8" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/README.md" timestamp="1499186540086" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java" timestamp="1499261486857">
-        <mark key="'" line="562" column="32" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java" timestamp="1499265390015">
+        <mark key="'" line="154" column="106" />
+        <mark key="[" line="65" column="35" />
+        <mark key="]" line="151" column="19" />
+        <mark key="^" line="151" column="19" />
+        <mark key="." line="151" column="19" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/gui/errordialog/ErrorDialog.java" timestamp="1499260712930">
         <mark key="'" line="133" column="14" />
@@ -256,8 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="26" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
-      <jump line="63" column="58" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
       <jump line="64" column="65" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
       <jump line="65" column="24" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
       <jump line="72" column="25" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
@@ -356,46 +359,48 @@
       <jump line="22" column="1" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/proc/PlmProcessConversionSchedule.java" />
       <jump line="562" column="32" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java" />
       <jump line="133" column="14" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/gui/errordialog/ErrorDialog.java" />
+      <jump line="381" column="11" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java" />
+      <jump line="154" column="106" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>v_guis</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>v_guis</text>
       </register>
       <register name="/" type="4">
         <text>readData</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgdm9pZCBhZGRBbGxGaWx0ZXJzKEd4VG9vbEJhciB0b29sYmFyKQogIHsKICAgIGFkZFNraXBJdGVtcyh0b29sYmFyKTsKICAgIGFkZEZpbHRlckl0ZW1zKHRvb2xiYXIpOwoKICAgIGFkZFJlc2V0QWxsKHRvb2xiYXIpOwogIH0K</text>
+      <register name="0" type="4">
+        <text encoding="base64">VmVjdG9yPFVzZXJJbnB1dERvY3VtZW50PiB2X2d1aXM=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICA9IG5ldyBWZWN0b3I8Pih1c2VySW5wdXREb2N1bWVudHNOb0Vycm9yKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgIHZfZ3Vpc19Ob0Vycm9yLmFkZEFsbCh1c2VySW5wdXREb2N1bWVudHNOb0Vycm9yKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IHByaXZhdGUgdm9pZCBleHBhbmRBbGwoKQogIHsKICAgIFN3aW5nVXRpbGl0aWVzLmludm9rZUxhdGVyKG5ldyBSdW5uYWJsZSgpCiAgICB7CiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgdm9pZCBydW4oKQogICAgICB7CiAgICAgICAgZXhwYW5kQWxsT2JqZWN0cygpOwogICAgICB9CiAgICB9KTsKICB9</text>
-      </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGFkZEZpbHRlckl0ZW1zKHRvb2xiYXIpOwo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IHByaXZhdGUgdm9pZCBleHBhbmRBbGwoKQogIHsKICAgIFN3aW5nVXRpbGl0aWVzLmludm9rZUxhdGVyKG5ldyBSdW5uYWJsZSgpCiAgICB7CiAgICAgIEBPdmVycmlkZQogICAgICBwdWJsaWMgdm9pZCBydW4oKQogICAgICB7CiAgICAgICAgZXhwYW5kQWxsT2JqZWN0cygpOwogICAgICB9CiAgICB9KTsKICB9</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFkZFNraXBJdGVtcyh0b29sYmFyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG9ick9iamVjdEZpbHRlcnMuYWQK</text>
+        <text encoding="base64">ICAgIGFkZEZpbHRlckl0ZW1zKHRvb2xiYXIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9ick9iamVjdEZpbHRlcnMuYWQodG9vbGJhcik7Cg==</text>
+        <text encoding="base64">ICAgIGFkZFNraXBJdGVtcyh0b29sYmFyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9ick9iamVjdEZpbHRlcnMuYWRkQWxsRmlsdGVycyh0b29sYmFyKTsK</text>
+        <text encoding="base64">ICAgIG9ick9iamVjdEZpbHRlcnMuYWQK</text>
       </register>
       <register name=":" type="4">
         <text>291</text>
