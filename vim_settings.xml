@@ -132,12 +132,12 @@
         <mark key="." line="85" column="8" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/README.md" timestamp="1499186540086" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java" timestamp="1499336381961">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java" timestamp="1499337286327">
         <mark key="'" line="105" column="27" />
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="0" />
-        <mark key="^" line="173" column="36" />
-        <mark key="." line="163" column="0" />
+        <mark key="[" line="172" column="18" />
+        <mark key="]" line="172" column="34" />
+        <mark key="^" line="172" column="34" />
+        <mark key="." line="172" column="34" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/gui/errordialog/ErrorDialog.java" timestamp="1499260712930">
         <mark key="'" line="133" column="14" />
@@ -253,20 +253,20 @@
       <jump line="105" column="27" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>singleDocumentWithError</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>singleDocumentWithError</text>
       </register>
       <register name="/" type="4">
         <text>readData</text>
       </register>
-      <register name="0" type="4">
-        <text>singleDocumentWithError</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIGJvb2xlYW4gc2luZ2xlRG9jdW1lbnRXaXRoRXJyb3IgPSB2X2d1aXMuc3RyZWFtKCkuYWxsTWF0Y2goVXNlcklucHV0RG9jdW1lbnQ6OmlzRXJyb3IpICYmIHZfZ3Vpcy5zaXplKCkgPT0gMTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYm9vbGVhbiBzaW5nbGVEb2N1bWVudFdpdGhFcnJvcjIgPSB2X2d1aXMuc2l6ZSgpID09IDEgJiYgdl9ndWlzLmdldCgwKS5kZGlzRXJyb3I7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -275,23 +275,23 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIFZlY3RvcjxVc2VySW5wdXREb2N1bWVudD4gdl9ndWlzX25vRXJyb3IgPSB2X2d1aXMuc3RyZWFtKCkuZmlsdGVyKGUgLT4gIWUuaXNFcnJvcigpKS5jb2xsZWN0KENvbGxlY3RvcnMudG9Db2xsZWN0aW9uKFZlY3Rvcjo6bmV3KSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFZlY3RvcjxVc2VySW5wdXREb2N1bWVudD4gdl9ndWlzX25vRXJyb3IgPSB2X2d1aXMuc3RyZWFtKCkuZmlsdGVyKGUgLT4gIWUuaXNFcnJvcigpKS5jb2xsZWN0KENvbGxlY3RvcnMudG9Db2xsZWN0aW9uKFZlY3Rvcjo6bmV3KSk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Ly8gIHByaXZhdGUgU3RyaW5nW10gZ2V0Q29udmVyc2lvbkluZm9NZXNzYWdlcyhWZWN0b3I8VXNlcklucHV0RG9jdW1lbnQ+IHZfZ3VpcykKLy8gIHsKLy8vLyAgICBTdAovLyAgICByZXR1cm4gbmV3IFN0cmluZ1tdOwovLyAgfQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
+        <text encoding="base64">Ly8gIHByaXZhdGUgU3RyaW5nW10gZ2V0Q29udmVyc2lvbkluZm9NZXNzYWdlcyhWZWN0b3I8VXNlcklucHV0RG9jdW1lbnQ+IHZfZ3VpcykKLy8gIHsKLy8vLyAgICBTdAovLyAgICByZXR1cm4gbmV3IFN0cmluZ1tdOwovLyAgfQ==</text>
+      </register>
+      <register name="9" type="4">
         <text>// user accepted all conversions and have set the proper conversion action
       // create the Conversion objects</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8K</text>
       </register>
       <register name=":" type="4">
         <text>291</text>
