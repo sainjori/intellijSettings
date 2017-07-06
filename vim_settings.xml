@@ -108,7 +108,7 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499270646483">
+      <file name="/Dummy.txt" timestamp="1499329531655">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -129,22 +129,22 @@
         <mark key="." line="85" column="8" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/README.md" timestamp="1499186540086" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java" timestamp="1499271419485">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java" timestamp="1499329526262">
         <mark key="'" line="207" column="108" />
         <mark key="[" line="176" column="175" />
-        <mark key="]" line="176" column="101" />
-        <mark key="^" line="176" column="101" />
-        <mark key="." line="176" column="101" />
+        <mark key="]" line="176" column="182" />
+        <mark key="^" line="176" column="182" />
+        <mark key="." line="176" column="182" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/gui/errordialog/ErrorDialog.java" timestamp="1499260712930">
         <mark key="'" line="133" column="14" />
       </file>
       <file name="/PsContextInfo.java" timestamp="1499177114432" />
-      <file name="/fragment.java" timestamp="1499270933556">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="3" />
+      <file name="/fragment.java" timestamp="1499329540814">
+        <mark key="[" line="0" column="57" />
+        <mark key="]" line="0" column="57" />
+        <mark key="." line="0" column="57" />
+        <mark key="^" line="0" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -251,10 +251,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>toString</text>
+        <text>getName()</text>
       </register>
       <register name="-" type="4">
-        <text>toString</text>
+        <text>getName()</text>
       </register>
       <register name="/" type="4">
         <text>readData</text>
