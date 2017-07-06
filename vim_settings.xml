@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/dropwizard-example/src/com/example/helloworld/resources/HelloWorldResource.java" timestamp="1497616136320">
+        <mark key="[" line="28" column="44" />
+        <mark key="]" line="28" column="44" />
+        <mark key="^" line="28" column="44" />
+        <mark key="." line="28" column="44" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/plantMaintenanceExtensions/src/main/java/plm/modules/plantmaintenance/PlantMaintenanceContextHelper.java" timestamp="1499166205828">
         <mark key="'" line="125" column="0" />
       </file>
@@ -22,10 +28,22 @@
         <mark key="]" line="135" column="0" />
         <mark key="." line="135" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/Multithreading/WaitAndNotify/src/Processor.java" timestamp="1497361748324">
+        <mark key="[" line="31" column="47" />
+        <mark key="]" line="32" column="121" />
+        <mark key="^" line="32" column="121" />
+        <mark key="." line="32" column="121" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker.java" timestamp="1491478243595">
         <mark key="[" line="58" column="30" />
         <mark key="]" line="58" column="30" />
         <mark key="." line="58" column="30" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/Multithreading/src/BlockingQue/App.java" timestamp="1497357825260">
+        <mark key="[" line="78" column="59" />
+        <mark key="]" line="78" column="61" />
+        <mark key="^" line="78" column="61" />
+        <mark key="." line="78" column="61" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/proc/doc/PlmProcessDocumentCopyAs.java" timestamp="1499259343851" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/db/dao/LogFileDAOTest.java" timestamp="1491306929002">
@@ -34,6 +52,12 @@
         <mark key="." line="67" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/plantMaintenanceExtensions/src/main/java/plm/modules/plantmaintenance/model/PlantMaintenanceNode.java" timestamp="1499166858694" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/Multithreading/Low-levelProducer-Consumer/src/Processor.java" timestamp="1497362260238">
+        <mark key="[" line="32" column="39" />
+        <mark key="]" line="32" column="46" />
+        <mark key="." line="32" column="46" />
+        <mark key="^" line="32" column="46" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/modules/structureview/model/StructureModelReader.java" timestamp="1499268541290" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ctx/ObrTreeContextInfo.java" timestamp="1499176969213">
         <mark key="'" line="167" column="46" />
@@ -41,9 +65,33 @@
       <file name="/ObrObjectFilterHandler.java" timestamp="1499177619319">
         <mark key="'" line="276" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ObjectManagerGui.java" timestamp="1498845775872">
+        <mark key="[" line="842" column="53" />
+        <mark key="]" line="891" column="84" />
+        <mark key="^" line="891" column="84" />
+        <mark key="." line="891" column="84" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/dropwizardExample2/pom.xml" timestamp="1497623486373">
+        <mark key="[" line="21" column="17" />
+        <mark key="]" line="25" column="37" />
+        <mark key="." line="25" column="37" />
+        <mark key="^" line="25" column="37" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/JavaCompleBeginnersCave/src/stringsbuilder/app.java" timestamp="1497444363156">
+        <mark key="[" line="26" column="23" />
+        <mark key="]" line="26" column="41" />
+        <mark key="." line="26" column="41" />
+        <mark key="^" line="26" column="41" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/KundenEntwicklung/cust-ksb/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" timestamp="1499247781471" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/plantMaintenanceExtensions/src/main/java/plm/modules/plantmaintenance/PlantMaintenanceContextInfo.java" timestamp="1499343179331">
         <mark key="'" line="220" column="2" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/JavaCompleBeginnersCave/src/userinput/app.java" timestamp="1497375534052">
+        <mark key="[" line="21" column="43" />
+        <mark key="]" line="21" column="44" />
+        <mark key="^" line="21" column="44" />
+        <mark key="." line="21" column="44" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/dropwizard-example/pom.xml" timestamp="1497622976173">
         <mark key="[" line="91" column="0" />
@@ -54,6 +102,18 @@
         <mark key="[" line="7" column="63" />
         <mark key="]" line="7" column="64" />
         <mark key="." line="7" column="64" />
+      </file>
+      <file name="$USER_HOME$/Downloads/components-TextComponentDemoProject/components-TextComponentDemoProject/src/components/TextComponentDemo.java" timestamp="1496912796676">
+        <mark key="[" line="69" column="74" />
+        <mark key="]" line="69" column="39" />
+        <mark key="." line="69" column="39" />
+        <mark key="^" line="69" column="39" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/core/base/java/src/cadagent/gui/obr/ObrTree.java" timestamp="1496938200899">
+        <mark key="[" line="31" column="9" />
+        <mark key="]" line="31" column="9" />
+        <mark key="." line="31" column="9" />
+        <mark key="^" line="31" column="8" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/pom.xml" timestamp="1499186756636">
         <mark key="'" line="411" column="31" />
@@ -74,6 +134,12 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/dropwizard-example/test.pom" timestamp="1497610805401">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+        <mark key="^" line="8" column="29" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1499269154701" />
       <file name="C:/ENTWICKLUNG/java/workspaces/KundenEntwicklung/cust-ksb/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" timestamp="1499247934908">
         <mark key="'" line="67" column="13" />
@@ -83,13 +149,37 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/.gitignore" timestamp="1497358267365">
+        <mark key="[" line="24" column="1" />
+        <mark key="]" line="24" column="1" />
+        <mark key="^" line="24" column="1" />
+        <mark key="." line="24" column="1" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/test/java/com/dscsag/monitoring/midway/api/LogUploadEndpointTest.java" timestamp="1491306731465">
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/JavaCompleBeginnersCave/src/doWhile/app.java" timestamp="1497376525678">
+        <mark key="[" line="16" column="3" />
+        <mark key="]" line="17" column="28" />
+        <mark key="^" line="17" column="28" />
+        <mark key="." line="17" column="28" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/enunciate.xml" timestamp="1499188016736" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/JavaCompleBeginnersCave/src/switchLesson/app.java" timestamp="1497377578173">
+        <mark key="[" line="28" column="37" />
+        <mark key="]" line="28" column="43" />
+        <mark key="^" line="28" column="43" />
+        <mark key="." line="28" column="43" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/UserEndpoint.java" timestamp="1499184456796" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/Multithreading/Low-levelProducer-Consumer/src/app.java" timestamp="1497361925541">
+        <mark key="[" line="14" column="42" />
+        <mark key="]" line="16" column="3" />
+        <mark key="." line="16" column="3" />
+        <mark key="^" line="16" column="3" />
+      </file>
       <file name="/OmfConversionSchedule.java" timestamp="1499336095164" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/dropwizard-example/src/com/example/helloworld/HelloWorldApplication.java" timestamp="1497616683394">
         <mark key="[" line="36" column="0" />
@@ -101,8 +191,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" timestamp="1499343299923">
-        <mark key="'" line="675" column="31" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" timestamp="1499347187713">
+        <mark key="'" line="97" column="50" />
         <mark key="[" line="111" column="0" />
         <mark key="]" line="112" column="45" />
         <mark key="." line="111" column="0" />
@@ -126,14 +216,38 @@
         <mark key="." line="85" column="8" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/README.md" timestamp="1499186540086" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java" timestamp="1499345230994">
-        <mark key="'" line="105" column="27" />
-        <mark key="[" line="241" column="0" />
-        <mark key="]" line="241" column="0" />
-        <mark key="." line="241" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java" timestamp="1499347946941">
+        <mark key="[" line="245" column="25" />
+        <mark key="]" line="233" column="0" />
+        <mark key="." line="233" column="0" />
+        <mark key="^" line="233" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/gui/errordialog/ErrorDialog.java" timestamp="1499260712930">
         <mark key="'" line="133" column="14" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805/modules/addons/src/main/java/plm/modules/convert/omf/OmfConvertJobShowLog.java" timestamp="1496142243871">
+        <mark key="[" line="65" column="3" />
+        <mark key="]" line="65" column="6" />
+        <mark key="^" line="65" column="6" />
+        <mark key="." line="65" column="6" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/src/Safelock.java" timestamp="1497272266061">
+        <mark key="[" line="88" column="27" />
+        <mark key="]" line="88" column="31" />
+        <mark key="^" line="88" column="31" />
+        <mark key="." line="88" column="31" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/JavaCompleBeginnersCave/src/doWhile/doWhile.java" timestamp="1497377074162">
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="26" column="29" />
+        <mark key="^" line="26" column="29" />
+        <mark key="." line="26" column="29" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/JavaLearning/JavaCompleBeginnersCave/src/arrays/app.java" timestamp="1497434389623">
+        <mark key="[" line="22" column="30" />
+        <mark key="]" line="23" column="29" />
+        <mark key="^" line="23" column="29" />
+        <mark key="." line="23" column="29" />
       </file>
       <file name="/PsContextInfo.java" timestamp="1499177114432" />
       <file name="/fragment.java" timestamp="1499342564751">
@@ -144,9 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="59" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
-      <jump line="91" column="10" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
-      <jump line="93" column="24" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
       <jump line="96" column="61" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
       <jump line="98" column="38" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
       <jump line="99" column="38" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
@@ -244,44 +355,47 @@
       <jump line="91" column="45" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/plantMaintenanceExtensions/src/main/java/plm/modules/plantmaintenance/PlantMaintenanceContextInfo.java" />
       <jump line="220" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/plantMaintenanceExtensions/src/main/java/plm/modules/plantmaintenance/PlantMaintenanceContextInfo.java" />
       <jump line="677" column="31" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" />
+      <jump line="397" column="25" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java" />
+      <jump line="231" column="9" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java" />
+      <jump line="97" column="50" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>b</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>readData</text>
+        <text>key</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJvb2xlYW4gc2luZ2xlRG9jdW1lbnRXaXRoRXJyb3IgPSB2X2d1aXMuc3RyZWFtKCkuYWxsTWF0Y2goVXNlcklucHV0RG9jdW1lbnQ6OmlzRXJyb3IpICYmIHZfZ3Vpcy5zaXplKCkgPT0gMTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGdldExvbmdOdW1iZXIoKQogICAgewogICAgICByZXR1cm4gbG9uZ251bWJlcjsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIGlmICgpewo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgaWYgKCkK</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>obrObjectFilters = new ObrObjectFilterHandler(PS_TOOL_FILTER, PS_TOOL_SKIP);
     obrObjectFilters.addFilterListener(this);</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYm9vbGVhbiBzaW5nbGVEb2N1bWVudFdpdGhFcnJvcjIgPSB2X2d1aXMuc2l6ZSgpID09IDEgJiYgdl9ndWlzLmdldCgwKS5kZGlzRXJyb3I7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYm9vbGVhbiBzaW5nbGVEb2N1bWVudFdpdGhFcnJvcjIgPSB2X2d1aXMuc2l6ZSgpID09IDEgJiYgdl9ndWlzLmdldCgwKS5kZGlzRXJyb3I7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIFZlY3RvcjxVc2VySW5wdXREb2N1bWVudD4gdl9ndWlzX25vRXJyb3IgPSB2X2d1aXMuc3RyZWFtKCkuZmlsdGVyKGUgLT4gIWUuaXNFcnJvcigpKS5jb2xsZWN0KENvbGxlY3RvcnMudG9Db2xsZWN0aW9uKFZlY3Rvcjo6bmV3KSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -291,15 +405,14 @@
       </register>
     </registers>
     <search>
-      <last-search>readData</last-search>
+      <last-search>key</last-search>
       <last-offset />
-      <last-pattern>readData</last-pattern>
+      <last-pattern>key</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>key</entry>
         <entry encoding="base64">XDxHdWljZVV0aWxzXD4=</entry>
         <entry>delete</entry>
         <entry>enum</entry>
@@ -308,6 +421,7 @@
         <entry>main</entry>
         <entry>in</entry>
         <entry>readData</entry>
+        <entry>key</entry>
       </history-search>
       <history-cmd>
         <entry>68</entry>
