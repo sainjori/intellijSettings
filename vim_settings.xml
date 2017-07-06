@@ -42,32 +42,18 @@
         <mark key="'" line="276" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/KundenEntwicklung/cust-ksb/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" timestamp="1499247781471" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/plantMaintenanceExtensions/src/main/java/plm/modules/plantmaintenance/PlantMaintenanceContextInfo.java" timestamp="1499167598166">
-        <mark key="'" line="117" column="48" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/plantMaintenanceExtensions/src/main/java/plm/modules/plantmaintenance/PlantMaintenanceContextInfo.java" timestamp="1499343179331">
+        <mark key="'" line="220" column="2" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/dropwizard-example/pom.xml" timestamp="1497622976173">
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ctx/filter/DefaultFilterUIBuilder.java" timestamp="1499175818299">
-        <mark key="'" line="149" column="0" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="^" line="147" column="5" />
-        <mark key="." line="147" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations.xml" timestamp="1493397673309">
         <mark key="[" line="7" column="63" />
         <mark key="]" line="7" column="64" />
         <mark key="." line="7" column="64" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/utils/filtering/ObrObjectFilterHandler.java" timestamp="1499176874807">
-        <mark key="'" line="314" column="23" />
-        <mark key="[" line="278" column="0" />
-        <mark key="]" line="278" column="0" />
-        <mark key="." line="278" column="0" />
-        <mark key="^" line="276" column="24" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/pom.xml" timestamp="1499186756636">
         <mark key="'" line="411" column="31" />
@@ -110,18 +96,26 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499334306426">
+      <file name="/Dummy.txt" timestamp="1499344753725">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" timestamp="1499256244750">
-        <mark key="'" line="693" column="41" />
-        <mark key="[" line="94" column="31" />
-        <mark key="]" line="95" column="1" />
-        <mark key="." line="95" column="1" />
-        <mark key="^" line="95" column="1" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" timestamp="1499343299923">
+        <mark key="'" line="675" column="31" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="112" column="45" />
+        <mark key="." line="111" column="0" />
+        <mark key="^" line="675" column="28" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1499095358917">
+        <mark key="'" line="3679" column="75" />
+        <mark key="[" line="3018" column="65" />
+        <mark key="]" line="2997" column="46" />
+        <mark key="." line="2997" column="46" />
+        <mark key="^" line="2997" column="46" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ctx/ObrContextInfo.java" timestamp="1499342872572" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/proc/PlmProcessConversionSchedule.java" timestamp="1499256297179">
         <mark key="'" line="20" column="1" />
       </file>
@@ -132,18 +126,17 @@
         <mark key="." line="85" column="8" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/README.md" timestamp="1499186540086" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java" timestamp="1499337286327">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java" timestamp="1499345230994">
         <mark key="'" line="105" column="27" />
-        <mark key="[" line="172" column="18" />
-        <mark key="]" line="172" column="34" />
-        <mark key="^" line="172" column="34" />
-        <mark key="." line="172" column="34" />
+        <mark key="[" line="241" column="0" />
+        <mark key="]" line="241" column="0" />
+        <mark key="." line="241" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/gui/errordialog/ErrorDialog.java" timestamp="1499260712930">
         <mark key="'" line="133" column="14" />
       </file>
       <file name="/PsContextInfo.java" timestamp="1499177114432" />
-      <file name="/fragment.java" timestamp="1499331666277">
+      <file name="/fragment.java" timestamp="1499342564751">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="57" />
         <mark key="." line="0" column="57" />
@@ -151,9 +144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="32" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
-      <jump line="79" column="48" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
-      <jump line="82" column="36" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
       <jump line="87" column="59" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
       <jump line="91" column="10" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
       <jump line="93" column="24" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
@@ -251,13 +241,16 @@
       <jump line="207" column="108" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java" />
       <jump line="167" column="42" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java" />
       <jump line="105" column="27" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java" />
+      <jump line="91" column="45" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/plantMaintenanceExtensions/src/main/java/plm/modules/plantmaintenance/PlantMaintenanceContextInfo.java" />
+      <jump line="220" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/plantMaintenanceExtensions/src/main/java/plm/modules/plantmaintenance/PlantMaintenanceContextInfo.java" />
+      <jump line="677" column="31" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>singleDocumentWithError</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>singleDocumentWithError</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>readData</text>
@@ -266,19 +259,20 @@
         <text encoding="base64">ICAgICAgICAgIGJvb2xlYW4gc2luZ2xlRG9jdW1lbnRXaXRoRXJyb3IgPSB2X2d1aXMuc3RyZWFtKCkuYWxsTWF0Y2goVXNlcklucHV0RG9jdW1lbnQ6OmlzRXJyb3IpICYmIHZfZ3Vpcy5zaXplKCkgPT0gMTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYm9vbGVhbiBzaW5nbGVEb2N1bWVudFdpdGhFcnJvcjIgPSB2X2d1aXMuc2l6ZSgpID09IDEgJiYgdl9ndWlzLmdldCgwKS5kZGlzRXJyb3I7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgaWYgKCkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>obrObjectFilters = new ObrObjectFilterHandler(PS_TOOL_FILTER, PS_TOOL_SKIP);
+    obrObjectFilters.addFilterListener(this);</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYm9vbGVhbiBzaW5nbGVEb2N1bWVudFdpdGhFcnJvcjIgPSB2X2d1aXMuc2l6ZSgpID09IDEgJiYgdl9ndWlzLmdldCgwKS5kZGlzRXJyb3I7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIFZlY3RvcjxVc2VySW5wdXREb2N1bWVudD4gdl9ndWlzX25vRXJyb3IgPSB2X2d1aXMuc3RyZWFtKCkuZmlsdGVyKGUgLT4gIWUuaXNFcnJvcigpKS5jb2xsZWN0KENvbGxlY3RvcnMudG9Db2xsZWN0aW9uKFZlY3Rvcjo6bmV3KSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -286,12 +280,11 @@
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Ly8gIHByaXZhdGUgU3RyaW5nW10gZ2V0Q29udmVyc2lvbkluZm9NZXNzYWdlcyhWZWN0b3I8VXNlcklucHV0RG9jdW1lbnQ+IHZfZ3VpcykKLy8gIHsKLy8vLyAgICBTdAovLyAgICByZXR1cm4gbmV3IFN0cmluZ1tdOwovLyAgfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIFZlY3RvcjxVc2VySW5wdXREb2N1bWVudD4gdl9ndWlzX25vRXJyb3IgPSB2X2d1aXMuc3RyZWFtKCkuZmlsdGVyKGUgLT4gIWUuaXNFcnJvcigpKS5jb2xsZWN0KENvbGxlY3RvcnMudG9Db2xsZWN0aW9uKFZlY3Rvcjo6bmV3KSk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>// user accepted all conversions and have set the proper conversion action
-      // create the Conversion objects</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>291</text>
