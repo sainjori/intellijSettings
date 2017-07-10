@@ -74,8 +74,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" timestamp="1499679798242">
-        <mark key="'" line="285" column="2" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" timestamp="1499684060582">
+        <mark key="'" line="2" column="0" />
         <mark key="[" line="294" column="0" />
         <mark key="]" line="294" column="0" />
         <mark key="^" line="266" column="28" />
@@ -112,8 +112,8 @@
         <mark key="." line="80" column="0" />
         <mark key="^" line="80" column="13" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/utils/filtering/ObrObjectFilterHandler.java" timestamp="1499682084762">
-        <mark key="'" line="581" column="4" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/utils/filtering/ObrObjectFilterHandler.java" timestamp="1499683126249">
+        <mark key="'" line="517" column="8" />
         <mark key="[" line="621" column="0" />
         <mark key="]" line="622" column="3" />
         <mark key="." line="622" column="3" />
@@ -135,13 +135,16 @@
         <mark key="]" line="281" column="0" />
         <mark key="." line="281" column="0" />
       </file>
-      <file name="/PsContextInfo.java" timestamp="1499681947116">
-        <mark key="'" line="108" column="46" />
+      <file name="/PsContextInfo.java" timestamp="1499683128419">
+        <mark key="'" line="539" column="50" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/test/java/com/dscsag/monitoring/dashboard/testingutils/MysqlIntegrationTest.java" timestamp="1490810050025">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1499683242530">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1499442935395">
         <mark key="[" line="0" column="0" />
@@ -151,9 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="53" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
-      <jump line="137" column="34" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
-      <jump line="142" column="42" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
       <jump line="147" column="9" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
       <jump line="149" column="41" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
       <jump line="151" column="15" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
@@ -251,6 +251,9 @@
       <jump line="285" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" />
       <jump line="581" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/utils/filtering/ObrObjectFilterHandler.java" />
       <jump line="108" column="46" filename="/PsContextInfo.java" />
+      <jump line="517" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/utils/filtering/ObrObjectFilterHandler.java" />
+      <jump line="539" column="50" filename="/PsContextInfo.java" />
+      <jump line="2" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
