@@ -74,12 +74,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" timestamp="1499677311860">
-        <mark key="'" line="186" column="66" />
-        <mark key="[" line="303" column="0" />
-        <mark key="]" line="303" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" timestamp="1499679200055">
+        <mark key="'" line="293" column="0" />
+        <mark key="[" line="294" column="0" />
+        <mark key="]" line="294" column="0" />
         <mark key="^" line="266" column="28" />
-        <mark key="." line="303" column="0" />
+        <mark key="." line="294" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/plantMaintenanceExtensions/src/main/java/plm/modules/plantmaintenance/PlantMaintenanceContextInfo.java" timestamp="1499442065406">
         <mark key="'" line="286" column="2" />
@@ -148,7 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="31" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
       <jump line="121" column="45" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
       <jump line="123" column="26" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
       <jump line="130" column="32" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
@@ -248,13 +247,14 @@
       <jump line="520" column="66" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/utils/filtering/ObrObjectFilterHandler.java" />
       <jump line="423" column="64" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" />
       <jump line="317" column="66" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" />
+      <jump line="293" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>key</text>
@@ -266,37 +266,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IG9ick9iamVjdEZpbHRlcnMuYWN0aW9uUGVyZm9ybWVkKGUpOwo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgCgo=</text>
+        <text encoding="base64">Ly8gIEBPdmVycmlkZQovLyAgcHVibGljIHZvaWQgYWN0aW9uUGVyZm9ybWVkKEFjdGlvbkV2ZW50IGUpCi8vICB7Ci8vICAg</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Ly8gIH0K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IHByaXZhdGUgYm9vbGVhbiBpc09iamVjdFR5cGVTa2lwcGVkKE9ick9iamVjdCBvbykKICB7CiAgICBpZiAob2JyT2JqZWN0RmlsdGVycy5nZXRTa2lwTGV2ZWxGaWx0ZXIoKSA9PSBudWxsIHx8IG9ick9iamVjdEZpbHRlcnMuZ2V0U2tpcExldmVsRmlsdGVyKCkuaXNFbXB0eSgpKQogICAgICByZXR1cm4gZmFsc2U7CiAgICBib29sZWFuIHNraXBwZWQgPSBmYWxzZTsKICAgIGZvciAoT2JyT2JqZWN0RmlsdGVyIHBmIDogb2JyT2JqZWN0RmlsdGVycy5nZXRTa2lwTGV2ZWxGaWx0ZXIoKS52YWx1ZXMoKSkKICAgIHsKICAgICAgc2tpcHBlZCA9IHBmLmlzT2JqZWN0RmlsdGVyZWQob28pOwogICAgICBpZiAoc2tpcHBlZCkKICAgICAgICBicmVhazsKICAgIH0KICAgIHJldHVybiBza2lwcGVkOwogIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgTU5VX1NFUEFSQVRPUiA9ICJtbnUuc2VwYXJhdG9yIjsK</text>
       </register>
-      <register name="6" type="4">
-        <text>private boolean isObjectFiltered(ObrObject oo)
-  {
-    if (obrObjectFilters.getObjectFilter() == null || obrObjectFilters.getObjectFilter().isEmpty())
-      return false;
-    boolean filtered = false;
-    for (ObrObjectFilter pf : obrObjectFilters.getObjectFilter().values())
-    {
-      filtered = pf.isObjectFiltered(oo);
-      if (filtered)
-        break;
-    }
-    return filtered;
-  }</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgb2JyT2JqZWN0RmlsdGVycy5pc09iamVjdEZpbHRlcmVkKG9vKQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIHN0YXRpYyBTdHJpbmcgRklMVEVSID0gImZpbHRlciI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIHN0YXRpYyBTdHJpbmcgU0tJUCA9ICJza2lwIjsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
