@@ -74,12 +74,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" timestamp="1499446461488">
-        <mark key="'" line="417" column="64" />
-        <mark key="[" line="675" column="0" />
-        <mark key="]" line="675" column="0" />
-        <mark key="^" line="175" column="41" />
-        <mark key="." line="675" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" timestamp="1499677311860">
+        <mark key="'" line="186" column="66" />
+        <mark key="[" line="303" column="0" />
+        <mark key="]" line="303" column="0" />
+        <mark key="^" line="266" column="28" />
+        <mark key="." line="303" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/plantMaintenanceExtensions/src/main/java/plm/modules/plantmaintenance/PlantMaintenanceContextInfo.java" timestamp="1499442065406">
         <mark key="'" line="286" column="2" />
@@ -97,13 +97,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/cfc/pref/PrefObject.java" timestamp="1499442705573">
         <mark key="'" line="472" column="16" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1499095358917">
-        <mark key="'" line="3679" column="75" />
-        <mark key="[" line="3018" column="65" />
-        <mark key="]" line="2997" column="46" />
-        <mark key="." line="2997" column="46" />
-        <mark key="^" line="2997" column="46" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/proc/PlmProcessConversionSchedule.java" timestamp="1499256297179">
         <mark key="'" line="20" column="1" />
       </file>
@@ -119,12 +112,11 @@
         <mark key="." line="80" column="0" />
         <mark key="^" line="80" column="13" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/utils/filtering/ObrObjectFilterHandler.java" timestamp="1499445784438">
-        <mark key="'" line="531" column="66" />
-        <mark key="[" line="82" column="2" />
-        <mark key="]" line="82" column="3" />
-        <mark key="." line="82" column="3" />
-        <mark key="^" line="82" column="3" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/utils/filtering/ObrObjectFilterHandler.java" timestamp="1499677818449">
+        <mark key="[" line="621" column="0" />
+        <mark key="]" line="622" column="3" />
+        <mark key="." line="622" column="3" />
+        <mark key="^" line="622" column="3" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/gui/errordialog/ErrorDialog.java" timestamp="1499260712930">
         <mark key="'" line="133" column="14" />
@@ -156,7 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="16" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
       <jump line="119" column="31" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
       <jump line="121" column="45" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
       <jump line="123" column="26" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
@@ -256,13 +247,14 @@
       <jump line="683" column="19" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" />
       <jump line="520" column="66" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/utils/filtering/ObrObjectFilterHandler.java" />
       <jump line="423" column="64" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" />
+      <jump line="317" column="66" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICByZWJ1aWxkVHJlZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>objectFilter</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>key</text>
@@ -271,35 +263,43 @@
         <text encoding="base64">ICAgIHNraXBMZXZlbEZpbHRlciA9IG5ldyBIYXNoTWFwPFN0cmluZywgT2JyT2JqZWN0RmlsdGVyPigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICByZWJ1aWxkVHJlZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICByZXNldFNraXBUeXBlKCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgCgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="5" type="4">
-        <text>//    toolbar.addSeparator();
-//    addSkipItems(toolbar);
-//    toolbar.addSeparator();
-//    addFilterItems(toolbar);
-//    obrObjectFilters.addResetAllFilter(toolbar);</text>
+        <text encoding="base64">IHByaXZhdGUgYm9vbGVhbiBpc09iamVjdFR5cGVTa2lwcGVkKE9ick9iamVjdCBvbykKICB7CiAgICBpZiAob2JyT2JqZWN0RmlsdGVycy5nZXRTa2lwTGV2ZWxGaWx0ZXIoKSA9PSBudWxsIHx8IG9ick9iamVjdEZpbHRlcnMuZ2V0U2tpcExldmVsRmlsdGVyKCkuaXNFbXB0eSgpKQogICAgICByZXR1cm4gZmFsc2U7CiAgICBib29sZWFuIHNraXBwZWQgPSBmYWxzZTsKICAgIGZvciAoT2JyT2JqZWN0RmlsdGVyIHBmIDogb2JyT2JqZWN0RmlsdGVycy5nZXRTa2lwTGV2ZWxGaWx0ZXIoKS52YWx1ZXMoKSkKICAgIHsKICAgICAgc2tpcHBlZCA9IHBmLmlzT2JqZWN0RmlsdGVyZWQob28pOwogICAgICBpZiAoc2tpcHBlZCkKICAgICAgICBicmVhazsKICAgIH0KICAgIHJldHVybiBza2lwcGVkOwogIH0=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBmaXJlRmlsdGVyQ2hhbmdlZCgpOwo=</text>
+      <register name="6" type="4">
+        <text>private boolean isObjectFiltered(ObrObject oo)
+  {
+    if (obrObjectFilters.getObjectFilter() == null || obrObjectFilters.getObjectFilter().isEmpty())
+      return false;
+    boolean filtered = false;
+    for (ObrObjectFilter pf : obrObjectFilters.getObjectFilter().values())
+    {
+      filtered = pf.isObjectFiltered(oo);
+      if (filtered)
+        break;
+    }
+    return filtered;
+  }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlyZUZpbHRlckNoYW5nZWQoKTsK</text>
+        <text encoding="base64">ICAgICAgb2JyT2JqZWN0RmlsdGVycy5pc09iamVjdEZpbHRlcmVkKG9vKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlyZUZpbHRlckNoYW5nZWQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlyZUZpbHRlckNoYW5nZWQoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>291</text>
