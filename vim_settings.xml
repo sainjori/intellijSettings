@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/sandbox/learnMaben/my-app/src/main/java/com/mycompany/app/App.java" timestamp="1499800261247">
-        <mark key="[" line="17" column="13" />
-        <mark key="]" line="17" column="12" />
-        <mark key="^" line="17" column="12" />
-        <mark key="." line="17" column="12" />
+      <file name="C:/ENTWICKLUNG/sandbox/learnMaben/my-app/src/main/java/com/mycompany/app/App.java" timestamp="1499802552035">
+        <mark key="[" line="21" column="28" />
+        <mark key="]" line="21" column="28" />
+        <mark key="^" line="21" column="32" />
+        <mark key="." line="21" column="28" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-46/.gitignore" timestamp="1499425822090">
         <mark key="[" line="1" column="0" />
@@ -144,14 +144,15 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/gui/errordialog/ErrorDialog.java" timestamp="1499260712930">
         <mark key="'" line="133" column="14" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/log4j/log4j/1.2.12/log4j-1.2.12.jar!/org/apache/log4j/Priority.class" timestamp="1499802573818" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/pom.xml" timestamp="1499186756636">
         <mark key="'" line="411" column="31" />
       </file>
-      <file name="C:/ENTWICKLUNG/sandbox/learnMaben/my-app/pom.xml" timestamp="1499800925913">
-        <mark key="[" line="26" column="9" />
-        <mark key="]" line="43" column="21" />
-        <mark key="^" line="47" column="9" />
-        <mark key="." line="43" column="21" />
+      <file name="C:/ENTWICKLUNG/sandbox/learnMaben/my-app/pom.xml" timestamp="1499802637437">
+        <mark key="[" line="28" column="15" />
+        <mark key="]" line="28" column="20" />
+        <mark key="^" line="28" column="20" />
+        <mark key="." line="28" column="20" />
       </file>
       <file name="C:/ENTWICKLUNG/sandbox/learnMaben/my-app/src/test/java/com/mycompany/app/AppTest.java" timestamp="1499799261208">
         <mark key="[" line="38" column="0" />
@@ -302,10 +303,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>1.2.12</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>1.2.12</text>
       </register>
       <register name="/" type="4">
         <text>key</text>
