@@ -29,6 +29,7 @@
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
   <action id="EditorPasteFromX11" />
   <action id="EditorUp">
@@ -67,6 +68,7 @@
   <action id="GotoTypeDeclaration">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="IncrementalSearch" />
   <action id="Print" />
   <action id="RecentFiles" />
   <action id="ReopenClosedTab">
