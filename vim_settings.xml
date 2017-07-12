@@ -1,20 +1,8 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ENTWICKLUNG/sandbox/learnMaben/my-app/src/main/java/com/mycompany/app/App.java" timestamp="1499802552035">
-        <mark key="[" line="21" column="28" />
-        <mark key="]" line="21" column="28" />
-        <mark key="^" line="21" column="32" />
-        <mark key="." line="21" column="28" />
-      </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-46/.gitignore" timestamp="1499425822090">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="4" />
-        <mark key="^" line="1" column="4" />
-        <mark key="." line="1" column="4" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/sonar-project.properties" timestamp="1491913023510">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="23" />
@@ -37,6 +25,7 @@
         <mark key="." line="210" column="33" />
         <mark key="^" line="210" column="33" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/java/src/cadagent/sap/ConversionEventData.java" timestamp="1499867563436" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker.java" timestamp="1491478243595">
         <mark key="[" line="58" column="30" />
         <mark key="]" line="58" column="30" />
@@ -48,12 +37,6 @@
         <mark key="." line="67" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/proc/DCKeyObject.java" timestamp="1499853727314" />
-      <file name="C:/ENTWICKLUNG/sandbox/learnMaben/my-app/target/classes/application.properties" timestamp="1499801203058">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="5" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/proc/DataContainer.java" timestamp="1499865911976" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/utils/converter/DefaultConvertionSettings.java" timestamp="1499866175759" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandbox/dropwizard-example/pom.xml" timestamp="1497622976173">
@@ -74,13 +57,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/java/src/cadagent/sap/ProcessDocChange.java" timestamp="1499854942163" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/utils/configtransmitter/ConfigSapDownloaderForStartup.java" timestamp="1499862653317" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/java/src/cadagent/sap/ConversionObserver.java" timestamp="1499855112781" />
-      <file name="C:/ENTWICKLUNG/sandbox/learnMaben/my-app/pom.xml" timestamp="1499802637437">
-        <mark key="[" line="28" column="15" />
-        <mark key="]" line="28" column="20" />
-        <mark key="^" line="28" column="20" />
-        <mark key="." line="28" column="20" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/omf/ProcessDocDeleteOriginals.java" timestamp="1499867029971">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/omf/ProcessDocDeleteOriginals.java" timestamp="1499868551583">
         <mark key="'" line="241" column="29" />
         <mark key="[" line="394" column="11" />
         <mark key="]" line="487" column="33" />
@@ -102,19 +79,19 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/java/src/cadagent/sap/ProcessDocDeleteOriginals.java" timestamp="1499865551183">
-        <mark key="'" line="212" column="4" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/java/src/cadagent/sap/ProcessDocDeleteOriginals.java" timestamp="1499867478589">
+        <mark key="'" line="279" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/sandbox/javaLampda/src/org/yasar/Comparator.java" timestamp="1494592806312">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/omf/OmfAbout.java" timestamp="1499867067182">
-        <mark key="[" line="66" column="18" />
-        <mark key="]" line="66" column="18" />
-        <mark key="." line="66" column="18" />
-        <mark key="^" line="66" column="18" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/omf/OmfAbout.java" timestamp="1499868704650">
+        <mark key="[" line="84" column="19" />
+        <mark key="]" line="84" column="21" />
+        <mark key="." line="84" column="21" />
+        <mark key="^" line="84" column="21" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/midway/midway-backend/src/test/java/com/dscsag/monitoring/midway/api/LogUploadEndpointTest.java" timestamp="1491306731465">
         <mark key="[" line="81" column="0" />
@@ -127,7 +104,7 @@
         <mark key="." line="36" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ObrFunctionEventQueue.java" timestamp="1499861737653" />
-      <file name="/Dummy.txt" timestamp="1499866695369">
+      <file name="/Dummy.txt" timestamp="1499868286679">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -144,29 +121,17 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1499801386246">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="57" />
-        <mark key="." line="0" column="57" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ObrObject.java" timestamp="1499867332227" />
+      <file name="/fragment.java" timestamp="1499867743450">
+        <mark key="[" line="0" column="45" />
+        <mark key="]" line="0" column="45" />
+        <mark key="." line="0" column="45" />
         <mark key="^" line="0" column="28" />
-      </file>
-      <file name="C:/ENTWICKLUNG/sandbox/learnMaben/my-app/src/main/java/com/mycompany/app/test/Tester.java" timestamp="1499800593336">
-        <mark key="[" line="41" column="46" />
-        <mark key="]" line="42" column="21" />
-        <mark key="^" line="42" column="21" />
-        <mark key="." line="42" column="21" />
-      </file>
-      <file name="C:/ENTWICKLUNG/sandbox/learnMaben/my-app/src/main/resources/application.properties" timestamp="1499801297067">
-        <mark key="[" line="3" column="26" />
-        <mark key="]" line="3" column="26" />
-        <mark key="^" line="3" column="26" />
-        <mark key="." line="3" column="26" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/java/src/cadagent/sap/ProcessStartConversion.java" timestamp="1499855047369" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/convert/TRUNK-SNAPSHOT/convert-TRUNK-20170712.101532-3952.jar!/cadagent/sap/ProcessDocDeleteOriginals.class" timestamp="1499864642640" />
     </filemarks>
     <jumps>
-      <jump line="204" column="29" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/System.java" />
       <jump line="11" column="7" filename="C:/ENTWICKLUNG/java/workspaces/sandbox/dropwizardExample2/pom.xml" />
       <jump line="155" column="11" filename="C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/Vector.java" />
       <jump line="89" column="13" filename="C:/ENTWICKLUNG/java/workspaces/KundenEntwicklung/cust-sandvik/src/main/java/sandvik/dadi/DadiExportAfter.java" />
@@ -266,71 +231,49 @@
       <jump line="93" column="9" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/omf/ProcessDocDeleteOriginals.java" />
       <jump line="243" column="14" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/omf/ProcessDocDeleteOriginals.java" />
       <jump line="241" column="29" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/omf/ProcessDocDeleteOriginals.java" />
+      <jump line="279" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/java/src/cadagent/sap/ProcessDocDeleteOriginals.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>DwOC</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>DwOC</text>
       </register>
       <register name="/" type="4">
         <text>key</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRjLmFkZE9iamVjdChET0NVTUVOVEtFWSwgbWFwMSk7Cg==</text>
+        <text encoding="base64">ICAgIHZXc0FwcGxpYy5hZGQoIkRPQyIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKiB2ZWN0b3Igd2l0aCB3c2FwcGxpY2F0aW9ucy4gQWxsIG9yaWdpbmFscyB3aXRoIHRoZXNlIHdzYXBwbGljYXRpb25zIHdpbGwgYmUgZGVsZXRlZCAqLwogICAgIENvbGxlY3Rpb248U3RyaW5nPiB2V3NBcHBsaWMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICAgIEFwaVBhcmFtZXRlciBwYXJhbSA9IG5ldyBBcGlQYXJhbWV0ZXIoKTsKICAgIHBhcmFtLmFkZEltcG9ydCgiUEZfRE9LQVIiLCBkb2NLZXkuZ2V0KCJCQVBJX0RPQ19BVVhfRE9DVFlQRSIpKTsKICAgIHBhcmFtLmFkZEltcG9ydCgiUEZfRE9LTlIiLCBkb2NLZXkuZ2V0KCJCQVBJX0RPQ19BVVhfRE9DTlVNQkVSIikpOwogICAgcGFyYW0uYWRkSW1wb3J0KCJQRl9ET0tUTCIsIGRvY0tleS5nZXQoIkJBUElfRE9DX0FVWF9ET0NQQVJUIikpOwogICAgcGFyYW0uYWRkSW1wb3J0KCJQRl9ET0tWUiIsIGRvY0tleS5nZXQoIkJBUElfRE9DX0FVWF9ET0NWRVJTSU9OIikpOwo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIC8qKiB2ZWN0b3Igd2l0aCB3c2FwcGxpY2F0aW9ucy4gQWxsIG9yaWdpbmFscyB3aXRoIHRoZXNlIHdzYXBwbGljYXRpb25zIHdpbGwgYmUgZGVsZXRlZCAqLwogICAgIENvbGxlY3Rpb248U3RyaW5nPiB2V3NBcHBsaWMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IGRvY0tleTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>String title = Preferences.stringValue(&quot;system.applicationName&quot;, &quot;ECTR&quot;);
     PlmAboutGui gui = new PlmAboutGui(title);
     gui.show();</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IHByaXZhdGUgaW50IHJldHJpZXMgPSAwOwogICAgcHJpdmF0ZSBpbnQgbWF4X3JldHJpZXMgPSAzOw==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGNhZGFnZW50LmNmYy5sb2cuTG9nOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">cGFja2FnZSBjYWRhZ2VudC5zYXA7Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>package cadagent.sap;
-
-import java.io.File;
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-import java.util.Map.Entry;
-
-import cadagent.cfc.log.DefaultLogException;
-import cadagent.cfc.log.Log;
-import cadagent.cfc.pref.Preferences;
-import cadagent.cfc.util.StringTool;
-import cadagent.cfc.util.Trace;
-import cadagent.exc.DocumentLockException;
-import cadagent.objmod.PlmDocument;
-import cadagent.objmod.PlmDocumentContainer;
-import cadagent.plm.numconverter.DocumentNumberConverter;
-import cadagent.proc.DCKeyObject;
-import cadagent.proc.DataContainer;
-import cadagent.proc.PLMProcess;
-import cadagent.sap.conn.jco.tm.Transaction;
-import cadagent.sap.man.SapManager;</text>
       </register>
       <register name=":" type="4">
         <text>291</text>
