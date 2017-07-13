@@ -54,7 +54,7 @@
       <file name="/ObrObjectFilterHandler.java" timestamp="1499177619319">
         <mark key="'" line="276" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499944992060">
+      <file name="/Dummy.txt" timestamp="1499948133887">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -98,18 +98,18 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/pom.xml" timestamp="1499186756636">
         <mark key="'" line="411" column="31" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/omf/ProcessDocDeleteOriginals.java" timestamp="1499947643987">
-        <mark key="'" line="521" column="22" />
-        <mark key="[" line="297" column="17" />
-        <mark key="]" line="300" column="18" />
-        <mark key="^" line="300" column="18" />
-        <mark key="." line="300" column="18" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/omf/ProcessDocDeleteOriginals.java" timestamp="1499949344170">
+        <mark key="'" line="496" column="39" />
+        <mark key="[" line="280" column="17" />
+        <mark key="]" line="274" column="26" />
+        <mark key="." line="274" column="26" />
+        <mark key="^" line="274" column="26" />
       </file>
       <file name="/PsContextInfo.java" timestamp="1499683128419">
         <mark key="'" line="539" column="50" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/java/src/cadagent/sap/ProcessDocDeleteOriginals.java" timestamp="1499946045070">
-        <mark key="'" line="279" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/java/src/cadagent/sap/ProcessDocDeleteOriginals.java" timestamp="1499948386571">
+        <mark key="'" line="66" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1499878345682">
         <mark key="[" line="0" column="0" />
@@ -119,9 +119,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3681" column="86" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
-      <jump line="3679" column="75" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
-      <jump line="832" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ctx/ObrTreeContextInfo.java" />
       <jump line="136" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/utils/filtering/ObrObjectFilterHandler.java" />
       <jump line="296" column="26" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/utils/filtering/ObrObjectFilterHandler.java" />
       <jump line="149" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ctx/filter/DefaultFilterUIBuilder.java" />
@@ -219,13 +216,16 @@
       <jump line="159" column="7" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/omf/ProcessDocEnDeQueue.java" />
       <jump line="410" column="24" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/omf/ProcessDocDeleteOriginals.java" />
       <jump line="520" column="22" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/omf/ProcessDocDeleteOriginals.java" />
+      <jump line="103" column="16" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/omf/ProcessDocDeleteOriginals.java" />
+      <jump line="64" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/java/src/cadagent/sap/ProcessDocDeleteOriginals.java" />
+      <jump line="496" column="39" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/omf/ProcessDocDeleteOriginals.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>FILE_NAME</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>FILE_NAME</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>key</text>
@@ -234,34 +234,31 @@
         <text encoding="base64">ICAgICAgICBtYXAucHV0KCJGSUxFX05BTUUiLCBlLmdldCgiRklMRV9OQU1FIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgIGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PGNvbmZpZ3VyYXRpb24+CgkJdGEKCTwvY29uZmlndXJhdGlvbj4=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgfWRkCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgU3RyaW5nIGZpbGVuYW1lID0gKChTdHJpbmcpIHB0X2ZpbGUuZ2V0KCJGSUxFTkFNRSIpKS50b0xvd2VyQ2FzZSgpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>//    for (PlmDocument document : plmDocuments)
-//    {</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgU3RyaW5nIHdzYXBwbCA9ICgoU3RyaW5nKSBwdF9maWxlLmdldCgiREFQUEwiKSkudG9Mb3dlckNhc2UoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEFwaVBhcmFtZXRlciBwYXJhbSA9IG5ldyBBcGlQYXJhbWV0ZXIoKTsKCiAgICBMaXN0PE1hcDxTdHJpbmcsID8+PiB0YWJsZURhdGEgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgIGZvciAoUGxtRG9jdW1lbnQgZG9jdW1lbnQgOiBwbG1Eb2N1bWVudHMpCiAgICB7CiAgICAgIHRhYmxlRGF0YS5hZGQoZG9jdW1lbnQuZXhwb3J0QmFwaURvY0tleXMoKSk7CiAgICB9CiAgICBwYXJhbS5hZGRUYWJsZSgiSVNfRE9DVU1FTlQiLCB0YWJsZURhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgbWFwLnB1dCgiREFQUEwiLCBkb2NfZmlsZS5nZXQoIldTX0FQUExJQ0FUSU9OIikpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEFwaVBhcmFtZXRlciBwYXJhbSA9IG5ldyBBcGlQYXJhbWV0ZXIoKTsKICAgIHBhcmFtLmFkZEltcG9ydCgiUEZfRE9LQVIiLCBkb2NLZXkuZ2V0KCJCQVBJX0RPQ19BVVhfRE9DVFlQRSIpKTsKICAgIHBhcmFtLmFkZEltcG9ydCgiUEZfRE9LTlIiLCBkb2NLZXkuZ2V0KCJCQVBJX0RPQ19BVVhfRE9DTlVNQkVSIikpOwogICAgcGFyYW0uYWRkSW1wb3J0KCJQRl9ET0tUTCIsIGRvY0tleS5nZXQoIkJBUElfRE9DX0FVWF9ET0NQQVJUIikpOwogICAgcGFyYW0uYWRkSW1wb3J0KCJQRl9ET0tWUiIsIGRvY0tleS5nZXQoIkJBUElfRE9DX0FVWF9ET0NWRVJTSU9OIikpOwo=</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKiB2ZWN0b3Igd2l0aCB3c2FwcGxpY2F0aW9ucy4gQWxsIG9yaWdpbmFscyB3aXRoIHRoZXNlIHdzYXBwbGljYXRpb25zIHdpbGwgYmUgZGVsZXRlZCAqLwogICAgIENvbGxlY3Rpb248U3RyaW5nPiB2V3NBcHBsaWMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICAgICAgcHRGaWxlcyA9IHB0RmlsZXMuc3RyZWFtKCkubWFwKGUgLT4gewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IGRvY0tleTsK</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IG1hcCA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICBtYXAucHV0KCJMT19PQkpJRCIsIGUuZ2V0KCJMT0lPX0lEIikpOwogICAgICAgIG1hcC5wdXQoIlBIX09CSklEIiwgZS5nZXQoIlBISU9fSUQiKSk7CiAgICAgICAgbWFwLnB1dCgiV1NfQVBQTElDQVRJT04iLCBlLmdldCgiV1NfQVBQTElDQVRJT04iKSk7CiAgICAgICAgLy8gICAgICAgIG1hcC5wdXQoIkRBUFBMIiwgZS5nZXQoIldTX0FQUExJQ0FUSU9OIikpOwogICAgICAgIG1hcC5wdXQoIlNUT1JBR0VfQ0FUIiwgZS5nZXQoIlNUT1JfQ0FUIikpOwogICAgICAgIG1hcC5wdXQoIiIsIGUuZ2V0KCJGSUxFX05BTUUiKSk7CiAgICAgICAgLy8gICAgICAgIFN0cmluZyB3c2FwcGwgPSAoKFN0cmluZykgcHRfZmlsZS5nZXQoIkRBUFBMIikpLnRvTG93ZXJDYXNlKCk7CiAgICAgICAgLy8gICAgICAgIFN0cmluZyBmaWxlbmFtZSA9ICgoU3RyaW5nKSBwdF9maWxlLmdldCgiRklMRU5BTUUiKSkudG9Mb3dlckNhc2UoKTsKICAgICAgICByZXR1cm4gbWFwOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>String title = Preferences.stringValue(&quot;system.applicationName&quot;, &quot;ECTR&quot;);
-    PlmAboutGui gui = new PlmAboutGui(title);
-    gui.show();</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>291</text>
