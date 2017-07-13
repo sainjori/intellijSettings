@@ -38,12 +38,11 @@
         <mark key="." line="210" column="33" />
         <mark key="^" line="210" column="33" />
       </file>
-      <file name="/ProcessDocDeleteOriginals.java" timestamp="1499957841166" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/pom.xml" timestamp="1499878874722">
-        <mark key="[" line="85" column="4" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="85" column="0" />
+      <file name="/ProcessDocDeleteOriginals.java" timestamp="1499961101374" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/pom.xml" timestamp="1499960579941">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/sapbase/java/src/cadagent/sap/ApiParameter.java" timestamp="1499951532021" />
       <file name="/OmfAbout.java" timestamp="1499956025870" />
@@ -108,8 +107,11 @@
       <file name="/PsContextInfo.java" timestamp="1499683128419">
         <mark key="'" line="539" column="50" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/java/src/cadagent/sap/ProcessDocDeleteOriginals.java" timestamp="1499953194455">
-        <mark key="'" line="479" column="3" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/java/src/cadagent/sap/ProcessDocDeleteOriginals.java" timestamp="1499961107630">
+        <mark key="'" line="500" column="3" />
+        <mark key="]" line="266" column="25" />
+        <mark key="." line="266" column="25" />
+        <mark key="^" line="266" column="25" />
       </file>
       <file name="/fragment.java" timestamp="1499878345682">
         <mark key="[" line="0" column="0" />
@@ -221,8 +223,8 @@
       <jump line="272" column="16" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/omf/ProcessDocDeleteOriginals.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
@@ -234,28 +236,18 @@
         <text encoding="base64">ICBwcml2YXRlIHZvaWQgY3ZhcGlEb2NHZXREZXRhaWwoKSB0aHJvd3MgRGVmYXVsdExvZ0V4Y2VwdGlvbgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CQlmZWZlCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>private PlmDocument getPlmDocument()
-  {
-    String doc_nr = docKey.get(&quot;BAPI_DOC_AUX_DOCNUMBER&quot;);
-    String doc_type = docKey.get(&quot;BAPI_DOC_AUX_DOCTYPE&quot;);
-    String doc_part = docKey.get(&quot;BAPI_DOC_AUX_DOCPART&quot;);
-    String doc_vers = docKey.get(&quot;BAPI_DOC_AUX_DOCVERSION&quot;);
-    return plmAccess.documentNew(doc_nr, doc_type, doc_part, doc_vers);
-  }</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="5" type="4">
         <text>private PlmDocument getPlmDocument()
   {
     String doc_nr = docKey.get(&quot;BAPI_DOC_AUX_DOCNUMBER&quot;);
@@ -265,14 +257,24 @@
     return plmAccess.documentNew(doc_nr, doc_type, doc_part, doc_vers);
   }</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgdGFibGVEYXRhLmFkZChnZXRQbG1Eb2N1bWVudCgpLmV4cG9ydEJhcGlEb2NEcmF3KCkpOwo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="8" type="4">
+        <text>private PlmDocument getPlmDocument()
+  {
+    String doc_nr = docKey.get(&quot;BAPI_DOC_AUX_DOCNUMBER&quot;);
+    String doc_type = docKey.get(&quot;BAPI_DOC_AUX_DOCTYPE&quot;);
+    String doc_part = docKey.get(&quot;BAPI_DOC_AUX_DOCPART&quot;);
+    String doc_vers = docKey.get(&quot;BAPI_DOC_AUX_DOCVERSION&quot;);
+    return plmAccess.documentNew(doc_nr, doc_type, doc_part, doc_vers);
+  }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIExpc3Q8TWFwPFN0cmluZywgPz4+IHRhYmxlRGF0YSA9IGdldFRhYmxlRGF0YSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>291</text>
