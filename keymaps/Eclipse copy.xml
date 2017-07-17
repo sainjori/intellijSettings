@@ -78,10 +78,6 @@
     <keyboard-shortcut first-keystroke="ctrl f11" />
     <keyboard-shortcut first-keystroke="numpad6" />
   </action>
-  <action id="SelectNextOccurrence">
-    <keyboard-shortcut first-keystroke="alt y" />
-    <keyboard-shortcut first-keystroke="ctrl d" />
-  </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
   <action id="ShowPopupMenu">

@@ -24,7 +24,6 @@
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/InputStream.java" timestamp="1499799815608">
         <mark key="'" line="64" column="24" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/sess/PlmSessionManager.java" timestamp="1500058575477" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/cfc/util/StringTool.java" timestamp="1500038413202">
         <mark key="'" line="231" column="23" />
       </file>
@@ -34,11 +33,17 @@
         <mark key="." line="210" column="33" />
         <mark key="^" line="210" column="33" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/core/plm++/java/src/plm/sess/PlmSessionManager.java" timestamp="1500058639015" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/pom.xml" timestamp="1499960579941">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" timestamp="1500280286526">
+        <mark key="'" line="36" column="7" />
+        <mark key="[" line="57" column="41" />
+        <mark key="]" line="57" column="2" />
+        <mark key="^" line="57" column="2" />
+        <mark key="." line="57" column="2" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ctx/ObrTreeContextInfo.java" timestamp="1499176969213">
         <mark key="'" line="167" column="46" />
@@ -51,7 +56,6 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="/system-default.txt" timestamp="1500056992235" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/plantMaintenanceExtensions/src/main/java/plm/modules/plantmaintenance/PlantMaintenanceContextInfo.java" timestamp="1499442065406">
         <mark key="'" line="286" column="2" />
       </file>
@@ -64,14 +68,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/plm/java/src/plm/sess/PlmSessionManager.java" timestamp="1500058463979">
         <mark key="'" line="1543" column="4" />
       </file>
-      <file name="/dtype.xml" timestamp="1500057471200" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/gui/errordialog/ErrorDialog.java" timestamp="1499260712930">
         <mark key="'" line="133" column="14" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/omf/util/OmfCadDocOpen.java" timestamp="1499870141870">
         <mark key="'" line="1087" column="18" />
       </file>
-      <file name="/default.txt" timestamp="1500057402471" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/pom.xml" timestamp="1499186756636">
         <mark key="'" line="411" column="31" />
       </file>
@@ -92,27 +94,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="310" column="23" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/utils/filtering/ObrObjectFilterHandler.java" />
-      <jump line="147" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" />
-      <jump line="269" column="45" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/utils/filtering/ObrObjectFilterHandler.java" />
-      <jump line="474" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" />
-      <jump line="295" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/plantMaintenanceExtensions/src/main/java/plm/modules/plantmaintenance/PlantMaintenanceContextInfo.java" />
-      <jump line="302" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/plantMaintenanceExtensions/src/main/java/plm/modules/plantmaintenance/PlantMaintenanceContextInfo.java" />
-      <jump line="283" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/utils/filtering/ObrObjectFilterHandler.java" />
-      <jump line="356" column="43" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" />
-      <jump line="125" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/plantMaintenanceExtensions/src/main/java/plm/modules/plantmaintenance/PlantMaintenanceContextHelper.java" />
-      <jump line="338" column="29" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/plantMaintenanceExtensions/src/main/java/plm/modules/plantmaintenance/PlantMaintenanceContextInfo.java" />
-      <jump line="94" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" />
-      <jump line="92" column="33" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/plantMaintenanceExtensions/src/main/java/plm/modules/plantmaintenance/PlantMaintenanceContextInfo.java" />
-      <jump line="117" column="48" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/plantMaintenanceExtensions/src/main/java/plm/modules/plantmaintenance/PlantMaintenanceContextInfo.java" />
-      <jump line="501" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" />
-      <jump line="531" column="52" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" />
-      <jump line="264" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" />
-      <jump line="204" column="18" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" />
-      <jump line="332" column="19" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" />
-      <jump line="681" column="1" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" />
-      <jump line="631" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/utils/filtering/ObrObjectFilterHandler.java" />
-      <jump line="699" column="36" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" />
       <jump line="102" column="44" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" />
       <jump line="674" column="49" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" />
       <jump line="664" column="22" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" />
@@ -192,6 +173,27 @@
       <jump line="6228" column="29" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="5345" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="1543" column="4" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/plm/java/src/plm/sess/PlmSessionManager.java" />
+      <jump line="79" column="4" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
+      <jump line="74" column="2" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
+      <jump line="51" column="0" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
+      <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
+      <jump line="73" column="2" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
+      <jump line="61" column="3" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
+      <jump line="66" column="23" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
+      <jump line="58" column="0" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
+      <jump line="62" column="21" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
+      <jump line="65" column="24" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
+      <jump line="68" column="23" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
+      <jump line="56" column="17" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
+      <jump line="57" column="10" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
+      <jump line="60" column="9" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
+      <jump line="33" column="7" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
+      <jump line="34" column="7" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
+      <jump line="55" column="10" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
+      <jump line="53" column="9" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
+      <jump line="37" column="7" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
+      <jump line="36" column="7" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
+      <jump line="35" column="7" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -201,7 +203,7 @@
         <text>DocumentLockException</text>
       </register>
       <register name="/" type="4">
-        <text>attributeC</text>
+        <text encoding="base64">XDxzdGF0aWNcPg==</text>
       </register>
       <register name="0" type="4">
         <text>et_doc_files</text>
@@ -245,9 +247,9 @@
       </register>
     </registers>
     <search>
-      <last-search>attributeC</last-search>
+      <last-search encoding="base64">XDxzdGF0aWNcPg==</last-search>
       <last-offset />
-      <last-pattern>attributeC</last-pattern>
+      <last-pattern encoding="base64">XDxzdGF0aWNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -266,6 +268,8 @@
         <entry encoding="base64">XDxEQ1Jfb25TZXREYXRhRnJvbUF0dHJcPg==</entry>
         <entry>attributeContainer</entry>
         <entry>attributeC</entry>
+        <entry encoding="base64">XDxCRUNvbnRleHRJRlw+</entry>
+        <entry encoding="base64">XDxzdGF0aWNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>68</entry>
@@ -290,7 +294,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
