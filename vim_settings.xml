@@ -58,6 +58,7 @@
       <file name="/ObrObjectFilterHandler.java" timestamp="1499177619319">
         <mark key="'" line="276" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/brobj/BrClassifiedObject.java" timestamp="1500313473255" />
       <file name="/Dummy.txt" timestamp="1500046606065">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -78,8 +79,8 @@
         <mark key="^" line="19" column="27" />
         <mark key="." line="19" column="27" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500312329582">
-        <mark key="'" line="370" column="0" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500314071688">
+        <mark key="'" line="7268" column="28" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/plm/java/src/plm/sess/PlmSessionManager.java" timestamp="1500058463979">
         <mark key="'" line="1543" column="4" />
@@ -105,7 +106,7 @@
       <file name="/PsContextInfo.java" timestamp="1499683128419">
         <mark key="'" line="539" column="50" />
       </file>
-      <file name="/fragment.java" timestamp="1500046024832">
+      <file name="/fragment.java" timestamp="1500312695680">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="45" />
         <mark key="." line="0" column="45" />
@@ -113,7 +114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="562" column="32" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java" />
       <jump line="133" column="14" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/gui/errordialog/ErrorDialog.java" />
       <jump line="381" column="11" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java" />
       <jump line="154" column="106" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java" />
@@ -213,6 +213,7 @@
       <jump line="7224" column="13" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="7182" column="21" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="370" column="0" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="7268" column="28" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
