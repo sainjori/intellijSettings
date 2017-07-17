@@ -33,8 +33,6 @@
         <mark key="." line="210" column="33" />
         <mark key="^" line="210" column="33" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/cad/PlmProcessCadDocumentImportOnDemand.java" timestamp="1500303005329" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/cad/PlmProcessCadProgressiveDieImport.java" timestamp="1500302655087" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/pom.xml" timestamp="1499960579941">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
@@ -67,7 +65,9 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/proc/PlmProcessConversionSchedule.java" timestamp="1499256297179">
         <mark key="'" line="20" column="1" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportSetDataFromAttr.java" timestamp="1500304410270" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportSetDataFromAttr.java" timestamp="1500306742813">
+        <mark key="[" line="19" column="33" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/plm/java/src/plm/sess/PlmSessionManager.java" timestamp="1500058463979">
         <mark key="'" line="1543" column="4" />
       </file>
