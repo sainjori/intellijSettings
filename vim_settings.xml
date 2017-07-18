@@ -40,7 +40,7 @@
         <mark key="^" line="210" column="33" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/objmod/CheckoutInfo.java" timestamp="1500366801639" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500373038579" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500374509175" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/pom.xml" timestamp="1499960579941">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
@@ -74,6 +74,11 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/proc/PlmProcessConversionSchedule.java" timestamp="1499256297179">
         <mark key="'" line="20" column="1" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportSetDataFromAttr.java" timestamp="1500374851370">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500366548390">
         <mark key="'" line="7285" column="30" />
@@ -212,8 +217,8 @@
       <jump line="7285" column="30" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJySW1wQ2xhc3MuCg==</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
@@ -225,38 +230,31 @@
         <text>et_doc_files</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGFja2FnZSBjYWRhZ2VudC5zYXA7Cg==</text>
+        <text encoding="base64">ICAgIGJySW1wQ2xhc3MuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9iamVjdElucHV0LmdldAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBldF9kb2NfZmlsZXMuc3RyZWFtKCkubWFwKGRvY19maWxlIC0+IHsKICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBtYXAgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgIG1hcC5wdXQoIkxPX09CSklEIiwgZG9jX2ZpbGUuZ2V0KCJMT0lPX0lEIikpOwogICAgICBtYXAucHV0KCJQSF9PQkpJRCIsIGRvY19maWxlLmdldCgiUEhJT19JRCIpKTsKICAgICAgbWFwLnB1dCgiV1NfQVBQTElDQVRJT04iLCBkb2NfZmlsZS5nZXQoIldTX0FQUExJQ0FUSU9OIikpOwogICAgICBtYXAucHV0KCJTVE9SQUdFX0NBVCIsIGRvY19maWxlLmdldCgiU1RPUl9DQVQiKSk7CiAgICAgIG1hcC5wdXQoIkZJTEVOQU1FIiwgZG9jX2ZpbGUuZ2V0KCJGSUxFX05BTUUiKSk7CiAgICAgIHJldHVybiBtYXA7CiAgICB9KS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">ICAgIFBsbUF0dHJpYnV0ZUNvbnRhaW5lciBhdHRyQ29udGFpbmVyMSA9IG9iamVjdElucHV0LmdldEF0dHJDb250YWluZXIoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuZ2V0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlmZWZlCg==</text>
+        <text encoding="base64">cGFja2FnZSBjYWRhZ2VudC5zYXA7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHJldHVybiBldF9kb2NfZmlsZXMuc3RyZWFtKCkubWFwKGRvY19maWxlIC0+IHsKICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiBtYXAgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgIG1hcC5wdXQoIkxPX09CSklEIiwgZG9jX2ZpbGUuZ2V0KCJMT0lPX0lEIikpOwogICAgICBtYXAucHV0KCJQSF9PQkpJRCIsIGRvY19maWxlLmdldCgiUEhJT19JRCIpKTsKICAgICAgbWFwLnB1dCgiV1NfQVBQTElDQVRJT04iLCBkb2NfZmlsZS5nZXQoIldTX0FQUExJQ0FUSU9OIikpOwogICAgICBtYXAucHV0KCJTVE9SQUdFX0NBVCIsIGRvY19maWxlLmdldCgiU1RPUl9DQVQiKSk7CiAgICAgIG1hcC5wdXQoIkZJTEVOQU1FIiwgZG9jX2ZpbGUuZ2V0KCJGSUxFX05BTUUiKSk7CiAgICAgIHJldHVybiBtYXA7CiAgICB9KS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>private PlmDocument getPlmDocument()
-  {
-    String doc_nr = docKey.get(&quot;BAPI_DOC_AUX_DOCNUMBER&quot;);
-    String doc_type = docKey.get(&quot;BAPI_DOC_AUX_DOCTYPE&quot;);
-    String doc_part = docKey.get(&quot;BAPI_DOC_AUX_DOCPART&quot;);
-    String doc_vers = docKey.get(&quot;BAPI_DOC_AUX_DOCVERSION&quot;);
-    return plmAccess.documentNew(doc_nr, doc_type, doc_part, doc_vers);
-  }</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlmZWZlCg==</text>
       </register>
       <register name=":" type="4">
         <text>291</text>
