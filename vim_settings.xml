@@ -23,7 +23,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/proc/cad/PlmProcessCadDocumentImportOnDemand.java" timestamp="1500380043901" />
       <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/objmod/CheckoutInfo.java" timestamp="1500366801639" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500401423102">
+      <file name="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500407340428">
         <mark key="'" line="806" column="36" />
         <mark key="[" line="5406" column="24" />
         <mark key="]" line="5406" column="34" />
@@ -64,16 +64,18 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/cfc/pref/PrefObject.java" timestamp="1499442705573">
         <mark key="'" line="472" column="16" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/doc/create/ClassificationHelper.java" timestamp="1500402244801" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/doc/create/ClassificationHelper.java" timestamp="1500408355546">
+        <mark key="'" line="165" column="24" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/proc/PlmProcessConversionSchedule.java" timestamp="1499256297179">
         <mark key="'" line="20" column="1" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportSetDataFromAttr.java" timestamp="1500404905019">
-        <mark key="'" line="76" column="80" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="164" column="40" />
-        <mark key="." line="121" column="0" />
-        <mark key="^" line="90" column="5" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportSetDataFromAttr.java" timestamp="1500407664690">
+        <mark key="'" line="78" column="80" />
+        <mark key="[" line="136" column="72" />
+        <mark key="]" line="136" column="83" />
+        <mark key="." line="136" column="83" />
+        <mark key="^" line="136" column="83" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500400047199">
         <mark key="'" line="8073" column="0" />
@@ -96,25 +98,18 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/cad/doc/createmulti/DocMultiCreateHelper.java" timestamp="1500375934533">
         <mark key="'" line="120" column="47" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/proc/doc/create/ClassificationHelper.java" timestamp="1500402492030" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/proc/doc/create/ClassificationHelper.java" timestamp="1500407534183" />
       <file name="/PsContextInfo.java" timestamp="1499683128419">
         <mark key="'" line="539" column="50" />
       </file>
-      <file name="/fragment.java" timestamp="1500401952719">
+      <file name="/fragment.java" timestamp="1500408266038">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="13" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="479" column="3" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/java/src/cadagent/sap/ProcessDocDeleteOriginals.java" />
-      <jump line="294" column="31" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/omf/ProcessDocDeleteOriginals.java" />
-      <jump line="272" column="16" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/omf/ProcessDocDeleteOriginals.java" />
-      <jump line="257" column="61" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/java/src/cadagent/sap/ProcessDocDeleteOriginals.java" />
-      <jump line="231" column="23" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/cfc/util/StringTool.java" />
-      <jump line="631" column="27" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="5617" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="6228" column="29" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="5345" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="1543" column="4" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/plm/java/src/plm/sess/PlmSessionManager.java" />
@@ -208,64 +203,70 @@
       <jump line="4579" column="4" filename="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="807" column="0" filename="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="806" column="36" filename="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="96" column="11" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/doc/create/ClassificationHelper.java" />
+      <jump line="209" column="24" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/doc/create/ClassificationHelper.java" />
+      <jump line="211" column="11" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/doc/create/ClassificationHelper.java" />
+      <jump line="214" column="24" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/doc/create/ClassificationHelper.java" />
+      <jump line="98" column="24" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/doc/create/ClassificationHelper.java" />
+      <jump line="144" column="24" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/doc/create/ClassificationHelper.java" />
+      <jump line="165" column="24" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/doc/create/ClassificationHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNsQWxsb2MgPSBuZXcgUGxtQ2xhc3NBbGxvY2F0aW9uKHBsbUNscyk7CiAgICAvLyAgICBPcGVyYXRpb25JRltdIG9wZXJhdGlvbklGUyA9IERvY011bHRpQ3JlYXRlSGVscGVyLmRldGVybWluZUF0dHJpYnV0ZU1hcHBpbmdPcGVyYXRpb25zKHNlbGVjdGVkRHR5cGUpOwoKICAgIFBsbUNsYXNzaWZpZWRPYmplY3QgZHVtbXkgPSBuZXcgUGxtQ2xhc3NpZmllZE9iamVjdCgpOwogICAgZHVtbXkuYWRkQ2xhc3NBbGxvY2F0aW9uKGNsQWxsb2MpOwogICAgT3BlcmF0aW9uSUYgb3BlcmF0aW9uc1tdID0gbnVsbDsKICAgIERUeXBlIHNlbGVjdGVkRHR5cGUgPSBvYmplY3RJbnB1dC5nZXRTZWxlY3RlZER0eXBlKCk7CiAgICBTdHJpbmcgc2VjdGlvbl9uYW1lID0gc2VsZWN0ZWREdHlwZS5nZXRBdHRyaWJ1dGVTZWN0aW9uKCk7CgogICAgaWYgKGhhc0NvbnRlbnQoc2VjdGlvbl9uYW1lKSkKICAgIHsKICAgICAgdHJ5CiAgICAgIHsKICAgICAgICBvcGVyYXRpb25zID0gT3BYbWxQYXJzZXIuZ2V0T3BlcmF0aW9ucyhzZWN0aW9uX25hbWUpOwogICAgICB9CiAgICAgIGNhdGNoIChEZWZhdWx0TG9nRXhjZXB0aW9uIGUpCiAgICAgIHsKICAgICAgICBUcmFjZS5wcmludGxuKDEsICIgTm8gc2VjdGlvbiBuYW1lZCA8IitzZWN0aW9uX25hbWUrIj4gZm91bmQuIik7CiAgICAgICAgVHJhY2UucHJpbnRsblN0YWNrVHJhY2UoNCwgZSk7CiAgICAgIH0KICAgIH0KICAgIE1hcDxTdHJpbmcsIFN0cmluZz4gYWxsQXR0cmlidXRlcyA9IHNlbGVjdGVkRHR5cGUuZ2V0QWxsQXR0cmlidXRlcygpOwogICAgU3RyaW5nIGF0dHJpYnV0ZVNlY3Rpb25Gb3JDcmVhdGUgPSBzZWxlY3RlZER0eXBlLmdldEF0dHJpYnV0ZVNlY3Rpb25Gb3JDcmVhdGUoKTsKICAgIE9wZXJhdGlvbklGIG9wZXJhdGlvbnMzW10gPSBudWxsOwogICAgdHJ5CiAgICB7CiAgICAgIEF0dHJpYnV0ZVNlY3Rpb24gYXR0cmlidXRlU2VjdGlvbjEgPSBPcFhtbFBhcnNlci5nZXRBdHRyaWJ1dGVTZWN0aW9uKHNlY3Rpb25fbmFtZSk7CiAgICB9CiAgICBjYXRjaCAoRGVmYXVsdExvZ0V4Y2VwdGlvbiBlKQogICAgewogICAgICBpZiAoVHJhY2UuZ2V0TGV2ZWwoKSA+PSAzKQogICAgICAgIFRyYWNlLnByaW50bG4oIkFUVFIiLCAzLCAiUGxtUHJvY2Vzc0F0dHJpYnNUcmFuc2Zlci5leGVjdXRlKCk6IE5vIHNlY3Rpb24gbmFtZWQgPCIrc2VjdGlvbl9uYW1lKyI+IGZvdW5kLiIpOwogICAgfQogICAgUGxtQXR0cmlidXRlQ29udGFpbmVyIGF0dHJDb250YWluZXIgPSBvYmplY3RJbnB1dC5nZXRBdHRyQ29udGFpbmVyKCk7CiAgICAvLyAgICBNYXBwaW5nQ29udGV4dCBtYyA9IG5ldyBNYXBwaW5nQ29udGV4dChhdHRyQ29udGFpbmVyKTsKICAgIENvbGxlY3Rpb248UGxtQ2xhc3NBbGxvY2F0aW9uPiBkZWZhdWx0Q2xhc3NBbGxvY2F0aW9uID0gRG9jTXVsdGlDcmVhdGVIZWxwZXIuY3JlYXRlRGVmYXVsdENsYXNzQWxsb2NhdGlvbihvYmplY3RJbnB1dC5nZXRTZWxlY3RlZER0eXBlKCksIGF0dHJDb250YWluZXIsIGR1bW15KTsKCi8vICAgIGZvciAoUGxtQ2xhc3NDaGFyYWN0ZXJpc3RpYyBjbGFzc0NoYXJhY3RlcmlzdGljIDogcGxtQ2xzLmdldENoYXJhY3RlcmlzdGljcygpLmdldFBsbU9iamVjdHMoKSkKLy8gICAgICBDbGFzc2lmaWNhdGlvbkhlbHBlci5hc3NpZ25WYWx1ZXNGcm9tQXR0cmlidXRlcyhhdHRyQ29udGFpbmVyLCBjbGFzc0NoYXJhY3RlcmlzdGljLCBjbEFsbG9jLCBvcGVyYXRpb25zKTsKICAgIGZvciAoUGxtQ2xhc3NBbGxvY2F0aW9uIGFsbG9jIDogZGVmYXVsdENsYXNzQWxsb2NhdGlvbikKICAgICAgZm9yIChQbG1DbGFzc0NoYXJhY3RlcmlzdGljIGNsYXNzQ2hhcmFjdGVyaXN0aWMgOiBhbGxvYy5nZXRQbG1DbGFzcygpLmdldENoYXJhY3RlcmlzdGljcygpLmdldFBsbU9iamVjdHMoKSkKICAgICAgICBDbGFzc2lmaWNhdGlvbkhlbHBlci5hc3NpZ25WYWx1ZXNGcm9tQXR0cmlidXRlcyhhdHRyQ29udGFpbmVyLCBjbGFzc0NoYXJhY3RlcmlzdGljLCBjbEFsbG9jLCBvcGVyYXRpb25zKTsKICAgIC8vICAgIG9iamVjdElucHV0LmJySW1wQ2xhc3MgPSBkdW1teTsKICAgIGR1bW15LmFkZENsYXNzQWxsb2NhdGlvbihjbEFsbG9jKTsK</text>
+      <register name="&quot;" type="4">
+        <text>pcc.getClassName()</text>
       </register>
       <register name="-" type="4">
-        <text>plmCls</text>
+        <text>pcc.getClassName()</text>
       </register>
       <register name="/" type="4">
-        <text>callDa</text>
+        <text>assignValues</text>
       </register>
       <register name="0" type="4">
         <text>PlmClassAllocation clAlloc</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNsQWxsb2MgPSBuZXcgUGxtQ2xhc3NBbGxvY2F0aW9uKHBsbUNscyk7CiAgICAvLyAgICBPcGVyYXRpb25JRltdIG9wZXJhdGlvbklGUyA9IERvY011bHRpQ3JlYXRlSGVscGVyLmRldGVybWluZUF0dHJpYnV0ZU1hcHBpbmdPcGVyYXRpb25zKHNlbGVjdGVkRHR5cGUpOwoKICAgIFBsbUNsYXNzaWZpZWRPYmplY3QgZHVtbXkgPSBuZXcgUGxtQ2xhc3NpZmllZE9iamVjdCgpOwogICAgZHVtbXkuYWRkQ2xhc3NBbGxvY2F0aW9uKGNsQWxsb2MpOwogICAgT3BlcmF0aW9uSUYgb3BlcmF0aW9uc1tdID0gbnVsbDsKICAgIERUeXBlIHNlbGVjdGVkRHR5cGUgPSBvYmplY3RJbnB1dC5nZXRTZWxlY3RlZER0eXBlKCk7CiAgICBTdHJpbmcgc2VjdGlvbl9uYW1lID0gc2VsZWN0ZWREdHlwZS5nZXRBdHRyaWJ1dGVTZWN0aW9uKCk7CgogICAgaWYgKGhhc0NvbnRlbnQoc2VjdGlvbl9uYW1lKSkKICAgIHsKICAgICAgdHJ5CiAgICAgIHsKICAgICAgICBvcGVyYXRpb25zID0gT3BYbWxQYXJzZXIuZ2V0T3BlcmF0aW9ucyhzZWN0aW9uX25hbWUpOwogICAgICB9CiAgICAgIGNhdGNoIChEZWZhdWx0TG9nRXhjZXB0aW9uIGUpCiAgICAgIHsKICAgICAgICBUcmFjZS5wcmludGxuKDEsICIgTm8gc2VjdGlvbiBuYW1lZCA8IitzZWN0aW9uX25hbWUrIj4gZm91bmQuIik7CiAgICAgICAgVHJhY2UucHJpbnRsblN0YWNrVHJhY2UoNCwgZSk7CiAgICAgIH0KICAgIH0KICAgIE1hcDxTdHJpbmcsIFN0cmluZz4gYWxsQXR0cmlidXRlcyA9IHNlbGVjdGVkRHR5cGUuZ2V0QWxsQXR0cmlidXRlcygpOwogICAgU3RyaW5nIGF0dHJpYnV0ZVNlY3Rpb25Gb3JDcmVhdGUgPSBzZWxlY3RlZER0eXBlLmdldEF0dHJpYnV0ZVNlY3Rpb25Gb3JDcmVhdGUoKTsKICAgIE9wZXJhdGlvbklGIG9wZXJhdGlvbnMzW10gPSBudWxsOwogICAgdHJ5CiAgICB7CiAgICAgIEF0dHJpYnV0ZVNlY3Rpb24gYXR0cmlidXRlU2VjdGlvbjEgPSBPcFhtbFBhcnNlci5nZXRBdHRyaWJ1dGVTZWN0aW9uKHNlY3Rpb25fbmFtZSk7CiAgICB9CiAgICBjYXRjaCAoRGVmYXVsdExvZ0V4Y2VwdGlvbiBlKQogICAgewogICAgICBpZiAoVHJhY2UuZ2V0TGV2ZWwoKSA+PSAzKQogICAgICAgIFRyYWNlLnByaW50bG4oIkFUVFIiLCAzLCAiUGxtUHJvY2Vzc0F0dHJpYnNUcmFuc2Zlci5leGVjdXRlKCk6IE5vIHNlY3Rpb24gbmFtZWQgPCIrc2VjdGlvbl9uYW1lKyI+IGZvdW5kLiIpOwogICAgfQogICAgUGxtQXR0cmlidXRlQ29udGFpbmVyIGF0dHJDb250YWluZXIgPSBvYmplY3RJbnB1dC5nZXRBdHRyQ29udGFpbmVyKCk7CiAgICAvLyAgICBNYXBwaW5nQ29udGV4dCBtYyA9IG5ldyBNYXBwaW5nQ29udGV4dChhdHRyQ29udGFpbmVyKTsKICAgIENvbGxlY3Rpb248UGxtQ2xhc3NBbGxvY2F0aW9uPiBkZWZhdWx0Q2xhc3NBbGxvY2F0aW9uID0gRG9jTXVsdGlDcmVhdGVIZWxwZXIuY3JlYXRlRGVmYXVsdENsYXNzQWxsb2NhdGlvbihvYmplY3RJbnB1dC5nZXRTZWxlY3RlZER0eXBlKCksIGF0dHJDb250YWluZXIsIGR1bW15KTsKCi8vICAgIGZvciAoUGxtQ2xhc3NDaGFyYWN0ZXJpc3RpYyBjbGFzc0NoYXJhY3RlcmlzdGljIDogcGxtQ2xzLmdldENoYXJhY3RlcmlzdGljcygpLmdldFBsbU9iamVjdHMoKSkKLy8gICAgICBDbGFzc2lmaWNhdGlvbkhlbHBlci5hc3NpZ25WYWx1ZXNGcm9tQXR0cmlidXRlcyhhdHRyQ29udGFpbmVyLCBjbGFzc0NoYXJhY3RlcmlzdGljLCBjbEFsbG9jLCBvcGVyYXRpb25zKTsKICAgIGZvciAoUGxtQ2xhc3NBbGxvY2F0aW9uIGFsbG9jIDogZGVmYXVsdENsYXNzQWxsb2NhdGlvbikKICAgICAgZm9yIChQbG1DbGFzc0NoYXJhY3RlcmlzdGljIGNsYXNzQ2hhcmFjdGVyaXN0aWMgOiBhbGxvYy5nZXRQbG1DbGFzcygpLmdldENoYXJhY3RlcmlzdGljcygpLmdldFBsbU9iamVjdHMoKSkKICAgICAgICBDbGFzc2lmaWNhdGlvbkhlbHBlci5hc3NpZ25WYWx1ZXNGcm9tQXR0cmlidXRlcyhhdHRyQ29udGFpbmVyLCBjbGFzc0NoYXJhY3RlcmlzdGljLCBjbEFsbG9jLCBvcGVyYXRpb25zKTsKICAgIC8vICAgIG9iamVjdElucHV0LmJySW1wQ2xhc3MgPSBkdW1teTsKICAgIGR1bW15LmFkZENsYXNzQWxsb2NhdGlvbihjbEFsbG9jKTsK</text>
+        <text encoding="base64">ICAgICAgb3BlcmF0aW9ucy4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgQXJyYXlMaXN0PE9wZXJhdGlvbklGPiBvcGVyYXRpb25JRlMgPSBuZXcgQXJyYXlMaXN0PE9wZXJhdGlvbklGPihvcGVyYXRpb25zKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY2xBbGxvYyA9IG5ldyBQbG1DbGFzc0FsbG9jYXRpb24ocGxtQ2xzKTsK</text>
+        <text encoding="base64">ICAgICAgQ29sbGVjdGlvbnMgb3V0ZGlyT3BlcmF0aW9uID0gbmV3IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFBsbUNsYXNzQWxsb2NhdGlvbiBjbEFsbG9jID0gbmV3IFBsbUNsYXNzQWxsb2NhdGlvbihwbG1DbHMpOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gICAgICBDbGFzc2lmaWNhdGlvbkhlbHBlci5hc3NpZ25WYWx1ZXNGcm9tQXR0cmlidXRlcyhhdHRyQ29udGFpbmVyLCBjbGFzc0NoYXJhY3RlcmlzdGljLCBjbEFsbG9jLCBvcGVyYXRpb25zKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgQnJJbXBvcnRPYmplY3ROZXcuQnJJbXBvcnRDbGFzc2lmaWNhdGlvbiBickltcENsYXNzID0gb2JqZWN0SW5wdXQuZ2V0QnJJbXBDbGFzcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFBsbUNsYXNzQ2hhcmFjdGVyaXN0aWMgY2xhc3NDaGFyYWN0ZXJpc3RpYyA6IGFsbG9jLmdldFBsbUNsYXNzKCkuZ2V0Q2hhcmFjdGVyaXN0aWNzKCkuZ2V0UGxtT2JqZWN0cygpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFBsbUNsYXNzIHBsbUNscyA9IG9iamVjdElucHV0LmdldEJySW1wQ2xhc3MoKS5nZXRQbG1DbGFzcygpOwo=</text>
+        <text encoding="base64">ICAgICAgZm9yIChQbG1DbGFzc0FsbG9jYXRpb24gYWxsb2MgOiBkZWZhdWx0Q2xhc3NBbGxvY2F0aW9uKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFBsbUNsYXNzIHBsbUNscyA9IG9iamVjdElucHV0LmdldEJySW1wQ2xhc3MoKS5nZXRQbG1DbGFzcygpOwo=</text>
+        <text encoding="base64">ICAgIGNsQWxsb2MgPSBuZXcgUGxtQ2xhc3NBbGxvY2F0aW9uKHBsbUNscyk7CiAgICAvLyAgICBPcGVyYXRpb25JRltdIG9wZXJhdGlvbklGUyA9IERvY011bHRpQ3JlYXRlSGVscGVyLmRldGVybWluZUF0dHJpYnV0ZU1hcHBpbmdPcGVyYXRpb25zKHNlbGVjdGVkRHR5cGUpOwoKICAgIFBsbUNsYXNzaWZpZWRPYmplY3QgZHVtbXkgPSBuZXcgUGxtQ2xhc3NpZmllZE9iamVjdCgpOwogICAgZHVtbXkuYWRkQ2xhc3NBbGxvY2F0aW9uKGNsQWxsb2MpOwogICAgT3BlcmF0aW9uSUYgb3BlcmF0aW9uc1tdID0gbnVsbDsKICAgIERUeXBlIHNlbGVjdGVkRHR5cGUgPSBvYmplY3RJbnB1dC5nZXRTZWxlY3RlZER0eXBlKCk7CiAgICBTdHJpbmcgc2VjdGlvbl9uYW1lID0gc2VsZWN0ZWREdHlwZS5nZXRBdHRyaWJ1dGVTZWN0aW9uKCk7CgogICAgaWYgKGhhc0NvbnRlbnQoc2VjdGlvbl9uYW1lKSkKICAgIHsKICAgICAgdHJ5CiAgICAgIHsKICAgICAgICBvcGVyYXRpb25zID0gT3BYbWxQYXJzZXIuZ2V0T3BlcmF0aW9ucyhzZWN0aW9uX25hbWUpOwogICAgICB9CiAgICAgIGNhdGNoIChEZWZhdWx0TG9nRXhjZXB0aW9uIGUpCiAgICAgIHsKICAgICAgICBUcmFjZS5wcmludGxuKDEsICIgTm8gc2VjdGlvbiBuYW1lZCA8IitzZWN0aW9uX25hbWUrIj4gZm91bmQuIik7CiAgICAgICAgVHJhY2UucHJpbnRsblN0YWNrVHJhY2UoNCwgZSk7CiAgICAgIH0KICAgIH0KICAgIE1hcDxTdHJpbmcsIFN0cmluZz4gYWxsQXR0cmlidXRlcyA9IHNlbGVjdGVkRHR5cGUuZ2V0QWxsQXR0cmlidXRlcygpOwogICAgU3RyaW5nIGF0dHJpYnV0ZVNlY3Rpb25Gb3JDcmVhdGUgPSBzZWxlY3RlZER0eXBlLmdldEF0dHJpYnV0ZVNlY3Rpb25Gb3JDcmVhdGUoKTsKICAgIE9wZXJhdGlvbklGIG9wZXJhdGlvbnMzW10gPSBudWxsOwogICAgdHJ5CiAgICB7CiAgICAgIEF0dHJpYnV0ZVNlY3Rpb24gYXR0cmlidXRlU2VjdGlvbjEgPSBPcFhtbFBhcnNlci5nZXRBdHRyaWJ1dGVTZWN0aW9uKHNlY3Rpb25fbmFtZSk7CiAgICB9CiAgICBjYXRjaCAoRGVmYXVsdExvZ0V4Y2VwdGlvbiBlKQogICAgewogICAgICBpZiAoVHJhY2UuZ2V0TGV2ZWwoKSA+PSAzKQogICAgICAgIFRyYWNlLnByaW50bG4oIkFUVFIiLCAzLCAiUGxtUHJvY2Vzc0F0dHJpYnNUcmFuc2Zlci5leGVjdXRlKCk6IE5vIHNlY3Rpb24gbmFtZWQgPCIrc2VjdGlvbl9uYW1lKyI+IGZvdW5kLiIpOwogICAgfQogICAgUGxtQXR0cmlidXRlQ29udGFpbmVyIGF0dHJDb250YWluZXIgPSBvYmplY3RJbnB1dC5nZXRBdHRyQ29udGFpbmVyKCk7CiAgICAvLyAgICBNYXBwaW5nQ29udGV4dCBtYyA9IG5ldyBNYXBwaW5nQ29udGV4dChhdHRyQ29udGFpbmVyKTsKICAgIENvbGxlY3Rpb248UGxtQ2xhc3NBbGxvY2F0aW9uPiBkZWZhdWx0Q2xhc3NBbGxvY2F0aW9uID0gRG9jTXVsdGlDcmVhdGVIZWxwZXIuY3JlYXRlRGVmYXVsdENsYXNzQWxsb2NhdGlvbihvYmplY3RJbnB1dC5nZXRTZWxlY3RlZER0eXBlKCksIGF0dHJDb250YWluZXIsIGR1bW15KTsKCi8vICAgIGZvciAoUGxtQ2xhc3NDaGFyYWN0ZXJpc3RpYyBjbGFzc0NoYXJhY3RlcmlzdGljIDogcGxtQ2xzLmdldENoYXJhY3RlcmlzdGljcygpLmdldFBsbU9iamVjdHMoKSkKLy8gICAgICBDbGFzc2lmaWNhdGlvbkhlbHBlci5hc3NpZ25WYWx1ZXNGcm9tQXR0cmlidXRlcyhhdHRyQ29udGFpbmVyLCBjbGFzc0NoYXJhY3RlcmlzdGljLCBjbEFsbG9jLCBvcGVyYXRpb25zKTsKICAgIGZvciAoUGxtQ2xhc3NBbGxvY2F0aW9uIGFsbG9jIDogZGVmYXVsdENsYXNzQWxsb2NhdGlvbikKICAgICAgZm9yIChQbG1DbGFzc0NoYXJhY3RlcmlzdGljIGNsYXNzQ2hhcmFjdGVyaXN0aWMgOiBhbGxvYy5nZXRQbG1DbGFzcygpLmdldENoYXJhY3RlcmlzdGljcygpLmdldFBsbU9iamVjdHMoKSkKICAgICAgICBDbGFzc2lmaWNhdGlvbkhlbHBlci5hc3NpZ25WYWx1ZXNGcm9tQXR0cmlidXRlcyhhdHRyQ29udGFpbmVyLCBjbGFzc0NoYXJhY3RlcmlzdGljLCBjbEFsbG9jLCBvcGVyYXRpb25zKTsKICAgIC8vICAgIG9iamVjdElucHV0LmJySW1wQ2xhc3MgPSBkdW1teTsKICAgIGR1bW15LmFkZENsYXNzQWxsb2NhdGlvbihjbEFsbG9jKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGF0dHJDb250YWluZXIuc2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBzZWN0aW9uTmFtZSA9IHNlbGVjdGVkRHR5cGUuZ2V0QXR0cmlidXRlU2VjdGlvbkZvckNyZWF0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgY2xBbGxvYyA9IG5ldyBQbG1DbGFzc0FsbG9jYXRpb24ocGxtQ2xzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>291</text>
       </register>
     </registers>
     <search>
-      <last-search>callDa</last-search>
+      <last-search>assignValues</last-search>
       <last-offset />
-      <last-pattern>callDa</last-pattern>
+      <last-pattern>assignValues</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>import</entry>
         <entry encoding="base64">XDxwbG1DbHNcPg==</entry>
         <entry>createDe</entry>
         <entry encoding="base64">XDxjcmVhdGVEZWZhdWx0Q2xhc3NBbGxvY2F0aW9uXD4=</entry>
@@ -285,6 +286,7 @@
         <entry>BrImpClassification</entry>
         <entry>setCls</entry>
         <entry>callDa</entry>
+        <entry>assignValues</entry>
       </history-search>
       <history-cmd>
         <entry>68</entry>
