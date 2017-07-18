@@ -9,12 +9,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/java/src/cadagent/sap/ProcessDocEnDeQueue.java" timestamp="1499878317300">
         <mark key="'" line="57" column="13" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/dtype/DType.java" timestamp="1500307724244">
-        <mark key="'" line="105" column="2" />
-        <mark key="[" line="318" column="0" />
-        <mark key="]" line="318" column="6" />
-        <mark key="." line="318" column="6" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/plantMaintenanceExtensions/src/main/java/plm/modules/plantmaintenance/PlantMaintenanceContextHelper.java" timestamp="1499166205828">
         <mark key="'" line="125" column="0" />
       </file>
@@ -29,10 +23,11 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/proc/cad/PlmProcessCadDocumentImportOnDemand.java" timestamp="1500380043901" />
       <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/objmod/CheckoutInfo.java" timestamp="1500366801639" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500397300481">
-        <mark key="'" line="4097" column="9" />
-        <mark key="[" line="235" column="59" />
-        <mark key="]" line="235" column="76" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500398800636">
+        <mark key="'" line="1729" column="36" />
+        <mark key="[" line="5406" column="24" />
+        <mark key="]" line="5406" column="34" />
+        <mark key="." line="1434" column="37" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1500380977840">
         <mark key="'" line="98" column="4" />
@@ -54,7 +49,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/attrib/OpXmlParser.java" timestamp="1500385406522" />
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/brobj/BrClassifiedObject.java" timestamp="1500313473255" />
-      <file name="/Dummy.txt" timestamp="1500390362701">
+      <file name="/Dummy.txt" timestamp="1500398809865">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -71,20 +66,21 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/proc/PlmProcessConversionSchedule.java" timestamp="1499256297179">
         <mark key="'" line="20" column="1" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportSetDataFromAttr.java" timestamp="1500397340492">
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportSetDataFromAttr.java" timestamp="1500398885654">
         <mark key="'" line="76" column="80" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-        <mark key="^" line="88" column="14" />
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="42" column="18" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500382777113">
-        <mark key="'" line="7285" column="30" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500398686255">
+        <mark key="'" line="170" column="17" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/plm/java/src/plm/sess/PlmSessionManager.java" timestamp="1500058463979">
         <mark key="'" line="1543" column="4" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/omf/OmfDataExcImport.java" timestamp="1500380390104" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7-SNAPSHOT/plm-5.1.7-20170223.163339-38.jar!/plm/brobj/BrClassifiedObject.class" timestamp="1500397419268" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/gui/errordialog/ErrorDialog.java" timestamp="1499260712930">
         <mark key="'" line="133" column="14" />
       </file>
@@ -109,25 +105,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="539" column="50" filename="/PsContextInfo.java" />
-      <jump line="2" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" />
-      <jump line="128" column="16" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/ps/gui/ctx/PsContextInfo.java" />
-      <jump line="64" column="24" filename="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/InputStream.java" />
-      <jump line="475" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/omf/ProcessDocDeleteOriginals.java" />
-      <jump line="74" column="22" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/java/src/cadagent/sap/ProcessDocDeleteOriginals.java" />
-      <jump line="212" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/java/src/cadagent/sap/ProcessDocDeleteOriginals.java" />
-      <jump line="239" column="65" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/omf/ProcessDocDeleteOriginals.java" />
-      <jump line="93" column="9" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/omf/ProcessDocDeleteOriginals.java" />
-      <jump line="243" column="14" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/omf/ProcessDocDeleteOriginals.java" />
-      <jump line="241" column="29" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/omf/ProcessDocDeleteOriginals.java" />
-      <jump line="279" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/java/src/cadagent/sap/ProcessDocDeleteOriginals.java" />
-      <jump line="86" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/omf/OmfAbout.java" />
-      <jump line="1087" column="18" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/omf/util/OmfCadDocOpen.java" />
-      <jump line="267" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/omf/ProcessDocDeleteOriginals.java" />
-      <jump line="113" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/omf/OmfAbout.java" />
-      <jump line="57" column="13" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/java/src/cadagent/sap/ProcessDocEnDeQueue.java" />
-      <jump line="159" column="7" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/omf/ProcessDocEnDeQueue.java" />
-      <jump line="410" column="24" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/omf/ProcessDocDeleteOriginals.java" />
       <jump line="520" column="22" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/omf/ProcessDocDeleteOriginals.java" />
       <jump line="103" column="16" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/omf/ProcessDocDeleteOriginals.java" />
       <jump line="64" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/java/src/cadagent/sap/ProcessDocDeleteOriginals.java" />
@@ -209,70 +186,82 @@
       <jump line="8" column="23" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportSetDataFromAttr.java" />
       <jump line="76" column="80" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportSetDataFromAttr.java" />
       <jump line="79" column="42" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportSetDataFromAttr.java" />
+      <jump line="591" column="28" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="7361" column="42" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="118" column="23" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="1300" column="3" filename="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="1434" column="36" filename="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="515" column="32" filename="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="1199" column="12" filename="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="1203" column="26" filename="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="1213" column="35" filename="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="1224" column="12" filename="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="1230" column="8" filename="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="1232" column="6" filename="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="1240" column="8" filename="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="1242" column="11" filename="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="1727" column="8" filename="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="1729" column="36" filename="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="206" column="36" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="172" column="0" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="170" column="17" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG9iamVjdElucHV0Cg==</text>
+        <text encoding="base64">ICAgIHBsbURvY3VtZW50LnNldAo=</text>
       </register>
       <register name="-" type="4">
-        <text>.setClsData(dummy);</text>
+        <text>objectInput2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQbG1DbGFzc0NoYXJhY3RlcmlzdGljXD4=</text>
+        <text>BrImpClassification</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIERUeXBlIHNlbGVjdGVkRHR5cGUgPSBvYmplY3RJbnB1dC5nZXRTZWxlY3RlZER0eXBlKCk7Cg==</text>
+      <register name="0" type="4">
+        <text>IN_DOCUMENT</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9iamVjdElucHV0Cg==</text>
+        <text encoding="base64">ICAgIHBsbURvY3VtZW50LnNldAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">awo=</text>
+        <text encoding="base64">ICAgIG9iamVjdElucHV0LmdldG8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBhcHBsVHlwZSA9IG9iamVjdElucHV0LmdldEFwcGxUeXBlKCk7Cg==</text>
+        <text encoding="base64">ICAgIG9iamVjdElucHV0LmdldGMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBuYW1lID0gdGhpcy5nZXROYW1lKCk7Cg==</text>
+        <text encoding="base64">ICAgIGR1bW15LnNldGMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIERhdGFDb250YWluZXIgZGF0YUNvbnRhaW5lckJhY2sgPSB0aGlzLmRhdGFDb250YWluZXJCYWNrOwo=</text>
+        <text encoding="base64">ICAgIG9iamVjdElucHV0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIERhdGFDb250YWluZXIgZGF0YUNvbnRhaW5lciA9IHRoaXMuZGF0YUNvbnRhaW5lcjsK</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBjYXRlZ29yeSA9IHRoaXMuZ2V0Q2F0ZWdvcnkoKTsK</text>
+        <text encoding="base64">ICAgIFN0cmluZyBhcHBsVHlwZSA9IG9iamVjdElucHV0LmdldEFwcGxUeXBlKCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIERhdGFDb250YWluZXIgZGF0YUNvbnRhaW5lckJhY2sgPSB0aGlzLmRhdGFDb250YWluZXJCYWNrOwo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBuYW1lID0gdGhpcy5nZXROYW1lKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIERhdGFDb250YWluZXIgZGF0YUNvbnRhaW5lciA9IHRoaXMuZGF0YUNvbnRhaW5lcjsK</text>
+        <text encoding="base64">ICAgIERhdGFDb250YWluZXIgZGF0YUNvbnRhaW5lckJhY2sgPSB0aGlzLmRhdGFDb250YWluZXJCYWNrOwo=</text>
       </register>
       <register name=":" type="4">
         <text>291</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQbG1DbGFzc0NoYXJhY3RlcmlzdGljXD4=</last-search>
+      <last-search>BrImpClassification</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQbG1DbGFzc0NoYXJhY3RlcmlzdGljXD4=</last-pattern>
+      <last-pattern>BrImpClassification</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>readData</entry>
-        <entry>key</entry>
-        <entry encoding="base64">XDxleHRyYWN0QWRkT3JpZ2luYWxzXD4=</entry>
-        <entry encoding="base64">XDxEQ1Jfb25TZXREYXRhRnJvbUF0dHJcPg==</entry>
-        <entry>attributeContainer</entry>
-        <entry>attributeC</entry>
-        <entry encoding="base64">XDxCRUNvbnRleHRJRlw+</entry>
         <entry encoding="base64">XDxzdGF0aWNcPg==</entry>
         <entry>createDefault</entry>
         <entry>import</entry>
@@ -286,6 +275,13 @@
         <entry>operations</entry>
         <entry encoding="base64">XDxPcGVyYXRpb25JRlw+</entry>
         <entry encoding="base64">XDxQbG1DbGFzc0NoYXJhY3RlcmlzdGljXD4=</entry>
+        <entry>PlmClassifiedObject</entry>
+        <entry>set</entry>
+        <entry>setBr</entry>
+        <entry>setBrI</entry>
+        <entry>getBr</entry>
+        <entry encoding="base64">XDxickltcENsYXNzXD4=</entry>
+        <entry>BrImpClassification</entry>
       </history-search>
       <history-cmd>
         <entry>68</entry>
