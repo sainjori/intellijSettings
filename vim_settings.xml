@@ -29,7 +29,7 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/proc/cad/PlmProcessCadDocumentImportOnDemand.java" timestamp="1500380043901" />
       <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/objmod/CheckoutInfo.java" timestamp="1500366801639" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500381026019">
+      <file name="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500383828484">
         <mark key="'" line="5588" column="22" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1500380977840">
@@ -65,10 +65,10 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/proc/PlmProcessConversionSchedule.java" timestamp="1499256297179">
         <mark key="'" line="20" column="1" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportSetDataFromAttr.java" timestamp="1500382912250">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportSetDataFromAttr.java" timestamp="1500383909676">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500382777113">
         <mark key="'" line="7285" column="30" />
@@ -203,7 +203,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIG9iamVjdElucHV0LnNldAo=</text>
       </register>
       <register name="-" type="4">
         <text>section_name</text>
@@ -215,25 +215,25 @@
         <text>et_doc_files</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIG9iamVjdElucHV0LnNldAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChjYWRBdHRyaWJ1dGVzICE9IG51bGwgJiYgc2VsZWN0ZWREVHlwZSAhPSBudWxsKQo=</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdGVkRHR5cGUuCg==</text>
+        <text encoding="base64">ICAgIGlmIChjYWRBdHRyaWJ1dGVzICE9IG51bGwgJiYgc2VsZWN0ZWREVHlwZSAhPSBudWxsKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vCg==</text>
+        <text encoding="base64">ICAgIHNlbGVjdGVkRHR5cGUuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vICAgIC8vIGNyZWF0ZSBvYnJQcm9wZXJ0ZWlzCg==</text>
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvYmplY3RJbnB1dC5zZXRDbGFzc2lmaWNhdGlvbkRhdGEoZHVtbXksIHRydWUpOwo=</text>
+        <text encoding="base64">ICAgIC8vICAgIC8vIGNyZWF0ZSBvYnJQcm9wZXJ0ZWlzCg==</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -242,7 +242,7 @@
         <text encoding="base64">ICAgICAgICBvYmplY3RJbnB1dC5zZXRDbGFzc2lmaWNhdGlvbkRhdGEoZHVtbXksIHRydWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIENvbGxlY3Rpb248UGxtQ2xhc3NBbGxvY2F0aW9uPiBkZWZhdWx0Q2xhc3NBbGxvY2F0aW9uID0gRG9jTXVsdGlDcmVhdGVIZWxwZXIuY3JlYXRlRGVmYXVsdENsYXNzQWxsb2NhdGlvbihvYmplY3RJbnB1dC5nZXRTZWxlY3RlZER0eXBlKCksICBhdHRyQ29udGFpbmVyLCAgZHVtbXkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBvYmplY3RJbnB1dC5zZXRDbGFzc2lmaWNhdGlvbkRhdGEoZHVtbXksIHRydWUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>291</text>
