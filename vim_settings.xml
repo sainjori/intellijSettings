@@ -6,7 +6,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/proc/cad/PlmProcessCadDocumentImportOnDemand.java" timestamp="1500380043901" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/brobj/BrClassifiedObject.java" timestamp="1500453774762" />
       <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/objmod/CheckoutInfo.java" timestamp="1500366801639" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500407340428">
+      <file name="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500456583012">
         <mark key="'" line="806" column="36" />
         <mark key="[" line="5406" column="24" />
         <mark key="]" line="5406" column="34" />
@@ -35,11 +35,10 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/doc/create/ClassificationHelper.java" timestamp="1500408355546">
         <mark key="'" line="165" column="24" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportSetDataFromAttr.java" timestamp="1500454870136">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="98" column="43" />
-        <mark key="." line="98" column="43" />
-        <mark key="^" line="98" column="43" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportSetDataFromAttr.java" timestamp="1500458101159">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500453906597">
         <mark key="'" line="424" column="49" />
@@ -51,7 +50,7 @@
         <mark key="'" line="120" column="47" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/proc/doc/create/ClassificationHelper.java" timestamp="1500407534183" />
-      <file name="/fragment.java" timestamp="1500408266038">
+      <file name="/fragment.java" timestamp="1500457832739">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -162,7 +161,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcGwK</text>
+        <text encoding="base64">ICAgICAgcGxtQ2xzLmFkZAo=</text>
       </register>
       <register name="-" type="4">
         <text>pcc.getClassName()</text>
@@ -174,31 +173,31 @@
         <text>PlmClassAllocation clAlloc</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcGwK</text>
+        <text encoding="base64">ICAgICAgcGxtQ2xzLmFkZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcGxtQ2xzLgo=</text>
+        <text encoding="base64">ICAgICAgUGxtQ2xhc3NpZmllZE9iamVjdCBkdW1teSA9IG5ldyBQbG1DbGFzc2lmaWVkT2JqZWN0KCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2xBbGxvYyA9IG5ldyBQbG1DbGFzc0FsbG9jYXRpb24ocGxtQ2xzKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZHVtbXkuYWRkQ2xhc3NBbGxvY2F0aW9uKGNsQWxsb2MpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY2xBbGxvYyA9IG5ldyBQbG1DbGFzc0FsbG9jYXRpb24ocGxtQ2xzKTsKICAgICAgLy8gICAgT3BlcmF0aW9uSUZbXSBvcGVyYXRpb25JRlMgPSBEb2NNdWx0aUNyZWF0ZUhlbHBlci5kZXRlcm1pbmVBdHRyaWJ1dGVNYXBwaW5nT3BlcmF0aW9ucyhzZWxlY3RlZER0eXBlKTsKCiAgICAgIFBsbUNsYXNzaWZpZWRPYmplY3QgZHVtbXkgPSBuZXcgUGxtQ2xhc3NpZmllZE9iamVjdCgpOwogICAgICBkdW1teS5hZGRDbGFzc0FsbG9jYXRpb24oY2xBbGxvYyk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">dHJ5CiAgICB7CiAgICAgIFBsbURvY3VtZW50IHBsbURvY3VtZW50ID0gZ2V0T2JqZWN0SW5wdXQoQnJJbXBvcnRPYmplY3ROZXcuSU5fRE9DVU1FTlQpOwogICAgICBvYmplY3RJbnB1dC5zZXRDbHNEYXRhKHBsbURvY3VtZW50KTsKICAgIH0KICAgIGNhdGNoIChFeGNlcHRpb24gZSkKICAgIHsKCiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigidGVzdCIpOwogICAgfQoKICAgIHRyeQogICAgewogICAgICBEZWZhdWx0QnJvd3NlT2JqZWN0IG9iamVjdElucHV0MSA9IGdldE9iamVjdElucHV0KEJySW1wb3J0T2JqZWN0TmV3LklOX0JST1dTRV9DTFNfT0JKKTsKICAgIH0KICAgIGNhdGNoIChFeGNlcHRpb24gZSkKICAgIHsKCiAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigidGVzdCIpOwogICAgfQogICAgdHJ5CiAgICB7CiAgICAgIEJySW1wb3J0T2JqZWN0TmV3LkJySW1wb3J0Q2xhc3NpZmljYXRpb24gYnJJbXBDbGFzcyA9IG9iamVjdElucHV0LmdldEJySW1wQ2xhc3MoKTsKICAgIH0KICAgIGNhdGNoIChFeGNlcHRpb24gZSkKICAgIHsKICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ0ZXN0Iik7CiAgICB9CiAgICAvLyAgICBDb2xsZWN0aW9uPE9wZXJhdGlvbklGPiBvYmplY3RJbnB1dDEgPSBnZXRPYmplY3RJbnB1dChCckltcG9ydE9iamVjdE5ldy5PVVRfRElSX09QRVJBVElPTlMpOwogICAgLy8gICAgQnJJbXBvcnRPYmplY3ROZXcuQnJJbXBvcnRDbGFzc2lmaWNhdGlvbiBickltcENsYXNzID0gb2JqZWN0SW5wdXQuYnJJbXBDbGFzczsKICAgIC8vICAgIEJySW1wb3J0T2JqZWN0TmV3LkJySW1wb3J0Q2xhc3NpZmljYXRpb24gYnJJbXBDbGFzczEgPSBvYmplY3RJbnB1dC5nZXRCckltcENsYXNzKCk7CiAgICAvLyBEdW1teSBlcnpldWdlbgogICAgLy9wbG1DbGFzcyBpc3QgVUdNLDAxNw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgUGxtQ2xhc3NpZmllZE9iamVjdCBkdW1teSA9IG5ldyBQbG1DbGFzc2lmaWVkT2JqZWN0KCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gICAgT3BlcmF0aW9uSUZbXSBvcGVyYXRpb25JRlMgPSBEb2NNdWx0aUNyZWF0ZUhlbHBlci5kZXRlcm1pbmVBdHRyaWJ1dGVNYXBwaW5nT3BlcmF0aW9ucyhzZWxlY3RlZER0eXBlKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
