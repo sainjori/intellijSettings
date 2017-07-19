@@ -21,10 +21,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/create/SandvikProcessDocumentCreateGui.java" timestamp="1500399892939" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/proc/cad/doc/createmulti/CreateDocEntry.java" timestamp="1500380090222" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/attrib/OpXmlParser.java" timestamp="1500385406522" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportSetDataFromAttr.java" timestamp="1500461179183">
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportSetDataFromAttr.java" timestamp="1500463276893">
         <mark key="[" line="96" column="33" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
+        <mark key="]" line="86" column="42" />
+        <mark key="." line="86" column="42" />
+        <mark key="^" line="86" column="42" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/omf/OmfDataExcImport.java" timestamp="1500380390104" />
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/cad/doc/createmulti/DocMultiCreateHelper.java" timestamp="1500375934533">
