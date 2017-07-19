@@ -3,10 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/proc/cad/PlmProcessCadDocumentImportOnDemand.java" timestamp="1500380043901" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/brobj/BrClassifiedObject.java" timestamp="1500453774762" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/objmod/CheckoutInfo.java" timestamp="1500366801639" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500456583012">
+      <file name="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500460618100">
         <mark key="'" line="806" column="36" />
         <mark key="[" line="5406" column="24" />
         <mark key="]" line="5406" column="34" />
@@ -23,34 +20,38 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/proc/PlmProcessBrImportObjsCreate.java" timestamp="1500312387021" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/create/SandvikProcessDocumentCreateGui.java" timestamp="1500399892939" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/proc/cad/doc/createmulti/CreateDocEntry.java" timestamp="1500380090222" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/proc/cad/doc/createmulti/DocMultiCreateHelper.java" timestamp="1500404439440" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/attrib/OpXmlParser.java" timestamp="1500385406522" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportSetDataFromAttr.java" timestamp="1500461179183">
+        <mark key="[" line="96" column="33" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/omf/OmfDataExcImport.java" timestamp="1500380390104" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/cad/doc/createmulti/DocMultiCreateHelper.java" timestamp="1500375934533">
+        <mark key="'" line="120" column="47" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/objmod/PlmClassAllocation.java" timestamp="1500460282201" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/proc/cad/PlmProcessCadDocumentImportOnDemand.java" timestamp="1500380043901" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/brobj/BrClassifiedObject.java" timestamp="1500453774762" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/objmod/CheckoutInfo.java" timestamp="1500366801639" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/proc/cad/doc/createmulti/DocMultiCreateHelper.java" timestamp="1500404439440" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/version/ChangeCreateGui.java" timestamp="1500401590203" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/brobj/BrClassifiedObject.java" timestamp="1500313473255" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/brobj/BrClassifiedObject.java" timestamp="1500459292031" />
       <file name="/Dummy.txt" timestamp="1500401191283">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/doc/create/ClassificationHelper.java" timestamp="1500408355546">
+      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/doc/create/ClassificationHelper.java" timestamp="1500459029366">
         <mark key="'" line="165" column="24" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportSetDataFromAttr.java" timestamp="1500458101159">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500453906597">
         <mark key="'" line="424" column="49" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/omf/OmfDataExcImport.java" timestamp="1500380390104" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7-SNAPSHOT/plm-5.1.7-20170223.163339-38.jar!/plm/brobj/BrClassifiedObject.class" timestamp="1500397419268" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportSetMatData.java" timestamp="1500399989142" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/cad/doc/createmulti/DocMultiCreateHelper.java" timestamp="1500375934533">
-        <mark key="'" line="120" column="47" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/proc/doc/create/ClassificationHelper.java" timestamp="1500407534183" />
-      <file name="/fragment.java" timestamp="1500457832739">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/proc/doc/create/ClassificationHelper.java" timestamp="1500459061943" />
+      <file name="/fragment.java" timestamp="1500459296059">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -161,46 +162,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcGxtQ2xzLmFkZAo=</text>
+        <text encoding="base64">ICAgICAgQnJJbXBvcnRPYmplY3ROZXcuQnJJbXBvcnRDbGFzc2lmaWNhdGlvbiBickltcENsYXNzID0gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>pcc.getClassName()</text>
+        <text encoding="base64">ICAgICAgb2JqZWN0SW5wdXQuYnJJbXBDbGFzcyA9IChCckltcG9ydE9iamVjdE5ldy5CckltcG9ydENsYXNzaWZpY2F0aW9uKSBkdW1teTs=</text>
       </register>
       <register name="/" type="4">
         <text>classified</text>
       </register>
       <register name="0" type="4">
-        <text>PlmClassAllocation clAlloc</text>
+        <text>BrImportObjectNew.BrImportClassification brImpClass</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcGxtQ2xzLmFkZAo=</text>
+        <text encoding="base64">ICAgICAgQnJJbXBvcnRPYmplY3ROZXcuQnJJbXBvcnRDbGFzc2lmaWNhdGlvbiBickltcENsYXNzID0gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgUGxtQ2xhc3NpZmllZE9iamVjdCBkdW1teSA9IG5ldyBQbG1DbGFzc2lmaWVkT2JqZWN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ0ZXN0Iik7CiAgICAgIC9CckltcG9ydE9iamVjdE5ldy5CckltcG9ydENsYXNzaWZpY2F0aW9uIGJySW1wQ2xhc3MvICAgICAgb2JqZWN0SW5wdXQuYnJJbXBDbGFzcyA9IChCckltcG9ydE9iamVjdE5ldy5CckltcG9ydENsYXNzaWZpY2F0aW9uKSBkdW1teTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgY2xBbGxvYyA9IG5ldyBQbG1DbGFzc0FsbG9jYXRpb24ocGxtQ2xzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2xBbGxvYyA9IG5ldyBQbG1DbGFzc0FsbG9jYXRpb24ocGxtQ2xzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZHVtbXkuYWRkQ2xhc3NBbGxvY2F0aW9uKGNsQWxsb2MpOwo=</text>
+        <text encoding="base64">ICAgICAgcGxtQ2xzLmFkZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY2xBbGxvYyA9IG5ldyBQbG1DbGFzc0FsbG9jYXRpb24ocGxtQ2xzKTsKICAgICAgLy8gICAgT3BlcmF0aW9uSUZbXSBvcGVyYXRpb25JRlMgPSBEb2NNdWx0aUNyZWF0ZUhlbHBlci5kZXRlcm1pbmVBdHRyaWJ1dGVNYXBwaW5nT3BlcmF0aW9ucyhzZWxlY3RlZER0eXBlKTsKCiAgICAgIFBsbUNsYXNzaWZpZWRPYmplY3QgZHVtbXkgPSBuZXcgUGxtQ2xhc3NpZmllZE9iamVjdCgpOwogICAgICBkdW1teS5hZGRDbGFzc0FsbG9jYXRpb24oY2xBbGxvYyk7Cg==</text>
+        <text encoding="base64">ICAgICAgUGxtQ2xhc3NpZmllZE9iamVjdCBkdW1teSA9IG5ldyBQbG1DbGFzc2lmaWVkT2JqZWN0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgUGxtQ2xhc3NpZmllZE9iamVjdCBkdW1teSA9IG5ldyBQbG1DbGFzc2lmaWVkT2JqZWN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgY2xBbGxvYyA9IG5ldyBQbG1DbGFzc0FsbG9jYXRpb24ocGxtQ2xzKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy8gICAgT3BlcmF0aW9uSUZbXSBvcGVyYXRpb25JRlMgPSBEb2NNdWx0aUNyZWF0ZUhlbHBlci5kZXRlcm1pbmVBdHRyaWJ1dGVNYXBwaW5nT3BlcmF0aW9ucyhzZWxlY3RlZER0eXBlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZHVtbXkuYWRkQ2xhc3NBbGxvY2F0aW9uKGNsQWxsb2MpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>291</text>
