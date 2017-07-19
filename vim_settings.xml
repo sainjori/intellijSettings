@@ -21,7 +21,9 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/proc/PlmProcessBrImportObjsCreate.java" timestamp="1500312387021" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/create/SandvikProcessDocumentCreateGui.java" timestamp="1500399892939" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/proc/cad/doc/createmulti/CreateDocEntry.java" timestamp="1500380090222" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportAfterDetermineDType.java" timestamp="1500483519181" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/attrib/OpXmlParser.java" timestamp="1500385406522" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportBeforeShowclsInGui.java" timestamp="1500484042237" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportSetDataFromAttr.java" timestamp="1500479604134">
         <mark key="[" line="27" column="67" />
         <mark key="]" line="27" column="46" />
@@ -34,6 +36,7 @@
         <mark key="'" line="120" column="47" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/objmod/PlmClassAllocation.java" timestamp="1500460282201" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportOnDTypeChange.java" timestamp="1500483640290" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/proc/cad/PlmProcessCadDocumentImportOnDemand.java" timestamp="1500380043901" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/brobj/BrClassifiedObject.java" timestamp="1500467831699" />
       <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/objmod/CheckoutInfo.java" timestamp="1500366801639" />
@@ -53,11 +56,11 @@
         <mark key="[" line="7222" column="11" />
         <mark key="]" line="7222" column="18" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiControlImportBeforeShowClsInGui.java" timestamp="1500480070466">
-        <mark key="[" line="70" column="94" />
-        <mark key="]" line="70" column="120" />
-        <mark key="." line="70" column="120" />
-        <mark key="^" line="70" column="120" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiControlImportBeforeShowClsInGui.java" timestamp="1500484211841">
+        <mark key="[" line="38" column="95" />
+        <mark key="]" line="39" column="3" />
+        <mark key="." line="39" column="3" />
+        <mark key="^" line="39" column="3" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7-SNAPSHOT/plm-5.1.7-20170223.163339-38.jar!/plm/brobj/BrClassifiedObject.class" timestamp="1500397419268" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportSetMatData.java" timestamp="1500399989142" />
@@ -172,11 +175,11 @@
       <jump line="1217" column="35" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>getPlmC</text>
@@ -185,25 +188,25 @@
         <text encoding="base64">ICAgICAgICAgIFRyYWNlLnByaW50bG4oMSwgIiBObyBzZWN0aW9uIG5hbWVkIDwiK3NlY3Rpb25fbmFtZSsiPiBmb3VuZC4iKTsKICAgICAgICAgIFRyYWNlLnByaW50bG5TdGFja1RyYWNlKDQsIGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuU3RhY2tUcmFjZSg0LCBlKTsK</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChjbHNPYmogIT0gbnVsbCAmJiBpbXBvcnRPYmogIT0gbnVsbCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">LyoqCiAqIDxkZXNjcmlwdGlvbj4KICoKICogQGF1dGhvciBieWEKICogQHZlcnNpb24gJElkJAogKiBEQURJOiBwbG0uY29udHJvbC5pbXBvcnQuc2V0RGF0YUZyb21BdHRyLmNsYXNzCiAqLw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmIChjbHNPYmogIT0gbnVsbCAmJiBpbXBvcnRPYmogIT0gbnVsbCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEJySW1wb3J0T2JqZWN0TmV3LkJySW1wb3J0Q2xhc3NpZmljYXRpb24gYnJJbXBvcnRDbGFzc2lmaWNhdGlvbiA9IChCckltcG9ydE9iamVjdE5ldy5CckltcG9ydENsYXNzaWZpY2F0aW9uKSBnZXRPYmplY3RJbnB1dChJTl9CUk9XU0VfQ0xTX09CSik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgT3BlcmF0aW9uSUYgb3BlcmF0aW9uc1tdID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuU3RhY2tUcmFjZSg0LCBlKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -212,7 +215,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRyeQogICAgewogICAgfQogICAgY2F0Y2ggKEV4Y2VwdGlvbiBlKQogICAgewogICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRlc3QiKTsKICAgIH0K</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name=":" type="4">
         <text>291</text>
