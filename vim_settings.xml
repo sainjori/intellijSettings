@@ -7,7 +7,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/modules/ps/brobj/BrPSProject.java" timestamp="1500543440107">
         <mark key="'" line="189" column="2" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500477376134">
+      <file name="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500548852007">
         <mark key="'" line="5406" column="26" />
         <mark key="[" line="5406" column="24" />
         <mark key="]" line="5406" column="34" />
@@ -41,6 +41,7 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/objmod/PlmClassAllocation.java" timestamp="1500460282201" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportOnDTypeChange.java" timestamp="1500483640290" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/proc/PlmProcessBrImportObjsCreate.java" timestamp="1500548859120" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/proc/cad/PlmProcessCadDocumentImportOnDemand.java" timestamp="1500380043901" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/brobj/BrClassifiedObject.java" timestamp="1500467831699" />
       <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/objmod/CheckoutInfo.java" timestamp="1500366801639" />
@@ -48,7 +49,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/proc/cad/doc/createmulti/DocMultiCreateHelper.java" timestamp="1500404439440" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/version/ChangeCreateGui.java" timestamp="1500401590203" />
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/brobj/BrClassifiedObject.java" timestamp="1500468931881" />
-      <file name="/Dummy.txt" timestamp="1500472565855">
+      <file name="/Dummy.txt" timestamp="1500548768612">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
