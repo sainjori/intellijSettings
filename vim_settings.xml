@@ -62,11 +62,16 @@
         <mark key="[" line="7222" column="11" />
         <mark key="]" line="7222" column="18" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiControlImportBeforeShowClsInGui.java" timestamp="1500558374145" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiControlImportBeforeShowClsInGui.java" timestamp="1500559644458">
+        <mark key="[" line="81" column="65" />
+        <mark key="]" line="81" column="72" />
+        <mark key="^" line="81" column="72" />
+        <mark key="." line="81" column="72" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7-SNAPSHOT/plm-5.1.7-20170223.163339-38.jar!/plm/brobj/BrClassifiedObject.class" timestamp="1500397419268" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportSetMatData.java" timestamp="1500399989142" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/proc/doc/create/ClassificationHelper.java" timestamp="1500459061943" />
-      <file name="/fragment.java" timestamp="1500555971243">
+      <file name="/fragment.java" timestamp="1500559123408">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
