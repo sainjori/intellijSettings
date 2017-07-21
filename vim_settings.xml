@@ -88,10 +88,10 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/proc/PlmProcessConversionSchedule.java" timestamp="1499256297179">
         <mark key="'" line="20" column="1" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500651028713">
-        <mark key="'" line="7319" column="21" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500653046062">
+        <mark key="'" line="2511" column="54" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiControlImportBeforeShowClsInGui.java" timestamp="1500651191112">
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiControlImportBeforeShowClsInGui.java" timestamp="1500652338486">
         <mark key="[" line="45" column="22" />
         <mark key="]" line="45" column="23" />
         <mark key="^" line="45" column="90" />
@@ -109,26 +109,17 @@
       <file name="/PsContextInfo.java" timestamp="1499683128419">
         <mark key="'" line="539" column="50" />
       </file>
-      <file name="/fragment.java" timestamp="1500651433671">
+      <file name="/fragment.java" timestamp="1500652517530">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="13" />
+        <mark key="]" line="0" column="56" />
+        <mark key="." line="0" column="56" />
+        <mark key="^" line="0" column="56" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/proc/ug/PlmProcessUgAnalyseStruct.java" timestamp="1500642235888">
         <mark key="'" line="1661" column="30" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="7343" column="98" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="7339" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="7289" column="53" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="7272" column="53" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="7256" column="41" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="7767" column="34" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="7224" column="13" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="7182" column="21" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="370" column="0" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="7268" column="28" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="7285" column="30" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="314" column="28" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7-SNAPSHOT/sapbase-5.1.7-20170223.163339-38.jar!/cadagent/plm/PlmRepository.class" />
@@ -220,6 +211,15 @@
       <jump line="7372" column="30" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="7310" column="17" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="7319" column="21" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="491" column="20" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="1333" column="60" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="1428" column="26" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="1964" column="13" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="2081" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="2126" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="2321" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="2510" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="2511" column="54" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -229,7 +229,7 @@
         <text>PROJECT_DEFINITION</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbml0UHJvcGVydGllc1w+</text>
+        <text encoding="base64">XDxmbGdJblNhcFw+</text>
       </register>
       <register name="0" type="4">
         <text>proj_number</text>
@@ -269,9 +269,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbml0UHJvcGVydGllc1w+</last-search>
+      <last-search encoding="base64">XDxmbGdJblNhcFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbml0UHJvcGVydGllc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxmbGdJblNhcFw+</last-pattern>
       <last-replace>bla</last-replace>
       <last-substitute>key</last-substitute>
       <last-dir>1</last-dir>
@@ -279,7 +279,6 @@
     </search>
     <history>
       <history-search>
-        <entry>PlmClassifiedObject</entry>
         <entry>set</entry>
         <entry>setBr</entry>
         <entry>setBrI</entry>
@@ -299,6 +298,7 @@
         <entry encoding="base64">XDxhdHRyX2NvbnRcPg==</entry>
         <entry encoding="base64">XDxhdHRyaWJ1dGVDb250YWluZXJcPg==</entry>
         <entry encoding="base64">XDxpbml0UHJvcGVydGllc1w+</entry>
+        <entry encoding="base64">XDxmbGdJblNhcFw+</entry>
       </history-search>
       <history-cmd>
         <entry>68</entry>
