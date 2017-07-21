@@ -42,7 +42,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/objmod/PlmClassAllocation.java" timestamp="1500460282201" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportOnDTypeChange.java" timestamp="1500483640290" />
       <file name="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/proc/PlmProcessBrImportObjsCreate.java" timestamp="1500548859120" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/proc/doc/PopDocGetMultidetail.java" timestamp="1500564203918" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/proc/doc/PopDocGetMultidetail.java" timestamp="1500627566391">
+        <mark key="'" line="521" column="4" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/proc/cad/PlmProcessCadDocumentImportOnDemand.java" timestamp="1500380043901" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/brobj/BrClassifiedObject.java" timestamp="1500467831699" />
       <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/objmod/CheckoutInfo.java" timestamp="1500366801639" />
@@ -80,9 +85,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
-      <jump line="73" column="2" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
-      <jump line="61" column="3" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
       <jump line="66" column="23" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
       <jump line="58" column="0" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
       <jump line="62" column="21" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
@@ -180,65 +182,68 @@
       <jump line="166" column="0" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="1217" column="35" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="189" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/modules/ps/brobj/BrPSProject.java" />
+      <jump line="176" column="0" filename="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/proc/doc/PopDocGetMultidetail.java" />
+      <jump line="104" column="2" filename="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/proc/doc/PopDocGetMultidetail.java" />
+      <jump line="521" column="44" filename="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/proc/doc/PopDocGetMultidetail.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEJySW1wb3J0T2JqZWN0TmV3IGltcG9ydE9iaiA9IChCckltcG9ydE9iamVjdE5ldykgZ2V0T2JqZWN0SW5wdXQoSU5fQlJPV1NFX0lNUE9SVF9PQkopOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgQ29weXJpZ2h0IChjKSAyMDAxCg==</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>getPlmC</text>
+        <text>bla</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEJySW1wb3J0T2JqZWN0TmV3IGltcG9ydE9iaiA9IChCckltcG9ydE9iamVjdE5ldykgZ2V0T2JqZWN0SW5wdXQoSU5fQlJPV1NFX0lNUE9SVF9PQkopOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgQ29weXJpZ2h0IChjKSAyMDAxCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChjbHNPYmogIT0gbnVsbCAmJiBpbXBvcnRPYmogIT0gbnVsbCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIHsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGlmIChjbHNPYmogIT0gbnVsbCAmJiBpbXBvcnRPYmogIT0gbnVsbCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEJySW1wb3J0T2JqZWN0TmV3LkJySW1wb3J0Q2xhc3NpZmljYXRpb24gYnJJbXBvcnRDbGFzc2lmaWNhdGlvbiA9IChCckltcG9ydE9iamVjdE5ldy5CckltcG9ydENsYXNzaWZpY2F0aW9uKSBnZXRPYmplY3RJbnB1dChJTl9CUk9XU0VfQ0xTX09CSik7Cg==</text>
+        <text encoding="base64">ICAgIGlmIChjbHNPYmogIT0gbnVsbCAmJiBpbXBvcnRPYmogIT0gbnVsbCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuU3RhY2tUcmFjZSg0LCBlKTsK</text>
+        <text encoding="base64">ICAgIEJySW1wb3J0T2JqZWN0TmV3LkJySW1wb3J0Q2xhc3NpZmljYXRpb24gYnJJbXBvcnRDbGFzc2lmaWNhdGlvbiA9IChCckltcG9ydE9iamVjdE5ldy5CckltcG9ydENsYXNzaWZpY2F0aW9uKSBnZXRPYmplY3RJbnB1dChJTl9CUk9XU0VfQ0xTX09CSik7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>291</text>
+        <text>%s/key/bla/g</text>
       </register>
     </registers>
     <search>
-      <last-search>getPlmC</last-search>
+      <last-search>bla</last-search>
       <last-offset />
-      <last-pattern>getPlmC</last-pattern>
+      <last-pattern>bla</last-pattern>
+      <last-replace>bla</last-replace>
+      <last-substitute>key</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>init</entry>
-        <entry encoding="base64">XDxkdHlwZVw+</entry>
         <entry>initPro</entry>
         <entry>initProp</entry>
         <entry>operations</entry>
@@ -257,6 +262,8 @@
         <entry>classified</entry>
         <entry>getP</entry>
         <entry>getPlmC</entry>
+        <entry>key</entry>
+        <entry>bla</entry>
       </history-search>
       <history-cmd>
         <entry>68</entry>
@@ -264,6 +271,12 @@
         <entry>64</entry>
         <entry>288</entry>
         <entry>291</entry>
+        <entry>3d</entry>
+        <entry>3,gd</entry>
+        <entry>.,Gd</entry>
+        <entry>3,.</entry>
+        <entry>3,.dd</entry>
+        <entry>%s/key/bla/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
