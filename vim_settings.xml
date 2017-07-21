@@ -7,16 +7,16 @@
         <mark key="'" line="5345" column="8" />
       </file>
       <file name="/DadiImportSetDataFromAttr.java" timestamp="1500477321074" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/modules/ps/brobj/BrPSNetworkActivity.java" timestamp="1500634673175" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/modules/ps/brobj/BrPSNetworkActivity.java" timestamp="1500635946579" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/plantMaintenanceExtensions/src/main/java/plm/modules/plantmaintenance/PlantMaintenanceContextHelper.java" timestamp="1499166205828">
         <mark key="'" line="125" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/modules/ps/brobj/BrPSProject.java" timestamp="1500634986740">
-        <mark key="'" line="230" column="20" />
-        <mark key="[" line="831" column="0" />
-        <mark key="]" line="831" column="0" />
-        <mark key="^" line="830" column="51" />
-        <mark key="." line="831" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/modules/ps/brobj/BrPSProject.java" timestamp="1500636637182">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="830" column="76" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/base/java/src/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1500630842092">
         <mark key="'" line="104" column="13" />
@@ -62,7 +62,7 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/omf/OmfDataExcImport.java" timestamp="1500380390104" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiExportAfter.java" timestamp="1500478256324" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/base/java/src/cadagent/proc/constants/ProcessSapFieldConstants.java" timestamp="1500634942437">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/base/java/src/cadagent/proc/constants/ProcessSapFieldConstants.java" timestamp="1500636667856">
         <mark key="[" line="84" column="59" />
         <mark key="]" line="84" column="62" />
         <mark key="." line="84" column="62" />
@@ -82,7 +82,7 @@
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/InputStream.java" timestamp="1499799815608">
         <mark key="'" line="64" column="24" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/proc/PlmProcessApiGeneric.java" timestamp="1500634595918" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/proc/PlmProcessApiGeneric.java" timestamp="1500635678022" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportOnDTypeChange.java" timestamp="1500483640290" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/cfc/util/StringTool.java" timestamp="1500038413202">
         <mark key="'" line="231" column="23" />
@@ -101,7 +101,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/proc/cad/doc/createmulti/DocMultiCreateHelper.java" timestamp="1500404439440" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/version/ChangeCreateGui.java" timestamp="1500401590203" />
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/brobj/BrClassifiedObject.java" timestamp="1500468931881" />
-      <file name="/Dummy.txt" timestamp="1500634744128">
+      <file name="/Dummy.txt" timestamp="1500635571769">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -130,7 +130,7 @@
       <file name="/PsContextInfo.java" timestamp="1499683128419">
         <mark key="'" line="539" column="50" />
       </file>
-      <file name="/fragment.java" timestamp="1500631247906">
+      <file name="/fragment.java" timestamp="1500635714882">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -138,8 +138,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="7" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
-      <jump line="55" column="10" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
       <jump line="53" column="9" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
       <jump line="37" column="7" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
       <jump line="36" column="7" filename="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/base/test/src/cadagent/cfc/boolexp/interpreter/MatchesTest.java" />
@@ -238,49 +236,51 @@
       <jump line="21" column="14" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/modules/ps/brobj/BrPSProject.java" />
       <jump line="85" column="13" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/modules/ps/brobj/BrPSProject.java" />
       <jump line="230" column="20" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/modules/ps/brobj/BrPSProject.java" />
+      <jump line="825" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/modules/ps/brobj/BrPSProject.java" />
+      <jump line="94" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/modules/ps/brobj/BrPSProject.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>proj_number</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>PROJECT_DEFINITION</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCclBTUHJvamVjdFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoUHJvY2Vzc1NhcEZpZWxkQ29uc3RhbnRzLlBST0pfTlVNQkVSLmVxdWFsc0lnbm9yZUNhc2Uoa2V5KSkKICAgICAgICAgIHJlc3VsdCA9IGdldFNhcEtleSgpOwo=</text>
+      <register name="0" type="4">
+        <text>proj_number</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc3VsdCA9IGdldFNhcEtleSgpOwo=</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBQUk9KX05VTUJFUl9FWFQgPSA7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGJyZWFrOwo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBwbG0ubW9kdWxlcy5wcy5icm9iai5CclBTTmV0d29ya0FjdGl2aXR5LlBST0pFQ1RfREVGSU5JVElPTjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNhc2UgIlBST0pfTlVNQkVSX0VYVCIgOgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlc3VsdCA9IGdldFNhcEtleSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgQ29weXJpZ2h0IChjKSAyMDAxCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGNhc2UgIlBST0pfTlVNQkVSX0VYVCIgOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgQ29weXJpZ2h0IChjKSAyMDAxCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICBdCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChjbHNPYmogIT0gbnVsbCAmJiBpbXBvcnRPYmogIT0gbnVsbCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/key/bla/g</text>
