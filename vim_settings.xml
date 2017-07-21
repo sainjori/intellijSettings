@@ -47,12 +47,6 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7-SNAPSHOT/sapbase-5.1.7-20170223.163339-38.jar!/cadagent/plm/PlmRepository.class" timestamp="1500375399766">
         <mark key="'" line="314" column="28" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportSetDataFromAttr.java" timestamp="1500479604134">
-        <mark key="[" line="27" column="67" />
-        <mark key="]" line="27" column="46" />
-        <mark key="." line="27" column="46" />
-        <mark key="^" line="27" column="46" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/plm/java/src/plm/sess/PlmSessionManager.java" timestamp="1500058463979">
         <mark key="'" line="1543" column="4" />
       </file>
@@ -83,7 +77,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/objmod/PlmDocumentContainer.java" timestamp="1500640924304">
         <mark key="'" line="1190" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500635571769">
+      <file name="/Dummy.txt" timestamp="1500651058244">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -94,10 +88,10 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/proc/PlmProcessConversionSchedule.java" timestamp="1499256297179">
         <mark key="'" line="20" column="1" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500649360278">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500651028713">
         <mark key="'" line="7319" column="21" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiControlImportBeforeShowClsInGui.java" timestamp="1500562407995">
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiControlImportBeforeShowClsInGui.java" timestamp="1500651191112">
         <mark key="[" line="45" column="22" />
         <mark key="]" line="45" column="23" />
         <mark key="^" line="45" column="90" />
@@ -115,7 +109,7 @@
       <file name="/PsContextInfo.java" timestamp="1499683128419">
         <mark key="'" line="539" column="50" />
       </file>
-      <file name="/fragment.java" timestamp="1500643257145">
+      <file name="/fragment.java" timestamp="1500651433671">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="0" />
