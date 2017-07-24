@@ -24,9 +24,12 @@
         <mark key="." line="56" column="0" />
       </file>
       <file name="/api_definitions2.xml" timestamp="1500893885191" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1500903318035">
-        <mark key="'" line="96" column="24" />
-        <mark key="[" line="217" column="3" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1500908703187">
+        <mark key="'" line="98" column="24" />
+        <mark key="[" line="116" column="35" />
+        <mark key="]" line="116" column="35" />
+        <mark key="^" line="116" column="35" />
+        <mark key="." line="116" column="35" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ctx/ObrTreeContextInfo.java" timestamp="1499176969213">
         <mark key="'" line="167" column="46" />
@@ -89,7 +92,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/objmod/PlmDocumentContainer.java" timestamp="1500640924304">
         <mark key="'" line="1190" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500902712863">
+      <file name="/Dummy.txt" timestamp="1500908795998">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -122,6 +125,7 @@
       <file name="/PsContextInfo.java" timestamp="1499683128419">
         <mark key="'" line="539" column="50" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/PlmProcessFolderExport.java" timestamp="1500908565961" />
       <file name="/fragment.java" timestamp="1500902566784">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -235,47 +239,47 @@
       <jump line="148" column="24" filename="C:/ENTWICKLUNG/java/workspaces/core/base/java/src/cadagent/cfc/util/ProcessRunner.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xsZWN0Lgo=</text>
+      <register name="&quot;" type="4">
+        <text>partnames</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFBsbUZpbGUgbWFzdGVyT3JpZ2luYWwgPSA=</text>
+        <text>partnames</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEQ1JfYmVmb3JlU2hvd0Nsc0luR3VpXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">QnJEb2N1bWVudCBzZWxlY3RlZERvY3VtZW50IA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gICAgICAgIFN0cmluZyBwYXJhbXMgPSAiIC1wYXJ0bmFtZXMgIiArICJcIiIgKyB0eHRmaWxlLmdldEFic29sdXRlUGF0aCgpICsgIlwiIC1jcmVhdGVfbWV0YWluZiAtZG9udF9zYXZlX3BhcnQgIjsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xsZWN0Lgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IGxvd19yYW5nZSArPSBwYXJ0c19hdF9vbmNlOwogICAgICAgIGhpZ2hfcmFuZ2UgKz0gcGFydHNfYXRfb25jZTs=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvCg==</text>
+        <text encoding="base64">ICAgICAgICBjb2xsZWN0Lgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYXN0ZXJPcmlnaW5hbC4K</text>
+        <text encoding="base64">ICAgICAgICBvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRvYy4K</text>
+        <text encoding="base64">ICAgICAgICBtYXN0ZXJPcmlnaW5hbC4K</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGRvYy4K</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIGRvCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigidGVzdCIpOwogICAgT2JyVHJlZVNlbGVjdGlvbiBvYnJUcmVlU2VsZWN0aW9uID0gZXZlbnQuZ2V0T2JyVHJlZVNlbGVjdGlvbigpOwogICAgT2JyT2JqZWN0IGZpcnN0T2JyT2JqZWN0ID0gb2JyVHJlZVNlbGVjdGlvbi5nZXRGaXJzdE9ick9iamVjdCgpOwogICAgQnJEb2N1bWVudCBzZWxlY3RlZERvY3VtZW50ID0gbnVsbDsKICAgIHRyeQogICAgewogICAgICBzZWxlY3RlZERvY3VtZW50ID0gT21mVXRpbHMuZ2V0U2luZ2xlU2VsZWN0ZWRPYmplY3QoQnJEb2N1bWVudC5jbGFzcywgZXZlbnQpOwogICAgfQogICAgY2F0Y2ggKERlZmF1bHRMb2dFeGNlcHRpb24gZSkKICAgIHsKICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgIH0KCiAgICBpZiAoc2VsZWN0ZWREb2N1bWVudCAhPSBudWxsKXsKCiAgICAgIFBsbURvY3VtZW50IHBsbURvY3VtZW50ID0gc2VsZWN0ZWREb2N1bWVudC5nZXRQbG1Eb2N1bWVudCgpOwogICAgICBQbG1GaWxlIG1hc3Rlck9yaWdpbmFsID0gcGxtRG9jdW1lbnQuZ2V0TWFzdGVyT3JpZ2luYWwoKTsKCgogICAgfQ==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbWFzdGVyT3JpZ2luYWwuCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9iclRyZWVTZWxlY3Rpb24uCg==</text>
+        <text encoding="base64">ICAgICAgbWFzdGVyT3JpZ2luYWwuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFjdGlvblBlcmZvcm1lZCgpOwo=</text>
+        <text encoding="base64">ICAgIG9iclRyZWVTZWxlY3Rpb24uCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/import/test</text>
