@@ -66,7 +66,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/proc/PlmProcessConversionSchedule.java" timestamp="1499256297179">
         <mark key="'" line="20" column="1" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500890762012">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500891404403">
         <mark key="'" line="625" column="27" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiControlImportBeforeShowClsInGui.java" timestamp="1500888784572">
@@ -95,10 +95,10 @@
       <file name="/PsContextInfo.java" timestamp="1499683128419">
         <mark key="'" line="539" column="50" />
       </file>
-      <file name="/fragment.java" timestamp="1500890770071">
+      <file name="/fragment.java" timestamp="1500891427136">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="56" />
-        <mark key="." line="0" column="56" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="56" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/imp/DataExcAnalyseEvent.java" timestamp="1500890789884">
@@ -211,11 +211,11 @@
       <jump line="106" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/imp/DataExcAnalyseEvent.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>BrImportObjectNew.</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>BrImportObjectNew.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEQ1JfYmVmb3JlU2hvd0Nsc0luR3VpXD4=</text>
