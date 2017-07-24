@@ -83,11 +83,9 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500653046062">
         <mark key="'" line="2511" column="54" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiControlImportBeforeShowClsInGui.java" timestamp="1500652338486">
-        <mark key="[" line="45" column="22" />
-        <mark key="]" line="45" column="23" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiControlImportBeforeShowClsInGui.java" timestamp="1500888784572">
+        <mark key="'" line="51" column="0" />
         <mark key="^" line="45" column="90" />
-        <mark key="." line="45" column="23" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/plm/java/src/plm/sess/PlmSessionManager.java" timestamp="1500058463979">
         <mark key="'" line="1543" column="4" />
@@ -118,7 +116,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7268" column="28" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="7285" column="30" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="314" column="28" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7-SNAPSHOT/sapbase-5.1.7-20170223.163339-38.jar!/cadagent/plm/PlmRepository.class" />
       <jump line="133" column="6" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/cad/doc/createmulti/DocMultiCreateHelper.java" />
@@ -218,6 +215,7 @@
       <jump line="2321" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="2510" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="2511" column="54" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="51" column="0" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiControlImportBeforeShowClsInGui.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -227,7 +225,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmbGdJblNhcFw+</text>
+        <text>import</text>
       </register>
       <register name="0" type="4">
         <text>proj_number</text>
@@ -263,21 +261,20 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/key/bla/g</text>
+        <text>%s/import/test</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmbGdJblNhcFw+</last-search>
+      <last-search>import</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmbGdJblNhcFw+</last-pattern>
-      <last-replace>bla</last-replace>
-      <last-substitute>key</last-substitute>
+      <last-pattern>import</last-pattern>
+      <last-replace>test</last-replace>
+      <last-substitute>import</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>set</entry>
         <entry>setBr</entry>
         <entry>setBrI</entry>
         <entry>getBr</entry>
@@ -297,6 +294,7 @@
         <entry encoding="base64">XDxhdHRyaWJ1dGVDb250YWluZXJcPg==</entry>
         <entry encoding="base64">XDxpbml0UHJvcGVydGllc1w+</entry>
         <entry encoding="base64">XDxmbGdJblNhcFw+</entry>
+        <entry>import</entry>
       </history-search>
       <history-cmd>
         <entry>68</entry>
@@ -310,6 +308,13 @@
         <entry>3,.</entry>
         <entry>3,.dd</entry>
         <entry>%s/key/bla/g</entry>
+        <entry>ls</entry>
+        <entry>%i//</entry>
+        <entry>3t.</entry>
+        <entry>2m.</entry>
+        <entry>2,10m.</entry>
+        <entry>%/import/bla</entry>
+        <entry>%s/import/test</entry>
       </history-cmd>
       <history-expr />
       <history-input />
