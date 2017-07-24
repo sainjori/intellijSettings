@@ -12,6 +12,9 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/modules/ps/brobj/BrPSProject.java" timestamp="1500893743275">
         <mark key="'" line="94" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7.1/sapbase-5.1.7.1-sources.jar!/cadagent/objmod/PlmDocument.java" timestamp="1500901426684">
+        <mark key="'" line="1924" column="17" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/base/java/src/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1500630842092">
         <mark key="'" line="104" column="13" />
       </file>
@@ -21,11 +24,9 @@
         <mark key="." line="56" column="0" />
       </file>
       <file name="/api_definitions2.xml" timestamp="1500893885191" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1500900201247">
-        <mark key="[" line="30" column="6" />
-        <mark key="]" line="30" column="5" />
-        <mark key="." line="30" column="5" />
-        <mark key="^" line="30" column="5" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1500903318035">
+        <mark key="'" line="96" column="24" />
+        <mark key="[" line="217" column="3" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ctx/ObrTreeContextInfo.java" timestamp="1499176969213">
         <mark key="'" line="167" column="46" />
@@ -54,9 +55,17 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcImport.java" timestamp="1500890823058">
         <mark key="'" line="1819" column="49" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/omf/OmfDocCopyAs.java" timestamp="1500902707109">
+        <mark key="'" line="260" column="4" />
+        <mark key="[" line="155" column="33" />
+        <mark key="]" line="156" column="9" />
+        <mark key="." line="156" column="9" />
+        <mark key="^" line="156" column="9" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/pom.xml" timestamp="1499186756636">
         <mark key="'" line="411" column="31" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/ug/PlmProcessUgFamilySave.java" timestamp="1500903061099" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/imp/DataExcAnalyseEvent.java" timestamp="1500890789884">
         <mark key="'" line="106" column="4" />
       </file>
@@ -80,13 +89,16 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/objmod/PlmDocumentContainer.java" timestamp="1500640924304">
         <mark key="'" line="1190" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500900004679">
+      <file name="/Dummy.txt" timestamp="1500902712863">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
       <file name="/system-default.txt" timestamp="1500898676380" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/cfc/gfx/StatusLinePane.java" timestamp="1500889944251" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/core/base/java/src/cadagent/cfc/util/ProcessRunner.java" timestamp="1500902933119">
+        <mark key="'" line="148" column="24" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/sapbase/java/src/cadagent/proc/sord/ProcessSalesOrderDisplay.java" timestamp="1500892730355" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/cfc/pref/PrefObject.java" timestamp="1499442705573">
         <mark key="'" line="472" column="16" />
@@ -110,7 +122,7 @@
       <file name="/PsContextInfo.java" timestamp="1499683128419">
         <mark key="'" line="539" column="50" />
       </file>
-      <file name="/fragment.java" timestamp="1500891427136">
+      <file name="/fragment.java" timestamp="1500902566784">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -121,10 +133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="503" column="16" filename="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="765" column="11" filename="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="771" column="22" filename="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="773" column="29" filename="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="775" column="17" filename="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="776" column="8" filename="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="777" column="22" filename="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
@@ -221,13 +229,17 @@
       <jump line="7410" column="21" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="625" column="27" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="106" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/imp/DataExcAnalyseEvent.java" />
+      <jump line="247" column="4" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/omf/OmfDocCopyAs.java" />
+      <jump line="74" column="24" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
+      <jump line="1924" column="17" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7.1/sapbase-5.1.7.1-sources.jar!/cadagent/objmod/PlmDocument.java" />
+      <jump line="148" column="24" filename="C:/ENTWICKLUNG/java/workspaces/core/base/java/src/cadagent/cfc/util/ProcessRunner.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>BrDocument</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb2xsZWN0Lgo=</text>
       </register>
       <register name="-" type="4">
-        <text>BrDocument</text>
+        <text encoding="base64">IFBsbUZpbGUgbWFzdGVyT3JpZ2luYWwgPSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEQ1JfYmVmb3JlU2hvd0Nsc0luR3VpXD4=</text>
@@ -236,34 +248,34 @@
         <text encoding="base64">QnJEb2N1bWVudCBzZWxlY3RlZERvY3VtZW50IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9iclRyZWVTZWxlY3Rpb24uCg==</text>
+        <text encoding="base64">ICAgICAgICBjb2xsZWN0Lgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFjdGlvblBlcmZvcm1lZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBvCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGV2ZW50LmdlCg==</text>
+        <text encoding="base64">ICAgICAgICBtYXN0ZXJPcmlnaW5hbC4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdldAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRvYy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpcnN0T2JyT2JqZWN0Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGRvCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigidGVzdCIpOwogICAgT2JyVHJlZVNlbGVjdGlvbiBvYnJUcmVlU2VsZWN0aW9uID0gZXZlbnQuZ2V0T2JyVHJlZVNlbGVjdGlvbigpOwogICAgT2JyT2JqZWN0IGZpcnN0T2JyT2JqZWN0ID0gb2JyVHJlZVNlbGVjdGlvbi5nZXRGaXJzdE9ick9iamVjdCgpOwogICAgQnJEb2N1bWVudCBzZWxlY3RlZERvY3VtZW50ID0gbnVsbDsKICAgIHRyeQogICAgewogICAgICBzZWxlY3RlZERvY3VtZW50ID0gT21mVXRpbHMuZ2V0U2luZ2xlU2VsZWN0ZWRPYmplY3QoQnJEb2N1bWVudC5jbGFzcywgZXZlbnQpOwogICAgfQogICAgY2F0Y2ggKERlZmF1bHRMb2dFeGNlcHRpb24gZSkKICAgIHsKICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgIH0KCiAgICBpZiAoc2VsZWN0ZWREb2N1bWVudCAhPSBudWxsKXsKCiAgICAgIFBsbURvY3VtZW50IHBsbURvY3VtZW50ID0gc2VsZWN0ZWREb2N1bWVudC5nZXRQbG1Eb2N1bWVudCgpOwogICAgICBQbG1GaWxlIG1hc3Rlck9yaWdpbmFsID0gcGxtRG9jdW1lbnQuZ2V0TWFzdGVyT3JpZ2luYWwoKTsKCgogICAgfQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbWFzdGVyT3JpZ2luYWwuCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc3VsdCA9IChTdHJpbmcpIGdldE9iclByb3BlcnR5KEJyUFNQcm9qZWN0LlBSUF9QUk9KRUNUX0RFRklOSVRJT04pLmdldFZhbHVlKCk7Cg==</text>
+        <text encoding="base64">ICAgIG9iclRyZWVTZWxlY3Rpb24uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBQUk9KX05VTUJFUl9FWFQgPSA7Cg==</text>
+        <text encoding="base64">ICAgIGFjdGlvblBlcmZvcm1lZCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/import/test</text>
