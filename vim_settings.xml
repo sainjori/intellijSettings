@@ -25,12 +25,12 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/omf/OmfScheduleCacheUpdate.java" timestamp="1500972135982" />
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/fs/handler/admin/GetSessionHistoryHandler.java" timestamp="1500914525794" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1500974604174">
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1500975837825">
         <mark key="'" line="206" column="98" />
-        <mark key="[" line="80" column="38" />
-        <mark key="]" line="206" column="98" />
-        <mark key="." line="206" column="98" />
-        <mark key="^" line="206" column="98" />
+        <mark key="[" line="108" column="31" />
+        <mark key="]" line="108" column="29" />
+        <mark key="." line="108" column="29" />
+        <mark key="^" line="108" column="29" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ctx/ObrTreeContextInfo.java" timestamp="1499176969213">
         <mark key="'" line="167" column="46" />
@@ -88,7 +88,7 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/doc/PlmProcessDocumentRegenerate.java" timestamp="1500911118638" />
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/brobj/BrBookmarkFolder.java" timestamp="1500920668563" />
-      <file name="/Dummy.txt" timestamp="1500972058766">
+      <file name="/Dummy.txt" timestamp="1500975215868">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -235,10 +235,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5BZGRGaWxlcyA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>map</text>
       </register>
       <register name="/" type="4">
         <text>filename</text>
@@ -247,34 +247,34 @@
         <text encoding="base64">TWFwPFBsbURvY3VtZW50LCBMaW5rZWRIYXNoTWFwPFN0cmluZywgU3RyaW5nPj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5BZGRGaWxlcyA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY2hlY2tvdXRJbmZvLmhtQWxsRmlsZXMuZm9yRWFjaChmaWxlIC0+IHsKICAgICAgICBuZXcgRmlsZShmaWxlLik7CiAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5maWxlcyA9IGNoCg==</text>
+        <text encoding="base64">ICAgICAgY2xlYW5DaGVja291dERpcmVjdG9yeSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChjaGVja291dFdzYXBwbHMgPT0gbnVsbCkKICAgIHsKICAgICAgcmV0dXJuIDsKICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgICBMaXN0PFBsbURvY3VtZW50PiBkb2N1bWVudHMgPSBwbG1Eb2N1bWVudENvbnRhaW5lci5nZXREb2N1bWVudHMoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZG9jY29udC5hZGREb2N1bWVudChwbG1Eb2N1bWVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gICAgICBQbG1Eb2N1bWVudENvbnRhaW5lciBwbG1Eb2N1bWVudENvbnRhaW5lciA9IGdldFBsbURvY3VtZW50cyhjaGVja291dEluZm9MaXN0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY2hlY2tvdXRJbmZvLmhtQWxsRmlsZXMK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5BZGRGaWxlcyA9IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFBsbURvY3VtZW50Q29udGFpbmVyIGRvY2NvbnQgPSBuZXcgUGxtRG9jdW1lbnRDb250YWluZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgY2hlY2tvdXRJbmZvLmhtQWxsRmlsZXMuZm9yRWFjaChmaWxlIC0+IHsKICAgICAgICBuZXcgRmlsZShmaWxlLik7CiAgICAgIH0pOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcGxtRG9jdW1lbnQuc2V0Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5maWxlcyA9IGNoCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZG9jY29udCA9IG5ldyBQbG1Eb2N1bWVudENvbnRhaW5lcigpOwo=</text>
+        <text encoding="base64">ICAgIGlmIChjaGVja291dFdzYXBwbHMgPT0gbnVsbCkKICAgIHsKICAgICAgcmV0dXJuIDsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>%s/import/test</text>
