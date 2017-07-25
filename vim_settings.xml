@@ -95,11 +95,10 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/cfc/util/StringTool.java" timestamp="1500038413202">
         <mark key="'" line="231" column="23" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/convert.bat" timestamp="1500983243515">
-        <mark key="[" line="22" column="12" />
-        <mark key="]" line="22" column="13" />
-        <mark key="." line="22" column="13" />
-        <mark key="^" line="22" column="11" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/convert.bat" timestamp="1500987537834">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/cfc/boolexp/interpreter/BEContext.java" timestamp="1500889368396">
         <mark key="'" line="52" column="10" />
@@ -259,7 +258,25 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>first</text>
+        <text>Freundliche Grüße | Best regards
+
+DSC Software AG
+Daniel Rost
+Senior Consultant
+
+Phone     +49 721 9774-182
+Fax         +49 721 9774-101
+Email      Daniel.Rost@dscsag.com
+Internet    http://www.dscsag.com/
+
+
+
+DSC Software AG | Am Sandfeld 17 | 76149 Karlsruhe
+HRB 108089 Amtsgericht Mannheim
+Vorstand: Andrea Keller und Joachim Röder
+Aufsichtsratsvorsitzender: Dipl. Wirtsch.-Ing. Prof. Dr.-Ing. Edwin Hettesheimer
+
+Confidentiality note: The information in this email and any attachment may contain confidential and proprietary information of DSC Software AG and/or its affiliates and may be privileged or otherwise protected from disclosure. If you are not the intended recipient, you are hereby notified that any review, reliance or distribution by others or forwarding without express permission is strictly prohibited and may cause liability. In case you have received this message due to an error in transmission, we kindly ask you to notify the sender immediately and to delete this email and any attachment from your system.</text>
       </register>
       <register name="-" type="4">
         <text>first</text>
@@ -270,35 +287,53 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgR3VpVXRpbHMuc2V0U3RhdHVzTGluZVdhcm5pbmdUZXh0KERpYy5nZXQoInBsbS5vbWYuZHluYW1pYy4wMDAzIiwgIlBsZWFzZSBzZWxlY3Qgb25seSBvbmUgb2JqZWN0IGZvciB0aGlzIGZ1bmN0aW9uLiIpKTsKICAgICAgcmV0dXJuOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdHIK</text>
+      <register name="1" type="4">
+        <text>Freundliche Grüße | Best regards
+
+DSC Software AG
+Daniel Rost
+Senior Consultant
+
+Phone     +49 721 9774-182
+Fax         +49 721 9774-101
+Email      Daniel.Rost@dscsag.com
+Internet    http://www.dscsag.com/
+
+
+
+DSC Software AG | Am Sandfeld 17 | 76149 Karlsruhe
+HRB 108089 Amtsgericht Mannheim
+Vorstand: Andrea Keller und Joachim Röder
+Aufsichtsratsvorsitzender: Dipl. Wirtsch.-Ing. Prof. Dr.-Ing. Edwin Hettesheimer
+
+Confidentiality note: The information in this email and any attachment may contain confidential and proprietary information of DSC Software AG and/or its affiliates and may be privileged or otherwise protected from disclosure. If you are not the intended recipient, you are hereby notified that any review, reliance or distribution by others or forwarding without express permission is strictly prohibited and may cause liability. In case you have received this message due to an error in transmission, we kindly ask you to notify the sender immediately and to delete this email and any attachment from your system.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc2VuZFRvQmF0Y2hTCg==</text>
+        <text encoding="base64">ICAgICAgdHIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgc2VuZFRvQmF0Y2hTCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgRmlsZSBmaWxlID0gZmlyc3QuZ2V0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgRmlsZSBmaWxlID0gZmlyc3QuZ2V0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5jb2xsZWN0KENvKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQ2hlY2tvdXRJbmZvIGNoZWNrb3V0SW5mbyA9IGNoZWNrb3V0SW5mb0xpc3QuZ2V0KDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC5jb2xsZWN0KENvKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaQo=</text>
+        <text encoding="base64">ICAgICAgQ2hlY2tvdXRJbmZvIGNoZWNrb3V0SW5mbyA9IGNoZWNrb3V0SW5mb0xpc3QuZ2V0KDApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/import/test</text>
