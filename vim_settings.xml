@@ -23,18 +23,14 @@
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/basis/config/system-default.txt" timestamp="1501080215940">
         <mark key="'" line="41" column="34" />
-        <mark key="[" line="668" column="0" />
-        <mark key="]" line="668" column="0" />
-        <mark key="^" line="670" column="41" />
-        <mark key="." line="668" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/cfc/util/StringTool.java" timestamp="1500038413202">
         <mark key="'" line="231" column="23" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/convert.bat" timestamp="1501088004299">
-        <mark key="[" line="47" column="17" />
-        <mark key="]" line="47" column="16" />
-        <mark key="." line="47" column="16" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/convert.bat" timestamp="1501091365992">
+        <mark key="[" line="28" column="7" />
+        <mark key="]" line="28" column="8" />
+        <mark key="." line="28" column="8" />
         <mark key="^" line="47" column="16" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/cfc/util/ProcessRunner.java" timestamp="1501065127762">
@@ -60,11 +56,9 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/objmod/PlmDocumentContainer.java" timestamp="1500640924304">
         <mark key="'" line="1190" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1501086811537">
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="." line="112" column="0" />
-        <mark key="^" line="166" column="100" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1501091867664">
+        <mark key="'" line="163" column="31" />
+        <mark key="^" line="163" column="27" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ctx/ObrTreeContextInfo.java" timestamp="1499176969213">
         <mark key="'" line="167" column="46" />
@@ -155,8 +149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4579" column="4" filename="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="807" column="0" filename="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="806" column="36" filename="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="96" column="11" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/doc/create/ClassificationHelper.java" />
       <jump line="209" column="24" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/doc/create/ClassificationHelper.java" />
@@ -255,49 +247,51 @@
       <jump line="41" column="34" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/basis/config/system-default.txt" />
       <jump line="120" column="24" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
       <jump line="64" column="33" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
+      <jump line="199" column="70" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
+      <jump line="165" column="31" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwcml2YXRlIEFycmF5TGlzdDxGaWxlPiBjb3ZlcnNpb25EaXJlY3RvcnlzID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>coversionDirectorys</text>
       </register>
       <register name="/" type="4">
         <text>finally</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZWNobyBBcmcxIGlzICVhcmcxJQo=</text>
+        <text encoding="base64">c2V0IGFyZzE9JTEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2V0IEVSUk9STEVWRUw9MAo=</text>
+        <text encoding="base64">ICBwcml2YXRlIEFycmF5TGlzdDxGaWxlPiBjb3ZlcnNpb25EaXJlY3RvcnlzID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcGFyYW1zLmFkZCh0YXJnZXREaXJlY3RvcnkuZ2V0QWJzb2x1dGVQYXRoKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWNobyBBcmcxIGlzICVhcmcxJQplY2hvIEFyZzIgaXMgJWFyZzIlCg==</text>
+        <text encoding="base64">ICAgIHRlbXAuYWRkQWxsKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2V0IGFyZzI9JTIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICghRmlsZVV0aWxzLmRlbGV0ZURpckNvbnRlbnQodGFyZ2V0RGlyZWN0b3J5KSkKICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW4gZGVsZXRlZERpckNvbnRlbnQgPSBGaWxlVXRpbHMuZGVsZXRlRGlyQ29udGVudCh0cmFuc2ZlckRpcmVjdG9yeSk7CiAgICBpZiAoZGVsZXRlZERpckNvbnRlbnQgJiYgdHJhbnNmZXJEaXJlY3RvcnkuZXhpc3RzKCkpCiAgICB7CiAgICAgIGJvb2xlYW4gZGVsZXRlID0gdHJhbnNmZXJEaXJlY3RvcnkuZGVsZXRlKCk7CiAgICAgIGlmIChkZWxldGUpCiAgICAgIHsKICAgICAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCBTdHJpbmcuZm9ybWF0KCJUcmFuc2ZlciBkaXJlY3RvcnkgaGFzIGJlZW4gZGVsZXRlZC4gJXMiLCBvYnJGdW5jdGlvbktleSkpOwogICAgICB9CiAgICB9CiAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCBTdHJpbmcuZm9ybWF0KCJDb250ZW50cyBvZiBkaXJlY3RvcnkgJXMgY291bGQgbm90IGJlIGRlbGV0ZWQuIiwgdHJhbnNmZXJEaXJlY3RvcnkuZ2V0TmFtZSgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/import/test</text>
