@@ -6,20 +6,98 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500048460282">
         <mark key="'" line="5345" column="8" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/java/src/cadagent/sap/ProcessDocEnDeQueue.java" timestamp="1499878317300">
-        <mark key="'" line="57" column="13" />
+      <file name="/DadiImportSetDataFromAttr.java" timestamp="1501163041096" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiControlImportValidateGuiInput.java" timestamp="1501165596575">
+        <mark key="[" line="93" column="183" />
+        <mark key="]" line="93" column="191" />
+        <mark key="^" line="93" column="191" />
+        <mark key="." line="93" column="191" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/plantMaintenanceExtensions/src/main/java/plm/modules/plantmaintenance/PlantMaintenanceContextHelper.java" timestamp="1499166205828">
         <mark key="'" line="125" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1501085214714">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/modules/ps/brobj/BrPSProject.java" timestamp="1500893743275">
+        <mark key="'" line="94" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7.1/sapbase-5.1.7.1-sources.jar!/cadagent/objmod/PlmDocument.java" timestamp="1500921767119">
+        <mark key="'" line="1265" column="32" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/base/java/src/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1500630842092">
+        <mark key="'" line="104" column="13" />
+      </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/attributes-to-sap.xml" timestamp="1501163310549">
+        <mark key="[" line="68" column="16" />
+        <mark key="]" line="68" column="9" />
+        <mark key="^" line="68" column="9" />
+        <mark key="." line="68" column="9" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1501162767192" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/pom.xml" timestamp="1499960579941">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1501162235216" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ctx/ObrTreeContextInfo.java" timestamp="1499176969213">
+        <mark key="'" line="167" column="46" />
+      </file>
+      <file name="/ObrObjectFilterHandler.java" timestamp="1499177619319">
+        <mark key="'" line="276" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikConvertJobSet.java" timestamp="1500979060386">
+        <mark key="[" line="33" column="6" />
+        <mark key="]" line="33" column="6" />
+        <mark key="." line="33" column="6" />
+        <mark key="^" line="33" column="68" />
+      </file>
+      <file name="/convert.bat" timestamp="1501085998837" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/projectManagement/basis/aux-files/api_definitions2.xml" timestamp="1500893859126">
+        <mark key="[" line="22" column="34" />
+        <mark key="]" line="22" column="36" />
+        <mark key="." line="22" column="36" />
+        <mark key="^" line="22" column="36" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/doc/checkin/PlmProcessDocumentSave.java" timestamp="1501162176726" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/plantMaintenanceExtensions/src/main/java/plm/modules/plantmaintenance/PlantMaintenanceContextInfo.java" timestamp="1499442065406">
+        <mark key="'" line="286" column="2" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7-SNAPSHOT/sapbase-5.1.7-20170223.163339-38.jar!/cadagent/plm/PlmRepository.class" timestamp="1500375399766">
+        <mark key="'" line="314" column="28" />
+      </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" timestamp="1501165668034">
+        <mark key="'" line="17" column="22" />
+        <mark key="[" line="2500" column="34" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/plm/java/src/plm/sess/PlmSessionManager.java" timestamp="1500058463979">
+        <mark key="'" line="1543" column="4" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcImport.java" timestamp="1500890823058">
+        <mark key="'" line="1819" column="49" />
+      </file>
+      <file name="/default.txt" timestamp="1501153568555">
+        <mark key="'" line="65" column="28" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/pom.xml" timestamp="1499186756636">
+        <mark key="'" line="411" column="31" />
+      </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Process.java" timestamp="1500990266028">
+        <mark key="'" line="76" column="22" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiDocumentIgnoreWsapplBeforeCheckIn.java" timestamp="1501080344588" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/imp/DataExcAnalyseEvent.java" timestamp="1500890789884">
+        <mark key="'" line="106" column="4" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/java/src/cadagent/sap/ProcessDocEnDeQueue.java" timestamp="1499878317300">
+        <mark key="'" line="57" column="13" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/KundenEntwicklung/cust-ksb/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" timestamp="1499247934908">
         <mark key="'" line="67" column="13" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/InputStream.java" timestamp="1499799815608">
         <mark key="'" line="64" column="24" />
-      </file>
-      <file name="/a.dummy" timestamp="1501085214714">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/basis/config/system-default.txt" timestamp="1501080215940">
         <mark key="'" line="41" column="34" />
@@ -36,71 +114,20 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/cfc/util/ProcessRunner.java" timestamp="1501065127762">
         <mark key="'" line="148" column="24" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/modules/ps/brobj/BrPSProject.java" timestamp="1500893743275">
-        <mark key="'" line="94" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7.1/sapbase-5.1.7.1-sources.jar!/cadagent/objmod/PlmDocument.java" timestamp="1500921767119">
-        <mark key="'" line="1265" column="32" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/base/java/src/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1500630842092">
-        <mark key="'" line="104" column="13" />
-      </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/attributes-to-sap.xml" timestamp="1501153544262">
-        <mark key="[" line="68" column="16" />
-        <mark key="]" line="68" column="9" />
-        <mark key="^" line="68" column="9" />
-        <mark key="." line="68" column="9" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/pom.xml" timestamp="1499960579941">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/cfc/boolexp/interpreter/BEContext.java" timestamp="1500889368396">
         <mark key="'" line="52" column="10" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/objmod/PlmDocumentContainer.java" timestamp="1500640924304">
         <mark key="'" line="1190" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1501162235216" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ctx/ObrTreeContextInfo.java" timestamp="1499176969213">
-        <mark key="'" line="167" column="46" />
-      </file>
-      <file name="/ObrObjectFilterHandler.java" timestamp="1499177619319">
-        <mark key="'" line="276" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikConvertJobSet.java" timestamp="1500979060386">
-        <mark key="[" line="33" column="6" />
-        <mark key="]" line="33" column="6" />
-        <mark key="." line="33" column="6" />
-        <mark key="^" line="33" column="68" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1501150170515">
+      <file name="/Dummy.txt" timestamp="1501163755708">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
       <file name="/system-default.txt" timestamp="1501080172501" />
-      <file name="/convert.bat" timestamp="1501085998837" />
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/addons/projectManagement/basis/aux-files/api_definitions2.xml" timestamp="1500893859126">
-        <mark key="[" line="22" column="34" />
-        <mark key="]" line="22" column="36" />
-        <mark key="." line="22" column="36" />
-        <mark key="^" line="22" column="36" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/doc/checkin/PlmProcessDocumentSave.java" timestamp="1501162176726" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/plantMaintenanceExtensions/src/main/java/plm/modules/plantmaintenance/PlantMaintenanceContextInfo.java" timestamp="1499442065406">
-        <mark key="'" line="286" column="2" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7-SNAPSHOT/sapbase-5.1.7-20170223.163339-38.jar!/cadagent/plm/PlmRepository.class" timestamp="1500375399766">
-        <mark key="'" line="314" column="28" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/core/base/java/src/cadagent/cfc/util/ProcessRunner.java" timestamp="1500902933119">
         <mark key="'" line="148" column="24" />
-      </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" timestamp="1501080155006">
-        <mark key="'" line="17" column="22" />
-        <mark key="[" line="2500" column="34" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/cfc/pref/PrefObject.java" timestamp="1499442705573">
         <mark key="'" line="472" column="16" />
@@ -108,40 +135,27 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/proc/PlmProcessConversionSchedule.java" timestamp="1499256297179">
         <mark key="'" line="20" column="1" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1501153729070">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1501165415042">
         <mark key="'" line="625" column="27" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiControlImportBeforeShowClsInGui.java" timestamp="1501162253137" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/plm/java/src/plm/sess/PlmSessionManager.java" timestamp="1500058463979">
-        <mark key="'" line="1543" column="4" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiControlImportBeforeShowClsInGui.java" timestamp="1501163755960">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="33" column="45" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/plm++/java/src/plm/gui/errordialog/ErrorDialog.java" timestamp="1499260712930">
         <mark key="'" line="133" column="14" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcImport.java" timestamp="1500890823058">
-        <mark key="'" line="1819" column="49" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/omf/util/OmfCadDocOpen.java" timestamp="1499870141870">
         <mark key="'" line="1087" column="18" />
       </file>
-      <file name="/default.txt" timestamp="1501153568555">
-        <mark key="'" line="65" column="28" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/pom.xml" timestamp="1499186756636">
-        <mark key="'" line="411" column="31" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Process.java" timestamp="1500990266028">
-        <mark key="'" line="76" column="22" />
-      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/proc/PLMProcess.java" timestamp="1501165447939" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/sess/metainf/MetaInfPartInfo.java" timestamp="1500642251445">
         <mark key="'" line="104" column="11" />
       </file>
       <file name="/PsContextInfo.java" timestamp="1499683128419">
         <mark key="'" line="539" column="50" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiDocumentIgnoreWsapplBeforeCheckIn.java" timestamp="1501080344588" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/imp/DataExcAnalyseEvent.java" timestamp="1500890789884">
-        <mark key="'" line="106" column="4" />
       </file>
       <file name="/fragment.java" timestamp="1501162113218">
         <mark key="[" line="0" column="0" />
@@ -257,47 +271,47 @@
       <jump line="65" column="28" filename="/default.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN0cmluZyBlcGogPSBQcmVmZXJlbmNlcy5zdHJpbmdWYWx1ZSgic2FuZHZpay5jcmVhdGUucHJldmlldy53c0FwcGwiLCAiRVBKIik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>getName</text>
       </register>
       <register name="-" type="4">
-        <text>coversionDirectorys</text>
+        <text>getName</text>
       </register>
       <register name="/" type="4">
         <text>finally</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2V0IGFyZzE9JTEK</text>
+        <text encoding="base64">ICAgIFRyYWNlLnByaW50bG4oVHJhY2UuREVCVUcsICJnZXRPcGVyYXRpb25zIC4uLiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN0cmluZyBlcGogPSBQcmVmZXJlbmNlcy5zdHJpbmdWYWx1ZSgic2FuZHZpay5jcmVhdGUucHJldmlldy53c0FwcGwiLCAiRVBKIik7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIEFycmF5TGlzdDxGaWxlPiBjb3ZlcnNpb25EaXJlY3RvcnlzID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcGFyYW1zLmFkZCh0YXJnZXREaXJlY3RvcnkuZ2V0QWJzb2x1dGVQYXRoKCkpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHRlbXAuYWRkQWxsKCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCBTdHJpbmcuZm9ybWF0KCkpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBmbwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKDEsICIgTm8gc2VjdGlvbiBuYW1lZCA8IiArIHNlY3Rpb25OYW1lICsgIj4gZm91bmQuIik7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIERhZGlDb250cm9sSW1wb3J0QmVmb3JlU2hvd0Nsc0luR3VpIGV4dGVuZHMgUExNUHJvY2Vzcwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgQnJJbXBvcnRDbGFzc2lmaWNhdGlvbiBjbHNPYmogPSAoQnJJbXBvcnRDbGFzc2lmaWNhdGlvbikgZ2V0T2JqZWN0SW5wdXQoSU5fQlJPV1NFX0NMU19PQkopOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIFN0cmluZyBlcGogPSBQcmVmZXJlbmNlcy5zdHJpbmdWYWx1ZSgic2FuZHZpay5jcmVhdGUucHJldmlldy53c0FwcGwiLCAiRVBKIik7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICghRmlsZVV0aWxzLmRlbGV0ZURpckNvbnRlbnQodGFyZ2V0RGlyZWN0b3J5KSkKICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICBwcml2YXRlIEFycmF5TGlzdDxGaWxlPiBjb3ZlcnNpb25EaXJlY3RvcnlzID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/import/test</text>
