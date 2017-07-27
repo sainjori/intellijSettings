@@ -18,6 +18,7 @@
       <file name="/a.dummy" timestamp="1501085214714">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/omf/OmfMmgroupDescriptionChange.java" timestamp="1501172850577" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/modules/ps/brobj/BrPSProject.java" timestamp="1500893743275">
         <mark key="'" line="94" column="0" />
       </file>
@@ -32,10 +33,11 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1501171163438">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1501174719884">
+        <mark key="[" line="101" column="51" />
+        <mark key="]" line="101" column="62" />
+        <mark key="." line="101" column="62" />
+        <mark key="^" line="101" column="62" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ctx/ObrTreeContextInfo.java" timestamp="1499176969213">
         <mark key="'" line="167" column="46" />
@@ -43,7 +45,10 @@
       <file name="/ObrObjectFilterHandler.java" timestamp="1499177619319">
         <mark key="'" line="276" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/doc/checkin/PlmProcessDocumentSave.java" timestamp="1501171150270" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7.1/sapbase-5.1.7.1-sources.jar!/cadagent/objmod/ObjectVector.java" timestamp="1501173919090" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/doc/checkin/PlmProcessDocumentSave.java" timestamp="1501174112058">
+        <mark key="'" line="1948" column="38" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/plantMaintenanceExtensions/src/main/java/plm/modules/plantmaintenance/PlantMaintenanceContextInfo.java" timestamp="1499442065406">
         <mark key="'" line="286" column="2" />
       </file>
@@ -105,7 +110,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/attrib/operations/ClassificationOperation.java" timestamp="1501166159131">
         <mark key="'" line="223" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501163755708">
+      <file name="/Dummy.txt" timestamp="1501172832861">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -140,8 +145,8 @@
       <file name="/PsContextInfo.java" timestamp="1499683128419">
         <mark key="'" line="539" column="50" />
       </file>
-      <file name="/fragment.java" timestamp="1501167412659">
-        <mark key="[" line="0" column="85" />
+      <file name="/fragment.java" timestamp="1501174635001">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="85" />
         <mark key="." line="0" column="85" />
         <mark key="^" line="0" column="19" />
@@ -151,7 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="24" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/doc/create/ClassificationHelper.java" />
       <jump line="144" column="24" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/doc/create/ClassificationHelper.java" />
       <jump line="165" column="24" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/doc/create/ClassificationHelper.java" />
       <jump line="349" column="2" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
@@ -251,52 +255,50 @@
       <jump line="111" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/attrib/operations/ClassificationOperation.java" />
       <jump line="222" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/attrib/operations/ClassificationOperation.java" />
       <jump line="223" column="14" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/attrib/operations/ClassificationOperation.java" />
+      <jump line="1948" column="38" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/doc/checkin/PlmProcessDocumentSave.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY2hlY2tvdXRJbmZvLmdldEFsbEZpcnN0TGV2ZWxGaWxlcygpCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>getName</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcGVyYXRpb25cPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>String applikationAttribute =</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIGZpbGVfdXNlZC5zZXREZWxldGVkKHRydWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY2hlY2tvdXRJbmZvLmdldEFsbEZpcnN0TGV2ZWxGaWxlcygpCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="4">
-        <text>for (OperationIF operation : operations)
-        {
-          Trace.println(Trace.DEBUG, String.format(&quot;Found mapping/operation for Dtype %s. Operationname: %s. Operationtype: %s&quot;, selectedDtype.getID(), operation.getName(), operation.getType()));
-        }</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCBTdHJpbmcuZm9ybWF0KCJGb3VuZCBtYXBwaW5nL29wZXJhdGlvbiBmb3IgRHR5cGUgJXMuIE9wZXJhdGlvbm5hbWU6ICVzLiBPcGVyYXRpb250eXBlOiAlcyIsIHNlbGVjdGVkRHR5cGUuZ2V0SUQoKSwgb3BlcmF0aW9uLmdldE5hbWUoKSwgb3BlcmF0aW9uLmdldFR5cGUoKSkpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgdl9kb2NzX3VzZS5hZGQoZG9jX3VzZSk7CgogICAgICBmb3IgKFBsbUZpbGUgcGZpbGUgOiBjX29yaWdfdG9fZGVsZXRlKQogICAgICB7CiAgICAgICAgUGxtRmlsZSBmaWxlX3VzZWQgPSBkb2NfdXNlLmFkZEZpbGUocGZpbGUuZ2V0QWJzb2x1dGVQYXRoKCksIHBmaWxlLmdldFdvcmtzdGF0aW9uQXBwbGljYXRpb24oKSk7CiAgICAgICAgZmlsZV91c2VkLnNldEFwcGxpY2F0aW9uSWQocGZpbGUuZ2V0QXBwbGljYXRpb25JZCgpKTsKICAgICAgICBmaWxlX3VzZWQuc2V0RmlsZUlkKHBmaWxlLmdldEZpbGVJZCgpKTsKICAgICAgICBmaWxlX3VzZWQuc2V0RGVsZXRlZCh0cnVlKTsKICAgICAgICBmaWxlX3VzZWQuc2V0TW9kaWZpZWQodHJ1ZSk7CiAgICAgICAgVHJhY2UucHJpbnRsbig0LCAiICBmaWxlIG1hcmtlZCBmb3IgZGVsZXRpb24gLSAiICsgZmlsZV91c2VkKTsKICAgICAgfQoKICAgICAgdl9kb2NzX3VzZS5hZGQoZG9jX3VzZSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBmaWxlX3VzZWQuc2V0RGVsZXRlZCh0cnVlKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBmaWxlX3VzZWQuc2V0TW9kaWZpZWQodHJ1ZSk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT3BlcmF0aW9uSUZbXSBvcGVyYXRpb25zMSA9IC5nZXRPcGVyYXRpb25zKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgQ29sbGVjdGlvbjxQbG1GaWxlPiBwbG1PYmplY3RzID0gZmlsZXMuZ2V0UGxtT2JqZWN0cygpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBPcGVyYXRpb25JRiBvcGVyYXRpb25JRiA9IG9wZXJhdGlvbnMxWzBdOwo=</text>
+        <text encoding="base64">ICAgICAgUGxtRG9jdW1lbnQgZG9jX3VzZSA9IG5ldyBQbG1BcGxtQWNjZXNzLmRvY3VtZW50TmV3KGRvYy5nZXRTYXBLZXkoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgUGxtRG9jdW1lbnQgcGxtRG9jdW1lbnQgPSBickRvY3VtZW50LmdldFBsbURvY3VtZW50KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/import/test</text>
