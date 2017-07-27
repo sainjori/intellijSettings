@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1500048460282">
@@ -44,6 +44,12 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/base/java/src/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1500630842092">
         <mark key="'" line="104" column="13" />
+      </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/attributes-to-sap.xml" timestamp="1501153544262">
+        <mark key="[" line="68" column="16" />
+        <mark key="]" line="68" column="9" />
+        <mark key="^" line="68" column="9" />
+        <mark key="." line="68" column="9" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/pom.xml" timestamp="1499960579941">
         <mark key="[" line="56" column="0" />
@@ -101,10 +107,10 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/modules/convert/proc/PlmProcessConversionSchedule.java" timestamp="1499256297179">
         <mark key="'" line="20" column="1" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1501150340056">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1501153729070">
         <mark key="'" line="625" column="27" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiControlImportBeforeShowClsInGui.java" timestamp="1501149521077" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiControlImportBeforeShowClsInGui.java" timestamp="1501153784152" />
       <file name="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/plm/java/src/plm/sess/PlmSessionManager.java" timestamp="1500058463979">
         <mark key="'" line="1543" column="4" />
       </file>
@@ -116,6 +122,9 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/addons/src/main/java/plm/omf/util/OmfCadDocOpen.java" timestamp="1499870141870">
         <mark key="'" line="1087" column="18" />
+      </file>
+      <file name="/default.txt" timestamp="1501153568555">
+        <mark key="'" line="65" column="28" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/pom.xml" timestamp="1499186756636">
         <mark key="'" line="411" column="31" />
@@ -142,9 +151,9 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/proc/ug/PlmProcessUgAnalyseStruct.java" timestamp="1500642235888">
         <mark key="'" line="1661" column="30" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7.1/sapbase-5.1.7.1-sources.jar!/cadagent/dtype/DType.java" timestamp="1501152951954" />
     </filemarks>
     <jumps>
-      <jump line="806" column="36" filename="C:/ENTWICKLUNG/java/workspaces/modules/addons5171/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="96" column="11" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/doc/create/ClassificationHelper.java" />
       <jump line="209" column="24" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/doc/create/ClassificationHelper.java" />
       <jump line="211" column="11" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/doc/create/ClassificationHelper.java" />
@@ -244,6 +253,7 @@
       <jump line="64" column="33" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
       <jump line="199" column="70" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
       <jump line="165" column="31" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
+      <jump line="65" column="28" filename="/default.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
