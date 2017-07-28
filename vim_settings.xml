@@ -38,12 +38,12 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcExport.java" timestamp="1501181981455">
         <mark key="'" line="737" column="77" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1501265317994">
-        <mark key="'" line="316" column="4" />
-        <mark key="[" line="297" column="0" />
-        <mark key="]" line="297" column="0" />
-        <mark key="." line="297" column="0" />
-        <mark key="^" line="133" column="48" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1501267537485">
+        <mark key="'" line="182" column="115" />
+        <mark key="[" line="182" column="115" />
+        <mark key="]" line="182" column="115" />
+        <mark key="." line="182" column="115" />
+        <mark key="^" line="182" column="115" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ctx/ObrTreeContextInfo.java" timestamp="1499176969213">
         <mark key="'" line="167" column="46" />
@@ -61,8 +61,12 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7-SNAPSHOT/sapbase-5.1.7-20170223.163339-38.jar!/cadagent/plm/PlmRepository.class" timestamp="1500375399766">
         <mark key="'" line="314" column="28" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" timestamp="1501238525837">
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" timestamp="1501267712764">
         <mark key="'" line="17" column="22" />
+        <mark key="[" line="2503" column="0" />
+        <mark key="]" line="2502" column="0" />
+        <mark key="^" line="2502" column="0" />
+        <mark key="." line="2502" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/plm/java/src/plm/sess/PlmSessionManager.java" timestamp="1500058463979">
         <mark key="'" line="1543" column="4" />
@@ -119,7 +123,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/attrib/operations/ClassificationOperation.java" timestamp="1501166159131">
         <mark key="'" line="223" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501265372230">
+      <file name="/Dummy.txt" timestamp="1501267538747">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -165,7 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="477" column="31" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
       <jump line="455" column="0" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
       <jump line="456" column="0" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
       <jump line="487" column="2" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
@@ -265,13 +268,14 @@
       <jump line="314" column="18" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
       <jump line="61" column="41" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
       <jump line="316" column="4" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
+      <jump line="182" column="115" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>checkoutOriginalForWsAppl</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>getO</text>
@@ -280,21 +284,24 @@
         <text encoding="base64">ICAgICAgdGhpcy53c0FwcGwgPSB3c0FwcGw7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">cHJpdmF0ZSBMaXN0PE1hcDxTdHJpbmcsID8+PiBnZXRDaGVja291dFdzQXBwbHMoUGxtRG9jdW1lbnQgcGxtRG9jdW1lbnQsIFN0cmluZyB3c0FwcGwpCiAgewogICAgTGlzdDxNYXA8U3RyaW5nLCA/Pj4gY2hlY2tvdXRXc2FwcGxzID0gbmV3IEFycmF5TGlzdDxNYXA8U3RyaW5nLCA/Pj4oKTsKICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBsaW5lID0gbmV3IEhhc2hNYXA8U3RyaW5nLCBTdHJpbmc+KCk7CiAgICAgIGxpbmUucHV0KCJET0NVTUVOVFRZUEUiLCBwbG1Eb2N1bWVudC5nZXRUeXBlKCkpOwogICAgICBsaW5lLnB1dCgiV1NBUFBMIiwgd3NBcHBsKTsKICAgICAgY2hlY2tvdXRXc2FwcGxzLmFkZChsaW5lKTsKCiAgICByZXR1cm4gY2hlY2tvdXRXc2FwcGxzOwogIH0=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="4" type="4">
+        <text encoding="base64">cHJpdmF0ZSBMaXN0PE1hcDxTdHJpbmcsID8+PiBnZXRDaGVja291dFdzQXBwbHMoUGxtRG9jdW1lbnQgcGxtRG9jdW1lbnQsIFN0cmluZyB3c0FwcGwpCiAgewogICAgTGlzdDxNYXA8U3RyaW5nLCA/Pj4gY2hlY2tvdXRXc2FwcGxzID0gbmV3IEFycmF5TGlzdDxNYXA8U3RyaW5nLCA/Pj4oKTsKICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBsaW5lID0gbmV3IEhhc2hNYXA8U3RyaW5nLCBTdHJpbmc+KCk7CiAgICAgIGxpbmUucHV0KCJET0NVTUVOVFRZUEUiLCBwbG1Eb2N1bWVudC5nZXRUeXBlKCkpOwogICAgICBsaW5lLnB1dCgiV1NBUFBMIiwgd3NBcHBsKTsKICAgICAgY2hlY2tvdXRXc2FwcGxzLmFkZChsaW5lKTsKCiAgICByZXR1cm4gY2hlY2tvdXRXc2FwcGxzOwogIH0=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="7" type="4">
         <text>private PlmDocument getPlmDocumentWithDetails(ObrFunctionEvent event) throws DefaultLogException
   {
     BrDocument brDocument = OmfUtils.getSingleSelectedObject(BrDocument.class, event);
@@ -304,17 +311,14 @@
     return plm_doc_cont.getFirstObject();
   }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEJyRG9jdW1lbnQgYnJEb2N1bWVudCA9IE9tZlV0aWxzLmdldFNpbmdsZVNlbGVjdGVkT2JqZWN0KEJyRG9jdW1lbnQuY2xhc3MsIGV2ZW50KTsK</text>
-      </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEJyRG9jdW1lbnQgYnJEb2N1bWVudCA9IE9tZlV0aWxzLmdldFNpbmdsZVNlbGVjdGVkT2JqZWN0KEJyRG9jdW1lbnQuY2xhc3MsIGV2ZW50KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmYWxzZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/import/test</text>
