@@ -35,15 +35,16 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/workflow/omf/OmfSapWorkitemPutBack.java" timestamp="1501269795653" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcExport.java" timestamp="1501181981455">
         <mark key="'" line="737" column="77" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1501267537485">
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1501269804688">
         <mark key="'" line="182" column="115" />
-        <mark key="[" line="182" column="115" />
-        <mark key="]" line="182" column="115" />
-        <mark key="." line="182" column="115" />
-        <mark key="^" line="182" column="115" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+        <mark key="^" line="105" column="74" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ctx/ObrTreeContextInfo.java" timestamp="1499176969213">
         <mark key="'" line="167" column="46" />
@@ -123,7 +124,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/attrib/operations/ClassificationOperation.java" timestamp="1501166159131">
         <mark key="'" line="223" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501267538747">
+      <file name="/Dummy.txt" timestamp="1501269786920">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -272,10 +273,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>getO</text>
@@ -284,16 +285,16 @@
         <text encoding="base64">ICAgICAgdGhpcy53c0FwcGwgPSB3c0FwcGw7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwbG1Eb2N1bWVudHMuZ2V0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBrCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">cHJpdmF0ZSBMaXN0PE1hcDxTdHJpbmcsID8+PiBnZXRDaGVja291dFdzQXBwbHMoUGxtRG9jdW1lbnQgcGxtRG9jdW1lbnQsIFN0cmluZyB3c0FwcGwpCiAgewogICAgTGlzdDxNYXA8U3RyaW5nLCA/Pj4gY2hlY2tvdXRXc2FwcGxzID0gbmV3IEFycmF5TGlzdDxNYXA8U3RyaW5nLCA/Pj4oKTsKICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBsaW5lID0gbmV3IEhhc2hNYXA8U3RyaW5nLCBTdHJpbmc+KCk7CiAgICAgIGxpbmUucHV0KCJET0NVTUVOVFRZUEUiLCBwbG1Eb2N1bWVudC5nZXRUeXBlKCkpOwogICAgICBsaW5lLnB1dCgiV1NBUFBMIiwgd3NBcHBsKTsKICAgICAgY2hlY2tvdXRXc2FwcGxzLmFkZChsaW5lKTsKCiAgICByZXR1cm4gY2hlY2tvdXRXc2FwcGxzOwogIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -302,23 +303,16 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="4">
-        <text>private PlmDocument getPlmDocumentWithDetails(ObrFunctionEvent event) throws DefaultLogException
-  {
-    BrDocument brDocument = OmfUtils.getSingleSelectedObject(BrDocument.class, event);
-    PlmDocumentContainer plm_doc_cont = new PlmDocumentContainer();
-    plm_doc_cont.addDocument(brDocument.getPlmDocument());
-    plm_doc_cont.readDetailsPop(false, false, true, false, false, false, true);
-    return plm_doc_cont.getFirstObject();
-  }</text>
+        <text encoding="base64">cHJpdmF0ZSBMaXN0PE1hcDxTdHJpbmcsID8+PiBnZXRDaGVja291dFdzQXBwbHMoUGxtRG9jdW1lbnQgcGxtRG9jdW1lbnQsIFN0cmluZyB3c0FwcGwpCiAgewogICAgTGlzdDxNYXA8U3RyaW5nLCA/Pj4gY2hlY2tvdXRXc2FwcGxzID0gbmV3IEFycmF5TGlzdDxNYXA8U3RyaW5nLCA/Pj4oKTsKICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiBsaW5lID0gbmV3IEhhc2hNYXA8U3RyaW5nLCBTdHJpbmc+KCk7CiAgICAgIGxpbmUucHV0KCJET0NVTUVOVFRZUEUiLCBwbG1Eb2N1bWVudC5nZXRUeXBlKCkpOwogICAgICBsaW5lLnB1dCgiV1NBUFBMIiwgd3NBcHBsKTsKICAgICAgY2hlY2tvdXRXc2FwcGxzLmFkZChsaW5lKTsKCiAgICByZXR1cm4gY2hlY2tvdXRXc2FwcGxzOwogIH0=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEJyRG9jdW1lbnQgYnJEb2N1bWVudCA9IE9tZlV0aWxzLmdldFNpbmdsZVNlbGVjdGVkT2JqZWN0KEJyRG9jdW1lbnQuY2xhc3MsIGV2ZW50KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/import/test</text>
