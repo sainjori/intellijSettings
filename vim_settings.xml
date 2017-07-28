@@ -28,6 +28,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/base/java/src/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1500630842092">
         <mark key="'" line="104" column="13" />
       </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/attributes-to-sap.xml" timestamp="1501242987273">
+        <mark key="[" line="64" column="55" />
+        <mark key="]" line="64" column="72" />
+        <mark key="." line="64" column="72" />
+        <mark key="^" line="64" column="72" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/pom.xml" timestamp="1499960579941">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
@@ -257,11 +263,11 @@
       <jump line="148" column="4" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYwo=</text>
+      <register name="&quot;" type="4">
+        <text>MHO_TEST_PA_MERKMAL</text>
       </register>
       <register name="-" type="4">
-        <text>Preferences.stringValue(&quot;sandvik.create.preview.wsAppl&quot;)</text>
+        <text>MHO_TEST_PA_MERKMAL</text>
       </register>
       <register name="/" type="4">
         <text>Preference</text>
