@@ -38,12 +38,12 @@
         <mark key="'" line="737" column="77" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/omf/OmfApiGeneric2.java" timestamp="1501511696870" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1501513150498">
-        <mark key="'" line="78" column="38" />
-        <mark key="[" line="141" column="61" />
-        <mark key="]" line="141" column="79" />
-        <mark key="." line="141" column="79" />
-        <mark key="^" line="141" column="79" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1501513794035">
+        <mark key="'" line="77" column="38" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="140" column="22" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/brobj/BrDocument.java" timestamp="1501502952175" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ctx/ObrTreeContextInfo.java" timestamp="1499176969213">
@@ -284,20 +284,20 @@
       <jump line="1130" column="47" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/brobj/BrOrderBomItem.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>plmDocument</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgTGlzdDxGaWxlPiBjZ21GaWxlcyA9IGdldENnbUZpbGVzKG9yaWdpbmFscyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>plmDocument</text>
+        <text>originals</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYm9PYmplY3RLZXlcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBjZ21PcmlnaW5hbFdzQXBwbCA9IFByZWZlcmVuY2VzLnN0cmluZ1ZhbHVlKCJzYW5kdmlrLmNyZWF0ZS5wcmV2aWV3LmNnbS5vcmlnaW5hbC53c0FwcGwiKTsKICAgIGlmIChjZ21PcmlnaW5hbFdzQXBwbCA9PSBudWxsKQogICAgewogICAgICB0aHJvdyBuZXcgUHJlZmVyZW5jZU5vdEV4aXN0ZW50RXhjZXB0aW9uKCJzYW5kdmlrLmNyZWF0ZS5wcmV2aWV3LmNnbS5vcmlnaW5hbC53c0FwcGwiLCAiUHJlZmVyZW5jZSB3b3Jrc3RhdGlvbiBhcHBsaWthdGlvbiBub3Qgc2V0IGZvciBjZ20gb3JpZ2luYWxzLiIpOwogICAgfQo=</text>
+      <register name="0" type="4">
+        <text>cgmFiles</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIExpc3Q8TWFwPFN0cmluZywgPz4+ID0gbmV3ICAK</text>
+        <text encoding="base64">ICAgICAgTGlzdDxGaWxlPiBjZ21GaWxlcyA9IGdldENnbUZpbGVzKG9yaWdpbmFscyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -306,10 +306,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIExpc3Q8TWFwPFN0cmluZywgPz4+ID0gbmV3ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIH0K</text>
@@ -318,13 +318,13 @@
         <text encoding="base64">ICAgICAgICAgIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldCA9IChTdHJpbmcpIG9iclByb3BlcnR5LmdldFZhbHVlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgIHJldCA9IChTdHJpbmcpIG9iclByb3BlcnR5LmdldFZhbHVlKCk7Cg==</text>
