@@ -38,12 +38,12 @@
         <mark key="'" line="737" column="77" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/omf/OmfApiGeneric2.java" timestamp="1501511696870" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1501513794035">
-        <mark key="'" line="77" column="38" />
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
-        <mark key="^" line="140" column="22" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1501516419019">
+        <mark key="'" line="313" column="2" />
+        <mark key="[" line="82" column="6" />
+        <mark key="]" line="87" column="7" />
+        <mark key="." line="82" column="0" />
+        <mark key="^" line="81" column="5" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/brobj/BrDocument.java" timestamp="1501502952175" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ctx/ObrTreeContextInfo.java" timestamp="1499176969213">
@@ -142,7 +142,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/attrib/operations/ClassificationOperation.java" timestamp="1501166159131">
         <mark key="'" line="223" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501505770275">
+      <file name="/Dummy.txt" timestamp="1501515537752">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -182,7 +182,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="31" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
       <jump line="93" column="4" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
       <jump line="17" column="22" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" />
       <jump line="41" column="34" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/basis/config/system-default.txt" />
@@ -282,13 +281,14 @@
       <jump line="557" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/brobj/BrOrderBomItem.java" />
       <jump line="461" column="45" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/brobj/BrOrderBomItem.java" />
       <jump line="1130" column="47" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/brobj/BrOrderBomItem.java" />
+      <jump line="313" column="2" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgTGlzdDxGaWxlPiBjZ21GaWxlcyA9IGdldENnbUZpbGVzKG9yaWdpbmFscyk7Cg==</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIHByZXZpZXdzV3NBcHBsID0gUHJlZmVyZW5jZXMuc3RyaW5nVmFsdWUoInNhbmR2aWsuY3JlYXRlLnByZXZpZXcuY29udmVydGVkLmZpbGUud3NBcHBsIik7CiAgICAgIGlmIChwcmV2aWV3c1dzQXBwbCA9PSBudWxsKQogICAgICB7CiAgICAgICAgZXJyb3JEaWFsb2cuYWRkVGhyb3dhYmxlKG5ldyBQcmVmZXJlbmNlTm90RXhpc3RlbnRFeGNlcHRpb24oInNhbmR2aWsuY3JlYXRlLnByZXZpZXcuY29udmVydGVkLmZpbGUud3NBcHBsIiwgIlByZWZlcmVuY2Ugd29ya3N0YXRpb24gYXBwbGlrYXRpb24gbm90IHNldCBmb3IgY2dtIHByZXZpZXdzLiIpKTsKICAgICAgICByZXR1cm47CiAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>originals</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYm9PYmplY3RLZXlcPg==</text>
@@ -297,37 +297,37 @@
         <text>cgmFiles</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgTGlzdDxGaWxlPiBjZ21GaWxlcyA9IGdldENnbUZpbGVzKG9yaWdpbmFscyk7Cg==</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIHByZXZpZXdzV3NBcHBsID0gUHJlZmVyZW5jZXMuc3RyaW5nVmFsdWUoInNhbmR2aWsuY3JlYXRlLnByZXZpZXcuY29udmVydGVkLmZpbGUud3NBcHBsIik7CiAgICAgIGlmIChwcmV2aWV3c1dzQXBwbCA9PSBudWxsKQogICAgICB7CiAgICAgICAgZXJyb3JEaWFsb2cuYWRkVGhyb3dhYmxlKG5ldyBQcmVmZXJlbmNlTm90RXhpc3RlbnRFeGNlcHRpb24oInNhbmR2aWsuY3JlYXRlLnByZXZpZXcuY29udmVydGVkLmZpbGUud3NBcHBsIiwgIlByZWZlcmVuY2Ugd29ya3N0YXRpb24gYXBwbGlrYXRpb24gbm90IHNldCBmb3IgY2dtIHByZXZpZXdzLiIpKTsKICAgICAgICByZXR1cm47CiAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIExpc3Q8TWFwPFN0cmluZywgPz4+ID0gbmV3ICAK</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgUHJlZmVyZW5jZU5vdEV4aXN0ZW50RXhjZXB0aW9uKCJzYW5kdmlrLmNyZWF0ZS5wcmV2aWV3LmNnbS5vcmlnaW5hbC53c0FwcGwiLCAiUHJlZmVyZW5jZSB3b3Jrc3RhdGlvbiBhcHBsaWthdGlvbiBub3Qgc2V0IGZvciBjZ20gb3JpZ2luYWxzLiIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBEZWZhdWx0TG9nRXhjZXB0aW9uIG5vQ2dtRmlsZXNFeGNlcHRpb24gPSAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgY2dtV3NBcHBsID0gUHJlZmVyZW5jZXMuc3RyaW5nVmFsdWUoInNhbmR2aWsuY3JlYXRlLnByZXZpZXcuY2dtLm9yaWdpbmFsLndzQXBwbCIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIFN0cmluZyBjZ21PcmlnaW5hbFdzQXBwbCA9IFByZWZlcmVuY2VzLnN0cmluZ1ZhbHVlKCJzYW5kdmlrLmNyZWF0ZS5wcmV2aWV3LmNnbS5vcmlnaW5hbC53c0FwcGwiKTsKICAgIGlmIChjZ21PcmlnaW5hbFdzQXBwbCA9PSBudWxsKQogICAgewogICAgICB0aHJvdyBuZXcgUHJlZmVyZW5jZU5vdEV4aXN0ZW50RXhjZXB0aW9uKCJzYW5kdmlrLmNyZWF0ZS5wcmV2aWV3LmNnbS5vcmlnaW5hbC53c0FwcGwiLCAiUHJlZmVyZW5jZSB3b3Jrc3RhdGlvbiBhcHBsaWthdGlvbiBub3Qgc2V0IGZvciBjZ20gb3JpZ2luYWxzLiIpOwogICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldCA9IChTdHJpbmcpIG9iclByb3BlcnR5LmdldFZhbHVlKCk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/import/test</text>
