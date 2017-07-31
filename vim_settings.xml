@@ -27,8 +27,8 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7.1/sapbase-5.1.7.1-sources.jar!/cadagent/objmod/PlmDocument.java" timestamp="1500921767119">
         <mark key="'" line="1265" column="32" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/base/java/src/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1500630842092">
-        <mark key="'" line="104" column="13" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/base/java/src/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1501510017157">
+        <mark key="'" line="283" column="11" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/pom.xml" timestamp="1499960579941">
         <mark key="[" line="56" column="0" />
@@ -81,7 +81,12 @@
         <mark key="'" line="1829" column="11" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/omf/OmfOrderBomItemChangeAddB.java" timestamp="1501507510070" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/base/java/src/cadagent/proc/constants/ProcessSapFieldConstants.java" timestamp="1501500046013" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/base/java/src/cadagent/proc/constants/ProcessSapFieldConstants.java" timestamp="1501511061083">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="30" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcImport.java" timestamp="1500890823058">
         <mark key="'" line="1819" column="49" />
       </file>
@@ -107,7 +112,9 @@
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/InputStream.java" timestamp="1499799815608">
         <mark key="'" line="64" column="24" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/proc/PlmProcessApiGeneric.java" timestamp="1501505637918" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/proc/PlmProcessApiGeneric.java" timestamp="1501509629678">
+        <mark key="'" line="195" column="41" />
+      </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/basis/config/system-default.txt" timestamp="1501080215940">
         <mark key="'" line="41" column="34" />
       </file>
@@ -121,11 +128,12 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/cfc/util/ProcessRunner.java" timestamp="1501065127762">
         <mark key="'" line="148" column="24" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/brobj/BrOrderBomItem.java" timestamp="1501508039165">
-        <mark key="'" line="94" column="30" />
-        <mark key="[" line="1130" column="0" />
-        <mark key="]" line="1130" column="0" />
-        <mark key="." line="1130" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/brobj/BrOrderBomItem.java" timestamp="1501510382731">
+        <mark key="'" line="1130" column="47" />
+        <mark key="[" line="1142" column="0" />
+        <mark key="]" line="1142" column="0" />
+        <mark key="." line="1142" column="0" />
+        <mark key="^" line="1137" column="72" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/cfc/boolexp/interpreter/BEContext.java" timestamp="1500889368396">
         <mark key="'" line="52" column="10" />
@@ -165,10 +173,10 @@
       <file name="/PsContextInfo.java" timestamp="1499683128419">
         <mark key="'" line="539" column="50" />
       </file>
-      <file name="/fragment.java" timestamp="1501258336067">
+      <file name="/fragment.java" timestamp="1501510625569">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="19" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/proc/ug/PlmProcessUgAnalyseStruct.java" timestamp="1500642235888">
@@ -176,21 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2436" column="12" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7.1/sapbase-5.1.7.1-sources.jar!/cadagent/objmod/PlmDocument.java" />
-      <jump line="2439" column="32" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7.1/sapbase-5.1.7.1-sources.jar!/cadagent/objmod/PlmDocument.java" />
-      <jump line="2443" column="39" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7.1/sapbase-5.1.7.1-sources.jar!/cadagent/objmod/PlmDocument.java" />
-      <jump line="3253" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7.1/sapbase-5.1.7.1-sources.jar!/cadagent/objmod/PlmDocument.java" />
-      <jump line="21" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7.1/sapbase-5.1.7.1-sources.jar!/cadagent/objmod/PlmDocument.java" />
-      <jump line="1265" column="32" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7.1/sapbase-5.1.7.1-sources.jar!/cadagent/objmod/PlmDocument.java" />
-      <jump line="206" column="98" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="116" column="20" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="117" column="13" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="156" column="0" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="148" column="24" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/cfc/util/ProcessRunner.java" />
-      <jump line="76" column="22" filename="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Process.java" />
-      <jump line="56" column="65" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="162" column="0" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="76" column="140" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
       <jump line="128" column="31" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
       <jump line="93" column="4" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
       <jump line="17" column="22" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" />
@@ -276,61 +269,80 @@
       <jump line="353" column="11" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/proc/PlmProcessOrderBomItemSearch.java" />
       <jump line="185" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/brobj/BrOrderBomItem.java" />
       <jump line="94" column="30" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/brobj/BrOrderBomItem.java" />
+      <jump line="1116" column="16" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/brobj/BrOrderBomItem.java" />
+      <jump line="1137" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/brobj/BrOrderBomItem.java" />
+      <jump line="730" column="60" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/proc/PlmProcessApiGeneric.java" />
+      <jump line="842" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/proc/PlmProcessApiGeneric.java" />
+      <jump line="881" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/proc/PlmProcessApiGeneric.java" />
+      <jump line="967" column="12" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/proc/PlmProcessApiGeneric.java" />
+      <jump line="976" column="26" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/proc/PlmProcessApiGeneric.java" />
+      <jump line="195" column="41" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/proc/PlmProcessApiGeneric.java" />
+      <jump line="141" column="17" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/base/java/src/cadagent/gui/obr/DefaultBrowseObject.java" />
+      <jump line="182" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/base/java/src/cadagent/gui/obr/DefaultBrowseObject.java" />
+      <jump line="238" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/base/java/src/cadagent/gui/obr/DefaultBrowseObject.java" />
+      <jump line="283" column="11" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/base/java/src/cadagent/gui/obr/DefaultBrowseObject.java" />
+      <jump line="557" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/brobj/BrOrderBomItem.java" />
+      <jump line="461" column="45" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/brobj/BrOrderBomItem.java" />
+      <jump line="1130" column="47" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/brobj/BrOrderBomItem.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIE9iclByb3BlcnR5IG9iclByb3BlcnR5ID0gZ2V0T2JyUHJvcGVydHkoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHJldCA9IChTdHJpbmcpIG9iclByb3BlcnR5LmdldFZhbHVlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>BrOrderBomItem.SD</text>
+        <text>BOM_POS</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc0Zyb21UeXBlXD4=</text>
+        <text encoding="base64">XDxkYm9PYmplY3RLZXlcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIE9iclByb3BlcnR5IG9iclByb3BlcnR5ID0gZ2V0T2JyUHJvcGVydHkoUHJvY2Vzc1NhcEZpZWxkQ29uc3RhbnRzLlNEX0RPQ1VNRU5UX05VTUJFUik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChvYnJQcm9wZXJ0eSAhPSBudWxsKQogICAgICAgICAgewogICAgICAgICAgICByZXQgPSAoU3RyaW5nKSBvYnJQcm9wZXJ0eS5nZXRWYWx1ZSgpOwogICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIE9iclByb3BlcnR5IG9iclByb3BlcnR5ID0gZ2V0T2JyUHJvcGVydHkoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHJldCA9IChTdHJpbmcpIG9iclByb3BlcnR5LmdldFZhbHVlKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldCA9IG9iclByb3BlcnR5Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBHdWlVdGlscy5zZXRTdGF0dXNMaW5lSW5mb1RleHQoRGljLmdldFRleHQoInBsbS5vbWYuZHluYW1pYy4wMDAzIiwgIlBsZWFzZSBzZWxlY3Qgb25seSBvbmUgb2JqZWN0IGZvciB0aGlzIGZ1bmN0aW9uLiIpKTsK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJldCA9IChTdHJpbmcpIG9iclByb3BlcnR5LmdldFZhbHVlKCk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvckRpYWxvZy5hZGRUaHJvd2FibGUoKTsK</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIGlmCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>if (ProcessSapFieldConstants.SD_ITEM_NUMBER.equalsIgnoreCase(key))
+          ret = getSapKey();
+        if (ProcessSapFieldConstants.SD_DOCUMENT_NUMBER.equalsIgnoreCase(key))
+        {
+          ObrProperty obrProperty = getObrProperty(Pr</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBTRF9JVEVNX1BPU0lUSU9OID0gOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyA7Cg==</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBTRF9JVEVNX1BPU0lUSU9OID0gOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoQnJPcmRlckJvbUl0ZW0uQk9NX1BPUy5lcXVhbHNJZ25vcmVDYXNlKGtleSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIE9iclByb3BlcnR5IG9iclByb3BlcnR5ID0gZ2V0T2JyUHJvcGVydHkoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/import/test</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc0Zyb21UeXBlXD4=</last-search>
+      <last-search encoding="base64">XDxkYm9PYmplY3RLZXlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc0Zyb21UeXBlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkYm9PYmplY3RLZXlcPg==</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>import</last-substitute>
       <last-dir>1</last-dir>
@@ -338,8 +350,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCclBTUHJvamVjdFw+</entry>
-        <entry encoding="base64">XDxhdHRyX2NvbnRcPg==</entry>
         <entry encoding="base64">XDxhdHRyaWJ1dGVDb250YWluZXJcPg==</entry>
         <entry encoding="base64">XDxpbml0UHJvcGVydGllc1w+</entry>
         <entry encoding="base64">XDxmbGdJblNhcFw+</entry>
@@ -358,6 +368,8 @@
         <entry>getO</entry>
         <entry encoding="base64">XDxTRF9JVEVNX05VTUJFUlw+</entry>
         <entry encoding="base64">XDxpc0Zyb21UeXBlXD4=</entry>
+        <entry encoding="base64">XDxhcGlHZW5WYWxSZXRyaWV2ZXJcPg==</entry>
+        <entry encoding="base64">XDxkYm9PYmplY3RLZXlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>68</entry>
