@@ -75,6 +75,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7.2/sapbase-5.1.7.2-sources.jar!/cadagent/objmod/PlmFile.java" timestamp="1501255103696">
         <mark key="'" line="1829" column="11" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/base/java/src/cadagent/proc/constants/ProcessSapFieldConstants.java" timestamp="1501500046013" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcImport.java" timestamp="1500890823058">
         <mark key="'" line="1819" column="49" />
       </file>
@@ -119,12 +120,11 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/cfc/util/ProcessRunner.java" timestamp="1501065127762">
         <mark key="'" line="148" column="24" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/brobj/BrOrderBomItem.java" timestamp="1501496951017">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/brobj/BrOrderBomItem.java" timestamp="1501500044731">
         <mark key="'" line="1131" column="8" />
-        <mark key="[" line="1134" column="76" />
-        <mark key="]" line="1134" column="76" />
-        <mark key="." line="1134" column="76" />
-        <mark key="^" line="1132" column="50" />
+        <mark key="[" line="1130" column="0" />
+        <mark key="]" line="1130" column="0" />
+        <mark key="." line="1130" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/cfc/boolexp/interpreter/BEContext.java" timestamp="1500889368396">
         <mark key="'" line="52" column="10" />
@@ -283,47 +283,50 @@
       <jump line="1131" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/brobj/BrOrderBomItem.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>SD_DOCUMENT_NUMBER</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIE9iclByb3BlcnR5IG9iclByb3BlcnR5ID0gZ2V0T2JyUHJvcGVydHkoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>SD_DOCUMENT_NUMBER</text>
+        <text>BrOrderBomItem.SD</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRF9JVEVNX05VTUJFUlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoUHJvY2Vzc1NhcEZpZWxkQ29uc3RhbnRzLlNEX0RPQ1VNRU5UX05VTUJFUi5lcXVhbHNJZ25vcmVDYXNlKGtleSkpCiAgICAgICAgewogICAgICAgICAgT2JyUHJvcGVydHkgb2JyUHJvcGVydHkgPSBnZXRPYnJQcm9wZXJ0eShQcm9jZXNzU2FwRmllbGRDb25zdGFudHMuU0RfRE9DVU1FTlRfTlVNQkVSKTsKICAgICAgICAgIHJldCA9IChTdHJpbmcpIG9iclByb3BlcnR5LmdldFZhbHVlKCk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIE9iclByb3BlcnR5IG9iclByb3BlcnR5ID0gZ2V0T2JyUHJvcGVydHkoUHJvY2Vzc1NhcEZpZWxkQ29uc3RhbnRzLlNEX0RPQ1VNRU5UX05VTUJFUik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldCA9IG9iclByb3BlcnR5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIE9iclByb3BlcnR5IG9iclByb3BlcnR5ID0gZ2V0T2JyUHJvcGVydHkoKTsK</text>
+      </register>
+      <register name="q" type="4">
+        <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldCA9IG9iclByb3BlcnR5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBHdWlVdGlscy5zZXRTdGF0dXNMaW5lSW5mb1RleHQoRGljLmdldFRleHQoInBsbS5vbWYuZHluYW1pYy4wMDAzIiwgIlBsZWFzZSBzZWxlY3Qgb25seSBvbmUgb2JqZWN0IGZvciB0aGlzIGZ1bmN0aW9uLiIpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvckRpYWxvZy5hZGRUaHJvd2FibGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBHdWlVdGlscy5zZXRTdGF0dXNMaW5lSW5mb1RleHQoRGljLmdldFRleHQoInBsbS5vbWYuZHluYW1pYy4wMDAzIiwgIlBsZWFzZSBzZWxlY3Qgb25seSBvbmUgb2JqZWN0IGZvciB0aGlzIGZ1bmN0aW9uLiIpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICBlcnJvckRpYWxvZy5hZGRUaHJvd2FibGUoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyA7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyA7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwbG1Eb2N1bWVudHMuZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAsCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/import/test</text>
