@@ -39,7 +39,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcExport.java" timestamp="1501181981455">
         <mark key="'" line="737" column="77" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/omf/OmfApiGeneric2.java" timestamp="1501509134070" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/omf/OmfApiGeneric2.java" timestamp="1501511696870" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1501494925661">
         <mark key="'" line="77" column="38" />
         <mark key="[" line="69" column="98" />
@@ -128,12 +128,12 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/cfc/util/ProcessRunner.java" timestamp="1501065127762">
         <mark key="'" line="148" column="24" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/brobj/BrOrderBomItem.java" timestamp="1501510382731">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/brobj/BrOrderBomItem.java" timestamp="1501512163967">
         <mark key="'" line="1130" column="47" />
-        <mark key="[" line="1142" column="0" />
-        <mark key="]" line="1142" column="0" />
-        <mark key="." line="1142" column="0" />
-        <mark key="^" line="1137" column="72" />
+        <mark key="[" line="1140" column="9" />
+        <mark key="]" line="1141" column="7" />
+        <mark key="." line="1141" column="7" />
+        <mark key="^" line="1141" column="7" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/cfc/boolexp/interpreter/BEContext.java" timestamp="1500889368396">
         <mark key="'" line="52" column="10" />
@@ -287,7 +287,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldCA9IChTdHJpbmcpIG9iclByb3BlcnR5LmdldFZhbHVlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>BOM_POS</text>
@@ -299,41 +299,37 @@
         <text encoding="base64">ICAgICAgICAgIGlmIChvYnJQcm9wZXJ0eSAhPSBudWxsKQogICAgICAgICAgewogICAgICAgICAgICByZXQgPSAoU3RyaW5nKSBvYnJQcm9wZXJ0eS5nZXRWYWx1ZSgpOwogICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldCA9IChTdHJpbmcpIG9iclByb3BlcnR5LmdldFZhbHVlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldCA9IChTdHJpbmcpIG9iclByb3BlcnR5LmdldFZhbHVlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmCg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
-      <register name="5" type="4">
-        <text>if (ProcessSapFieldConstants.SD_ITEM_NUMBER.equalsIgnoreCase(key))
-          ret = getSapKey();
-        if (ProcessSapFieldConstants.SD_DOCUMENT_NUMBER.equalsIgnoreCase(key))
-        {
-          ObrProperty obrProperty = getObrProperty(Pr</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBTRF9JVEVNX1BPU0lUSU9OID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJldCA9IChTdHJpbmcpIG9iclByb3BlcnR5LmdldFZhbHVlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIFN0cmluZyBTRF9JVEVNX1BPU0lUSU9OID0gOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoQnJPcmRlckJvbUl0ZW0uQk9NX1BPUy5lcXVhbHNJZ25vcmVDYXNlKGtleSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldCA9IChTdHJpbmcpIG9iclByb3BlcnR5LmdldFZhbHVlKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIE9iclByb3BlcnR5IG9iclByb3BlcnR5ID0gZ2V0T2JyUHJvcGVydHkoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGlmCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/import/test</text>
