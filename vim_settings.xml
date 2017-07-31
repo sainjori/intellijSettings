@@ -64,10 +64,10 @@
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" timestamp="1501494157813">
         <mark key="'" line="17" column="22" />
-        <mark key="[" line="2503" column="0" />
-        <mark key="]" line="2503" column="0" />
-        <mark key="^" line="2503" column="0" />
-        <mark key="." line="2503" column="0" />
+        <mark key="[" line="2501" column="0" />
+        <mark key="]" line="2501" column="0" />
+        <mark key="^" line="2501" column="0" />
+        <mark key="." line="2501" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/eclipse_customer/plm/java/src/plm/sess/PlmSessionManager.java" timestamp="1500058463979">
         <mark key="'" line="1543" column="4" />
@@ -119,6 +119,13 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/cfc/util/ProcessRunner.java" timestamp="1501065127762">
         <mark key="'" line="148" column="24" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/brobj/BrOrderBomItem.java" timestamp="1501496951017">
+        <mark key="'" line="1131" column="8" />
+        <mark key="[" line="1134" column="76" />
+        <mark key="]" line="1134" column="76" />
+        <mark key="." line="1134" column="76" />
+        <mark key="^" line="1132" column="50" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/cfc/boolexp/interpreter/BEContext.java" timestamp="1500889368396">
         <mark key="'" line="52" column="10" />
       </file>
@@ -128,7 +135,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/attrib/operations/ClassificationOperation.java" timestamp="1501166159131">
         <mark key="'" line="223" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501494597675">
+      <file name="/Dummy.txt" timestamp="1501496811590">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -174,9 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="487" column="2" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="394" column="2" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="262" column="24" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
       <jump line="249" column="6" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
       <jump line="111" column="25" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
       <jump line="263" column="4" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
@@ -274,58 +278,61 @@
       <jump line="182" column="115" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
       <jump line="69" column="50" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
       <jump line="77" column="38" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
+      <jump line="1128" column="12" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/brobj/BrOrderBomItem.java" />
+      <jump line="1125" column="37" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/brobj/BrOrderBomItem.java" />
+      <jump line="1131" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform_gitlab/core/plm++/java/src/plm/brobj/BrOrderBomItem.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>object</text>
+        <text>SD_DOCUMENT_NUMBER</text>
       </register>
       <register name="-" type="4">
-        <text>object</text>
+        <text>SD_DOCUMENT_NUMBER</text>
       </register>
       <register name="/" type="4">
-        <text>getO</text>
+        <text encoding="base64">XDxTRF9JVEVNX05VTUJFUlw+</text>
       </register>
-      <register name="0" type="4">
-        <text>Dic.getText(&quot;plm.omf.dynamic.0003&quot;, &quot;Please select only one object for this function.&quot;)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoUHJvY2Vzc1NhcEZpZWxkQ29uc3RhbnRzLlNEX0RPQ1VNRU5UX05VTUJFUi5lcXVhbHNJZ25vcmVDYXNlKGtleSkpCiAgICAgICAgewogICAgICAgICAgT2JyUHJvcGVydHkgb2JyUHJvcGVydHkgPSBnZXRPYnJQcm9wZXJ0eShQcm9jZXNzU2FwRmllbGRDb25zdGFudHMuU0RfRE9DVU1FTlRfTlVNQkVSKTsKICAgICAgICAgIHJldCA9IChTdHJpbmcpIG9iclByb3BlcnR5LmdldFZhbHVlKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldCA9IG9iclByb3BlcnR5Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBHdWlVdGlscy5zZXRTdGF0dXNMaW5lSW5mb1RleHQoRGljLmdldFRleHQoInBsbS5vbWYuZHluYW1pYy4wMDAzIiwgIlBsZWFzZSBzZWxlY3Qgb25seSBvbmUgb2JqZWN0IGZvciB0aGlzIGZ1bmN0aW9uLiIpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvckRpYWxvZy5hZGRUaHJvd2FibGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBHdWlVdGlscy5zZXRTdGF0dXNMaW5lSW5mb1RleHQoRGljLmdldFRleHQoInBsbS5vbWYuZHluYW1pYy4wMDAzIiwgIlBsZWFzZSBzZWxlY3Qgb25seSBvbmUgb2JqZWN0IGZvciB0aGlzIGZ1bmN0aW9uLiIpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICBlcnJvckRpYWxvZy5hZGRUaHJvd2FibGUoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyA7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwbG1Eb2N1bWVudHMuZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBrCg==</text>
+        <text encoding="base64">ICAgICAgICBwbG1Eb2N1bWVudHMuZ2V0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/import/test</text>
       </register>
     </registers>
     <search>
-      <last-search>getO</last-search>
+      <last-search encoding="base64">XDxTRF9JVEVNX05VTUJFUlw+</last-search>
       <last-offset />
-      <last-pattern>getO</last-pattern>
+      <last-pattern encoding="base64">XDxTRF9JVEVNX05VTUJFUlw+</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>import</last-substitute>
       <last-dir>1</last-dir>
@@ -333,7 +340,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bla</entry>
         <entry>toString</entry>
         <entry encoding="base64">XDxCclBTUHJvamVjdFw+</entry>
         <entry encoding="base64">XDxhdHRyX2NvbnRcPg==</entry>
@@ -353,6 +359,7 @@
         <entry>cgm</entry>
         <entry>PlmFile</entry>
         <entry>getO</entry>
+        <entry encoding="base64">XDxTRF9JVEVNX05VTUJFUlw+</entry>
       </history-search>
       <history-cmd>
         <entry>68</entry>
