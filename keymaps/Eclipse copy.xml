@@ -27,6 +27,14 @@
     <keyboard-shortcut first-keystroke="ctrl n" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="EditorPageDown">
+    <keyboard-shortcut first-keystroke="page_down" />
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
+  <action id="EditorPageUp">
+    <keyboard-shortcut first-keystroke="page_up" />
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
   <action id="EditorPasteFromX11" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
