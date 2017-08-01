@@ -32,12 +32,12 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.1/addons-5.1.7.1-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcExport.java" timestamp="1501181981455">
         <mark key="'" line="737" column="77" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1501583153401">
-        <mark key="'" line="138" column="17" />
-        <mark key="[" line="242" column="45" />
-        <mark key="]" line="242" column="46" />
-        <mark key="^" line="242" column="46" />
-        <mark key="." line="242" column="46" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1501585864932">
+        <mark key="'" line="93" column="62" />
+        <mark key="[" line="166" column="79" />
+        <mark key="]" line="166" column="84" />
+        <mark key="^" line="166" column="84" />
+        <mark key="." line="166" column="84" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/core/base/java/src/cadagent/gui/obr/ctx/ObrTreeContextInfo.java" timestamp="1499176969213">
         <mark key="'" line="167" column="46" />
@@ -133,7 +133,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/attrib/operations/ClassificationOperation.java" timestamp="1501166159131">
         <mark key="'" line="223" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501580543235">
+      <file name="/Dummy.txt" timestamp="1501584279026">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -173,9 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="31" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="65" column="28" filename="/default.txt" />
-      <jump line="103" column="22" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/attrib/operations/ClassificationOperation.java" />
       <jump line="111" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/attrib/operations/ClassificationOperation.java" />
       <jump line="222" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/attrib/operations/ClassificationOperation.java" />
       <jump line="223" column="14" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/attrib/operations/ClassificationOperation.java" />
@@ -273,19 +270,22 @@
       <jump line="178" column="35" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
       <jump line="136" column="16" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
       <jump line="138" column="17" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
+      <jump line="59" column="17" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
+      <jump line="85" column="47" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
+      <jump line="93" column="62" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DefaultLogException e</text>
+        <text>previewsWsAppl</text>
       </register>
       <register name="-" type="4">
-        <text>DefaultLogException e</text>
+        <text>previewsWsAppl</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYm9PYmplY3RLZXlcPg==</text>
+        <text encoding="base64">XDxwcmV2aWV3c1dzQXBwbFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvckRpYWxvZy5hZGRUaHJvd2FibGUobmV3IFByZWZlcmVuY2VOb3RFeGlzdGVudEV4Y2VwdGlvbigic2FuZHZpay5jcmVhdGUucHJldmlldy5jZ20ub3JpZ2luYWwud3NBcHBsIiwgIlByZWZlcmVuY2Ugd29ya3N0YXRpb24gYXBwbGlrYXRpb24gbm90IHNldCBmb3IgY2dtIG9yaWdpbmFscy4iKSk7CiAgICAgICAgcmV0dXJuOwo=</text>
+      <register name="0" type="4">
+        <text>wsAppl</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -303,31 +303,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYm9vbGVhbiBlcnJvciA9IGZvdW5kRXJyb3IoZXZlbnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgawo=</text>
+        <text encoding="base64">ICAgICAgYm9vbGVhbiBlcnJvciA9IGZvdW5kRXJyb3IoZXZlbnQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgawo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIGNvbnZlcnRTY3JpcHQgPSBQcmVmZXJlbmNlcy5zdHJpbmdWYWx1ZSgic2FuZHZpay5jcmVhdGUucHJldmlldy5jb252ZXJ0LnNjcmlwdCIpOwogICAgICBpZiAoY29udmVydFNjcmlwdCA9PSBudWxsKXsKICAgICAgICBlcnJvckRpYWxvZy5hZGRUaHJvd2FibGUobmV3IFByZWZlcmVuY2VOb3RFeGlzdGVudEV4Y2VwdGlvbigic2FuZHZpay5jcmVhdGUucHJldmlldy5jb252ZXJ0LnNjcmlwdCIsICJQcmVmZXJlbmNlIGZvciBjb252ZXJzaW9uIGJhdGNoIHNjcmlwdCBub3Qgc2V0ISIpKTsKICAgICAgICByZXR1cm47CiAgICAgIH0KCiAgICAgIFN0cmluZyBjZ21PcmlnaW5hbFdzQXBwbCA9IFByZWZlcmVuY2VzLnN0cmluZ1ZhbHVlKCJzYW5kdmlrLmNyZWF0ZS5wcmV2aWV3LmNnbS5vcmlnaW5hbC53c0FwcGwiKTsKICAgICAgaWYgKGNnbU9yaWdpbmFsV3NBcHBsID09IG51bGwpCiAgICAgIHsKICAgICAgICBlcnJvckRpYWxvZy5hZGRUaHJvd2FibGUobmV3IFByZWZlcmVuY2VOb3RFeGlzdGVudEV4Y2VwdGlvbigic2FuZHZpay5jcmVhdGUucHJldmlldy5jZ20ub3JpZ2luYWwud3NBcHBsIiwgIlByZWZlcmVuY2Ugd29ya3N0YXRpb24gYXBwbGlrYXRpb24gbm90IHNldCBmb3IgY2dtIG9yaWdpbmFscy4iKSk7CiAgICAgICAgcmV0dXJuOwogICAgICB9CgogICAgICBTdHJpbmcgcHJldmlld3NXc0FwcGwgPSBQcmVmZXJlbmNlcy5zdHJpbmdWYWx1ZSgic2FuZHZpay5jcmVhdGUucHJldmlldy5jb252ZXJ0ZWQuZmlsZS53c0FwcGwiKTsKICAgICAgaWYgKHByZXZpZXdzV3NBcHBsID09IG51bGwpCiAgICAgIHsKICAgICAgICBlcnJvckRpYWxvZy5hZGRUaHJvd2FibGUobmV3IFByZWZlcmVuY2VOb3RFeGlzdGVudEV4Y2VwdGlvbigic2FuZHZpay5jcmVhdGUucHJldmlldy5jb252ZXJ0ZWQuZmlsZS53c0FwcGwiLCAiUHJlZmVyZW5jZSB3b3Jrc3RhdGlvbiBhcHBsaWthdGlvbiBub3Qgc2V0IGZvciBjZ20gcHJldmlld3MuIikpOwogICAgICAgIHJldHVybjsKICAgICAgfQoKICAgICAgaWYgKCFzaW5nbGVEb2N1bWVudFNlbGVjdGVkKGV2ZW50KSkKICAgICAgewogICAgICAgIHJldHVybjsKICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIGNvbnZlcnRTY3JpcHQgPSBQcmVmZXJlbmNlcy5zdHJpbmdWYWx1ZSgic2FuZHZpay5jcmVhdGUucHJldmlldy5jb252ZXJ0LnNjcmlwdCIpOwogICAgICBpZiAoY29udmVydFNjcmlwdCA9PSBudWxsKXsKICAgICAgICBlcnJvckRpYWxvZy5hZGRUaHJvd2FibGUobmV3IFByZWZlcmVuY2VOb3RFeGlzdGVudEV4Y2VwdGlvbigic2FuZHZpay5jcmVhdGUucHJldmlldy5jb252ZXJ0LnNjcmlwdCIsICJQcmVmZXJlbmNlIGZvciBjb252ZXJzaW9uIGJhdGNoIHNjcmlwdCBub3Qgc2V0ISIpKTsKICAgICAgICByZXR1cm47CiAgICAgIH0KCiAgICAgIFN0cmluZyBjZ21PcmlnaW5hbFdzQXBwbCA9IFByZWZlcmVuY2VzLnN0cmluZ1ZhbHVlKCJzYW5kdmlrLmNyZWF0ZS5wcmV2aWV3LmNnbS5vcmlnaW5hbC53c0FwcGwiKTsKICAgICAgaWYgKGNnbU9yaWdpbmFsV3NBcHBsID09IG51bGwpCiAgICAgIHsKICAgICAgICBlcnJvckRpYWxvZy5hZGRUaHJvd2FibGUobmV3IFByZWZlcmVuY2VOb3RFeGlzdGVudEV4Y2VwdGlvbigic2FuZHZpay5jcmVhdGUucHJldmlldy5jZ20ub3JpZ2luYWwud3NBcHBsIiwgIlByZWZlcmVuY2Ugd29ya3N0YXRpb24gYXBwbGlrYXRpb24gbm90IHNldCBmb3IgY2dtIG9yaWdpbmFscy4iKSk7CiAgICAgICAgcmV0dXJuOwogICAgICB9CgogICAgICBTdHJpbmcgcHJldmlld3NXc0FwcGwgPSBQcmVmZXJlbmNlcy5zdHJpbmdWYWx1ZSgic2FuZHZpay5jcmVhdGUucHJldmlldy5jb252ZXJ0ZWQuZmlsZS53c0FwcGwiKTsKICAgICAgaWYgKHByZXZpZXdzV3NBcHBsID09IG51bGwpCiAgICAgIHsKICAgICAgICBlcnJvckRpYWxvZy5hZGRUaHJvd2FibGUobmV3IFByZWZlcmVuY2VOb3RFeGlzdGVudEV4Y2VwdGlvbigic2FuZHZpay5jcmVhdGUucHJldmlldy5jb252ZXJ0ZWQuZmlsZS53c0FwcGwiLCAiUHJlZmVyZW5jZSB3b3Jrc3RhdGlvbiBhcHBsaWthdGlvbiBub3Qgc2V0IGZvciBjZ20gcHJldmlld3MuIikpOwogICAgICAgIHJldHVybjsKICAgICAgfQoKICAgICAgaWYgKCFzaW5nbGVEb2N1bWVudFNlbGVjdGVkKGV2ZW50KSkKICAgICAgewogICAgICAgIHJldHVybjsKICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/import/test</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYm9PYmplY3RLZXlcPg==</last-search>
+      <last-search encoding="base64">XDxwcmV2aWV3c1dzQXBwbFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYm9PYmplY3RLZXlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwcmV2aWV3c1dzQXBwbFw+</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>import</last-substitute>
       <last-dir>1</last-dir>
@@ -335,7 +335,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdHRyaWJ1dGVDb250YWluZXJcPg==</entry>
         <entry encoding="base64">XDxpbml0UHJvcGVydGllc1w+</entry>
         <entry encoding="base64">XDxmbGdJblNhcFw+</entry>
         <entry>import</entry>
@@ -355,6 +354,7 @@
         <entry encoding="base64">XDxpc0Zyb21UeXBlXD4=</entry>
         <entry encoding="base64">XDxhcGlHZW5WYWxSZXRyaWV2ZXJcPg==</entry>
         <entry encoding="base64">XDxkYm9PYmplY3RLZXlcPg==</entry>
+        <entry encoding="base64">XDxwcmV2aWV3c1dzQXBwbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>68</entry>
