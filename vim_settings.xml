@@ -9,10 +9,10 @@
         <mark key="'" line="5345" column="8" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weberdillenburg/gui/ProjectSelectionDialog.java" timestamp="1501762271568">
-        <mark key="[" line="75" column="50" />
-        <mark key="]" line="76" column="59" />
-        <mark key="." line="76" column="59" />
-        <mark key="^" line="76" column="59" />
+        <mark key="[" line="74" column="50" />
+        <mark key="]" line="75" column="59" />
+        <mark key="." line="75" column="59" />
+        <mark key="^" line="75" column="59" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/utils/OmfUtils.java" timestamp="1501760024956" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.2/plm-5.1.7.2-sources.jar!/plm/gui/PlmSelectionDialog.java" timestamp="1501762552954" />
@@ -83,12 +83,12 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7-SNAPSHOT/sapbase-5.1.7-20170223.163339-38.jar!/cadagent/plm/PlmRepository.class" timestamp="1500375399766">
         <mark key="'" line="314" column="28" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weberdillenburg/omf/OmfWeberAssignProject.java" timestamp="1501762953741">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weberdillenburg/omf/OmfWeberAssignProject.java" timestamp="1501766117401">
         <mark key="'" line="46" column="0" />
-        <mark key="[" line="57" column="75" />
-        <mark key="]" line="57" column="74" />
-        <mark key="." line="57" column="74" />
-        <mark key="^" line="57" column="74" />
+        <mark key="[" line="59" column="43" />
+        <mark key="]" line="59" column="42" />
+        <mark key="." line="59" column="42" />
+        <mark key="^" line="59" column="42" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" timestamp="1501696747711">
         <mark key="'" line="120" column="43" />
@@ -276,6 +276,9 @@
       <file name="/PsContextInfo.java" timestamp="1499683128419">
         <mark key="'" line="539" column="50" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1501766019207">
+        <mark key="'" line="597" column="14" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCappmanDataExcImport.java" timestamp="1501688073638" />
       <file name="/fragment.java" timestamp="1501760758906">
         <mark key="[" line="0" column="0" />
@@ -288,37 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="130" column="6" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="163" column="4" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="53" column="0" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="51" column="0" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="54" column="2" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="327" column="42" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="69" column="0" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="70" column="4" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="73" column="0" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="74" column="6" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="78" column="6" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="85" column="6" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="87" column="6" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="96" column="0" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="86" column="0" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="84" column="0" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="325" column="2" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="38" column="0" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="57" column="2" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="93" column="10" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="190" column="10" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="211" column="0" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="171" column="4" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="49" column="13" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="98" column="0" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="62" column="2" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="41" column="8" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="77" column="0" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="76" column="74" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="188" column="9" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/proc/SandvikProcessUdfTableRead.java" />
-      <jump line="127" column="30" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
       <jump line="339" column="0" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
       <jump line="309" column="37" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
       <jump line="100" column="32" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
@@ -388,61 +360,92 @@
       <jump line="46" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weberdillenburg/omf/OmfWeberAssignProject.java" />
       <jump line="179" column="0" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/search/gui/ResultTable.java" />
       <jump line="638" column="14" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.2/base-5.1.7.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="243" column="9" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="119" column="34" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="327" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="328" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="330" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="331" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="332" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="333" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="334" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="335" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="336" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="341" column="19" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="455" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="457" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="459" column="49" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="495" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="500" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="505" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="512" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="513" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="523" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="528" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="533" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="548" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="549" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="554" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="555" column="20" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="562" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="563" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="591" column="16" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="597" column="14" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgVHJhYmxlU2VsZQo=</text>
+      <register name="&quot;" type="4">
+        <text>new</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>new</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkb2N1bWVudERhdGFcPg==</text>
+        <text encoding="base64">XDxvYnJDaGlsZHJlbkRpc3BsYXlcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgQnJEb2N1bWVudCBzZWxlY3RlZE9iamVjdCA9IE9tZlV0aWxzLmdldFNpbmdsZVNlbGVjdGVkT2JqZWN0KEJyRG9jdW1lbnQuY2xhc3MsIGV2ZW50KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgVHJhYmxlU2VsZQo=</text>
+        <text encoding="base64">ICAgICAgdGFibGVTZWxlY3Rpb25EaWFsb2cuc2V0Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgRnJhbWUgcGFyZW50ID0gUGxtU2Vzc2lvbk1hbmFnZXIuZ2V0SW5zdCgpLmdldE9iamVjdE1hbmFnZXJHdWkoKTsK</text>
+        <text encoding="base64">ICAgICAgVGFibGVTZWxlY3Rpb25EaWFsb2cgdGFibGVTZWxlY3Rpb25EaWFsb2cgPSBuZXcgVGFibGVTZWxlY3Rpb25EaWFsb2coKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBHdWlVdGlscy5zZXRTdGF0dXNMaW5lV2FybmluZ1RleHQoRGljLmdldCgicGxtLm9tZi4yODAwIiwgIlRoZSBzZWxlY3RlZCBvYmplY3QgaXMgbm90IHZhbGlkIGZvciB0aGlzIGZ1bmN0aW9uLiIpKTsK</text>
+        <text encoding="base64">ICAgICAgVHJhYmxlU2VsZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZ2V0RGF0YUZyb21CYWNrZW5kKCkK</text>
+        <text encoding="base64">ICAgICAgRnJhbWUgcGFyZW50ID0gUGxtU2Vzc2lvbk1hbmFnZXIuZ2V0SW5zdCgpLmdldE9iamVjdE1hbmFnZXJHdWkoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJvamVjdFNlbGVjdGlvbkRpYWxvZy5zZXRWaXNpYmxlKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBHdWlVdGlscy5zZXRTdGF0dXNMaW5lV2FybmluZ1RleHQoRGljLmdldCgicGxtLm9tZi4yODAwIiwgIlRoZSBzZWxlY3RlZCBvYmplY3QgaXMgbm90IHZhbGlkIGZvciB0aGlzIGZ1bmN0aW9uLiIpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBhbmVsLmFkZChuYW1lc3BhY2VzQ29tYm9Cb3gpOwo=</text>
+        <text encoding="base64">ICAgICAgZ2V0RGF0YUZyb21CYWNrZW5kKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIEd4Q29tYm9Cb3g8U3RyaW5nPiBuYW1lc3BhY2VzQ29tYm9Cb3g7Cg==</text>
+        <text encoding="base64">ICAgICAgcHJvamVjdFNlbGVjdGlvbkRpYWxvZy5zZXRWaXNpYmxlKHRydWUpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IHByaXZhdGUgZmluYWwgc3RhdGljIGludCBOQU1FU1BBQ0VfQ09NQk9CT1hfSEVJR0hUID0gUHJlZmVyZW5jZXMuaW50VmFsdWUoInNhbmR2aWsuaW1wb3J0LmFkZGl0aW9uYWwubmFtZXNwYWNlLmNvbWJvYm94LmhlaWd0aCIsIDI1KTsKICBwcml2YXRlIGZpbmFsIHN0YXRpYyBpbnQgTkFNRVNQQUNFX0NPTUJPQk9YX1dJRFRIID0gUHJlZmVyZW5jZXMuaW50VmFsdWUoInNhbmR2aWsuaW1wb3J0LmFkZGl0aW9uYWwubmFtZXNwYWNlLmNvbWJvYm94LndpZHRoIiwgMzAwKTsKICBwcml2YXRlIGZpbmFsIHN0YXRpYyBTdHJpbmcgRElBTE9HX1RJVExFID0gRGljLmdldCgic2FuZHZpay5pbXBvcnQuMDAwMSIsICJDQVBQTUFOTiBQcm9ncmFtbSIpOwogIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBESUFMT0dfQk9SREVSX1RJVExFID0gRGljLmdldCgic2FuZHZpay5pbXBvcnQuMDAwMiIsICJOYW1lc3BhY2UiKTs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHBhbmVsLmFkZChuYW1lc3BhY2VzQ29tYm9Cb3gpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgT2JyVGFibGVEaXNwbGF5Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIEd4Q29tYm9Cb3g8U3RyaW5nPiBuYW1lc3BhY2VzQ29tYm9Cb3g7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkb2N1bWVudERhdGFcPg==</last-search>
+      <last-search encoding="base64">XDxvYnJDaGlsZHJlbkRpc3BsYXlcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkb2N1bWVudERhdGFcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxvYnJDaGlsZHJlbkRpc3BsYXlcPg==</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>import</last-substitute>
       <last-dir>1</last-dir>
@@ -450,7 +453,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Preference</entry>
         <entry>cmg</entry>
         <entry>cgm</entry>
         <entry>PlmFile</entry>
@@ -470,6 +472,7 @@
         <entry>true</entry>
         <entry>ins</entry>
         <entry encoding="base64">XDxkb2N1bWVudERhdGFcPg==</entry>
+        <entry encoding="base64">XDxvYnJDaGlsZHJlbkRpc3BsYXlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>.,Gd</entry>
