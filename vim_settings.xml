@@ -105,6 +105,11 @@
         <mark key="." line="62" column="118" />
         <mark key="^" line="62" column="118" />
       </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" timestamp="1501871768519">
+        <mark key="[" line="2469" column="0" />
+        <mark key="]" line="2469" column="0" />
+        <mark key="." line="2469" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/pom.xml" timestamp="1501686725076">
         <mark key="[" line="24" column="8" />
         <mark key="]" line="24" column="8" />
@@ -260,7 +265,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>defined. Conversion cgm to jpg not ps</text>
+        <text encoding="base64">CiMgU2V0dGluZ3MgZm9yIHRoZSBmaWxlbmFtZSBvZiB0aGUgZ2VuZXJhdGVkIG1vbm9saXRoCiMgcHJlZml4IChkZWZhdWx0IGlzIGVtcHR5IiIpCiAgICBwbG0udmUuY29udmVydGVyLm1vbm9saXRoLnByZWZpeCA9CgojIHN1ZmZpeCAoZGVmYXVsdCBpcyAiX21vbm8iKQoKICAgIHBsbS52ZS5jb252ZXJ0ZXIubW9ub2xpdGguc3VmZml4ID0gX21vbm8KCiMgRGVmaW5lIG91dHB1dCBmb3JtYXQgb2YgVkUgQ2xpZW50IENvbnZlcnRlcgojIFBvc3NpYmxlIGZvcm1hdHMgYXJlOiBWRFMKCiAgICBwbG0udmUuY29udmVydGVyLmZvcm1hdCA9IFZEUwoKIyBJbXBvcnQgU2V0dGluZ3MgZm9yIFZFQ29udmVydGVyCiMgcGxtLnZlLmNvbnZlcnRlci5pbXBvcnRTZXR0aW5ncy48SW1wb3J0IFNldHRpbmcgZnJvbSBWRUNvdmVydGVyPiA9IDxWYWx1ZSBmb3IgSW1wb3J0IFNldHRpbmcgZnJvbSBWRUNvbnZlcnRlcj4KCiMgRXhwb3J0IFNldHRpbmdzIGZvciBWRUNvbnZlcnRlcgojIHBsbS52ZS5jb252ZXJ0ZXIuZXhwb3J0U2V0dGluZ3MuPEV4cG9ydCBTZXR0aW5nIGZyb20gVg==</text>
       </register>
       <register name="-" type="4">
         <text>defined. Conversion cgm to jpg not ps</text>
@@ -271,40 +276,49 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGVjaG8gWlpaICVqcGVkRmlsZSUK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZWNobyBibGEK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiMgU2V0dGluZ3MgZm9yIHRoZSBmaWxlbmFtZSBvZiB0aGUgZ2VuZXJhdGVkIG1vbm9saXRoCiMgcHJlZml4IChkZWZhdWx0IGlzIGVtcHR5IiIpCiAgICBwbG0udmUuY29udmVydGVyLm1vbm9saXRoLnByZWZpeCA9CgojIHN1ZmZpeCAoZGVmYXVsdCBpcyAiX21vbm8iKQoKICAgIHBsbS52ZS5jb252ZXJ0ZXIubW9ub2xpdGguc3VmZml4ID0gX21vbm8KCiMgRGVmaW5lIG91dHB1dCBmb3JtYXQgb2YgVkUgQ2xpZW50IENvbnZlcnRlcgojIFBvc3NpYmxlIGZvcm1hdHMgYXJlOiBWRFMKCiAgICBwbG0udmUuY29udmVydGVyLmZvcm1hdCA9IFZEUwoKIyBJbXBvcnQgU2V0dGluZ3MgZm9yIFZFQ29udmVydGVyCiMgcGxtLnZlLmNvbnZlcnRlci5pbXBvcnRTZXR0aW5ncy48SW1wb3J0IFNldHRpbmcgZnJvbSBWRUNvdmVydGVyPiA9IDxWYWx1ZSBmb3IgSW1wb3J0IFNldHRpbmcgZnJvbSBWRUNvbnZlcnRlcj4KCiMgRXhwb3J0IFNldHRpbmdzIGZvciBWRUNvbnZlcnRlcgojIHBsbS52ZS5jb252ZXJ0ZXIuZXhwb3J0U2V0dGluZ3MuPEV4cG9ydCBTZXR0aW5nIGZyb20gVg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">KWVsc2UgKAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">cyBmb3IgdGhlIGZpbGVuYW1lIG9mIHRoZSBnZW5lcmF0ZWQgbW9ub2xpdGgKIyBwcmVmaXggKGRlZmF1bHQgaXMgZW1wdHkiIikKICAgIHBsbS52ZS5jb252ZXJ0ZXIubW9ub2xpdGgucHJlZml4ID0KCiMgc3VmZml4IChkZWZhdWx0IGlzICJfbW9ubyIpCgogICAgcGxtLnZlLmNvbnZlcnRlci5tb25vbGl0aC5zdWZmaXggPSBfbW9ubwoKIyBEZWZpbmUgb3V0cHV0IGZvcm1hdCBvZiBWRSBDbGllbnQgQ29udmVydGVyCiMgUG9zc2libGUgZm9ybWF0cyBhcmU6IFZEUwoKICAgIHBsbS52ZS5jb252ZXJ0ZXIuZm9ybWF0ID0gVkRTCgojIEltcG9ydCBTZXR0aW5ncyBmb3IgVkVDb252ZXJ0ZXIKIyBwbG0udmUuY29udmVydGVyLmltcG9ydFNldHRpbmdzLjxJbXBvcnQgU2V0dGluZyBmcm9tIFZFQ292ZXJ0ZXI+ID0gPFZhbHVlIGZvciBJbXBvcnQgU2V0dGluZyBmcm9tIFZFQ29udmVydGVyPgoKIyBFeHBvcnQgU2V0dGluZ3MgZm9yIFZFQ29udmVydA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">c2V0IGJhc2VfZGlyPSVVR0lJX0JBU0VfRElSJQo=</text>
+      <register name="3" type="4">
+        <text>e.converter.monolith.prefix =
+
+# suffix (default is &quot;_mono&quot;)
+
+    plm.ve.converter.monolith.suffix = _mono
+
+# Define output format of VE Client Converter
+# Possible formats are: VDS
+
+    plm.ve.converter.format = VDS
+
+# Import Settings for V</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiMgSW1wb3J0IFNldHRpbmdzIGZvciBWRUNvbnZlcnRlcgojIHBsbS52ZS5jb252ZXJ0ZXIuaW1wb3J0U2V0dGluZ3MuPEltcG9ydCBTZXR0aW5nIGZyb20gVkVDb3ZlcnRlcj4gPSA8VmFsdWUgZm9yIEltcG9ydCBTZXR0aW5nIGZyb20gVkVDb252ZXJ0ZXI+CgojIEV4cG9ydCBTZXR0aW5ncyBmb3IgVkVDb252ZXJ0ZXIKIyBwbG0udmUuY29udmVydGVyLmV4cG9ydFNldHRpbmdzLjxFeHBvcnQgU2V0dGluZyBmcm9tIFZFQ292ZXJ0ZXI+ID0gPFZhbHVlIGZvciBFeHBvcnQgU2V0dGluZyBmcm9tIFZFQ29udmVydGVyPiAKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyB4Lnl6ICB0ZXN0IHNldHRpbmdzIC0gZG9uJ3QgdGFrZSBvdmVyIHRvIG9mZmljaWFsIGluc3RhbGxhdGlvbiEKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyBibGEK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KWVsc2UgKAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2V0IGJhc2VfZGlyPSVVR0lJX0JBU0VfRElSJQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>echo ERRORLEVEL is %ERRORLEVEL%
-echo UGSbase dir is %UGII_BASE_DIR%
-echo UGSbase dir is %base_dir%</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">OjplY2hvIEQgfCB4Y29weSBDOlxVc2Vyc1xieWFcRGVza3RvcFxleHBvcnQyXDEwMDAwNDQ4MDB1ZGYwMDBfMDAscHJ0XHptb2RlbC5qcGcgJWFyZzIlXCVwMSUlZW5kdW5nJQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
@@ -343,7 +357,6 @@ echo UGSbase dir is %base_dir%</text>
         <entry encoding="base64">XDxmaWxlTmFtZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>.,Gd</entry>
         <entry>3,.</entry>
         <entry>3,.dd</entry>
         <entry>%s/key/bla/g</entry>
@@ -363,6 +376,7 @@ echo UGSbase dir is %base_dir%</text>
         <entry>ch</entry>
         <entry>changes</entry>
         <entry encoding="base64">JzwsJz5k</entry>
+        <entry>pwd</entry>
       </history-cmd>
       <history-expr />
       <history-input />
