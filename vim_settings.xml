@@ -20,12 +20,11 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.2/base-5.1.7.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1501762726127">
         <mark key="'" line="638" column="14" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/convert.bat" timestamp="1501854896628">
-        <mark key="'" line="39" column="17" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="1" />
-        <mark key="." line="29" column="1" />
-        <mark key="^" line="29" column="1" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/convert.bat" timestamp="1501859822764">
+        <mark key="[" line="49" column="11" />
+        <mark key="]" line="49" column="12" />
+        <mark key="^" line="49" column="12" />
+        <mark key="." line="49" column="12" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weberdillenburg/proc/doWorkProcess.java" timestamp="1501761032826">
         <mark key="[" line="12" column="13" />
@@ -158,7 +157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
       <jump line="7" column="0" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
       <jump line="75" column="0" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
@@ -258,62 +256,64 @@
       <jump line="54" column="14" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/convert.bat" />
       <jump line="55" column="8" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/convert.bat" />
       <jump line="39" column="17" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/convert.bat" />
+      <jump line="32" column="4" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/convert.bat" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>defined. Conversion cgm to jpg not ps</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>defined. Conversion cgm to jpg not ps</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvYnJDaGlsZHJlbkRpc3BsYXlcPg==</text>
+        <text encoding="base64">XDxmaWxlTmFtZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIGV4aXN0ICIlYzElIiAoCiAgICBjb252ZXJ0LmV4ZSAiJWMxJSIgIiVjMiUiCiAgICApCg==</text>
+        <text encoding="base64">ICAgIGVjaG8gWlpaICVqcGVkRmlsZSUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ZWNobyBibGEK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlbCAldGFyZ2V0RGlyZWN0b3J5JVwlcDElJWVuZHVuZ1BkZiUK</text>
+        <text encoding="base64">KWVsc2UgKAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIGV4aXN0IDxpbnNlcnQgZmlsZSBuYW1lIGhlcmU+ICgK</text>
+        <text encoding="base64">c2V0IGJhc2VfZGlyPSVVR0lJX0JBU0VfRElSJQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnZlcnQuZXhlICIlYzElIiAiJWMyJSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>echo cgm file is %cgmFile%
-echo target is %targetDirectory%</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZGVsICVhcmcyJVwlcDElJWVuZHVuZ1BkZiUK</text>
+      <register name="8" type="4">
+        <text>echo ERRORLEVEL is %ERRORLEVEL%
+echo UGSbase dir is %UGII_BASE_DIR%
+echo UGSbase dir is %base_dir%</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNnbTJwZGYuZXhlICVhcmcxJSAlYXJnMiVcJXAxJSVlbmR1bmdQZGYlCg==</text>
+        <text encoding="base64">OjplY2hvIEQgfCB4Y29weSBDOlxVc2Vyc1xieWFcRGVza3RvcFxleHBvcnQyXDEwMDAwNDQ4MDB1ZGYwMDBfMDAscHJ0XHptb2RlbC5qcGcgJWFyZzIlXCVwMSUlZW5kdW5nJQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvYnJDaGlsZHJlbkRpc3BsYXlcPg==</last-search>
+      <last-search encoding="base64">XDxmaWxlTmFtZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvYnJDaGlsZHJlbkRpc3BsYXlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmaWxlTmFtZVw+</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>import</last-substitute>
       <last-dir>1</last-dir>
@@ -321,7 +321,6 @@ echo target is %targetDirectory%</text>
     </search>
     <history>
       <history-search>
-        <entry>cmg</entry>
         <entry>cgm</entry>
         <entry>PlmFile</entry>
         <entry>getO</entry>
@@ -341,6 +340,7 @@ echo target is %targetDirectory%</text>
         <entry>ins</entry>
         <entry encoding="base64">XDxkb2N1bWVudERhdGFcPg==</entry>
         <entry encoding="base64">XDxvYnJDaGlsZHJlbkRpc3BsYXlcPg==</entry>
+        <entry encoding="base64">XDxmaWxlTmFtZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>.,Gd</entry>
