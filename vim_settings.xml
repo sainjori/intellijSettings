@@ -100,12 +100,12 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.2/base-5.1.7.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1501762726127">
         <mark key="'" line="638" column="14" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/convert.bat" timestamp="1501784732151">
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/convert.bat" timestamp="1501841163501">
         <mark key="'" line="24" column="4" />
         <mark key="[" line="38" column="5" />
-        <mark key="]" line="37" column="8" />
-        <mark key="." line="37" column="8" />
-        <mark key="^" line="37" column="8" />
+        <mark key="]" line="32" column="20" />
+        <mark key="." line="32" column="20" />
+        <mark key="^" line="32" column="20" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weberdillenburg/proc/doWorkProcess.java" timestamp="1501761032826">
         <mark key="[" line="12" column="13" />
