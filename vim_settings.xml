@@ -56,11 +56,15 @@
         <mark key="." line="44" column="13" />
         <mark key="^" line="44" column="26" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/modules/acm/gui/AccF4Helper.java" timestamp="1502097612957">
+        <mark key="'" line="113" column="26" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/pom.xml" timestamp="1499960579941">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/core/base/java/src/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1502097520764" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weberdillenburg/proc/bla.java" timestamp="1501687438533">
         <mark key="[" line="12" column="16" />
         <mark key="]" line="12" column="34" />
@@ -88,22 +92,23 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weberdillenburg/brobj/BrWeberDocument.java" timestamp="1501767632453">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weberdillenburg/brobj/BrWeberDocument.java" timestamp="1502099168216">
+        <mark key="[" line="19" column="25" />
+        <mark key="]" line="20" column="34" />
+        <mark key="." line="20" column="34" />
+        <mark key="^" line="20" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501767697865">
+      <file name="/Dummy.txt" timestamp="1502097489163">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weberdillenburg/omf/OmfWeberAssignProject.java" timestamp="1502095867061">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="71" column="47" />
-        <mark key="]" line="71" column="58" />
-        <mark key="." line="71" column="58" />
-        <mark key="^" line="71" column="58" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weberdillenburg/omf/OmfWeberAssignProject.java" timestamp="1502099098180">
+        <mark key="'" line="109" column="24" />
+        <mark key="[" line="77" column="10" />
+        <mark key="]" line="77" column="44" />
+        <mark key="." line="77" column="44" />
+        <mark key="^" line="77" column="44" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" timestamp="1501871768519">
         <mark key="[" line="2469" column="0" />
@@ -142,8 +147,8 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/search/SandvikSearchManager.java" timestamp="1501755880596">
         <mark key="'" line="331" column="12" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/brobj/BrDocument.java" timestamp="1501767611906">
-        <mark key="'" line="537" column="34" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/brobj/BrDocument.java" timestamp="1502099032258">
+        <mark key="'" line="2779" column="21" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weberdillenburg/omf/ffef.java" timestamp="1501682534064">
         <mark key="[" line="19" column="4" />
@@ -151,21 +156,17 @@
         <mark key="^" line="19" column="27" />
         <mark key="." line="19" column="27" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1502095846197">
-        <mark key="'" line="597" column="14" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1502098041780">
+        <mark key="'" line="601" column="14" />
       </file>
-      <file name="/fragment.java" timestamp="1501760758906">
+      <file name="/fragment.java" timestamp="1502098171879">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="57" />
-        <mark key="." line="0" column="57" />
-        <mark key="^" line="0" column="17" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="75" column="0" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
-      <jump line="28" column="12" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" />
       <jump line="98" column="54" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" />
       <jump line="274" column="84" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" />
       <jump line="350" column="9" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" />
@@ -262,13 +263,17 @@
       <jump line="39" column="17" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/convert.bat" />
       <jump line="32" column="4" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/convert.bat" />
       <jump line="597" column="14" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="113" column="26" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/modules/acm/gui/AccF4Helper.java" />
+      <jump line="98" column="24" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weberdillenburg/omf/OmfWeberAssignProject.java" />
+      <jump line="601" column="14" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="2779" column="21" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/brobj/BrDocument.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>plmDocument</text>
+        <text>ObrObject</text>
       </register>
       <register name="-" type="4">
-        <text>plmDocument</text>
+        <text>ObrObject</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlTmFtZVw+</text>
@@ -276,49 +281,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGVjaG8gWlpaICVqcGVkRmlsZSUK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiMgU2V0dGluZ3MgZm9yIHRoZSBmaWxlbmFtZSBvZiB0aGUgZ2VuZXJhdGVkIG1vbm9saXRoCiMgcHJlZml4IChkZWZhdWx0IGlzIGVtcHR5IiIpCiAgICBwbG0udmUuY29udmVydGVyLm1vbm9saXRoLnByZWZpeCA9CgojIHN1ZmZpeCAoZGVmYXVsdCBpcyAiX21vbm8iKQoKICAgIHBsbS52ZS5jb252ZXJ0ZXIubW9ub2xpdGguc3VmZml4ID0gX21vbm8KCiMgRGVmaW5lIG91dHB1dCBmb3JtYXQgb2YgVkUgQ2xpZW50IENvbnZlcnRlcgojIFBvc3NpYmxlIGZvcm1hdHMgYXJlOiBWRFMKCiAgICBwbG0udmUuY29udmVydGVyLmZvcm1hdCA9IFZEUwoKIyBJbXBvcnQgU2V0dGluZ3MgZm9yIFZFQ29udmVydGVyCiMgcGxtLnZlLmNvbnZlcnRlci5pbXBvcnRTZXR0aW5ncy48SW1wb3J0IFNldHRpbmcgZnJvbSBWRUNvdmVydGVyPiA9IDxWYWx1ZSBmb3IgSW1wb3J0IFNldHRpbmcgZnJvbSBWRUNvbnZlcnRlcj4KCiMgRXhwb3J0IFNldHRpbmdzIGZvciBWRUNvbnZlcnRlcgojIHBsbS52ZS5jb252ZXJ0ZXIuZXhwb3J0U2V0dGluZ3MuPEV4cG9ydCBTZXR0aW5nIGZyb20gVg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRzZC5hZGRPYmplY3RDaG9pY2UocGxtRG9jdW1lbnQpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">cyBmb3IgdGhlIGZpbGVuYW1lIG9mIHRoZSBnZW5lcmF0ZWQgbW9ub2xpdGgKIyBwcmVmaXggKGRlZmF1bHQgaXMgZW1wdHkiIikKICAgIHBsbS52ZS5jb252ZXJ0ZXIubW9ub2xpdGgucHJlZml4ID0KCiMgc3VmZml4IChkZWZhdWx0IGlzICJfbW9ubyIpCgogICAgcGxtLnZlLmNvbnZlcnRlci5tb25vbGl0aC5zdWZmaXggPSBfbW9ubwoKIyBEZWZpbmUgb3V0cHV0IGZvcm1hdCBvZiBWRSBDbGllbnQgQ29udmVydGVyCiMgUG9zc2libGUgZm9ybWF0cyBhcmU6IFZEUwoKICAgIHBsbS52ZS5jb252ZXJ0ZXIuZm9ybWF0ID0gVkRTCgojIEltcG9ydCBTZXR0aW5ncyBmb3IgVkVDb252ZXJ0ZXIKIyBwbG0udmUuY29udmVydGVyLmltcG9ydFNldHRpbmdzLjxJbXBvcnQgU2V0dGluZyBmcm9tIFZFQ292ZXJ0ZXI+ID0gPFZhbHVlIGZvciBJbXBvcnQgU2V0dGluZyBmcm9tIFZFQ29udmVydGVyPgoKIyBFeHBvcnQgU2V0dGluZ3MgZm9yIFZFQ29udmVydA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIGFsbE9ick9iamVjdC4K</text>
       </register>
-      <register name="3" type="4">
-        <text>e.converter.monolith.prefix =
-
-# suffix (default is &quot;_mono&quot;)
-
-    plm.ve.converter.monolith.suffix = _mono
-
-# Define output format of VE Client Converter
-# Possible formats are: VDS
-
-    plm.ve.converter.format = VDS
-
-# Import Settings for V</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgdHNkLnNldFZpc2libGUodHJ1ZSk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiMgSW1wb3J0IFNldHRpbmdzIGZvciBWRUNvbnZlcnRlcgojIHBsbS52ZS5jb252ZXJ0ZXIuaW1wb3J0U2V0dGluZ3MuPEltcG9ydCBTZXR0aW5nIGZyb20gVkVDb3ZlcnRlcj4gPSA8VmFsdWUgZm9yIEltcG9ydCBTZXR0aW5nIGZyb20gVkVDb252ZXJ0ZXI+CgojIEV4cG9ydCBTZXR0aW5ncyBmb3IgVkVDb252ZXJ0ZXIKIyBwbG0udmUuY29udmVydGVyLmV4cG9ydFNldHRpbmdzLjxFeHBvcnQgU2V0dGluZyBmcm9tIFZFQ292ZXJ0ZXI+ID0gPFZhbHVlIGZvciBFeHBvcnQgU2V0dGluZyBmcm9tIFZFQ29udmVydGVyPiAKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KIyB4Lnl6ICB0ZXN0IHNldHRpbmdzIC0gZG9uJ3QgdGFrZSBvdmVyIHRvIG9mZmljaWFsIGluc3RhbGxhdGlvbiEKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgdHNkLnVwZGF0ZURpc3BsYXkoKTsKICAgICAgdHNkLnBhY2soKTsKICAgICAgdHNkLnNldExvY2F0aW9uKCk7CiAgICAgIHRzZC5zZXRWaXNpYmxlKHRydWUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWNobyBibGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KWVsc2UgKAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYWxsT2JyT2JqZWN0IGluc3RhbmNlb2YgQnJEb2N1bWVudCkgewogICAgICAgICAgQnJEb2N1bWVudCBicmRvYyA9IChCckRvY3VtZW50KSBhbGxPYnJPYmplY3Q7CiAgICAgICAgICBQbG1Eb2N1bWVudCBwbG1Eb2N1bWVudCA9IGJyZG9jLmdldFBsbURvY3VtZW50KCk7CiAgICAgICAgICBwbG1Eb2N1bWVudHMuYWRkKHBsbURvY3VtZW50KTsKCiAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2V0IGJhc2VfZGlyPSVVR0lJX0JBU0VfRElSJQo=</text>
+        <text encoding="base64">ICAgICAgTGlzdDxQbG1Eb2N1bWVudD4gcGxtRG9jdW1lbnRzID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgVGFibGVTZWxlY3Rpb25EaWFsb2cgdGFibGVTZWxlY3Rpb25EaWFsb2cgPSBuZXcgVGFibGVTZWxlY3Rpb25EaWFsb2cocGFyZW50LCB0cnVlLCB0cnVlLCB0cnVlLCB0cnVlLCB0cnVlLHRydWUgKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgRnJhbWUgcGFyZW50ID0gUGxtU2Vzc2lvbk1hbmFnZXIuZ2V0SW5zdCgpLmdldE9iamVjdE1hbmFnZXJHdWkoKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
