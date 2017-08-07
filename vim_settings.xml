@@ -92,23 +92,23 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weberdillenburg/brobj/BrWeberDocument.java" timestamp="1502099168216">
-        <mark key="[" line="19" column="25" />
-        <mark key="]" line="20" column="34" />
-        <mark key="." line="20" column="34" />
-        <mark key="^" line="20" column="34" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weberdillenburg/brobj/BrWeberDocument.java" timestamp="1502101049096">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="57" />
+        <mark key="." line="28" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502097489163">
+      <file name="/Dummy.txt" timestamp="1502100829641">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weberdillenburg/omf/OmfWeberAssignProject.java" timestamp="1502099098180">
-        <mark key="'" line="109" column="24" />
-        <mark key="[" line="77" column="10" />
-        <mark key="]" line="77" column="44" />
-        <mark key="." line="77" column="44" />
-        <mark key="^" line="77" column="44" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weberdillenburg/omf/OmfWeberAssignProject.java" timestamp="1502100318224">
+        <mark key="'" line="111" column="24" />
+        <mark key="[" line="76" column="48" />
+        <mark key="]" line="76" column="66" />
+        <mark key="." line="76" column="66" />
+        <mark key="^" line="76" column="66" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" timestamp="1501871768519">
         <mark key="[" line="2469" column="0" />
@@ -141,6 +141,7 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="30" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/brobj/BrDocPosition.java" timestamp="1502100982207" />
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/brobj/PlmSearchQuery.java" timestamp="1501696091672">
         <mark key="'" line="421" column="6" />
       </file>
@@ -159,7 +160,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1502098041780">
         <mark key="'" line="601" column="14" />
       </file>
-      <file name="/fragment.java" timestamp="1502098171879">
+      <file name="/fragment.java" timestamp="1502100922415">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="." line="0" column="20" />
@@ -269,11 +270,11 @@
       <jump line="2779" column="21" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/brobj/BrDocument.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ObrObject</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>ObrObject</text>
+        <text>POS_NO</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWxlTmFtZVw+</text>
@@ -282,37 +283,65 @@
         <text encoding="base64">ICAgIGVjaG8gWlpaICVqcGVkRmlsZSUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRzZC5hZGRPYmplY3RDaG9pY2UocGxtRG9jdW1lbnQpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFsbE9ick9iamVjdC4K</text>
+      <register name="2" type="4">
+        <text>ObrProperty obrProperty = addObrProperty(new ObrProperty(&quot;kfef&quot;, &quot;fefe&quot;, &quot;fefef&quot;));
+    obrProperty.setVisible(true);
+    obrProperty.setWidth(5);</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdHNkLnNldFZpc2libGUodHJ1ZSk7Cg==</text>
+      <register name="3" type="4">
+        <text>prp = addObrProperty(new ObrProperty(QUANT, Dic.get(&quot;plm.brobj.0011&quot;), &quot;&quot;, true, false));
+    prp.setWidth(7);
+    prp.setEditLength(7);
+
+    prp = addObrProperty(new ObrProperty(SORT_STRING, Dic.get(&quot;plm.brobj.219&quot;, &quot;Sort string&quot;), &quot;&quot;, true, false));
+    prp.setWidth(7);
+    prp.setEditLength(7);
+
+    prp = addObrProperty(new ObrProperty(POTX1, Dic.get(&quot;plm.brobj.postxt1&quot;, &quot;Item text 1&quot;), &quot;&quot;, true, false));
+    prp.setWidth(40);
+    prp.setEditLength(40);
+
+    prp = addObrProperty(new ObrProperty(POTX2, Dic.get(&quot;plm.brobj.postxt2&quot;, &quot;Item text 2&quot;), &quot;&quot;, true, false));
+    prp.setWidth(40);
+    prp.setEditLength(40);
+
+    prp = addObrProperty(new ObrProperty(LOAD_CONFIG_PROP, Dic.get(&quot;LOAD_CONFIG_PROP&quot;, &quot;changed loadoptions&quot;), &quot;&quot;, true, false));
+    prp.setWidth(20);
+    prp.setEditLength(20);
+
+    prp = addObrProperty(new ObrProperty(LOAD_OPTION_PROP, Dic.get(&quot;LOAD_OPTION_PROP&quot;, &quot;load configuration&quot;), &quot;&quot;, true, false));
+    prp.setWidth(20);
+    prp.setEditLength(20);
+
+    prp = addObrProperty(new ObrProperty(NOT_LOAD_PROP, Dic.get(&quot;NOT_LOAD_PROP&quot;, &quot;load&quot;), VAL_LOAD_IN_CAD, true, false));
+    prp.setWidth(11);
+    prp.setEditLength(11);</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdHNkLnVwZGF0ZURpc3BsYXkoKTsKICAgICAgdHNkLnBhY2soKTsKICAgICAgdHNkLnNldExvY2F0aW9uKCk7CiAgICAgIHRzZC5zZXRWaXNpYmxlKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgIG9iclByb3BlcnR5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFkZE9iclByb3BlcnR5KG5ldyBPYnJQcm9wZXJ0eSgpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYWxsT2JyT2JqZWN0IGluc3RhbmNlb2YgQnJEb2N1bWVudCkgewogICAgICAgICAgQnJEb2N1bWVudCBicmRvYyA9IChCckRvY3VtZW50KSBhbGxPYnJPYmplY3Q7CiAgICAgICAgICBQbG1Eb2N1bWVudCBwbG1Eb2N1bWVudCA9IGJyZG9jLmdldFBsbURvY3VtZW50KCk7CiAgICAgICAgICBwbG1Eb2N1bWVudHMuYWRkKHBsbURvY3VtZW50KTsKCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRzZC5hZGRPYmplY3RDaG9pY2UocGxtRG9jdW1lbnQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgTGlzdDxQbG1Eb2N1bWVudD4gcGxtRG9jdW1lbnRzID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFsbE9ick9iamVjdC4K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgVGFibGVTZWxlY3Rpb25EaWFsb2cgdGFibGVTZWxlY3Rpb25EaWFsb2cgPSBuZXcgVGFibGVTZWxlY3Rpb25EaWFsb2cocGFyZW50LCB0cnVlLCB0cnVlLCB0cnVlLCB0cnVlLCB0cnVlLHRydWUgKTsK</text>
+        <text encoding="base64">ICAgICAgdHNkLnNldFZpc2libGUodHJ1ZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgRnJhbWUgcGFyZW50ID0gUGxtU2Vzc2lvbk1hbmFnZXIuZ2V0SW5zdCgpLmdldE9iamVjdE1hbmFnZXJHdWkoKTsK</text>
+        <text encoding="base64">ICAgICAgdHNkLnVwZGF0ZURpc3BsYXkoKTsKICAgICAgdHNkLnBhY2soKTsKICAgICAgdHNkLnNldExvY2F0aW9uKCk7CiAgICAgIHRzZC5zZXRWaXNpYmxlKHRydWUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
