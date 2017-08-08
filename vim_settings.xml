@@ -42,7 +42,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1502212280115">
+      <file name="/a.dummy" timestamp="1502215629252">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/brobj/MeyDefaultBrowseObject.java" timestamp="1502183688142">
@@ -68,18 +68,18 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" timestamp="1502213677155">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" timestamp="1502217578162">
         <mark key="'" line="82" column="16" />
-        <mark key="[" line="55" column="7" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="54" column="7" />
+        <mark key="[" line="123" column="76" />
+        <mark key="]" line="123" column="94" />
+        <mark key="." line="123" column="94" />
+        <mark key="^" line="123" column="94" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weberdillenburg/brobj/BrRes8Document.java" timestamp="1502105470297" />
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/gui/browser/components/actions/OpenAction.java" timestamp="1502119156830">
         <mark key="'" line="92" column="38" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1502203918620">
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1502216045726">
         <mark key="a" line="77" column="0" />
         <mark key="b" line="77" column="0" />
         <mark key="c" line="76" column="74" />
@@ -164,6 +164,7 @@
         <mark key="." line="656" column="36" />
         <mark key="^" line="656" column="36" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/brobj/BrClassifiedObject.java" timestamp="1502214878150" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/brobj/fefe.java" timestamp="1502123393746">
         <mark key="[" line="11" column="13" />
         <mark key="]" line="11" column="13" />
@@ -227,11 +228,11 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" timestamp="1502180984480">
         <mark key="'" line="141" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1502211920377">
+      <file name="/fragment.java" timestamp="1502216498043">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="15" />
-        <mark key="." line="0" column="15" />
-        <mark key="^" line="0" column="15" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -338,49 +339,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZS5zZQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.filter(Objects::nonNull).</text>
+        <text>OUT_DOCUMENTS_BAD</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcm9wZXJ0eUtleVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>myResDocuments</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFZlY3RvcjxQbG1Eb2N1bWVudD4gdl9iYWQgPSBkY0JhY2suZ2V0T2JqZWN0KFBvcERvY0NoYW5nZU11bHRpLk9VVF9ET0NVTUVOVFNfQkFEKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZS5zZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgQ29sbGVjdGlvbjxCckRvY3VtZW50PiBzZWxlY3RlZERvY3VtZW50cyA9IE9tZlV0aWxzLmdldE11bHRpU2VsZWN0ZWRPYmplY3RzKEJyRG9jdW1lbnQuY2xhc3MsIGV2ZW50KTsK</text>
+        <text encoding="base64">ICAgICAgcmVzOERvY3VtZW50cwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVycm9yRGlhbG9nLgo=</text>
+        <text encoding="base64">ICAgICAgICB0c2Quc2UK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Lm1hcChlIC0+IHsKICAgICAgCiAgICB9KQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJlczhEb2N1bWVudHMgPSBudWxsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIG51bGw7Cg==</text>
+        <text encoding="base64">ICAgIFZlY3RvcjxQbG1Eb2N1bWVudD4gdl9iYWQyID0gZGNCYWNrLmdldE9iamVjdChQb3BEb2NDaGFuZ2VNdWx0aS5JTl9ET0NVTUVOVFMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKChCckZvbGRlcikgZSkuZ2V0UGxtRm9sZGVyKCkudG9QbG1Eb2MoZmFsc2UpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGUgaW5zdGFuY2VvZiBCckZvbGRlcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKChCckRvY3VtZW50KSBlKS5nZXRQbG1Eb2N1bWVudCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGUgaW5zdGFuY2VvZiBCckRvY3VtZW50KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
