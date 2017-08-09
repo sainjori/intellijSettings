@@ -12,9 +12,6 @@
         <mark key="." line="44" column="86" />
         <mark key="^" line="44" column="81" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/utils/OmfUtils.java" timestamp="1502212632060">
-        <mark key="'" line="171" column="52" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/DoWorkProcess.java" timestamp="1502105753789">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="42" />
@@ -60,9 +57,6 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/AddComponentDialog.java" timestamp="1502131445625">
-        <mark key="'" line="180" column="44" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/proc/PlmMultiDetailProcessFast.java" timestamp="1502206141020" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/resources/META-INF/services/cadagent.gui.obr.PropertyToSapService" timestamp="1502118986336">
         <mark key="[" line="0" column="18" />
@@ -70,16 +64,14 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" timestamp="1502287183811">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" timestamp="1502292160054">
         <mark key="'" line="52" column="12" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
+        <mark key="[" line="160" column="4" />
+        <mark key="]" line="121" column="33" />
+        <mark key="." line="121" column="33" />
+        <mark key="^" line="121" column="33" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weberdillenburg/brobj/BrRes8Document.java" timestamp="1502105470297" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/gui/browser/components/actions/OpenAction.java" timestamp="1502119156830">
-        <mark key="'" line="92" column="38" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/proc/doc/ProcessDocMultiCheckOutFast.java" timestamp="1502205652404" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weberdillenburg/brobj/BrWeberDocument.java" timestamp="1502105450616">
         <mark key="[" line="13" column="13" />
@@ -103,29 +95,17 @@
         <mark key="^" line="2501" column="50" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/proc/BaseProcess.java" timestamp="1502105915014" />
-      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/swing/table/TableCellEditor.java" timestamp="1502111462444">
-        <mark key="'" line="68" column="14" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/browser/components/properties/EcmDisplayProperty.java" timestamp="1502287855602" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/search/gui/ResultTable.java" timestamp="1501762813077">
-        <mark key="'" line="179" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/gui/browser/components/widgets/ObrPropertyTableCellEditor.java" timestamp="1502113459641" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/gui/browser/components/widgets/ObrPropertyTableCellEditor.java" timestamp="1502292214979" />
       <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/objmod/PlmFile.java" timestamp="1502205732654" />
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/utils/search/format/GSearchFormatSystemstatus.java" timestamp="1502268201778" />
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/brobj/BrDocPosition.java" timestamp="1502186241958" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/browser/components/widgets/ClassificationTableCellEditor.java" timestamp="1502113238634" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/brobj/PlmSearchQuery.java" timestamp="1501696091672">
-        <mark key="'" line="421" column="6" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/brobj/MyObrObject.java" timestamp="1502121179579">
         <mark key="[" line="29" column="25" />
         <mark key="]" line="30" column="22" />
         <mark key="." line="30" column="22" />
         <mark key="^" line="30" column="22" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/omf/OmfChecktableMaintain.java" timestamp="1502134416852">
-        <mark key="'" line="243" column="11" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfPsmDeleteVariant.java" timestamp="1502283379024">
         <mark key="'" line="71" column="5" />
@@ -144,16 +124,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/gui/browser/components/actions/F4HelpRunner.java" timestamp="1502194590358">
         <mark key="'" line="64" column="21" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/base/java/src/cadagent/gui/obr/ObrPropertyUtils.java" timestamp="1502113746425">
-        <mark key="'" line="79" column="48" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/objmod/PlmDocument.java" timestamp="1502183027960" />
-      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/Window.java" timestamp="1502131463337">
-        <mark key="'" line="1162" column="9" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.2/base-5.1.7.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1501762726127">
-        <mark key="'" line="638" column="14" />
-      </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/basis/config/system-default.txt" timestamp="1502106627923">
         <mark key="[" line="669" column="29" />
         <mark key="]" line="656" column="36" />
@@ -168,18 +139,19 @@
         <mark key="." line="11" column="13" />
         <mark key="^" line="20" column="1" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/browser/components/widgets/ObrPropertyTableCellEditor.java" timestamp="1502288032440">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/browser/components/widgets/ObrPropertyTableCellEditor.java" timestamp="1502292012621">
         <mark key="'" line="58" column="23" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/modules/acm/gui/AccF4Helper.java" timestamp="1502181560931">
         <mark key="'" line="113" column="26" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/core/base/java/src/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1502097520764" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/brobj/BrRes8Document.java" timestamp="1502289410214">
-        <mark key="[" line="19" column="0" />
-        <mark key="m" line="32" column="72" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/brobj/BrRes8Document.java" timestamp="1502291623324">
+        <mark key="[" line="50" column="45" />
+        <mark key="m" line="34" column="72" />
+        <mark key="]" line="50" column="45" />
+        <mark key="^" line="50" column="45" />
+        <mark key="." line="50" column="45" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/gui/TableSelectionMy.java" timestamp="1502116843350">
         <mark key="[" line="18" column="0" />
@@ -224,17 +196,11 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/omf/OmfDocDelete.java" timestamp="1502212884486" />
       <file name="C:/ENTWICKLUNG/java/workspaces/core/base/java/src/cadagent/gui/obr/ObrSelectionEvent.java" timestamp="1502275687301" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/search/SandvikSearchManager.java" timestamp="1501755880596">
-        <mark key="'" line="331" column="12" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7.1/sapbase-5.1.7.1-sources.jar!/cadagent/proc/doc/PopDocChangeMulti.java" timestamp="1502192043917">
         <mark key="'" line="190" column="9" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1502271957814">
         <mark key="'" line="243" column="9" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" timestamp="1502180984480">
-        <mark key="'" line="141" column="4" />
       </file>
       <file name="/fragment.java" timestamp="1502288767074">
         <mark key="[" line="0" column="0" />
@@ -347,10 +313,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIE9iclByb3BlcnR5VGFibGVDZWxsRWRpdG9yIGNlbGxFZGl0b3I7Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>res8Key</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wXD4=</text>
@@ -359,53 +325,37 @@
         <text encoding="base64">ICAgICAgICAgIHRzZC5zZXRTdGF0dXNMaW5lVGV4dCgKICAgICAgICAgICAgICBuZXcgU3RhdHVzTGluZVRleHQoRGljLmdldFRleHQoIndlYmVyLmFzc2lnbi5wcm9qZWN0LmVycm9yLnNlbGVjdGlvbi5udW1iZXIiLCAiUGxlYXNlIHNlbGVjdCBsZXNzIHRoYW4gMTAgZW50cmllcy4iKSwgU3RhdHVzTGluZVRleHQuTU9ERV9XQVJOSU5HKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIE9iclByb3BlcnR5VGFibGVDZWxsRWRpdG9yIGNlbGxFZGl0b3I7Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY2VsbEVkaXRvciA9IG9iclByb3BlcnR5VGFibGVDZWxsRWRpdG9yOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGlmIChzZXBlcmF0b3IgIT0gbnVsbCl7CiAgICB9</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIGNvbGxlY3QgPSBBcnJheXMuc3RyZWFtKHJlczhLZXkuc3BsaXQoIjsiKSkuY29sbGVjdChDb2xsZWN0b3JzLmpvaW5pbmcoc2VwZXJhdG9yKSk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IENvbXBvbmVudCBjdXJyZW50Q29tcG9uZW50ID0gb2JyUHJvcGVydHlUYWJsZUNlbGxFZGl0b3IuZ2V0Q3VycmVudENvbXBvbmVudCgpOwogICAgT2JqZWN0IGNlbGxFZGl0b3JWYWx1ZSA9IG9iclByb3BlcnR5VGFibGVDZWxsRWRpdG9yLmdldENlbGxFZGl0b3JWYWx1ZSgpOw==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFN0cmluZyBzZXBlcmF0b3IgPSBudWxsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgZCAK</text>
+        <text encoding="base64">ICAgIHBsbURvY3VtZW50LnNldFJlczgoY29sbGVjdCk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>JComponent displayComponent = prp.getDisplayComponent();
-    prp.setFormatter(new Format()
-    {
-      @Override
-      public StringBuffer format(Object obj, StringBuffer toAppendTo, FieldPosition pos)
-      {
-        System.out.println(&quot;fefe&quot;);
-        return null;
-      }
-
-      @Override
-      public Object parseObject(String source, ParsePosition pos)
-      {
-        System.out.println(&quot;ewfwf&quot;);
-        return null;
-      }
-    });</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBycC4K</text>
+        <text encoding="base64">ICAgIFN0cmluZyBjb2xsZWN0ID0gQXJyYXlzLnN0cmVhbShyZXM4S2V5LnNwbGl0KCI7IikpLmNvbGxlY3QoQ29sbGVjdG9ycy5qb2luaW5nKCIsIikpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG9iclByb3BlcnR5VGFibGVDZWxsRWRpdG9yLgo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyB2YWx1ZSA9IE9tZldlYmVyQXNzaWduUHJvamVjdC5QcmVmZXJlbmNlcy5VU0VEX1NFUEVSQVRPUi5nZXRWYWx1ZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
