@@ -119,12 +119,12 @@
         <mark key="'" line="113" column="26" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/core/base/java/src/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1502097520764" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/brobj/BrRes8Document.java" timestamp="1502371313328">
-        <mark key="[" line="33" column="0" />
-        <mark key="m" line="30" column="72" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="22" column="21" />
-        <mark key="." line="33" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/brobj/BrRes8Document.java" timestamp="1502375814664">
+        <mark key="[" line="51" column="103" />
+        <mark key="m" line="35" column="72" />
+        <mark key="]" line="52" column="26" />
+        <mark key="." line="52" column="26" />
+        <mark key="^" line="52" column="26" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/gui/TableSelectionMy.java" timestamp="1502116843350">
         <mark key="[" line="18" column="0" />
@@ -169,12 +169,12 @@
         <mark key="." line="75" column="59" />
         <mark key="^" line="75" column="59" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/WeberProcessAssignProject.java" timestamp="1502371484183">
-        <mark key="'" line="70" column="2" />
-        <mark key="[" line="73" column="3" />
-        <mark key="]" line="76" column="39" />
-        <mark key="^" line="76" column="39" />
-        <mark key="." line="76" column="39" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/WeberProcessAssignProject.java" timestamp="1502375745686">
+        <mark key="'" line="73" column="2" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="54" />
+        <mark key="^" line="94" column="74" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/utils/OmfUtils.java" timestamp="1502212632060">
         <mark key="'" line="171" column="52" />
@@ -338,7 +338,7 @@
         <mark key="^" line="19" column="27" />
         <mark key="." line="19" column="27" />
       </file>
-      <file name="/fragment.java" timestamp="1502359499301">
+      <file name="/fragment.java" timestamp="1502375540899">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -449,19 +449,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgTXlUYWJsZUNlbGxFZGl0b3IgbXlUYWJsZUNlbGxFZGl0b3IgPSBuZXcgTXlUYWJsZUNlbGxFZGl0b3IocHJwKTsK</text>
+        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>obj</text>
       </register>
-      <register name="0" type="4">
-        <text>data =</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgcGxtRG9jdW1lbnQuc2V0UmVzOChjb2xsZWN0KTsKICAgICAgcmV0dXJuOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgTXlUYWJsZUNlbGxFZGl0b3IgbXlUYWJsZUNlbGxFZGl0b3IgPSBuZXcgTXlUYWJsZUNlbGxFZGl0b3IocHJwKTsK</text>
+        <text encoding="base64">ICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -472,26 +472,26 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBFcnJvckRpYWxvZyBlcnJvckRpYWxvZyA9IEVycm9yRGlhbG9nLmdldEluc3RhbmNlKCk7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">aWYgKHJlczhLZXkuaW5kZXhPZigiLCIpID4gLTEpCiAgICB7CiAgICAgIFN0cmluZyBjb2xsZWN0ID0gQXJyYXlzLnN0cmVhbShyZXM4S2V5LnNwbGl0KCIsIikpLmNvbGxlY3QoQ29sbGVjdG9ycy5qb2luaW5nKCI7IikpOwogICAgICBwbG1Eb2N1bWVudC5zZXRSZXM4KGNvbGxlY3QpOwogICAgICByZXR1cm4gcGxtRG9jdW1lbnQ7CiAgICB9CiAgICB0cnkKICAgIHsKICAgICAgU3RyaW5nIHNlcGVyYXRvciA9IE9tZldlYmVyQXNzaWduUHJvamVjdC5QcmVmZXJlbmNlcy5VU0VEX1NFUEVSQVRPUi5nZXRWYWx1ZSgpOwogICAgICBpZiAocmVzOEtleS5pbmRleE9mKHNlcGVyYXRvcikgPiAtMSkKICAgICAgewogICAgICAgIFN0cmluZyBjb2xsZWN0ID0gQXJyYXlzLnN0cmVhbShyZXM4S2V5LnNwbGl0KHNlcGVyYXRvcikpLmNvbGxlY3QoQ29sbGVjdG9ycy5qb2luaW5nKCI7IikpOwogICAgICAgIHBsbURvY3VtZW50LnNldFJlczgoY29sbGVjdCk7CiAgICAgICAgcmV0dXJuIHBsbURvY3VtZW50OwogICAgICB9CiAgICB9CiAgICBjYXRjaCAoUHJlZmVyZW5jZU5vdEV4aXN0ZW50RXhjZXB0aW9uIGUpCiAgICB7CiAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICB9CiAgICByZXR1cm4gcGxtRG9jdW1lbnQ7</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIFN0cmluZyBzZXBlcmF0b3IgPSBudWxsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNhdGNoIChEZWZhdWx0TG9nRXhjZXB0aW9uIGUxKQogICAgewogICAgICBlMS5wcmludFN0YWNrVHJhY2UoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHJldHVybiBwbG1Eb2N1bWVudDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgTGlzdDxQbG1Eb2N1bWVudD4gb2JqZWN0ID0gZGF0YS5nZXRPYmplY3QoUExNX0RPQ1VNRU5UUyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgd3JpdGVCYWNrRGF0YShvYmplY3QpOwo=</text>
+        <text encoding="base64">ICAgIGlmIChyZXM4S2V5LmluZGV4T2Yoc2VwZXJhdG9yKSA+IC0xKQogICAgewogICAgICBTdHJpbmcgY29sbGVjdCA9IEFycmF5cy5zdHJlYW0ocmVzOEtleS5zcGxpdChzZXBlcmF0b3IpKS5jb2xsZWN0KENvbGxlY3RvcnMuam9pbmluZygiOyIpKTsKICAgICAgcGxtRG9jdW1lbnQuc2V0UmVzOChjb2xsZWN0KTsKICAgICAgcmV0dXJuIHBsbURvY3VtZW50OwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBjb2xsZWN0Owo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
