@@ -150,12 +150,12 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" timestamp="1502439444889">
         <mark key="'" line="141" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/WeberProcessAssignProject.java" timestamp="1502465800985">
-        <mark key="'" line="97" column="2" />
-        <mark key="[" line="60" column="31" />
-        <mark key="]" line="60" column="37" />
-        <mark key="." line="60" column="37" />
-        <mark key="^" line="60" column="37" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/WeberProcessAssignProject.java" timestamp="1502470296501">
+        <mark key="'" line="75" column="2" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="50" column="44" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/utils/OmfUtils.java" timestamp="1502212632060">
         <mark key="'" line="171" column="52" />
@@ -198,12 +198,11 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" timestamp="1502450755577">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" timestamp="1502469632087">
         <mark key="'" line="82" column="6" />
-        <mark key="[" line="78" column="54" />
-        <mark key="]" line="69" column="6" />
-        <mark key="^" line="69" column="6" />
-        <mark key="." line="69" column="6" />
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weberdillenburg/brobj/BrRes8Document.java" timestamp="1502105470297" />
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/gui/browser/components/actions/OpenAction.java" timestamp="1502119156830">
@@ -222,7 +221,7 @@
         <mark key="'" line="68" column="14" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/gui/browser/components/widgets/ObrPropertyTableCellEditor.java" timestamp="1502294085949" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/cfc/gfx/GxButton.java" timestamp="1502457980641" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/cfc/gfx/GxButton.java" timestamp="1502468658087" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/browser/components/widgets/ClassificationTableCellEditor.java" timestamp="1502113238634" />
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/brobj/PlmSearchQuery.java" timestamp="1501696091672">
         <mark key="'" line="421" column="6" />
@@ -260,7 +259,7 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1502299523088" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/pref/ObrPreferenceEditor.java" timestamp="1502131370743" />
-      <file name="/Dummy.txt" timestamp="1502464639878">
+      <file name="/Dummy.txt" timestamp="1502467150498">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -382,10 +381,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYm9vbGVhbiByZXN1bHQgPSBkaWFsb2dCb3guZ2V0UmVzdWx0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Dialogbox dialogBox</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxidE9LXD4=</text>
@@ -394,39 +393,37 @@
         <text encoding="base64">ICAgIG9rQnV0dG9uLnNldEFjdGlvbkNvbW1hbmQoImNsb3NlQW5kQ29uZmlybSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYm9vbGVhbiByZXN1bHQgPSBkaWFsb2dCb3guZ2V0UmVzdWx0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>else {
-      dialogBox.setVisible(false);
-    }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIERpYWxvZ2JveCBkaWFsb2dCb3ggPSBnZXREaWFsb2dCb3goKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG9rQnV0dG9uLmFkZEFjdGlvbkxpc3RlbmVyKG5ldyBTaG93RGlhbG9nKGRpYWxvZ0JveCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG9rQnV0dG9uLnNldEFjdGlvbkNvbW1hbmQoImNsb3NlQW5kQ29uZmlybSIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW4gc2hvd0RpYWxvZ0FnYWluID0gZmFsc2U7ZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgIHRzZC5za2lwT2tCdXR0b24oKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRzZC5zZXRWaXNpYmxlKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgIHRzZC5hZGRBZGRpdGlvbmFsQnV0dG9uKG9rQnV0dG9uLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRzZC5zZXRWaXNpYmxlKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgIG9rQnV0dG9uLmFkZEFjdGlvbkxpc3RlbmVyKHNob3dEaWFsb2dMaXN0ZW5lcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
