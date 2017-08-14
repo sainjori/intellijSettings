@@ -130,7 +130,8 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" timestamp="1502439444889">
         <mark key="'" line="141" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1502718646748">
+      <file name="$MAVEN_REPOSITORY$/io/dropwizard/dropwizard-configuration/1.0.2/dropwizard-configuration-1.0.2-sources.jar!/io/dropwizard/configuration/FileConfigurationSourceProvider.java" timestamp="1502728785143" />
+      <file name="/fragment.java" timestamp="1502729241423">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -243,11 +244,11 @@
       <jump line="44" column="49" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>new File(&quot;.&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>Arrays.asList(&quot;aaaa&quot;, &quot;bbbb&quot;, &quot;ccccc&quot;, &quot;ddddd&quot;, &quot;Tests32&quot;, &quot;Test1&quot;, &quot;Tests32&quot;, &quot;Test1&quot;, &quot;Tests32&quot;, &quot;Test1&quot;, &quot;fafef&quot;));</text>
+        <text>new File(&quot;.&quot;)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0c2RcPg==</text>
