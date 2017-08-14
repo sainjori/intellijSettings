@@ -71,11 +71,11 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" timestamp="1502439444889">
         <mark key="'" line="141" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/WeberProcessAssignProject.java" timestamp="1502710112715">
-        <mark key="[" line="94" column="13" />
-        <mark key="]" line="94" column="18" />
-        <mark key="." line="94" column="18" />
-        <mark key="^" line="94" column="18" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/WeberProcessAssignProject.java" timestamp="1502714799741">
+        <mark key="[" line="73" column="35" />
+        <mark key="]" line="90" column="28" />
+        <mark key="." line="90" column="28" />
+        <mark key="^" line="90" column="28" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/utils/OmfUtils.java" timestamp="1502212632060">
         <mark key="'" line="171" column="52" />
@@ -136,7 +136,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/gui/browser/components/services/F4HelpServices.java" timestamp="1502286626827">
         <mark key="'" line="224" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1502709690052">
+      <file name="/fragment.java" timestamp="1502714604972">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -247,49 +247,50 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bDouble</text>
+        <text>getDimensionFromPref</text>
       </register>
       <register name="-" type="4">
-        <text>bDouble</text>
+        <text>getDimensionFromPref</text>
       </register>
       <register name="/" type="4">
         <text>getUser</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG9wdGlvbmFscy5hZGQocHJlZk9iamVjdDFPcHQpOwo=</text>
+        <text encoding="base64">ICAgICAgY2FkYWdlbnQuY2ZjLnByZWYuUHJlZmVyZW5jZXMuc2V0VXNlclZhbHVlKCJ3ZWJlci5hc3NpZ24ucHJvamVjdC5zZXQuc2NyZWVuLmxvY2F0aW9uLnkiLCB0c2QuZ2V0TG9jYXRpb24oKS55KTsKICAgICAgY2FkYWdlbnQuY2ZjLnByZWYuUHJlZmVyZW5jZXMuc2V0VXNlclZhbHVlKCJ3ZWJlci5hc3NpZ24ucHJvamVjdC5zZXQuc2NyZWVuLmxvY2F0aW9uLngiLCB0c2QuZ2V0TG9jYXRpb24oKS54KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZG91YmxlIHYgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaW50IGhlaWdodCA9IEludGVnZXIucGFyc2VJbnQoczEpOwo=</text>
+      <register name="4" type="4">
+        <text>else {
+    }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYURvdWJsZS5pbnRWYWx1ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgdHMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgRG91YmxlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdi4K</text>
+        <text encoding="base64">ICAgIHRzZC5zZXRMb2NhdGlvbigpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgRG91YmxlLnAK</text>
+        <text encoding="base64">ICAgIFBvaW50IGxvY2F0aW9uID0gZ2V0TG9jYXRpb25Gcm9tUHJlZigpIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgSW50ZWdlci52Cg==</text>
+        <text encoding="base64">ICAgIFByZWZlcmVuY2VzLnNldFVzZXJWYWx1ZSgid2ViZXIuYXNzaWduLnByb2plY3Quc2V0LnNjcmVlbi5sb2NhdGlvbi54IiwgdHNkLmdldExvY2F0aW9uKCkueCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
