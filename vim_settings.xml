@@ -14,16 +14,7 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1502447099452">
-        <mark key="a" line="77" column="0" />
-        <mark key="b" line="77" column="0" />
-        <mark key="c" line="76" column="74" />
-        <mark key="'" line="100" column="33" />
-        <mark key="[" line="0" column="0" />
-        <mark key="m" line="75" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/core/base/java/src/cadagent/gui/obr/dlg/DialogUtils.java" timestamp="1502717275543" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/search/gui/ResultTable.java" timestamp="1501762813077">
         <mark key="'" line="179" column="0" />
       </file>
@@ -39,8 +30,8 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/core/base/java/src/cadagent/gui/obr/ObrPropertyUtils.java" timestamp="1502113746425">
         <mark key="'" line="79" column="48" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/Window.java" timestamp="1502131463337">
-        <mark key="'" line="1162" column="9" />
+      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/Window.java" timestamp="1502716192453">
+        <mark key="'" line="1774" column="29" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/convert.bat" timestamp="1502699183294" />
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/modules/acm/gui/AccF4Helper.java" timestamp="1502181560931">
@@ -71,11 +62,11 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" timestamp="1502439444889">
         <mark key="'" line="141" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/WeberProcessAssignProject.java" timestamp="1502714799741">
-        <mark key="[" line="73" column="35" />
-        <mark key="]" line="90" column="28" />
-        <mark key="." line="90" column="28" />
-        <mark key="^" line="90" column="28" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/WeberProcessAssignProject.java" timestamp="1502717311386">
+        <mark key="[" line="80" column="55" />
+        <mark key="]" line="80" column="54" />
+        <mark key="." line="80" column="54" />
+        <mark key="^" line="80" column="54" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/utils/OmfUtils.java" timestamp="1502212632060">
         <mark key="'" line="171" column="52" />
@@ -125,9 +116,10 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/browser/components/widgets/ObrPropertyTableCellEditor.java" timestamp="1502293537361">
         <mark key="'" line="58" column="23" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/utils/PlmClassificationUtils.java" timestamp="1502299008121">
+      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/utils/PlmClassificationUtils.java" timestamp="1502715776974">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/DialogUtils.java" timestamp="1502716587349" />
       <file name="/Dummy.txt" timestamp="1502708528844">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
@@ -144,7 +136,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" />
       <jump line="65" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" />
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" />
       <jump line="180" column="44" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/AddComponentDialog.java" />
@@ -244,53 +235,61 @@
       <jump line="1217" column="25" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="1219" column="18" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="76" column="11" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/brobj/WeberRes8BrDocument.java" />
+      <jump line="1774" column="29" filename="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/Window.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getDimensionFromPref</text>
+        <text>Point location =</text>
       </register>
       <register name="-" type="4">
-        <text>getDimensionFromPref</text>
+        <text>Point location =</text>
       </register>
       <register name="/" type="4">
         <text>getUser</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY2FkYWdlbnQuY2ZjLnByZWYuUHJlZmVyZW5jZXMuc2V0VXNlclZhbHVlKCJ3ZWJlci5hc3NpZ24ucHJvamVjdC5zZXQuc2NyZWVuLmxvY2F0aW9uLnkiLCB0c2QuZ2V0TG9jYXRpb24oKS55KTsKICAgICAgY2FkYWdlbnQuY2ZjLnByZWYuUHJlZmVyZW5jZXMuc2V0VXNlclZhbHVlKCJ3ZWJlci5hc3NpZ24ucHJvamVjdC5zZXQuc2NyZWVuLmxvY2F0aW9uLngiLCB0c2QuZ2V0TG9jYXRpb24oKS54KTsK</text>
+        <text encoding="base64">ICAgIFBvaW50IGxvY2F0aW9uID0gdHNkLmdldExvY2F0aW9uKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFByZWZlcmVuY2VzLnNldFVzZXJWYWx1ZSgid2ViZXIuYXNzaWduLnByb2plY3Quc2V0LnNjcmVlbi5sb2NhdGlvbiIsIHRzZC5nZXRMb2NhdGlvbigpLnkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIERpYWxvZ1V0aWxzLmQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgdHNkLmFkZENvbnRhaW5lckxpc3RlbmVyKG5ldyBDb250YWluZXJBZGFwdGVyKCkKICAgewogICB9KTsK</text>
       </register>
       <register name="4" type="4">
-        <text>else {
-    }</text>
+        <text>tsd.addWindowListener(new WindowAdapter()
+    {
+      @Override
+      public void windowClosed(WindowEvent e)
+      {
+        super.windowClosed(e);
+        DialogUtils.setLocation(tsd, &quot;weber.assign.project.set.screen.location&quot;);
+      }
+    });</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdHMK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlci53aW5kb3dDbG9zZWQoZSk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRzZC5zZXRMb2NhdGlvbigpOwo=</text>
+        <text encoding="base64">ICAgIHRzZC5nZXQK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFBvaW50IGxvY2F0aW9uID0gZ2V0TG9jYXRpb25Gcm9tUHJlZigpIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFByZWZlcmVuY2VzLnNldFVzZXJWYWx1ZSgid2ViZXIuYXNzaWduLnByb2plY3Quc2V0LnNjcmVlbi5sb2NhdGlvbi54IiwgdHNkLmdldExvY2F0aW9uKCkueCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
