@@ -6,20 +6,8 @@
       <mark key="I" line="25" column="4" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/convert.bat" />
     </globalmarks>
     <filemarks>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/DoWorkProcess.java" timestamp="1502105753789">
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="12" column="42" />
-        <mark key="." line="12" column="42" />
-        <mark key="^" line="12" column="42" />
-      </file>
       <file name="/a.dummy" timestamp="1502458709443">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/brobj/MeyDefaultBrowseObject.java" timestamp="1502183688142">
-        <mark key="[" line="40" column="63" />
-        <mark key="]" line="40" column="12" />
-        <mark key="^" line="40" column="12" />
-        <mark key="." line="40" column="12" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap/modules/convert/pom.xml" timestamp="1499960579941">
         <mark key="[" line="56" column="0" />
@@ -39,12 +27,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/search/gui/ResultTable.java" timestamp="1501762813077">
         <mark key="'" line="179" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/brobj/MyObrObject.java" timestamp="1502121179579">
-        <mark key="[" line="29" column="25" />
-        <mark key="]" line="30" column="22" />
-        <mark key="." line="30" column="22" />
-        <mark key="^" line="30" column="22" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/omf/OmfChecktableMaintain.java" timestamp="1502134416852">
         <mark key="'" line="243" column="11" />
       </file>
@@ -60,38 +42,19 @@
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/Window.java" timestamp="1502131463337">
         <mark key="'" line="1162" column="9" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/basis/config/system-default.txt" timestamp="1502106627923">
-        <mark key="[" line="669" column="29" />
-        <mark key="]" line="656" column="36" />
-        <mark key="." line="656" column="36" />
-        <mark key="^" line="656" column="36" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/convert.bat" timestamp="1502699183294" />
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/modules/acm/gui/AccF4Helper.java" timestamp="1502181560931">
         <mark key="'" line="113" column="26" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/gui/TableSelectionMy.java" timestamp="1502116843350">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="16" column="25" />
-        <mark key="." line="18" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weberdillenburg/proc/Testing.java" timestamp="1501761015489">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="12" column="13" />
         <mark key="." line="12" column="13" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/brobj/myObrObject.java" timestamp="1502117560626">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="32" column="1" />
-        <mark key="^" line="32" column="1" />
-        <mark key="." line="32" column="1" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/service/kkfe.java" timestamp="1502182288606">
-        <mark key="[" line="12" column="13" />
-        <mark key="]" line="12" column="13" />
-        <mark key="." line="12" column="13" />
-        <mark key="^" line="29" column="37" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/brobj/WeberRes8BrDocument.java" timestamp="1502703911761">
+        <mark key="]" line="23" column="16" />
+        <mark key="." line="23" column="16" />
+        <mark key="^" line="23" column="16" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/search/SandvikSearchManager.java" timestamp="1501755880596">
         <mark key="'" line="331" column="12" />
@@ -108,12 +71,11 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" timestamp="1502439444889">
         <mark key="'" line="141" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/WeberProcessAssignProject.java" timestamp="1502699903069">
-        <mark key="'" line="75" column="2" />
-        <mark key="[" line="122" column="5" />
-        <mark key="]" line="51" column="20" />
-        <mark key="^" line="51" column="20" />
-        <mark key="." line="51" column="20" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/WeberProcessAssignProject.java" timestamp="1502710112715">
+        <mark key="[" line="94" column="13" />
+        <mark key="]" line="94" column="18" />
+        <mark key="." line="94" column="18" />
+        <mark key="^" line="94" column="18" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/utils/OmfUtils.java" timestamp="1502212632060">
         <mark key="'" line="171" column="52" />
@@ -128,12 +90,6 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1502439474787">
         <mark key="'" line="242" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/WeberProcessProjectGet.java" timestamp="1502381985403">
-        <mark key="[" line="45" column="164" />
-        <mark key="]" line="46" column="2" />
-        <mark key="^" line="46" column="2" />
-        <mark key="." line="46" column="2" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/jfefe.java" timestamp="1502114415396">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -141,12 +97,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/AddComponentDialog.java" timestamp="1502131445625">
         <mark key="'" line="180" column="44" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/resources/META-INF/services/cadagent.gui.obr.PropertyToSapService" timestamp="1502118986336">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="18" />
-        <mark key="." line="0" column="18" />
-        <mark key="^" line="0" column="18" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" timestamp="1502699803398">
         <mark key="'" line="82" column="6" />
@@ -156,12 +106,6 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/gui/browser/components/actions/OpenAction.java" timestamp="1502119156830">
         <mark key="'" line="92" column="38" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weberdillenburg/brobj/BrWeberDocument.java" timestamp="1502105450616">
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="25" />
-        <mark key="^" line="13" column="25" />
-        <mark key="." line="13" column="25" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/swing/table/TableCellEditor.java" timestamp="1502111462444">
         <mark key="'" line="68" column="14" />
@@ -178,19 +122,13 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.2/base-5.1.7.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1501762726127">
         <mark key="'" line="638" column="14" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/brobj/fefe.java" timestamp="1502123393746">
-        <mark key="[" line="11" column="13" />
-        <mark key="]" line="11" column="13" />
-        <mark key="." line="11" column="13" />
-        <mark key="^" line="20" column="1" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/browser/components/widgets/ObrPropertyTableCellEditor.java" timestamp="1502293537361">
         <mark key="'" line="58" column="23" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/utils/PlmClassificationUtils.java" timestamp="1502299008121">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502474968188">
+      <file name="/Dummy.txt" timestamp="1502708528844">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -198,7 +136,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/gui/browser/components/services/F4HelpServices.java" timestamp="1502286626827">
         <mark key="'" line="224" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1502459209649">
+      <file name="/fragment.java" timestamp="1502709690052">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -309,58 +247,58 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>bDouble</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>bDouble</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbGRSZXM4XD4=</text>
+        <text>getUser</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgd2ViZXJSZXM4QnJEb2N1bWVudC5nZXRPbGRWYWx1ZSgpCg==</text>
+        <text encoding="base64">ICAgIG9wdGlvbmFscy5hZGQocHJlZk9iamVjdDFPcHQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgT2JqZWN0IG5ld1ZhbHVlID0gbmV3VmFsdWUxOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgT2JqZWN0IG9sZFZhbHVlID0gb2xkVmFsdWUxOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJyUmVzOERvY3VtZW50TGlzdAo=</text>
+        <text encoding="base64">ICAgICAgZG91YmxlIHYgPSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwdWJsaWMgCg==</text>
+        <text encoding="base64">ICAgICAgaW50IGhlaWdodCA9IEludGVnZXIucGFyc2VJbnQoczEpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAT3ZlcnJpZGUK</text>
+        <text encoding="base64">ICAgICAgYURvdWJsZS5pbnRWYWx1ZSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFdlYmVyUHJvY2Vzc0Fzc2lnblByb2plY3QudHNkLnVwZGF0ZURpc3BsYXkoKTsK</text>
+        <text encoding="base64">ICAgICAgRG91YmxlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgdi4K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgRG91YmxlLnAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgSW50ZWdlci52Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbGRSZXM4XD4=</last-search>
+      <last-search>getUser</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbGRSZXM4XD4=</last-pattern>
+      <last-pattern>getUser</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>import</last-substitute>
       <last-dir>1</last-dir>
@@ -368,7 +306,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxrYkxpc3RlbmVyQWRkZWRcPg==</entry>
         <entry>cellrendere</entry>
         <entry encoding="base64">XDxwcm9jZXNzRjRIZWxwQWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxXZWJlclByb2Nlc3NGNEhlbHBlclw+</entry>
@@ -388,6 +325,7 @@
         <entry encoding="base64">XDxkYm9JbmRpY2F0aW9uTmFtZVw+</entry>
         <entry encoding="base64">XDxidE9LXD4=</entry>
         <entry encoding="base64">XDxvbGRSZXM4XD4=</entry>
+        <entry>getUser</entry>
       </history-search>
       <history-cmd>
         <entry>3,.</entry>
