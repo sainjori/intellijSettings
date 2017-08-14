@@ -52,7 +52,9 @@
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="GotoChangedFile" />
-  <action id="GotoClass" />
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="ctrl e" />
     <mouse-shortcut keystroke="control button1" />
