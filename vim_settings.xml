@@ -28,6 +28,9 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1502439474787">
         <mark key="'" line="242" column="4" />
       </file>
+      <file name="/RegExp Fragment (OmfWeberAssignProject.java:3905).regexp" timestamp="1502808877131">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/WeberProcessProjectGet.java" timestamp="1502800756639">
         <mark key="[" line="53" column="3" />
         <mark key="]" line="53" column="3" />
@@ -37,7 +40,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.2/base-5.1.7.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1501762726127">
         <mark key="'" line="638" column="14" />
       </file>
-      <file name="/a.dummy" timestamp="1502720340760">
+      <file name="/a.dummy" timestamp="1502810438066">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/jfefe.java" timestamp="1502114415396">
@@ -60,12 +63,12 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/AddComponentDialog.java" timestamp="1502131445625">
         <mark key="'" line="180" column="44" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" timestamp="1502807005319">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="50" column="33" />
-        <mark key="]" line="50" column="33" />
-        <mark key="^" line="50" column="33" />
-        <mark key="." line="50" column="33" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" timestamp="1502809224768">
+        <mark key="'" line="71" column="30" />
+        <mark key="[" line="127" column="66" />
+        <mark key="]" line="129" column="22" />
+        <mark key="^" line="129" column="22" />
+        <mark key="." line="129" column="22" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weberdillenburg/proc/Testing.java" timestamp="1501761015489">
         <mark key="[" line="12" column="13" />
@@ -84,7 +87,7 @@
         <mark key="." line="0" column="2" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/brobj/WeberDefaultBrowseObject.java" timestamp="1502794687564">
-        <mark key="'" line="34" column="98" />
+        <mark key="'" line="33" column="98" />
         <mark key="[" line="18" column="23" />
         <mark key="]" line="18" column="33" />
         <mark key="." line="18" column="33" />
@@ -96,11 +99,11 @@
         <mark key="^" line="2504" column="0" />
         <mark key="." line="2502" column="45" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/brobj/WeberRes8BrDocument.java" timestamp="1502796356080">
-        <mark key="[" line="24" column="44" />
-        <mark key="]" line="24" column="54" />
-        <mark key="^" line="24" column="54" />
-        <mark key="." line="24" column="54" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/brobj/WeberRes8BrDocument.java" timestamp="1502810551587">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="^" line="25" column="54" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/swing/table/TableCellEditor.java" timestamp="1502111462444">
         <mark key="'" line="68" column="14" />
@@ -142,7 +145,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" timestamp="1502439444889">
         <mark key="'" line="141" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1502807013501">
+      <file name="/fragment.java" timestamp="1502810333407">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -153,7 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" />
       <jump line="247" column="0" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
       <jump line="82" column="16" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" />
       <jump line="54" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" />
@@ -253,61 +255,62 @@
       <jump line="119" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" />
       <jump line="101" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" />
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" />
+      <jump line="71" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>return</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBTExPV0VEX0RPQ1RZUEVTXD4=</text>
+        <text encoding="base64">XDxQTE1fRE9DVU1FTlRTXD4=</text>
       </register>
       <register name="0" type="4">
         <text>weber.assign.project.allowed.doctypes</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgLy9zb3J0IG5hdHVyYWwgb3JkZXIuCi8vICAgIHNvcnQocHJvamVjdHNMaXN0KTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIHZvaWQgc2V0UGxtRG9jdW1lbnQoUGxtRG9jdW1lbnQgcGxtRG9jKQogIHsKICAgIHBsbURvY3VtZW50ID0gcGxtRG9jOwogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIExpc3Q8U3RyaW5nPiBzdHJpbmdzID0gQXJyYXlzLmFzTGlzdCgiZmVmIiwgImZlZmVmZSIsICJhZmVmZWYiLCAiYWZlZiIsICJmZmdnZSIsICJjY2NjIiwgImZmZmYiLCAibGxsbCIsICJvb29vIiwgImZmZmZmZmZmIiwgImFhYWFhIiwgInp6enp6IiwgImxsbGxmZWYiKTsK</text>
+        <text encoding="base64">ICBwcml2YXRlIFBsbURvY3VtZW50IHBsbURvY3VtZW50Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc2hvd0RpYWxvZ0FnYWluID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgIHBsbURvY3VtZW50Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGxtLnNlYXJjaC5GNC5oZWxwLmNsYXNzID0gd2ViZXIuc2VydmljZS5XZWJlclByb2Nlc3NGNEhlbHBlcgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIExpc3Q8U3RyaW5nPiBzdHJpbmdzID0gQXJyYXlzLmFzTGlzdCgiZmVmIiwgImZlZmVmZSIsICJhZmVmZWYiKTsK</text>
+        <text encoding="base64">ICAgIGNhdGNoIChFeGNlcHRpb24gZSkKICAgIHsKICAgICAgZXJyb3JEaWFsb2cuYWRkVGhyb3dhYmxlKGUpOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG8K</text>
+        <text encoding="base64">Ly8gICAgLy9zb3J0IG5hdHVyYWwgb3JkZXIuCi8vICAgIHNvcnQocHJvamVjdHNMaXN0KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIExpc3Q8U3RyaW5nPiBzdHJpbmdzID0gQXJyYXlzLmFzTGlzdCgiZmVmIiwgImZlZmVmZSIsICJhZmVmZWYiLCAiYWZlZiIsICJmZmdnZSIsICJjY2NjIiwgImZmZmYiLCAibGxsbCIsICJvb29vIiwgImZmZmZmZmZmIiwgImFhYWFhIiwgInp6enp6IiwgImxsbGxmZWYiKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBTExPV0VEX0RPQ1RZUEVTXD4=</last-search>
+      <last-search encoding="base64">XDxQTE1fRE9DVU1FTlRTXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBTExPV0VEX0RPQ1RZUEVTXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxQTE1fRE9DVU1FTlRTXD4=</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>import</last-substitute>
       <last-dir>1</last-dir>
@@ -315,7 +318,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtYXRUYWJsZVNlbGVjdGlvbkRpYWxvZ1w+</entry>
         <entry encoding="base64">XDxhZGRPYmplY3RDaG9pY2VcPg==</entry>
         <entry>crea</entry>
         <entry encoding="base64">XDx2ZWNPYnJTZWxlY3Rpb25DaGFuZ2VkTGlzdGVuZXJcPg==</entry>
@@ -335,6 +337,7 @@
         <entry encoding="base64">XDx0c2RcPg==</entry>
         <entry encoding="base64">XDxuYW1lXD4=</entry>
         <entry encoding="base64">XDxBTExPV0VEX0RPQ1RZUEVTXD4=</entry>
+        <entry encoding="base64">XDxQTE1fRE9DVU1FTlRTXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>3,.</entry>
