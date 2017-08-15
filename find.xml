@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '[weber-dillenburg] - ...\src\main\java\weber\proc\WeberProcessAssignProject.java'" />
+    <option name="defaultScopeName" value="File '[weber-dillenburg] - ...\src\main\java\weber\proc\WeberProcessAssignProject.java'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '[weber-dillenburg] - ...\src\main\java\weber\proc\WeberProcessAssignProject.java'" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
