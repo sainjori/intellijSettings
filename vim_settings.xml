@@ -48,7 +48,12 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/convert.bat" timestamp="1502880106946" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/convert.bat" timestamp="1502882062718">
+        <mark key="[" line="48" column="20" />
+        <mark key="]" line="48" column="20" />
+        <mark key="^" line="48" column="20" />
+        <mark key="." line="48" column="20" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/browser/components/widgets/ObrPropertyTableCellEditor.java" timestamp="1502293537361">
         <mark key="'" line="58" column="23" />
       </file>
@@ -251,50 +256,50 @@
       <jump line="71" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQTE1fRE9DVU1FTlRTXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>weber.assign.project.allowed.doctypes</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGVjaG8gYWFhICVwZGZGaWxlJQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gYmJiICFqcGVkRmlsZSEK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZvaWQgc2V0UGxtRG9jdW1lbnQoUGxtRG9jdW1lbnQgcGxtRG9jKQogIHsKICAgIHBsbURvY3VtZW50ID0gcGxtRG9jOwogIH0K</text>
+        <text encoding="base64">ICAgIGVjaG8gYWFhICVwZGZGaWxlJQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFBsbURvY3VtZW50IHBsbURvY3VtZW50Owo=</text>
+        <text encoding="base64">ICAgIGlmIGV4aXN0ICIlcGRmRmlsZSUiICgK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBsbURvY3VtZW50Cg==</text>
+        <text encoding="base64">ICAgIHNldCBqcGVnRmlsZT0ldGFyZ2V0RGlyZWN0b3J5JVwlY29udmVydEZpbGVOYW1lJS5qcGcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNhdGNoIChFeGNlcHRpb24gZSkKICAgIHsKICAgICAgZXJyb3JEaWFsb2cuYWRkVGhyb3dhYmxlKGUpOwogICAgfQo=</text>
+        <text encoding="base64">ICBwcml2YXRlIHZvaWQgc2V0UGxtRG9jdW1lbnQoUGxtRG9jdW1lbnQgcGxtRG9jKQogIHsKICAgIHBsbURvY3VtZW50ID0gcGxtRG9jOwogIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBwcml2YXRlIFBsbURvY3VtZW50IHBsbURvY3VtZW50Owo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgLy9zb3J0IG5hdHVyYWwgb3JkZXIuCi8vICAgIHNvcnQocHJvamVjdHNMaXN0KTsK</text>
+        <text encoding="base64">ICAgIHBsbURvY3VtZW50Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIExpc3Q8U3RyaW5nPiBzdHJpbmdzID0gQXJyYXlzLmFzTGlzdCgiZmVmIiwgImZlZmVmZSIsICJhZmVmZWYiLCAiYWZlZiIsICJmZmdnZSIsICJjY2NjIiwgImZmZmYiLCAibGxsbCIsICJvb29vIiwgImZmZmZmZmZmIiwgImFhYWFhIiwgInp6enp6IiwgImxsbGxmZWYiKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
