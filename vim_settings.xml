@@ -12,7 +12,7 @@
         <mark key="'" line="171" column="52" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/WeberProcessAssignProject.java" timestamp="1502967367390" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/proc/doc/PopDocChangeMulti.java" timestamp="1502990184981">
+      <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/proc/doc/PopDocChangeMulti.java" timestamp="1502992661449">
         <mark key="'" line="245" column="76" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/errordialog/ErrorDialog.java" timestamp="1502987667255">
@@ -61,12 +61,12 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/AddComponentDialog.java" timestamp="1502131445625">
         <mark key="'" line="180" column="44" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" timestamp="1502990855633">
-        <mark key="'" line="105" column="0" />
-        <mark key="[" line="134" column="3" />
-        <mark key="]" line="151" column="39" />
-        <mark key="." line="151" column="0" />
-        <mark key="^" line="150" column="35" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" timestamp="1502992815260">
+        <mark key="'" line="114" column="25" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
+        <mark key="^" line="125" column="105" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/gui/browser/components/actions/OpenAction.java" timestamp="1502119156830">
         <mark key="'" line="92" column="38" />
@@ -74,7 +74,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/utils/PlmClassificationUtils.java" timestamp="1502719383110">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502990211023">
+      <file name="/Dummy.txt" timestamp="1502992804023">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -146,7 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="12" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" />
       <jump line="243" column="9" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="120" column="44" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/ObrChildrenDisplay.java" />
       <jump line="554" column="48" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/ObrChildrenDisplay.java" />
@@ -246,13 +245,14 @@
       <jump line="108" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" />
       <jump line="124" column="40" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/errordialog/ErrorDialog.java" />
       <jump line="245" column="76" filename="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/proc/doc/PopDocChangeMulti.java" />
+      <jump line="114" column="25" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCAiIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>OUT_DOCUMENTS_RETURNS</text>
       </register>
       <register name="/" type="4">
         <text>toSt</text>
@@ -261,37 +261,37 @@
         <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCAiIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIFRyYWNlLnByaW50bG4oVHJhY2UuREVCVUcsICItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVHJhY2UucHJpbnRsbihUcmFjZS5ERUJVRywgIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIFRyYWNlLnByaW50bG4oVHJhY2UuREVCVUcsICItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIik7Cg==</text>
+        <text encoding="base64">ICAgIERDS2V5T2JqZWN0PE1hcDxTdHJpbmcsIExpc3Q8U2FwUHJvY2Vzc2luZ0Vycm9yPj4+IE9VVF9ET0NVTUVOVFNfUkVUVVJOUyA9IG5ldyBEQ0tleU9iamVjdDw+KCJPVVRfRE9DVU1FTlRTX1JFVFVSTlMiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChwbG1Eb2N1bWVudDEpCg==</text>
+        <text encoding="base64">ICAgIERDS2V5T2JqZWN0PFZlY3RvcjxQbG1Eb2N1bWVudD4+IE9VVF9ET0NVTUVOVFNfQkFEID0gbmV3IERDS2V5T2JqZWN0PFZlY3RvcjxQbG1Eb2N1bWVudD4+KCJPVVRfRE9DVU1FTlRTX0JBRCIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCAiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpOwo=</text>
+        <text encoding="base64">ICAgIERDS2V5T2JqZWN0PExpc3Q8UGxtRG9jdW1lbnQ+PiBQTE1fRE9DVU1FTlRTID0gbmV3IERDS2V5T2JqZWN0PD4oIklOX0RPQ1VNRU5UUyIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCBuYW1lKTsKICAgICAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCAiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSIpOwo=</text>
+        <text encoding="base64">ICAgIFBvcERvY0NoYW5nZU11bHRpLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCBuYW1lKTsK</text>
+        <text encoding="base64">ICAgIFByb2Nlc3NEb2NDcmVhdGVNdWx0aS4K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIFRyYWNlLnByaW50bG4oVHJhY2UuREVCVUcsICItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVHJhY2UucHJpbnRsbihUcmFjZS5ERUJVRywgIi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0iKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
