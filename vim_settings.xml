@@ -50,6 +50,7 @@
         <mark key="^" line="48" column="20" />
         <mark key="." line="48" column="20" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7.2/sapbase-5.1.7.2-sources.jar!/cadagent/LogonMain.java" timestamp="1503050631526" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/browser/components/widgets/ObrPropertyTableCellEditor.java" timestamp="1502293537361">
         <mark key="'" line="58" column="23" />
       </file>
@@ -59,6 +60,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/AddComponentDialog.java" timestamp="1502131445625">
         <mark key="'" line="180" column="44" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.2/plm-5.1.7.2-sources.jar!/plm/sess/PlmSessionManager.java" timestamp="1503051578214" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" timestamp="1502995329011">
         <mark key="'" line="114" column="25" />
         <mark key="[" line="88" column="38" />
@@ -72,11 +74,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/utils/PlmClassificationUtils.java" timestamp="1502719383110">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503049590425">
+      <file name="/Dummy.txt" timestamp="1503050522110">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/sess/PlmSessionManager.java" timestamp="1503051667904" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/swing/table/TableCellEditor.java" timestamp="1502111462444">
         <mark key="'" line="68" column="14" />
       </file>
@@ -131,7 +134,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" timestamp="1502439444889">
         <mark key="'" line="141" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1502999708922">
+      <file name="/fragment.java" timestamp="1503051697878">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -245,10 +248,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Preferences.getPrefObject(&quot;weber.assign.project.set.screen.size.width&quot;)</text>
+        <text>p.writeRoleFile();</text>
       </register>
       <register name="-" type="4">
-        <text>Preferences.getPrefObject(&quot;weber.assign.project.set.screen.size.width&quot;)</text>
+        <text>p.writeRoleFile();</text>
       </register>
       <register name="/" type="4">
         <text>toSt</text>
