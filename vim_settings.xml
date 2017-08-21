@@ -42,12 +42,8 @@
       <file name="/a.dummy" timestamp="1503053267842">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/convert.bat" timestamp="1503324009332">
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/convert.bat" timestamp="1503331292703">
         <mark key="'" line="52" column="21" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="58" column="1" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/browser/components/widgets/ObrPropertyTableCellEditor.java" timestamp="1502293537361">
         <mark key="'" line="58" column="23" />
@@ -252,8 +248,8 @@
       <jump line="52" column="21" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/convert.bat" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aWYgIiVJTUFHRU1BR0lDS19IT01FJSI9PSIiICgK</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
@@ -265,37 +261,37 @@
         <text encoding="base64">ICAgICVJTUFHRU1BR0lDS19IT01FJVxjb252LmV4ZSAiJXBkZkZpbGUlIiAiIWpwZWdGaWxlISIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgSU9FeGNlcHRpb24oU3RyaW5nLmZvcm1hdCgiQ29udmVyc2lvbiBzY3JpcHQgZXJyb3IuIENoZWNrIHRoZSBsb2dzLiIpKTsK</text>
+        <text encoding="base64">aWYgIiVJTUFHRU1BR0lDS19IT01FJSI9PSIiICgK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgSU9FeGNlcHRpb24oU3RyaW5nLmZvcm1hdCgiQ29udmVyc2lvbiBzY3JpcHQgZmFpbGVkLiBTZXQgJ0lNQUdFTUFHSUNLX0hPTUUnIEVudmlyb25tZW50IHZhcmlhYmxlLiBcbkJhdGNoIHNjcmlwdDogJXMuIEZpbGUgdG8gY29udmVydDogJXMiLCBjb252ZXJ0U2NyaXB0LCBmaWxlVG9Db252ZXJ0LmdldE5hbWUoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgSU9FeGNlcHRpb24oU3RyaW5nLmZvcm1hdCgiQ29udmVyc2lvbiBzY3JpcHQgZXJyb3IuIENoZWNrIHRoZSBsb2dzLiIpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgSU9FeGNlcHRpb24oU3RyaW5nLmZvcm1hdCgiQ29udmVyc2lvbiBzY3JpcHQgZmFpbGVkLiBTZXQgJ0lNQUdFTUFHSUNLX0hPTUUnIEVudmlyb25tZW50IHZhcmlhYmxlLiBcbkJhdGNoIHNjcmlwdDogJXMuIEZpbGUgdG8gY29udmVydDogJXMiLCBjb252ZXJ0U2NyaXB0LCBmaWxlVG9Db252ZXJ0LmdldE5hbWUoKSkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2V0IFBBVEg9JUlNQUdFTUFHSUNLX0hPTUUlOyVQQVRIJQo=</text>
+        <text encoding="base64">c2V0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWNobyB6enogIiVwZGZGaWxlJSIK</text>
+        <text encoding="base64">c2V0IFBBVEg9JUlNQUdFTUFHSUNLX0hPTUUlOyVQQVRIJQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZWNobyB6enogJXRhcmdldERpcmVjdG9yeSVcJWNvbnZlcnRGaWxlTmFtZSUucGRmCg==</text>
+        <text encoding="base64">ZWNobyB6enogIiVwZGZGaWxlJSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2V0Cg==</text>
+        <text encoding="base64">ZWNobyB6enogJXRhcmdldERpcmVjdG9yeSVcJWNvbnZlcnRGaWxlTmFtZSUucGRmCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2V0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYgJWVycm9ybGV2ZWwlPT05MDA5KAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
