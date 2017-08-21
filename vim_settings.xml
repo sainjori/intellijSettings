@@ -1,9 +1,7 @@
 <application>
   <component name="VimSettings">
     <state version="4" enabled="true" />
-    <globalmarks>
-      <mark key="I" line="25" column="4" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/convert.bat" />
-    </globalmarks>
+    <globalmarks />
     <filemarks>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/utils/OmfUtils.java" timestamp="1502212632060">
         <mark key="'" line="171" column="52" />
@@ -44,13 +42,11 @@
       <file name="/a.dummy" timestamp="1503053267842">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/LogonMain.java" timestamp="1503066436147" />
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/basis/config/system-default.txt" timestamp="1503069947976" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/convert.bat" timestamp="1502882062718">
-        <mark key="[" line="48" column="20" />
-        <mark key="]" line="48" column="20" />
-        <mark key="^" line="48" column="20" />
-        <mark key="." line="48" column="20" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/convert.bat" timestamp="1503314255645">
+        <mark key="[" line="58" column="26" />
+        <mark key="]" line="58" column="24" />
+        <mark key="^" line="58" column="24" />
+        <mark key="." line="58" column="24" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/browser/components/widgets/ObrPropertyTableCellEditor.java" timestamp="1502293537361">
         <mark key="'" line="58" column="23" />
@@ -74,10 +70,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/utils/PlmClassificationUtils.java" timestamp="1502719383110">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1503310276098">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1503312603067">
+        <mark key="'" line="361" column="0" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
         <mark key="^" line="82" column="66" />
       </file>
       <file name="/Dummy.txt" timestamp="1503309769386">
@@ -85,8 +82,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/system-default.txt" timestamp="1503066520364" />
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" timestamp="1503070000429" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/swing/table/TableCellEditor.java" timestamp="1502111462444">
         <mark key="'" line="68" column="14" />
       </file>
@@ -99,7 +94,6 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/ObrChildrenDisplay.java" timestamp="1502962451895">
         <mark key="'" line="107" column="13" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/basis/config/SAPlogon.txt" timestamp="1503069993940" />
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/gui/browser/components/services/F4HelpServices.java" timestamp="1502286626827">
         <mark key="'" line="224" column="32" />
       </file>
@@ -156,7 +150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="44" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/ObrChildrenDisplay.java" />
       <jump line="554" column="48" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/ObrChildrenDisplay.java" />
       <jump line="796" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/ObrChildrenDisplay.java" />
       <jump line="1451" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/ObrChildrenDisplay.java" />
@@ -256,54 +249,53 @@
       <jump line="245" column="76" filename="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/proc/doc/PopDocChangeMulti.java" />
       <jump line="114" column="25" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" />
       <jump line="107" column="61" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/menu.guidef" />
+      <jump line="361" column="0" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>C:\Users\bya\Desktop\export2\</text>
       </register>
       <register name="-" type="4">
-        <text>getSapKey</text>
+        <text>C:\Users\bya\Desktop\export2\</text>
       </register>
       <register name="/" type="4">
         <text>toSt</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
+      <register name="0" type="4">
+        <text>%targetDirectory%\%convertFileName%.jpg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHNldCBqcGVnRmlsZT0ldGFyZ2V0RGlyZWN0b3J5JVwlY29udmVydEZpbGVOYW1lJS5qcGcK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>}else {
-          Trace.println(Trace.DEBUG, &quot;Error converting cgm to jpeg.&quot;);
-          GuiUtils.setStatusLineErrorText(&quot;Error getting jpg file&quot;);</text>
-      </register>
-      <register name="3" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">PT09PT09PQogICAgICBQbG1Eb2N1bWVudENvbnRhaW5lciBwbG1fZG9jX2NvbnQgPSBuZXcgUGxtRG9jdW1lbnRDb250YWluZXIoKTsKICAgICAgcGxtX2RvY19jb250LmFkZERvY3VtZW50KGJyRG9jdW1lbnQuZ2V0UGxtRG9jdW1lbnQoKSk7CiAgICAgIHBsbV9kb2NfY29udC5yZWFkRGV0YWlsc1BvcChmYWxzZSwgZmFsc2UsIHRydWUsIGZhbHNlLCBmYWxzZSwgZmFsc2UsIHRydWUpOwogICAgICBQbG1Eb2N1bWVudCBwbG1Eb2N1bWVudCA9IHBsbV9kb2NfY29udC5nZXRGaXJzdE9iamVjdCgpOwoKICAgICAgZGVsZXRlUHJldmllc0Zyb21MYXN0RXhwb3J0KHBsbURvY3VtZW50KTsKPj4+Pj4+PiAzMzQ0NjJiLi4uIHdvcmluZw==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHBsbURvY3VtZW50LmlzYykK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgUGxtRG9jdW1lbnRDb250YWluZXIK</text>
+        <text encoding="base64">Pj4+Pj4+PiAzMzQ0NjJiLi4uIHdvcmluZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcGxtRG9jdW1lbnQuaXNjaAo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vICAgIGlmIChwcmVmT2JqZWN0V2lkdGguaXNQcmVzZW50KCkgJiYgcHJlZk9iamVjdEhlaWdodC5pc1ByZXNlbnQoKSkKICAgIC8vICAgIHsKICAgIC8vICAgICAgRG91YmxlIHdpZHRoID0gcHJlZk9iamVjdFdpZHRoLmdldCgpLmRvdWJsZVZhbHVlKCk7CiAgICAvLyAgICAgIERvdWJsZSBoZWlnaHQgPSBwcmVmT2JqZWN0SGVpZ2h0LmdldCgpLmRvdWJsZVZhbHVlKCk7CiAgICAvLyAgICAgIERpbWVuc2lvbiB2YWx1ZSA9IG5ldyBEaW1lbnNpb24od2lkdGguaW50VmFsdWUoKSwgaGVpZ2h0LmludFZhbHVlKCkpOwogICAgLy8gICAgICByZXR1cm4gT3B0aW9uYWwub2YodmFsdWUpOwogICAgLy8gICAgfQogICAgLy8gICAgcmV0dXJuIE9wdGlvbmFsLmVtcHR5KCk7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGludCBpID0gcHJlZk9iamVjdEhlaWdodC5nZXQoKS5pbnRWYWx1ZSgpOwo=</text>
+        <text encoding="base64">PT09PT09PQo+Pj4+Pj4+IDMzNDQ2MmIuLi4gd29yaW5nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
