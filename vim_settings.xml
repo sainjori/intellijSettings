@@ -21,6 +21,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/errordialog/ErrorDialog.java" timestamp="1502987667255">
         <mark key="'" line="124" column="40" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/RowColoringGxTable.java" timestamp="1503336784372" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/service/WeberProcessF4Helper.java" timestamp="1503000150743">
         <mark key="[" line="114" column="41" />
         <mark key="]" line="66" column="0" />
@@ -54,6 +55,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/AddComponentDialog.java" timestamp="1502131445625">
         <mark key="'" line="180" column="44" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/DefaultTableBrowserComponent.java" timestamp="1503336732265" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" timestamp="1502995329011">
         <mark key="'" line="114" column="25" />
         <mark key="[" line="88" column="38" />
@@ -137,7 +139,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" timestamp="1502439444889">
         <mark key="'" line="141" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1503053388265">
+      <file name="/fragment.java" timestamp="1503337191221">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
