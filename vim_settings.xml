@@ -74,13 +74,13 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/utils/PlmClassificationUtils.java" timestamp="1502719383110">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1503062001943">
-        <mark key="[" line="96" column="42" />
-        <mark key="]" line="96" column="42" />
-        <mark key="^" line="96" column="41" />
-        <mark key="." line="96" column="42" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1503310276098">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+        <mark key="^" line="82" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503066333301">
+      <file name="/Dummy.txt" timestamp="1503309769386">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -258,50 +258,52 @@
       <jump line="107" column="61" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/menu.guidef" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Dic.get(&quot;plm.omf.0501&quot;, &quot;Please select a document for this function.&quot;)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>Dic.get(&quot;plm.omf.0501&quot;, &quot;Please select a document for this function.&quot;)</text>
+        <text>getSapKey</text>
       </register>
       <register name="/" type="4">
         <text>toSt</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBHdWlVdGlscy5zZXRTdGF0dXNMaW5lU3VjY2Vzc1RleHQoRGljLmdldCgid2ViZXIuc2V0LnJlczguc3VjY2VzcyIsICJQcm9qZWN0cyBzdWNjZXNmdWxseSBhc3NpZ25lZC4iKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vICAgIGlmIChwcmVmT2JqZWN0V2lkdGguaXNQcmVzZW50KCkgJiYgcHJlZk9iamVjdEhlaWdodC5pc1ByZXNlbnQoKSkKICAgIC8vICAgIHsKICAgIC8vICAgICAgRG91YmxlIHdpZHRoID0gcHJlZk9iamVjdFdpZHRoLmdldCgpLmRvdWJsZVZhbHVlKCk7CiAgICAvLyAgICAgIERvdWJsZSBoZWlnaHQgPSBwcmVmT2JqZWN0SGVpZ2h0LmdldCgpLmRvdWJsZVZhbHVlKCk7CiAgICAvLyAgICAgIERpbWVuc2lvbiB2YWx1ZSA9IG5ldyBEaW1lbnNpb24od2lkdGguaW50VmFsdWUoKSwgaGVpZ2h0LmludFZhbHVlKCkpOwogICAgLy8gICAgICByZXR1cm4gT3B0aW9uYWwub2YodmFsdWUpOwogICAgLy8gICAgfQogICAgLy8gICAgcmV0dXJuIE9wdGlvbmFsLmVtcHR5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGludCBpID0gcHJlZk9iamVjdEhlaWdodC5nZXQoKS5pbnRWYWx1ZSgpOwo=</text>
+      <register name="2" type="4">
+        <text>}else {
+          Trace.println(Trace.DEBUG, &quot;Error converting cgm to jpeg.&quot;);
+          GuiUtils.setStatusLineErrorText(&quot;Error getting jpg file&quot;);</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgaWYgKHBsbURvY3VtZW50LmlzYykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgUGxtRG9jdW1lbnRDb250YWluZXIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcGxtRG9jdW1lbnQuaXNjaAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBHdWlVdGlscy5zZXRTdGF0dXNMaW5lU3VjY2Vzc1RleHQoRGljLmdldCgid2ViZXIuc2V0LnJlczguc3VjY2VzcyIsICJQcm9qZWN0cyBzdWNjZXNmdWxseSBhc3NpZ25lZC4iKSk7Cg==</text>
+        <text encoding="base64">ICAgIC8vICAgIGlmIChwcmVmT2JqZWN0V2lkdGguaXNQcmVzZW50KCkgJiYgcHJlZk9iamVjdEhlaWdodC5pc1ByZXNlbnQoKSkKICAgIC8vICAgIHsKICAgIC8vICAgICAgRG91YmxlIHdpZHRoID0gcHJlZk9iamVjdFdpZHRoLmdldCgpLmRvdWJsZVZhbHVlKCk7CiAgICAvLyAgICAgIERvdWJsZSBoZWlnaHQgPSBwcmVmT2JqZWN0SGVpZ2h0LmdldCgpLmRvdWJsZVZhbHVlKCk7CiAgICAvLyAgICAgIERpbWVuc2lvbiB2YWx1ZSA9IG5ldyBEaW1lbnNpb24od2lkdGguaW50VmFsdWUoKSwgaGVpZ2h0LmludFZhbHVlKCkpOwogICAgLy8gICAgICByZXR1cm4gT3B0aW9uYWwub2YodmFsdWUpOwogICAgLy8gICAgfQogICAgLy8gICAgcmV0dXJuIE9wdGlvbmFsLmVtcHR5KCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgIGludCBpID0gcHJlZk9iamVjdEhlaWdodC5nZXQoKS5pbnRWYWx1ZSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQogICAgICAgIEd1aVV0aWxzLnNldFN0YXR1c0xpbmVTdWNjZXNzVGV4dChEaWMuZ2V0KCJ3ZWJlci5zZXQucmVzOC5zdWNjZXNzIiwgIlByb2plY3RzIHN1Y2Nlc2Z1bGx5IGFzc2lnbmVkLiIpKTsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
