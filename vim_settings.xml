@@ -21,6 +21,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1502439474787">
         <mark key="'" line="242" column="4" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfSendTo.java" timestamp="1503411842361" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/AnyBrowser.java" timestamp="1503395862093">
         <mark key="'" line="123" column="10" />
       </file>
@@ -112,7 +113,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/utils/PlmClassificationUtils.java" timestamp="1502719383110">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503406848881">
+      <file name="/Dummy.txt" timestamp="1503411576339">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -123,16 +124,16 @@
         <mark key="^" line="25" column="54" />
         <mark key="." line="62" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/widgets/oburl/ExternalMaterialNumberHandler.java" timestamp="1503406786601">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/widgets/oburl/ExternalMaterialNumberHandler.java" timestamp="1503412211308">
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/widgets/oburl/myUrlHandler.java" timestamp="1503409621359">
-        <mark key="[" line="52" column="24" />
-        <mark key="]" line="52" column="41" />
-        <mark key="." line="52" column="41" />
-        <mark key="^" line="52" column="41" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/widgets/oburl/myUrlHandler.java" timestamp="1503412405699">
+        <mark key="[" line="62" column="9" />
+        <mark key="]" line="63" column="15" />
+        <mark key="." line="63" column="15" />
+        <mark key="^" line="63" column="15" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/ObrChildrenDisplay.java" timestamp="1502962451895">
         <mark key="'" line="107" column="13" />
@@ -173,7 +174,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" timestamp="1502439444889">
         <mark key="'" line="141" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1503410361507">
+      <file name="/fragment.java" timestamp="1503412044924">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -284,10 +285,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>key1</text>
+        <text>Material</text>
       </register>
       <register name="-" type="4">
-        <text>key1</text>
+        <text>Material</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaG93SW5PYmplY3RCcm93c2VyXD4=</text>
