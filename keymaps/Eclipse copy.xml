@@ -73,6 +73,14 @@
   <action id="GotoTypeDeclaration">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="HippieBackwardCompletion">
+    <keyboard-shortcut first-keystroke="shift alt slash" />
+    <keyboard-shortcut first-keystroke="alt #10000c4" />
+  </action>
+  <action id="HippieCompletion">
+    <keyboard-shortcut first-keystroke="alt slash" />
+    <keyboard-shortcut first-keystroke="alt #10000d6" />
+  </action>
   <action id="IncrementalSearch" />
   <action id="Print" />
   <action id="RecentFiles" />
