@@ -12,6 +12,7 @@
         <mark key="^" line="101" column="68" />
         <mark key="." line="101" column="68" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/omf/OmfDispatch.java" timestamp="1503479187122" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/service/WeberProcessF4Helper.java" timestamp="1503000150743">
         <mark key="[" line="114" column="41" />
         <mark key="]" line="66" column="0" />
@@ -102,14 +103,12 @@
         <mark key="'" line="124" column="40" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/RowColoringGxTable.java" timestamp="1503397591377" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/TreePanelTreeModel.java" timestamp="1503479389223" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/Window.java" timestamp="1502716192453">
         <mark key="'" line="1774" column="29" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.2/base-5.1.7.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1501762726127">
         <mark key="'" line="638" column="14" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/convert.bat" timestamp="1503331292703">
-        <mark key="'" line="52" column="21" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/EventDispatchThread.java" timestamp="1503395638741">
         <mark key="'" line="88" column="8" />
@@ -119,9 +118,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/browser/components/widgets/ObrPropertyTableCellEditor.java" timestamp="1502293537361">
         <mark key="'" line="58" column="23" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/StandardBrowsePanel.java" timestamp="1503395913804">
-        <mark key="'" line="470" column="10" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/modules/acm/gui/AccF4Helper.java" timestamp="1502181560931">
         <mark key="'" line="113" column="26" />
@@ -162,6 +158,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/ObrChildrenDisplay.java" timestamp="1502962451895">
         <mark key="'" line="107" column="13" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/StructureDataTree.java" timestamp="1503479272437" />
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/gui/browser/components/services/F4HelpServices.java" timestamp="1502286626827">
         <mark key="'" line="224" column="32" />
       </file>
@@ -170,9 +167,6 @@
         <mark key="]" line="71" column="3" />
         <mark key="." line="71" column="3" />
         <mark key="^" line="71" column="3" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/DirBasicDataPanel.java" timestamp="1503408459325">
-        <mark key="'" line="177" column="62" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/modules/fa/gui/browser/components/FARoutingBasicDataPanel.java" timestamp="1503408048754" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmPspElement.java" timestamp="1503476331309">
@@ -204,7 +198,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" timestamp="1502439444889">
         <mark key="'" line="141" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1503425250395">
+      <file name="/fragment.java" timestamp="1503479332489">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
