@@ -30,6 +30,7 @@
         <mark key="'" line="123" column="10" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/widgets/oburl/ObrObjectUrlHandler.java" timestamp="1503498814726" />
+      <file name="/BrSapContentVersion.java" timestamp="1503507282173" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/AddComponentDialog.java" timestamp="1502131445625">
         <mark key="'" line="180" column="44" />
       </file>
@@ -52,6 +53,7 @@
         <mark key="^" line="20" column="12" />
         <mark key="." line="20" column="12" />
       </file>
+      <file name="/BrPspElement.java" timestamp="1503507074406" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/BrowserHelper.java" timestamp="1503497598192" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/Container.java" timestamp="1503395240784">
         <mark key="'" line="3656" column="37" />
@@ -161,12 +163,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/utils/PlmClassificationUtils.java" timestamp="1502719383110">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrPspElement.java" timestamp="1503498129671">
-        <mark key="'" line="470" column="0" />
-        <mark key="[" line="323" column="120" />
-        <mark key="]" line="322" column="0" />
-        <mark key="." line="322" column="0" />
-        <mark key="^" line="322" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrPspElement.java" timestamp="1503507145340">
+        <mark key="'" line="412" column="31" />
+        <mark key="[" line="120" column="84" />
+        <mark key="]" line="120" column="82" />
+        <mark key="." line="120" column="82" />
+        <mark key="^" line="120" column="82" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/swing/table/DefaultTableModel.java" timestamp="1503495365669" />
       <file name="/Dummy.txt" timestamp="1503496169220">
@@ -211,8 +213,8 @@
         <mark key="'" line="177" column="62" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/modules/fa/gui/browser/components/FARoutingBasicDataPanel.java" timestamp="1503408048754" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmPspElement.java" timestamp="1503498396839">
-        <mark key="'" line="256" column="53" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmPspElement.java" timestamp="1503507079695">
+        <mark key="'" line="57" column="13" />
         <mark key="[" line="1173" column="11" />
         <mark key="]" line="1173" column="26" />
         <mark key="^" line="1173" column="26" />
@@ -240,6 +242,12 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" timestamp="1502439444889">
         <mark key="'" line="141" column="4" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrSapContentVersion.java" timestamp="1503507657764">
+        <mark key="[" line="252" column="4" />
+        <mark key="]" line="252" column="4" />
+        <mark key="^" line="252" column="4" />
+        <mark key="." line="252" column="4" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/NotEditableDefaultTableModel.java" timestamp="1503495129857" />
       <file name="/fragment.java" timestamp="1503503677882">
         <mark key="[" line="0" column="0" />
@@ -252,8 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="26" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/gui/browser/components/services/F4HelpServices.java" />
-      <jump line="195" column="61" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/gui/browser/components/services/F4HelpServices.java" />
       <jump line="209" column="56" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/gui/browser/components/services/F4HelpServices.java" />
       <jump line="212" column="121" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/gui/browser/components/services/F4HelpServices.java" />
       <jump line="216" column="39" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/gui/browser/components/services/F4HelpServices.java" />
@@ -352,13 +358,15 @@
       <jump line="202" column="30" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/DefaultTableBrowserComponent.java" />
       <jump line="470" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrPspElement.java" />
       <jump line="854" column="17" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/util/Trace.java" />
+      <jump line="57" column="13" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmPspElement.java" />
+      <jump line="412" column="31" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrPspElement.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy90b2RvCg==</text>
+      <register name="&quot;" type="4">
+        <text>CHAR    24 0   */</text>
       </register>
       <register name="-" type="4">
-        <text>definiton</text>
+        <text>CHAR    24 0   */</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCQVNJQ0RBVEFcPg==</text>
