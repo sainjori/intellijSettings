@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '[plm] - ...\core\plm++\java\src\plm\gui\browser\components\widgets\oburl\PSPParentUrlHandler.java'" />
+    <option name="defaultScopeName" value="File '[plm] - ...\core\plm++\java\src\plm\gui\browser\components\widgets\oburl\PSPParentUrlHandler.java'" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '[plm] - ...\core\plm++\java\src\plm\gui\browser\components\widgets\oburl\PSPParentUrlHandler.java'" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
