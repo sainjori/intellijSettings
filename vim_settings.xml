@@ -67,6 +67,9 @@
         <mark key="^" line="50" column="69" />
         <mark key="." line="50" column="69" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/ConcurrentHashMap.java" timestamp="1503655985668">
+        <mark key="'" line="266" column="13" />
+      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/misc/Launcher.class" timestamp="1503394422660">
         <mark key="'" line="192" column="0" />
       </file>
@@ -119,6 +122,9 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.2/base-5.1.7.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1501762726127">
         <mark key="'" line="638" column="14" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DefaultDSLContext.java" timestamp="1503655853045">
+        <mark key="'" line="319" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/convert.bat" timestamp="1503331292703">
         <mark key="'" line="52" column="21" />
       </file>
@@ -152,6 +158,9 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/utils/PlmClassificationUtils.java" timestamp="1502719383110">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/daos/BaseEctrStatisticSettingsDao.java" timestamp="1503654476584">
+        <mark key="'" line="68" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrPspElement.java" timestamp="1503507145340">
         <mark key="'" line="412" column="31" />
         <mark key="[" line="120" column="84" />
@@ -164,7 +173,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/statistics/settings/SettingsCloneProcess.java" timestamp="1503654220855" />
+      <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DSL.java" timestamp="1503654629193">
+        <mark key="'" line="627" column="51" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/statistics/settings/SettingsCloneProcess.java" timestamp="1503654434125" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/brobj/WeberRes8BrDocument.java" timestamp="1502810551587">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -245,10 +257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="56" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/gui/browser/components/services/F4HelpServices.java" />
-      <jump line="212" column="121" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/gui/browser/components/services/F4HelpServices.java" />
-      <jump line="216" column="39" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/gui/browser/components/services/F4HelpServices.java" />
-      <jump line="223" column="131" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/gui/browser/components/services/F4HelpServices.java" />
       <jump line="224" column="32" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/gui/browser/components/services/F4HelpServices.java" />
       <jump line="88" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/browser/components/widgets/ObrPropertyTableCellEditor.java" />
       <jump line="89" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/browser/components/widgets/ObrPropertyTableCellEditor.java" />
@@ -345,6 +353,10 @@
       <jump line="854" column="17" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/util/Trace.java" />
       <jump line="57" column="13" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmPspElement.java" />
       <jump line="412" column="31" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrPspElement.java" />
+      <jump line="68" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/daos/BaseEctrStatisticSettingsDao.java" />
+      <jump line="627" column="51" filename="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DSL.java" />
+      <jump line="319" column="0" filename="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DefaultDSLContext.java" />
+      <jump line="266" column="13" filename="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/ConcurrentHashMap.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
