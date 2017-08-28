@@ -115,8 +115,8 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrObjFactory.java" timestamp="1503407121553">
         <mark key="'" line="666" column="21" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/omf/OmfDocAdd.java" timestamp="1503927506140">
-        <mark key="'" line="249" column="35" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/omf/OmfDocAdd.java" timestamp="1503930058819">
+        <mark key="'" line="154" column="16" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/browser/components/widgets/ObrPropertyTableCellEditor.java" timestamp="1502293537361">
         <mark key="'" line="58" column="23" />
@@ -161,6 +161,9 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/DirBasicDataPanel.java" timestamp="1503482446552">
         <mark key="'" line="177" column="62" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/fff" timestamp="1503930796644">
+        <mark key="'" line="241" column="43" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikDataExcExport.java" timestamp="1503926591858" />
       <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/SelectImpl.java" timestamp="1503656974956">
         <mark key="'" line="214" column="4" />
@@ -168,11 +171,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/search/SandvikSearchManager.java" timestamp="1501755880596">
         <mark key="'" line="331" column="12" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" timestamp="1503926973165">
-        <mark key="[" line="79" column="7" />
-        <mark key="]" line="80" column="31" />
-        <mark key="." line="80" column="31" />
-        <mark key="^" line="80" column="31" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" timestamp="1503930977665">
+        <mark key="[" line="92" column="22" />
+        <mark key="]" line="92" column="27" />
+        <mark key="^" line="92" column="27" />
+        <mark key="." line="92" column="27" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/Component.java" timestamp="1503394907669">
         <mark key="'" line="8587" column="16" />
@@ -204,19 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" />
-      <jump line="30" column="60" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/WeberProcessAssignProject.java" />
-      <jump line="3" column="16" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/WeberProcessAssignProject.java" />
-      <jump line="4" column="16" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/WeberProcessAssignProject.java" />
-      <jump line="88" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/WeberProcessAssignProject.java" />
-      <jump line="164" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" />
-      <jump line="88" column="17" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" />
-      <jump line="141" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" />
-      <jump line="288" column="11" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/DefaultBrowseObject.java" />
-      <jump line="141" column="17" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/DefaultBrowseObject.java" />
-      <jump line="182" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/DefaultBrowseObject.java" />
-      <jump line="242" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/DefaultBrowseObject.java" />
-      <jump line="80" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" />
       <jump line="132" column="19" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/service/WeberProcessF4Helper.java" />
       <jump line="809" column="15" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/cfc/util/Dialogbox.java" />
       <jump line="100" column="33" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
@@ -304,61 +294,74 @@
       <jump line="578" column="34" filename="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.3.9.v20160517/jetty-util-9.3.9.v20160517-sources.jar!/org/eclipse/jetty/util/thread/QueuedThreadPool.java" />
       <jump line="1071" column="14" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/utils/PlmObserver.java" />
       <jump line="249" column="35" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/omf/OmfDocAdd.java" />
+      <jump line="217" column="1" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" />
+      <jump line="639" column="52" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" />
+      <jump line="646" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" />
+      <jump line="652" column="41" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/omf/OmfDocAdd.java" />
+      <jump line="232" column="2" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/omf/OmfDocAdd.java" />
+      <jump line="86" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" />
+      <jump line="665" column="0" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/omf/OmfDocAdd.java" />
+      <jump line="154" column="16" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/omf/OmfDocAdd.java" />
+      <jump line="205" column="3" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" />
+      <jump line="124" column="47" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" />
+      <jump line="120" column="27" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" />
+      <jump line="130" column="28" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" />
+      <jump line="241" column="43" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/fff" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgCg==</text>
+      <register name="&quot;" type="4">
+        <text>plmDocument</text>
       </register>
       <register name="-" type="4">
-        <text>Modifier.FINAL</text>
+        <text>plmDocument</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCQVNJQ0RBVEFcPg==</text>
+        <text encoding="base64">XDxmb2xkZXJfZXhwYW5kZWRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBsbVBzcEVsZW1lbnRzLnJlYWREZXRhaWxzKCk7Cg==</text>
+        <text encoding="base64">ICAgIE9tZkRvY09wZW5GYXN0IG9tZiA9IG5ldyBPbWZEb2NPcGVuRmFzdChjaGVja291dF9tb2RlKTsKICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgCg==</text>
+        <text encoding="base64">ICAgIExpc3Q8T2JyT2JqZWN0PiBsX2JyX29ianMgPSBHdWlVdGlscy5jb252ZXJ0QWxsUGxtVG9CcihwbG1Eb2N1bWVudHMpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCAicGFyYW1ldGVyIG5hbWVzcGFjZSAtICIgKyBwYXJhbWV0ZXJOYW1lc3BhY2UpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJOYW1lc3BhY2UgPSBwYXJhbWV0ZXI7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIFBsbURvY3VtZW50IHNob3dEaWFsb2coKQogIHsKICAgIE9tZkRvY09wZW5GYXN0IG9tZiA9IG5ldyBPbWZEb2NPcGVuRmFzdChjaGVja291dF9tb2RlKTsKICAgIHJldHVybiBudWxsOwogIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy90b2RvCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy90b2RvCg==</text>
+        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCAicGFyYW1ldGVyIG5hbWVzcGFjZSAtICIgKyBwYXJhbWV0ZXJOYW1lc3BhY2UpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcHVibGljIEVycm9yRGlhbG9nIGluc3RhbmNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJOYW1lc3BhY2UgPSBwYXJhbWV0ZXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIEVycm9yRGlhbG9nIGVycm9yRGlhbG9nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy90b2RvCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcHVibGljIEVycm9yRGlhbG9nIGVycm9yRGlhbG9nOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy90b2RvCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBsbVBzcEVsZW1lbnRzLnJlCg==</text>
+        <text encoding="base64">ICAgICAgcHVibGljIEVycm9yRGlhbG9nIGluc3RhbmNlOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCQVNJQ0RBVEFcPg==</last-search>
+      <last-search encoding="base64">XDxmb2xkZXJfZXhwYW5kZWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCQVNJQ0RBVEFcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmb2xkZXJfZXhwYW5kZWRcPg==</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>import</last-substitute>
       <last-dir>1</last-dir>
@@ -366,7 +369,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb21wXD4=</entry>
         <entry>setSelected</entry>
         <entry encoding="base64">XDxiclJlczhEb2N1bWVudHNcPg==</entry>
         <entry>obj</entry>
@@ -386,6 +388,7 @@
         <entry encoding="base64">XDxnZXRCclBTUHJvamVjdFw+</entry>
         <entry encoding="base64">XDxzaG93SW5PYmplY3RCcm93c2VyXD4=</entry>
         <entry encoding="base64">XDxCQVNJQ0RBVEFcPg==</entry>
+        <entry encoding="base64">XDxmb2xkZXJfZXhwYW5kZWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>3,.</entry>
