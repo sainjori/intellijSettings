@@ -171,11 +171,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/search/SandvikSearchManager.java" timestamp="1501755880596">
         <mark key="'" line="331" column="12" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" timestamp="1503930977665">
-        <mark key="[" line="92" column="22" />
-        <mark key="]" line="92" column="27" />
-        <mark key="^" line="92" column="27" />
-        <mark key="." line="92" column="27" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" timestamp="1503934565619">
+        <mark key="[" line="137" column="26" />
+        <mark key="]" line="137" column="35" />
+        <mark key="^" line="137" column="35" />
+        <mark key="." line="137" column="35" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/Component.java" timestamp="1503394907669">
         <mark key="'" line="8587" column="16" />
@@ -310,10 +310,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>plmDocument</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>plmDocument</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb2xkZXJfZXhwYW5kZWRcPg==</text>
