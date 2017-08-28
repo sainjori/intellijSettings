@@ -132,6 +132,7 @@
       <file name="/Dummy.txt" timestamp="1503909921715">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/system-default.txt" timestamp="1503913023777" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/daos/BaseEctrStatisticGroupDao.java" timestamp="1503663179825">
         <mark key="'" line="73" column="64" />
       </file>
@@ -161,9 +162,6 @@
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/Component.java" timestamp="1503394907669">
         <mark key="'" line="8587" column="16" />
-      </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/menu.guidef" timestamp="1503069935698">
-        <mark key="'" line="107" column="61" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7.1/sapbase-5.1.7.1-sources.jar!/cadagent/proc/doc/PopDocChangeMulti.java" timestamp="1502982174243">
         <mark key="'" line="190" column="9" />
