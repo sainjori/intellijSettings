@@ -19,12 +19,16 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/AnyBrowser.java" timestamp="1503395862093">
         <mark key="'" line="123" column="10" />
       </file>
+      <file name="/a.dummy" timestamp="1503938831788">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/AddComponentDialog.java" timestamp="1502131445625">
         <mark key="'" line="180" column="44" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/DefaultTableBrowserComponent.java" timestamp="1503496827715">
         <mark key="'" line="202" column="30" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/proc/doc/search/PlmProcessDocumentSearch3.java" timestamp="1503936796837" />
       <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/AbstractResultQuery.java" timestamp="1503661753293">
         <mark key="'" line="523" column="5" />
       </file>
@@ -115,8 +119,8 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrObjFactory.java" timestamp="1503407121553">
         <mark key="'" line="666" column="21" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/omf/OmfDocAdd.java" timestamp="1503930058819">
-        <mark key="'" line="154" column="16" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/omf/OmfDocAdd.java" timestamp="1503937717460">
+        <mark key="'" line="257" column="2" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/browser/components/widgets/ObrPropertyTableCellEditor.java" timestamp="1502293537361">
         <mark key="'" line="58" column="23" />
@@ -136,7 +140,7 @@
       <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DSL.java" timestamp="1503656892385">
         <mark key="'" line="352" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503909921715">
+      <file name="/Dummy.txt" timestamp="1503937613890">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/system-default.txt" timestamp="1503913023777" />
@@ -146,6 +150,7 @@
       <file name="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.3.9.v20160517/jetty-util-9.3.9.v20160517-sources.jar!/org/eclipse/jetty/util/thread/QueuedThreadPool.java" timestamp="1503671062725">
         <mark key="'" line="578" column="34" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/proc/doc/ProcessDocMultiCancel.java" timestamp="1503936487544" />
       <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/tools/StringUtils.java" timestamp="1503661041584">
         <mark key="'" line="127" column="0" />
       </file>
@@ -171,11 +176,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/search/SandvikSearchManager.java" timestamp="1501755880596">
         <mark key="'" line="331" column="12" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" timestamp="1503934565619">
-        <mark key="[" line="137" column="26" />
-        <mark key="]" line="137" column="35" />
-        <mark key="^" line="137" column="35" />
-        <mark key="." line="137" column="35" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" timestamp="1503938947500">
+        <mark key="'" line="132" column="0" />
+        <mark key="[" line="221" column="0" />
+        <mark key="]" line="221" column="0" />
+        <mark key="." line="221" column="0" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/Component.java" timestamp="1503394907669">
         <mark key="'" line="8587" column="16" />
@@ -196,10 +201,10 @@
         <mark key="'" line="104" column="4" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.5.1/base-5.1.5.1-sources.jar!/cadagent/cfc/pref/Preferences.java" timestamp="1503916074828" />
-      <file name="/fragment.java" timestamp="1503927285712">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/fragment.java" timestamp="1503936444836">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="14" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrProperty.java" timestamp="1503424089141">
@@ -207,8 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="19" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/service/WeberProcessF4Helper.java" />
-      <jump line="809" column="15" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/cfc/util/Dialogbox.java" />
       <jump line="100" column="33" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
       <jump line="1043" column="18" filename="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/Component.java" />
       <jump line="138" column="19" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
@@ -307,13 +310,15 @@
       <jump line="120" column="27" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" />
       <jump line="130" column="28" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" />
       <jump line="241" column="43" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/fff" />
+      <jump line="132" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" />
+      <jump line="257" column="2" filename="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/omf/OmfDocAdd.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>XTA</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb2xkZXJfZXhwYW5kZWRcPg==</text>
@@ -322,37 +327,37 @@
         <text encoding="base64">ICAgIE9tZkRvY09wZW5GYXN0IG9tZiA9IG5ldyBPbWZEb2NPcGVuRmFzdChjaGVja291dF9tb2RlKTsKICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIExpc3Q8T2JyT2JqZWN0PiBsX2JyX29ianMgPSBHdWlVdGlscy5jb252ZXJ0QWxsUGxtVG9CcihwbG1Eb2N1bWVudHMpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBwbG0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFBsbURvY3VtZW50IHNob3dEaWFsb2coKQogIHsKICAgIE9tZkRvY09wZW5GYXN0IG9tZiA9IG5ldyBPbWZEb2NPcGVuRmFzdChjaGVja291dF9tb2RlKTsKICAgIHJldHVybiBudWxsOwogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCAicGFyYW1ldGVyIG5hbWVzcGFjZSAtICIgKyBwYXJhbWV0ZXJOYW1lc3BhY2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbWV0ZXJOYW1lc3BhY2UgPSBwYXJhbWV0ZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICByCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy90b2RvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy90b2RvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBhbGxEb2N1bWVudAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcHVibGljIEVycm9yRGlhbG9nIGluc3RhbmNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
