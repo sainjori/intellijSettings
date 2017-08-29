@@ -80,12 +80,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/cad/doc/createmulti/gui/PlmDocCreateMultiDialog.java" timestamp="1502280713124">
         <mark key="'" line="169" column="12" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" timestamp="1504012613357">
-        <mark key="'" line="268" column="4" />
-        <mark key="[" line="201" column="33" />
-        <mark key="]" line="201" column="32" />
-        <mark key="." line="201" column="32" />
-        <mark key="^" line="201" column="32" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" timestamp="1504014027263">
+        <mark key="'" line="267" column="4" />
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="0" />
+        <mark key="." line="183" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/gui/browser/components/actions/F4HelpRunner.java" timestamp="1502194590358">
         <mark key="'" line="64" column="21" />
@@ -323,7 +322,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcGxtQ2xhc3NBbGxvY2F0aW9uLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>inSelectedDocument</text>
@@ -335,37 +334,37 @@
         <text encoding="base64">ICAgIENvbGxlY3Rpb248UGxtQ2xhc3NBbGxvY2F0aW9uPiBjbGFzc0FsbG9jYXRpb25zID0gaW5TZWxlY3RlZERvY3VtZW50LmdldENsYXNzQWxsb2NhdGlvbnMoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcGxtQ2xhc3NBbGxvY2F0aW9uLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG91dE5vbk1hc3Rlci5hZGRDCg==</text>
+        <text encoding="base64">ICAgIENvbGxlY3Rpb248UGxtQ2xhc3NBbGxvY2F0aW9uPiBjbGFzc0FsbG9jYXRpb25zVGVtcGxhdGUgPSBpblRlbXBsYXRlRG9jdW1lbnQuZ2V0Q2xhc3NBbGxvY2F0aW9ucygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgoKCg==</text>
+        <text encoding="base64">ICAgICAgcGxtQ2xhc3NBbGxvY2F0aW9uLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIHBhcmFtZXRlciA9IGV2ZW50LmdldFBhcmFtZXRlcigpOwo=</text>
+        <text encoding="base64">ICAgIG91dE5vbk1hc3Rlci5hZGRDCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjYWRhZ2VudC5jZmMudXRpbC5TdHJpbmdUb29sLmdldE51bWVyaWNTdHJpbmdLZXk7Cg==</text>
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LnByb2MuUExNUHJvY2VzczsK</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIHBhcmFtZXRlciA9IGV2ZW50LmdldFBhcmFtZXRlcigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNhZGFnZW50Lmd1aS5vYnIuT2JqZWN0TWFuYWdlckd1aTsK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjYWRhZ2VudC5jZmMudXRpbC5TdHJpbmdUb29sLmdldE51bWVyaWNTdHJpbmdLZXk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHBsbS5zZXNzLlBsbVNlc3Npb247Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LnByb2MuUExNUHJvY2VzczsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHBsbS5wcm9jLnNlYXJjaC5QbG1Qcm9jZXNzQWJzdHJhY3RTZWFyY2g7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50Lmd1aS5vYnIuT2JqZWN0TWFuYWdlckd1aTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
