@@ -177,12 +177,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/search/SandvikSearchManager.java" timestamp="1501755880596">
         <mark key="'" line="331" column="12" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" timestamp="1504003941802">
-        <mark key="'" line="236" column="43" />
-        <mark key="[" line="95" column="26" />
-        <mark key="]" line="95" column="32" />
-        <mark key="^" line="95" column="32" />
-        <mark key="." line="95" column="32" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" timestamp="1504010867020">
+        <mark key="'" line="233" column="43" />
+        <mark key="[" line="85" column="132" />
+        <mark key="]" line="86" column="5" />
+        <mark key="." line="86" column="5" />
+        <mark key="^" line="86" column="5" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/Component.java" timestamp="1503394907669">
         <mark key="'" line="8587" column="16" />
@@ -316,8 +316,8 @@
       <jump line="243" column="43" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>object</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name="-" type="4">
         <text>object</text>
@@ -329,37 +329,37 @@
         <text>inTemplateDocument</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjYWRhZ2VudC5jZmMudXRpbC5TdHJpbmdUb29sLmdldE51bWVyaWNTdHJpbmdLZXk7Cg==</text>
+        <text encoding="base64">CgoKCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LnByb2MuUExNUHJvY2VzczsK</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIHBhcmFtZXRlciA9IGV2ZW50LmdldFBhcmFtZXRlcigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNhZGFnZW50Lmd1aS5vYnIuT2JqZWN0TWFuYWdlckd1aTsK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjYWRhZ2VudC5jZmMudXRpbC5TdHJpbmdUb29sLmdldE51bWVyaWNTdHJpbmdLZXk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHBsbS5zZXNzLlBsbVNlc3Npb247Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50LnByb2MuUExNUHJvY2VzczsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHBsbS5wcm9jLnNlYXJjaC5QbG1Qcm9jZXNzQWJzdHJhY3RTZWFyY2g7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNhZGFnZW50Lmd1aS5vYnIuT2JqZWN0TWFuYWdlckd1aTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHBsbS5wcm9jLmRvYy5zZWFyY2guUGxtUHJvY2Vzc0RvY3VtZW50U2VhcmNoMzsK</text>
+        <text encoding="base64">aW1wb3J0IHBsbS5zZXNzLlBsbVNlc3Npb247Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHBsbS5wcm9jLmRvYy5zZWFyY2guUGxtUHJvY2Vzc0RvY3VtZW50U2VhcmNoMjsK</text>
+        <text encoding="base64">aW1wb3J0IHBsbS5wcm9jLnNlYXJjaC5QbG1Qcm9jZXNzQWJzdHJhY3RTZWFyY2g7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChpblRlbXBsYXRlRG9jdW1lbnQgPT0gbnVsbCkKICAgICAgdGhyb3cgbmV3IE1pc3NpbmdQcm9jZXNzSW5wdXRFeGNlcHRpb24oSU5fU0VMRUNURURfRE9DVU1FTlQpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHBsbS5wcm9jLmRvYy5zZWFyY2guUGxtUHJvY2Vzc0RvY3VtZW50U2VhcmNoMzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFBsbURvY3VtZW50IGluVGVtcGxhdGVEb2N1bWVudDsK</text>
+        <text encoding="base64">aW1wb3J0IHBsbS5wcm9jLmRvYy5zZWFyY2guUGxtUHJvY2Vzc0RvY3VtZW50U2VhcmNoMjsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
