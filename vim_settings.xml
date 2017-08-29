@@ -80,6 +80,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/cad/doc/createmulti/gui/PlmDocCreateMultiDialog.java" timestamp="1502280713124">
         <mark key="'" line="169" column="12" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" timestamp="1503997178120">
+        <mark key="[" line="93" column="47" />
+        <mark key="]" line="93" column="66" />
+        <mark key="." line="93" column="47" />
+        <mark key="^" line="93" column="118" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/gui/browser/components/actions/F4HelpRunner.java" timestamp="1502194590358">
         <mark key="'" line="64" column="21" />
       </file>
@@ -176,12 +182,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/search/SandvikSearchManager.java" timestamp="1501755880596">
         <mark key="'" line="331" column="12" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" timestamp="1503995822128">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" timestamp="1503997383409">
         <mark key="'" line="107" column="6" />
-        <mark key="[" line="247" column="38" />
-        <mark key="]" line="247" column="40" />
-        <mark key="." line="247" column="40" />
-        <mark key="^" line="247" column="40" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="^" line="117" column="18" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/Component.java" timestamp="1503394907669">
         <mark key="'" line="8587" column="16" />
@@ -315,17 +321,17 @@
       <jump line="107" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>DOC</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>DOC</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb2xkZXJfZXhwYW5kZWRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIE9tZkRvY09wZW5GYXN0IG9tZiA9IG5ldyBPbWZEb2NPcGVuRmFzdChjaGVja291dF9tb2RlKTsKICAgIHJldHVybiBudWxsOwo=</text>
+      <register name="0" type="4">
+        <text>templateDocument</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -337,28 +343,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBwbG0gCg==</text>
+        <text encoding="base64">CiAgICAgICAgaWYgKHRlbXBsYXRlRG9jdW1lbnQgIT0gbnVsbCl7CiAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInRlc3QiKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgTGlzdDxQbG1Eb2N1bWVudD4gb2JqZWN0ID0gZGNCYWNrLmdldE9iamVjdChPVVRfRE9DUyk7CiAgICAgIGlmIChvYmplY3Quc2l6ZSgpID09IDEpCiAgICAgIHsKICAgICAgICB0ZW1wbGF0ZURvY3VtZW50ID0gb2JqZWN0LmdldCgwKTsKICAgICAgfQoKICAgICAgaWYgKHRlbXBsYXRlRG9jdW1lbnQgIT0gbnVsbCl7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ0ZXN0Iik7CiAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgRGF0YUNvbnRhaW5lciBkY0JhY2sgPSBudWxsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgUGxtRG9jdW1lbnQgdGVtcGxhdGVEb2N1bWVudCA9IG51bGw7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICByCg==</text>
+        <text encoding="base64">ICAgICAgTGlzdDxQbG1Eb2N1bWVudD4gb2JqZWN0ID0gZGNCYWNrLmdldE9iamVjdChPVVRfRE9DUyk7CiAgICAgIGlmIChvYmplY3Quc2l6ZSgpID09IDEpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgUGxtRG9jdW1lbnQgdGVtcGxhdGVEb2N1bWVudCA9IG51bGw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
