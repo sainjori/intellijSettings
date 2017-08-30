@@ -147,7 +147,7 @@
       <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DSL.java" timestamp="1503656892385">
         <mark key="'" line="352" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503937613890">
+      <file name="/Dummy.txt" timestamp="1504081319257">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/system-default.txt" timestamp="1503913023777" />
@@ -183,12 +183,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/search/SandvikSearchManager.java" timestamp="1501755880596">
         <mark key="'" line="331" column="12" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" timestamp="1504024450549">
-        <mark key="'" line="115" column="0" />
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="111" column="0" />
-        <mark key="^" line="102" column="38" />
-        <mark key="." line="111" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" timestamp="1504081306267">
+        <mark key="'" line="225" column="2" />
+        <mark key="[" line="232" column="41" />
+        <mark key="]" line="232" column="43" />
+        <mark key="." line="232" column="43" />
+        <mark key="^" line="232" column="43" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/Component.java" timestamp="1503394907669">
         <mark key="'" line="8587" column="16" />
@@ -218,10 +218,9 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrProperty.java" timestamp="1503424089141">
         <mark key="'" line="68" column="13" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/proc/doc/search/PlmDocumentFilter.java" timestamp="1504081317432" />
     </filemarks>
     <jumps>
-      <jump line="477" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
-      <jump line="855" column="19" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="927" column="19" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="1217" column="25" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="1219" column="18" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
@@ -320,13 +319,15 @@
       <jump line="233" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" />
       <jump line="115" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" />
       <jump line="162" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" />
+      <jump line="43" column="27" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" />
+      <jump line="225" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>KsbProcessDocCreateChangeNote.XTA</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>KsbProcessDocCreateChangeNote.XTA</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb2xkZXJfZXhwYW5kZWRcPg==</text>
@@ -335,31 +336,31 @@
         <text>KsbProcessDocCreateChangeNote.XTA_DTYPE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIHBsbURvY3VtZW50TGlzdDsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="4">
         <text>else
         {
           GuiUtils.setStatusLineSuccessText(Dic.get(&quot;plm.02142fe&quot;, &quot;Document could not be found.&quot;));
         }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBwYXJ0ID0gaW5TZWxlY3RlZERvY3VtZW50LmdldFBhcnQoKTsKICAgIFN0cmluZyBsYW5ndWFnZUlkID0gcGFydC5zdWJzdHJpbmcoMCwgMSk7CiAgICBpZiAobGFuZ3VhZ2VJZC5lcXVhbHMoIiIpKQogICAgICBsYW5ndWFnZUlkID0gREVGQVVMVF9MQU5HX0NIQVJfVkFMVUU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBlCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIExpbmtlZExpc3Q8UGxtTG9uZ1RleHRMaW5lPiBuZXdMb25nVGV4dCA9IGluVGVtcGxhdGVEb2N1bWVudC5nZXROZXdMb25nVGV4dChsYW5ndWFnZUlkKTsK</text>
+        <text encoding="base64">ICAgIFN0cmluZyBwYXJ0ID0gaW5TZWxlY3RlZERvY3VtZW50LmdldFBhcnQoKTsKICAgIFN0cmluZyBsYW5ndWFnZUlkID0gcGFydC5zdWJzdHJpbmcoMCwgMSk7CiAgICBpZiAobGFuZ3VhZ2VJZC5lcXVhbHMoIiIpKQogICAgICBsYW5ndWFnZUlkID0gREVGQVVMVF9MQU5HX0NIQVJfVkFMVUU7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -368,7 +369,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG91dE5vbk1hc3Rlci5zZXROZXdMb25nVGV4dChsYW5ndWFnZUlkLCBuZXdMb25nVGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgIExpbmtlZExpc3Q8UGxtTG9uZ1RleHRMaW5lPiBuZXdMb25nVGV4dCA9IGluVGVtcGxhdGVEb2N1bWVudC5nZXROZXdMb25nVGV4dChsYW5ndWFnZUlkKTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
