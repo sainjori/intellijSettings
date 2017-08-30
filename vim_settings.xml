@@ -38,11 +38,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/gui/browser/components/actions/OpenAction.java" timestamp="1502119156830">
         <mark key="'" line="92" column="38" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1504095748570">
-        <mark key="[" line="72" column="103" />
-        <mark key="]" line="72" column="104" />
-        <mark key="." line="72" column="104" />
-        <mark key="^" line="72" column="104" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1504099639739">
+        <mark key="[" line="67" column="45" />
+        <mark key="]" line="66" column="106" />
+        <mark key="." line="66" column="106" />
+        <mark key="^" line="66" column="106" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DefaultDataType.java" timestamp="1503661420725">
         <mark key="'" line="679" column="4" />
@@ -126,12 +126,11 @@
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/EventDispatchThread.java" timestamp="1503395638741">
         <mark key="'" line="88" column="8" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/proc/SandvikProcessPreviewBatch.java" timestamp="1504096033814">
-        <mark key="'" line="72" column="20" />
-        <mark key="[" line="90" column="4" />
-        <mark key="]" line="90" column="4" />
-        <mark key="." line="90" column="4" />
-        <mark key="^" line="44" column="38" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/proc/SandvikProcessPreviewBatch.java" timestamp="1504100210111">
+        <mark key="[" line="148" column="62" />
+        <mark key="]" line="148" column="60" />
+        <mark key="." line="148" column="60" />
+        <mark key="^" line="148" column="60" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/Record.java" timestamp="1503662638236">
         <mark key="'" line="345" column="10" />
@@ -236,8 +235,6 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/proc/doc/search/PlmDocumentFilter.java" timestamp="1504081317432" />
     </filemarks>
     <jumps>
-      <jump line="83" column="70" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/WeberProcessAssignProject.java" />
-      <jump line="39" column="48" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/proc/WeberProcessAssignProject.java" />
       <jump line="44" column="49" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" />
       <jump line="18" column="23" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/brobj/WeberDefaultBrowseObject.java" />
       <jump line="23" column="9" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/brobj/WeberDefaultBrowseObject.java" />
@@ -336,59 +333,52 @@
       <jump line="201" column="17" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
       <jump line="231" column="32" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/proc/SandvikProcessPreviewBatch.java" />
       <jump line="95" column="20" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/proc/SandvikProcessPreviewBatch.java" />
+      <jump line="90" column="10" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/proc/SandvikProcessPreviewBatch.java" />
+      <jump line="101" column="32" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/proc/SandvikProcessPreviewBatch.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ApiParameter params = new ApiParameter();
-    params.addImport(&quot;CHECK_AUTH&quot;, &quot;X&quot;);
-    params.addImport(&quot;IV_MODE&quot;, &quot;EDIT&quot;);
-    params.addImport(&quot;IV_ACTIVITY&quot;, &quot;02&quot;);
-
-//    addDrawData(document, syncData, params);</text>
+        <text>throws DefaultLogException</text>
       </register>
       <register name="-" type="4">
-        <text>Check permission check for create document</text>
+        <text>throws DefaultLogException</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb252ZXJ0U2NyaXB0XD4=</text>
+        <text encoding="base64">XDxjYWxsQmF0Y2hTY3JpcHRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgTGlzdDxQbG1Eb2N1bWVudD4gcGxtRG9jdW1lbnRzQ2hlY2tlZE91dCA9IHBsbURvY3VtZW50TGlzdC5zdHJlYW0oKS5maWx0ZXIoZSAtPiAiMSIuZXF1YWxzKGUuaXNNYXN0ZXJPcmlnaW5hbENoZWNrZWRvdXQoKSkpLmNvbGxlY3QodG9MaXN0KCkpOwo=</text>
+        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIERDS2V5T2JqZWN0PFN0cmluZz4gT0JSRlVOQ1RJT05LRVkgPSBuZXcgRENLZXlPYmplY3Q8PigiT0JSRlVOQ1RJT05LRVkiKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>ApiParameter params = new ApiParameter();
-    params.addImport(&quot;CHECK_AUTH&quot;, &quot;X&quot;);
-    params.addImport(&quot;IV_MODE&quot;, &quot;EDIT&quot;);
-    params.addImport(&quot;IV_ACTIVITY&quot;, &quot;02&quot;);
-
-//    addDrawData(document, syncData, params);</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4ZWN1dGVBcGkoQVBJX05BTUUsIHBhcmFtcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gc3luY0RhdGEgPSBnZXRPYmplY3RJbnB1dChJTl9TWU5DX0RBVEEpOwo=</text>
+        <text encoding="base64">ICAgICAgZXJyb3JEaWFsb2cuc2hvdygpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBTdHJpbmcgQVBJX05BTUUgPSAiL0RTQ1NBRy9ET0NfUEVSTUlTU0lPTl9DSEVDSyI7Cg==</text>
+      <register name="4" type="4">
+        <text>ferDirectory();
+      errorDialog.show();</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwdWJsaWMgZmluYWwgc3RhdGljIERDS2V5T2JqZWN0PE1hcDxTdHJpbmcsIE9iamVjdD4+IElOX1NZTkNfREFUQSA9IG5ldyBEQ0tleU9iamVjdDxNYXA8U3RyaW5nLCBPYmplY3Q+PigiSU5fU1lOQ19EQVRBIik7Cg==</text>
+        <text encoding="base64">ICAgICAgUGxtT2JzZXJ2ZXIuZ2V0SW5zdCgpLnRyaWdnZXJFbmZvcmNlZE1vZGUoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvckRpYWxvZy5hZGRUaHJvd2FibGUobmV3IERlZmF1bHRMb2dFeGNlcHRpb24oZGljVGV4dCkpOwo=</text>
+        <text encoding="base64">ICAgICAgUGxtT2JzZXJ2ZXIuZ2V0SW5zdCgpLnNldEhpYmVybmF0ZWQoZmFsc2UpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBEaWNUZXh0IGRpY1RleHQgPSBEaWMuZ2V0VGV4dCgiRTAyNTI4IiwgIlRoZSBkb2N1bWVudCAnJScxIGlzIGluIGEgbG9jayBzdGF0dXMuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgQXJyYXlMaXN0PERlZmF1bHRMb2dFeGNlcHRpb24+IGRlZmF1bHRMb2dFeGNlcHRpb25zID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGF0YUNvbnRhaW5lckJhY2suYWRkT2JqZWN0KEVSUk9SUywgKTsgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -398,9 +388,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb252ZXJ0U2NyaXB0XD4=</last-search>
+      <last-search encoding="base64">XDxjYWxsQmF0Y2hTY3JpcHRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb252ZXJ0U2NyaXB0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjYWxsQmF0Y2hTY3JpcHRcPg==</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>import</last-substitute>
       <last-dir>1</last-dir>
@@ -408,8 +398,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxiclJlczhEb2N1bWVudHNcPg==</entry>
-        <entry>obj</entry>
         <entry encoding="base64">XDxwcm9wZXJ0eUtleVw+</entry>
         <entry encoding="base64">XDxkYm9JbmRpY2F0aW9uTmFtZVw+</entry>
         <entry encoding="base64">XDxidE9LXD4=</entry>
@@ -428,6 +416,8 @@
         <entry encoding="base64">XDxCQVNJQ0RBVEFcPg==</entry>
         <entry encoding="base64">XDxmb2xkZXJfZXhwYW5kZWRcPg==</entry>
         <entry encoding="base64">XDxjb252ZXJ0U2NyaXB0XD4=</entry>
+        <entry encoding="base64">XDxkZWxldGVQcmV2aWVzRnJvbUxhc3RDb252ZXJzaW9uXD4=</entry>
+        <entry encoding="base64">XDxjYWxsQmF0Y2hTY3JpcHRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>3,.</entry>
