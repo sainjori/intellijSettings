@@ -38,6 +38,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/gui/browser/components/actions/OpenAction.java" timestamp="1502119156830">
         <mark key="'" line="92" column="38" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" timestamp="1504088862887">
+        <mark key="[" line="96" column="25" />
+        <mark key="]" line="96" column="25" />
+        <mark key="." line="96" column="25" />
+        <mark key="^" line="94" column="30" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DefaultDataType.java" timestamp="1503661420725">
         <mark key="'" line="679" column="4" />
       </file>
@@ -323,16 +329,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>KsbProcessDocCreateChangeNote.XTA</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>KsbProcessDocCreateChangeNote.XTA</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb2xkZXJfZXhwYW5kZWRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>KsbProcessDocCreateChangeNote.XTA_DTYPE</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgTGlzdDxQbG1Eb2N1bWVudD4gY2hlY2tlZE91dCA9IGNvbGxlY3Quc3RyZWFtKCkuZmlsdGVyKGUgLT4gIjEiLmVxdWFscyhlLmlzTWFzdGVyT3JpZ2luYWxDaGVja2Vkb3V0KCkpKS5jb2xsZWN0KHRvTGlzdCgpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -341,34 +347,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHBsbURvY3VtZW50TGlzdDsK</text>
+        <text encoding="base64">ICAgICAgTGlzdDxGaWxlPiBjZ21GaWxlcyA9IGdldENnbU9yaWdpbmFscyhwbG1Eb2N1bWVudCwgY2dtT3JpZ2luYWxXc0FwcGwpOwoKICAgICAgaWYgKGNnbUZpbGVzLmlzRW1wdHkoKSkKICAgICAgewogICAgICAgIERpY1RleHQgZGljVGV4dCA9IERpYwogICAgICAgICAgICAuZ2V0VGV4dCgiRTAxNTEiLCAiVGhpcyBkb2N1bWVudCAlcyBoYXMgbm8gZmlsZSB3aXRoIHdvcmtzdGF0aW9uIGFwcGxpa2F0aW9uICVzIHRvIGNyZWF0ZSBwcmV2aWV3cy4iLCBwbG1Eb2N1bWVudC5nZXRTYXBLZXkoKSwgY2dtT3JpZ2luYWxXc0FwcGwpOwogICAgICAgIGVycm9yRGlhbG9nLmFkZFRocm93YWJsZShuZXcgRGVmYXVsdExvZ0V4Y2VwdGlvbihkaWNUZXh0KSk7CiAgICAgICAgcmV0dXJuOwogICAgICB9CgogICAgICBkZWxldGVQcmV2aWVzRnJvbUxhc3RDb252ZXJzaW9uKHBsbURvY3VtZW50LCBwcmV2aWV3c1dzQXBwbCk7CgogICAgICB0aGlzLnRhcmdldERpcmVjdG9yeSA9IG5ldyBGaWxlKGdldFRyYW5zZmVyRGlyZWN0b3J5KCkpOwogICAgICBmb3IgKEZpbGUgZmlsZVRvQ29udmVydCA6IGNnbUZpbGVzKQogICAgICB7CiAgICAgICAgRmlsZSBjb252ZXJ0ZWRKcGdGaWxlID0gY2FsbEJhdGNoU2NyaXB0KGZpbGVUb0NvbnZlcnQsIHRhcmdldERpcmVjdG9yeSk7CiAgICAgICAgaWYgKGNvbnZlcnRlZEpwZ0ZpbGUgIT0gbnVsbCkKICAgICAgICB7CiAgICAgICAgICBQbG1VdGlscy5jaGVja2luRmlsZShjb252ZXJ0ZWRKcGdGaWxlLCBwbG1Eb2N1bWVudCwgcHJldmlld3NXc0FwcGwpOwogICAgICAgIH0KICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgZm8K</text>
       </register>
-      <register name="4" type="4">
-        <text>else
-        {
-          GuiUtils.setStatusLineSuccessText(Dic.get(&quot;plm.02142fe&quot;, &quot;Document could not be found.&quot;));
-        }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgZm91bmRFcnJvcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBwYXJ0ID0gaW5TZWxlY3RlZERvY3VtZW50LmdldFBhcnQoKTsKICAgIFN0cmluZyBsYW5ndWFnZUlkID0gcGFydC5zdWJzdHJpbmcoMCwgMSk7CiAgICBpZiAobGFuZ3VhZ2VJZC5lcXVhbHMoIiIpKQogICAgICBsYW5ndWFnZUlkID0gREVGQVVMVF9MQU5HX0NIQVJfVkFMVUU7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKCIxIi5lcXVhbHMocGxtRG9jdW1lbnQuaXNNYXN0ZXJPcmlnaW5hbENoZWNrZWRvdXQoKSkpewo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgUGxtRG9jdW1lbnQgcGxtRG9jdW1lbnQgPSBickRvY3VtZW50LmdldFBsbURvY3VtZW50KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIExpbmtlZExpc3Q8UGxtTG9uZ1RleHRMaW5lPiBuZXdMb25nVGV4dCA9IGluVGVtcGxhdGVEb2N1bWVudC5nZXROZXdMb25nVGV4dChsYW5ndWFnZUlkKTsK</text>
+        <text encoding="base64">ICAgICAgcGxtRG9jdW1lbnRDb250YWluZXIuYWQK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
