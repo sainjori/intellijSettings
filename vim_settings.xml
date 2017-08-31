@@ -9,11 +9,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/BrowserHelper.java" timestamp="1504195324330" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiExportAfter.java" timestamp="1504179741306" />
       <file name="/default.txt" timestamp="1504193637338" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" timestamp="1504195342428">
-        <mark key="[" line="226" column="48" />
-        <mark key="]" line="226" column="85" />
-        <mark key="." line="226" column="85" />
-        <mark key="^" line="226" column="85" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" timestamp="1504197561368">
+        <mark key="[" line="227" column="17" />
+        <mark key="]" line="227" column="38" />
+        <mark key="." line="227" column="38" />
+        <mark key="^" line="227" column="38" />
       </file>
       <file name="/menu.guidef" timestamp="1504193670747" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/proc/SandvikProcessPreviewBatch.java" timestamp="1504103274534">
@@ -159,10 +159,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>prefKey</text>
+        <text>props</text>
       </register>
       <register name="-" type="4">
-        <text>prefKey</text>
+        <text>props</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQUk9KRUNUX0RFRklOSVRJT05cPg==</text>
@@ -171,43 +171,37 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gZm5jLmNvbmZpZ3VyYXRpb24uc2F2ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNsYXNzQWxsb2NhdGlvbi4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY2hlY2tTZWxlY3RlZEJyRG9jdW1lbnQoc2VsZWN0ZWRQbG1Eb2N1bWVudCwgbWFzdGVyRG9jdW1lbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBwbG1DbGFzc0NoYXJhY3RlcmlzdGljLmdldE5hbWUoKS5jCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZiAocGxtVmFsdWVBc3NpZ25tZW50LmdldFBsbUNsYXNzQ2hhcmFjdGVyaXN0aWMoKSkK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>if (gui_action == PlmProcessDocumentSearch2.GUI_ACTION_OK)
-        {
-
-        }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY2hlY2tTZWxlY3RlZEJyRG9jdW1lbnQoc2VsZWN0ZWRQbG1Eb2N1bWVudCwgbWFzdGVyRG9jdW1lbnQpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>//wenn der Anwender den Vorgang abgebrochen hat, dann soll im ComboBox
-          //die urspruengliche Clone-Option erscheinen
-          restoreOldValue(oldValue);
-          throw new BrClonePosition.GuiCancelException(Dic.getText(&quot;E02780&quot;, &quot;Process canceled by user.&quot;));</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IFBsbURvY3VtZW50IHNlbGVjdGVkRG9jdW1lbnQgPSBnZXRTZWxlY3RlZERvY3VtZW50KGRjX2JhY2spOwogICAgICAgICAgaWYgKHNlbGVjdGVkRG9jdW1lbnQgIT0gbnVsbCkKICAgICAgICAgIHsKICAgICAgICAgICAgLy8gbmV3IGRvY3VtZW50IGlzIGFuIGV4aXN0aW5nIGRvY3VtZW50IGFuZCBoYXMgaXRzIG93biBkZXRhaWxzIQogICAgICAgICAgICBzZXRQbG1Eb2NOZXcoc2VsZWN0ZWREb2N1bWVudCk7CgogICAgICAgICAgICAvLyB1cGRhdGUgcHJvcGVydGllcyBvZiBuZXcgZG9jdW1lbnQ6IG5yLCB0eXBlIGFuZCBzbyBvbgogICAgICAgICAgICBzZXROZXdDbG9uZVByb3BlcnRpZXMoc2VsZWN0ZWREb2N1bWVudCk7CiAgICAgICAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBHdWlVdGlscy5jbGVhclN0YXR1c0xpbmVUZXh0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
