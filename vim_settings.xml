@@ -150,10 +150,17 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/daos/BaseEctrStatisticSettingsDao.java" timestamp="1503654476584">
         <mark key="'" line="68" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrPspElement.java" timestamp="1504189410849">
+        <mark key="'" line="319" column="41" />
+        <mark key="[" line="323" column="132" />
+        <mark key="]" line="325" column="20" />
+        <mark key="^" line="325" column="20" />
+        <mark key="." line="325" column="20" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DSL.java" timestamp="1503656892385">
         <mark key="'" line="352" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504081319257">
+      <file name="/Dummy.txt" timestamp="1504189233703">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/daos/BaseEctrStatisticGroupDao.java" timestamp="1503663179825">
@@ -229,9 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="23" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/brobj/WeberDefaultBrowseObject.java" />
-      <jump line="23" column="9" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/brobj/WeberDefaultBrowseObject.java" />
-      <jump line="34" column="98" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/brobj/WeberDefaultBrowseObject.java" />
       <jump line="102" column="43" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" />
       <jump line="119" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" />
       <jump line="101" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" />
@@ -329,6 +333,9 @@
       <jump line="90" column="10" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/proc/SandvikProcessPreviewBatch.java" />
       <jump line="101" column="32" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/proc/SandvikProcessPreviewBatch.java" />
       <jump line="1566" column="55" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/menu.guidef" />
+      <jump line="465" column="19" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrPspElement.java" />
+      <jump line="119" column="51" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrPspElement.java" />
+      <jump line="319" column="41" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrPspElement.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -338,7 +345,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYWxsQmF0Y2hTY3JpcHRcPg==</text>
+        <text encoding="base64">XDxQUk9KRUNUX0RFRklOSVRJT05cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gZm5jLmNvbmZpZ3VyYXRpb24uc2F2ZQo=</text>
@@ -387,9 +394,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYWxsQmF0Y2hTY3JpcHRcPg==</last-search>
+      <last-search encoding="base64">XDxQUk9KRUNUX0RFRklOSVRJT05cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYWxsQmF0Y2hTY3JpcHRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxQUk9KRUNUX0RFRklOSVRJT05cPg==</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>import</last-substitute>
       <last-dir>1</last-dir>
@@ -397,7 +404,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9wZXJ0eUtleVw+</entry>
         <entry encoding="base64">XDxkYm9JbmRpY2F0aW9uTmFtZVw+</entry>
         <entry encoding="base64">XDxidE9LXD4=</entry>
         <entry encoding="base64">XDxvbGRSZXM4XD4=</entry>
@@ -417,6 +423,7 @@
         <entry encoding="base64">XDxjb252ZXJ0U2NyaXB0XD4=</entry>
         <entry encoding="base64">XDxkZWxldGVQcmV2aWVzRnJvbUxhc3RDb252ZXJzaW9uXD4=</entry>
         <entry encoding="base64">XDxjYWxsQmF0Y2hTY3JpcHRcPg==</entry>
+        <entry encoding="base64">XDxQUk9KRUNUX0RFRklOSVRJT05cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>3,.</entry>
