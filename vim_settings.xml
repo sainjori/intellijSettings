@@ -199,12 +199,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/search/SandvikSearchManager.java" timestamp="1501755880596">
         <mark key="'" line="331" column="12" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" timestamp="1504200632149">
-        <mark key="'" line="188" column="24" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="^" line="103" column="5" />
-        <mark key="." line="124" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" timestamp="1504205588544">
+        <mark key="'" line="189" column="24" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/Component.java" timestamp="1503394907669">
         <mark key="'" line="8587" column="16" />
@@ -221,6 +220,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/GuiUtils.java" timestamp="1503407257968">
         <mark key="'" line="2293" column="13" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/utils/PlmDocumentUtils.java" timestamp="1504205237977" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1502451364103">
         <mark key="'" line="1219" column="18" />
       </file>
@@ -230,10 +230,10 @@
       <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/AbstractDelegatingQuery.java" timestamp="1503661526726">
         <mark key="'" line="104" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1504194822901">
+      <file name="/fragment.java" timestamp="1504205520633">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
         <mark key="^" line="0" column="14" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrProperty.java" timestamp="1503424089141">
@@ -344,10 +344,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vY2FuY2VsIHdhcyBjbGlja2VkLiBhYm9ydC4K</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>getDTypeId()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZUFzc2lnbm1lbnRcPg==</text>
@@ -356,34 +356,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gZm5jLmNvbmZpZ3VyYXRpb24uc2F2ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vY2FuY2VsIHdhcyBjbGlja2VkLiBhYm9ydC4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG91dE5vbk1hc3Rlci5zZXRDbGFzc0FsbG9jYXRpb25zKGluVGVtcGxhdGVEb2N1bWVudC5nZXRDbGFzc0FsbG9jYXRpb25zKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjaGVjayBpZiB0aGUgcmV0dXJuIHZhbHVlcyBhcmUgaGVyZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2hlY2tTZWxlY3RlZEJyRG9jdW1lbnQoc2VsZWN0ZWRQbG1Eb2N1bWVudCwgbWFzdGVyRG9jdW1lbnQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3V0Tm9uTWFzdGVyLmFkZENsYXNzQWxsb2NhdGlvbihjbGFzc0FsbG9jYXRpb24xKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIG91dE5vbk1hc3Rlci5zZXRDbGFzc0FsbG9jYXRpb25zKGluVGVtcGxhdGVEb2N1bWVudC5nZXRDbGFzc0FsbG9jYXRpb25zKCkpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3V0Tm9uTWFzdGVyLmFkZENsYXNzQWxsb2NhdGlvbihjbGFzc0FsbG9jYXRpb24xKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIFBsbUNsYXNzQWxsb2NhdGlvbiBwbG1DbGFzc0FsbG9jYXRpb24gPSBuZXcgUGxtQ2xhc3NBbGxvY2F0aW9uKGNsYXNzQWxsb2NhdGlvbi5nZXRQbG1DbGFzcygpKTsKICAgICAgICAgIFBsbVZhbHVlQXNzaWdubWVudCBvckNyZWF0ZUFzc2lnbm1lbnQgPSBwbG1DbGFzc0FsbG9jYXRpb24uZmluZE9yQ3JlYXRlQXNzaWdubWVudChwbG1DbGFzc0NoYXJhY3RlcmlzdGljKTsKICAgICAgICAgIG9yQ3JlYXRlQXNzaWdubWVudC5pbXBvcnRWYWx1ZXMocGxtVmFsdWVBc3NpZ25tZW50LmdldFZhbHVlcygpKTsKICAgICAgICAgIG91dE5vbk1hc3Rlci5hZGRDbGFzc0FsbG9jYXRpb24ocGxtQ2xhc3NBbGxvY2F0aW9uKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
