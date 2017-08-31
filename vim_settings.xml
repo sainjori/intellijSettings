@@ -3,154 +3,25 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DefaultExecuteContext.java" timestamp="1503661895155">
-        <mark key="'" line="361" column="4" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/utils/OmfUtils.java" timestamp="1502212632060">
-        <mark key="'" line="171" column="52" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/util/Trace.java" timestamp="1503500121215">
-        <mark key="'" line="854" column="17" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1502439474787">
-        <mark key="'" line="242" column="4" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/AnyBrowser.java" timestamp="1503395862093">
-        <mark key="'" line="123" column="10" />
-      </file>
       <file name="/a.dummy" timestamp="1503938831788">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/AddComponentDialog.java" timestamp="1502131445625">
-        <mark key="'" line="180" column="44" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/DefaultTableBrowserComponent.java" timestamp="1503496827715">
-        <mark key="'" line="202" column="30" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/AbstractResultQuery.java" timestamp="1503661753293">
-        <mark key="'" line="523" column="5" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/ExecuteListener.java" timestamp="1503661915088">
-        <mark key="'" line="301" column="9" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/gui/browser/components/actions/OpenAction.java" timestamp="1502119156830">
-        <mark key="'" line="92" column="38" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DefaultDataType.java" timestamp="1503661420725">
-        <mark key="'" line="679" column="4" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/BrowserHelper.java" timestamp="1504190127181" />
-      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/Container.java" timestamp="1503395240784">
-        <mark key="'" line="3656" column="37" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/EventQueue.java" timestamp="1503395721067">
-        <mark key="'" line="702" column="0" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/swing/table/TableCellEditor.java" timestamp="1502111462444">
-        <mark key="'" line="68" column="14" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/search/gui/ResultTable.java" timestamp="1501762813077">
-        <mark key="'" line="179" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/utils/PlmObserver.java" timestamp="1503926061605">
-        <mark key="'" line="1071" column="14" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/ConcurrentHashMap.java" timestamp="1503655985668">
-        <mark key="'" line="266" column="13" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiExportAfter.java" timestamp="1504179741306" />
-      <file name="C:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/misc/Launcher.class" timestamp="1503394422660">
-        <mark key="'" line="192" column="0" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/LinkedList.java" timestamp="1503669946248">
-        <mark key="'" line="105" column="11" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/brobj/PlmSearchQuery.java" timestamp="1501696091672">
-        <mark key="'" line="421" column="6" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/omf/OmfChecktableMaintain.java" timestamp="1502134416852">
-        <mark key="'" line="243" column="11" />
-      </file>
-      <file name="/default.txt" timestamp="1504172716963" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/cfc/util/Dialogbox.java" timestamp="1502444511187">
-        <mark key="'" line="809" column="15" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/brobj/BrDocument.java" timestamp="1502359675964">
-        <mark key="'" line="2779" column="21" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/cad/doc/createmulti/gui/PlmDocCreateMultiDialog.java" timestamp="1502280713124">
-        <mark key="'" line="169" column="12" />
-      </file>
+      <file name="/default.txt" timestamp="1504193637338" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" timestamp="1504084080800">
         <mark key="[" line="259" column="56" />
         <mark key="]" line="259" column="85" />
         <mark key="." line="259" column="85" />
         <mark key="^" line="259" column="85" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/gui/browser/components/actions/F4HelpRunner.java" timestamp="1502194590358">
-        <mark key="'" line="64" column="21" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/base/java/src/cadagent/gui/obr/ObrPropertyUtils.java" timestamp="1502113746425">
-        <mark key="'" line="79" column="48" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/proc/doc/PopDocChangeMulti.java" timestamp="1502992661449">
-        <mark key="'" line="245" column="76" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/errordialog/ErrorDialog.java" timestamp="1502987667255">
-        <mark key="'" line="124" column="40" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/TreePanelTreeModel.java" timestamp="1503484922843">
-        <mark key="'" line="199" column="4" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/Window.java" timestamp="1502716192453">
-        <mark key="'" line="1774" column="29" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.2/base-5.1.7.2-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1501762726127">
-        <mark key="'" line="638" column="14" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DefaultDSLContext.java" timestamp="1503655853045">
-        <mark key="'" line="319" column="0" />
-      </file>
-      <file name="/menu.guidef" timestamp="1504172745589" />
-      <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/SelectQueryImpl.java" timestamp="1503657520149">
-        <mark key="'" line="222" column="35" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/convert.bat" timestamp="1503331292703">
-        <mark key="'" line="52" column="21" />
-      </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/EventDispatchThread.java" timestamp="1503395638741">
-        <mark key="'" line="88" column="8" />
-      </file>
+      <file name="/menu.guidef" timestamp="1504193670747" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/proc/SandvikProcessPreviewBatch.java" timestamp="1504103274534">
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/DataExcExportController.java" timestamp="1504175712546" />
-      <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/Record.java" timestamp="1503662638236">
-        <mark key="'" line="345" column="10" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrObjFactory.java" timestamp="1503407121553">
-        <mark key="'" line="666" column="21" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/omf/OmfDocAdd.java" timestamp="1503995812611">
-        <mark key="'" line="549" column="72" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/gui/browser/components/widgets/ObrPropertyTableCellEditor.java" timestamp="1502293537361">
-        <mark key="'" line="58" column="23" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/StandardBrowsePanel.java" timestamp="1503395913804">
-        <mark key="'" line="470" column="10" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/modules/acm/gui/AccF4Helper.java" timestamp="1502181560931">
-        <mark key="'" line="113" column="26" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/utils/PlmClassificationUtils.java" timestamp="1502719383110">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/daos/BaseEctrStatisticSettingsDao.java" timestamp="1503654476584">
-        <mark key="'" line="68" column="0" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrPspElement.java" timestamp="1504189410849">
         <mark key="'" line="319" column="41" />
         <mark key="[" line="323" column="132" />
@@ -158,43 +29,11 @@
         <mark key="^" line="325" column="20" />
         <mark key="." line="325" column="20" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DSL.java" timestamp="1503656892385">
-        <mark key="'" line="352" column="13" />
-      </file>
       <file name="/Dummy.txt" timestamp="1504189233703">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/daos/BaseEctrStatisticGroupDao.java" timestamp="1503663179825">
-        <mark key="'" line="73" column="64" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.3.9.v20160517/jetty-util-9.3.9.v20160517-sources.jar!/org/eclipse/jetty/util/thread/QueuedThreadPool.java" timestamp="1503671062725">
-        <mark key="'" line="578" column="34" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/tools/StringUtils.java" timestamp="1503661041584">
-        <mark key="'" line="127" column="0" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/ObrChildrenDisplay.java" timestamp="1502962451895">
-        <mark key="'" line="107" column="13" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/StructureDataTree.java" timestamp="1503480281539">
-        <mark key="'" line="223" column="41" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/gui/browser/components/services/F4HelpServices.java" timestamp="1502286626827">
-        <mark key="'" line="224" column="32" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/DirBasicDataPanel.java" timestamp="1503482446552">
-        <mark key="'" line="177" column="62" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/fff" timestamp="1503930796644">
-        <mark key="'" line="241" column="43" />
-      </file>
+      <file name="/system-default.txt" timestamp="1504193349904" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikDataExcExport.java" timestamp="1504175535646" />
-      <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/SelectImpl.java" timestamp="1503656974956">
-        <mark key="'" line="214" column="4" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/search/SandvikSearchManager.java" timestamp="1501755880596">
-        <mark key="'" line="331" column="12" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" timestamp="1504082829265">
         <mark key="'" line="180" column="24" />
         <mark key="[" line="232" column="41" />
@@ -202,38 +41,17 @@
         <mark key="." line="232" column="43" />
         <mark key="^" line="232" column="43" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/Component.java" timestamp="1503394907669">
-        <mark key="'" line="8587" column="16" />
-      </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/menu.guidef" timestamp="1504110604186">
         <mark key="'" line="1567" column="55" />
         <mark key="[" line="104" column="0" />
         <mark key="]" line="104" column="64" />
         <mark key="." line="104" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.7.1/sapbase-5.1.7.1-sources.jar!/cadagent/proc/doc/PopDocChangeMulti.java" timestamp="1502982174243">
-        <mark key="'" line="190" column="9" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/GuiUtils.java" timestamp="1503407257968">
-        <mark key="'" line="2293" column="13" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1502451364103">
-        <mark key="'" line="1219" column="18" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/ObrProperty.java" timestamp="1502439444889">
-        <mark key="'" line="141" column="4" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/AbstractDelegatingQuery.java" timestamp="1503661526726">
-        <mark key="'" line="104" column="4" />
-      </file>
       <file name="/fragment.java" timestamp="1504175714362">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
         <mark key="^" line="0" column="14" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrProperty.java" timestamp="1503424089141">
-        <mark key="'" line="68" column="13" />
       </file>
     </filemarks>
     <jumps>
