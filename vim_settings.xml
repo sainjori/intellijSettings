@@ -9,11 +9,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/BrowserHelper.java" timestamp="1504195324330" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiExportAfter.java" timestamp="1504179741306" />
       <file name="/default.txt" timestamp="1504193637338" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" timestamp="1504194960782">
-        <mark key="[" line="259" column="56" />
-        <mark key="]" line="259" column="85" />
-        <mark key="." line="259" column="85" />
-        <mark key="^" line="259" column="85" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" timestamp="1504195342428">
+        <mark key="[" line="226" column="48" />
+        <mark key="]" line="226" column="85" />
+        <mark key="." line="226" column="85" />
+        <mark key="^" line="226" column="85" />
       </file>
       <file name="/menu.guidef" timestamp="1504193670747" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/proc/SandvikProcessPreviewBatch.java" timestamp="1504103274534">
@@ -158,11 +158,11 @@
       <jump line="319" column="41" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrPspElement.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>prefKey</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>prefKey</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQUk9KRUNUX0RFRklOSVRJT05cPg==</text>
