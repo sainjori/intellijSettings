@@ -6,10 +6,10 @@
       <file name="/a.dummy" timestamp="1503938831788">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/BrowserHelper.java" timestamp="1504190127181" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/BrowserHelper.java" timestamp="1504195324330" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiExportAfter.java" timestamp="1504179741306" />
       <file name="/default.txt" timestamp="1504193637338" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" timestamp="1504084080800">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" timestamp="1504194960782">
         <mark key="[" line="259" column="56" />
         <mark key="]" line="259" column="85" />
         <mark key="." line="259" column="85" />
@@ -22,6 +22,7 @@
         <mark key="." line="99" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/DataExcExportController.java" timestamp="1504175712546" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/brobj/BrClonePosition.java" timestamp="1504194095699" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrPspElement.java" timestamp="1504189410849">
         <mark key="'" line="319" column="41" />
         <mark key="[" line="323" column="132" />
@@ -29,17 +30,17 @@
         <mark key="^" line="325" column="20" />
         <mark key="." line="325" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504189233703">
+      <file name="/Dummy.txt" timestamp="1504194055669">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/system-default.txt" timestamp="1504193349904" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikDataExcExport.java" timestamp="1504175535646" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" timestamp="1504082829265">
-        <mark key="'" line="180" column="24" />
-        <mark key="[" line="232" column="41" />
-        <mark key="]" line="232" column="43" />
-        <mark key="." line="232" column="43" />
-        <mark key="^" line="232" column="43" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" timestamp="1504194707673">
+        <mark key="'" line="188" column="24" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="^" line="103" column="5" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/menu.guidef" timestamp="1504110604186">
         <mark key="'" line="1567" column="55" />
@@ -47,7 +48,7 @@
         <mark key="]" line="104" column="64" />
         <mark key="." line="104" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1504175714362">
+      <file name="/fragment.java" timestamp="1504194822901">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -158,7 +159,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gZm5jLmNvbmZpZ3VyYXRpb24uc2F2ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -170,43 +171,43 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gZm5jLmNvbmZpZ3VyYXRpb24uc2F2ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBHdWlVdGlscy5jbGVhclN0YXR1c0xpbmVUZXh0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2hlY2tTZWxlY3RlZEJyRG9jdW1lbnQoc2VsZWN0ZWRQbG1Eb2N1bWVudCwgbWFzdGVyRG9jdW1lbnQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>catch (DefaultLogException e)
-    {
-      errorDialog.addThrowable(e);
-    }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgIERpY1RleHQgZGljVGV4dCA9IERpYy5nZXRUZXh0KCJFMDI1MjgiLCAiVGhlIGRvY3VtZW50ICclJzEgaXMgaW4gYSBsb2NrIHN0YXR1cy4iLCBwbG1Eb2N1bWVudC50b1N0cmluZygifCIpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text>if (gui_action == PlmProcessDocumentSearch2.GUI_ACTION_OK)
+        {
+
+        }</text>
       </register>
       <register name="7" type="4">
-        <text>catch (PreferenceNotExistentException e)
-    {
-      errorDialog.addThrowable(e);
-    }</text>
+        <text>//wenn der Anwender den Vorgang abgebrochen hat, dann soll im ComboBox
+          //die urspruengliche Clone-Option erscheinen
+          restoreOldValue(oldValue);
+          throw new BrClonePosition.GuiCancelException(Dic.getText(&quot;E02780&quot;, &quot;Process canceled by user.&quot;));</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IFBsbURvY3VtZW50IHNlbGVjdGVkRG9jdW1lbnQgPSBnZXRTZWxlY3RlZERvY3VtZW50KGRjX2JhY2spOwogICAgICAgICAgaWYgKHNlbGVjdGVkRG9jdW1lbnQgIT0gbnVsbCkKICAgICAgICAgIHsKICAgICAgICAgICAgLy8gbmV3IGRvY3VtZW50IGlzIGFuIGV4aXN0aW5nIGRvY3VtZW50IGFuZCBoYXMgaXRzIG93biBkZXRhaWxzIQogICAgICAgICAgICBzZXRQbG1Eb2NOZXcoc2VsZWN0ZWREb2N1bWVudCk7CgogICAgICAgICAgICAvLyB1cGRhdGUgcHJvcGVydGllcyBvZiBuZXcgZG9jdW1lbnQ6IG5yLCB0eXBlIGFuZCBzbyBvbgogICAgICAgICAgICBzZXROZXdDbG9uZVByb3BlcnRpZXMoc2VsZWN0ZWREb2N1bWVudCk7CiAgICAgICAgICB9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGVsZXRlQ29udmVyc2lvbkFuZFRyYW5zZmVyRGlyZWN0b3J5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBHdWlVdGlscy5jbGVhclN0YXR1c0xpbmVUZXh0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
