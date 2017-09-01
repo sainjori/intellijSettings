@@ -81,7 +81,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/proc/cad/doc/createmulti/gui/PlmDocCreateMultiDialog.java" timestamp="1502280713124">
         <mark key="'" line="169" column="12" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" timestamp="1504255687992" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" timestamp="1504260756098">
+        <mark key="[" line="395" column="51" />
+        <mark key="]" line="395" column="51" />
+        <mark key="." line="395" column="51" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/gui/browser/components/actions/F4HelpRunner.java" timestamp="1502194590358">
         <mark key="'" line="64" column="21" />
       </file>
@@ -112,6 +116,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/convert.bat" timestamp="1503331292703">
         <mark key="'" line="52" column="21" />
       </file>
+      <file name="/OmfKsbDocCreateChangeNote.java" timestamp="1504259467574" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/EventDispatchThread.java" timestamp="1503395638741">
         <mark key="'" line="88" column="8" />
       </file>
@@ -163,6 +168,7 @@
       <file name="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.3.9.v20160517/jetty-util-9.3.9.v20160517-sources.jar!/org/eclipse/jetty/util/thread/QueuedThreadPool.java" timestamp="1503671062725">
         <mark key="'" line="578" column="34" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/objmod/PlmAccess.java" timestamp="1504260764705" />
       <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/tools/StringUtils.java" timestamp="1503661041584">
         <mark key="'" line="127" column="0" />
       </file>
@@ -187,12 +193,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/search/SandvikSearchManager.java" timestamp="1501755880596">
         <mark key="'" line="331" column="12" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" timestamp="1504255642059">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" timestamp="1504260582827">
         <mark key="'" line="194" column="24" />
-        <mark key="[" line="111" column="80" />
-        <mark key="]" line="112" column="5" />
-        <mark key="." line="112" column="5" />
-        <mark key="^" line="112" column="5" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/Component.java" timestamp="1503394907669">
         <mark key="'" line="8587" column="16" />
@@ -331,11 +336,11 @@
       <jump line="242" column="29" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHRocm93cyBEZWZhdWx0TG9nRXhjZXB0aW9u</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text encoding="base64">IHRocm93cyBEZWZhdWx0TG9nRXhjZXB0aW9u</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWx1ZUFzc2lnbm1lbnRcPg==</text>
@@ -344,7 +349,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgID0gZm5jLmNvbmZpZ3VyYXRpb24uc2F2ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcGRjLnJlYWREZXRhaWxzRm9yT0IodHJ1ZSwgdHJ1ZSwgZmFsc2UsIHRydWUsIHRydWUsIHRydWUsIHRydWUsIHRydWUpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -353,28 +358,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vY2FuY2VsIHdhcyBjbGlja2VkLiBhYm9ydC4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjaGVjayBpZiB0aGUgcmV0dXJuIHZhbHVlcyBhcmUgaGVyZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vY2FuY2VsIHdhcyBjbGlja2VkLiBhYm9ydC4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY2hlY2tTZWxlY3RlZEJyRG9jdW1lbnQoc2VsZWN0ZWRQbG1Eb2N1bWVudCwgbWFzdGVyRG9jdW1lbnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjaGVjayBpZiB0aGUgcmV0dXJuIHZhbHVlcyBhcmUgaGVyZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2hlY2tTZWxlY3RlZEJyRG9jdW1lbnQoc2VsZWN0ZWRQbG1Eb2N1bWVudCwgbWFzdGVyRG9jdW1lbnQpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG91dE5vbk1hc3Rlci5zZXRDbGFzc0FsbG9jYXRpb25zKGluVGVtcGxhdGVEb2N1bWVudC5nZXRDbGFzc0FsbG9jYXRpb25zKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG91dE5vbk1hc3Rlci5zZXRDbGFzc0FsbG9jYXRpb25zKGluVGVtcGxhdGVEb2N1bWVudC5nZXRDbGFzc0FsbG9jYXRpb25zKCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
