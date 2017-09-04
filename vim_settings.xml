@@ -22,7 +22,7 @@
         <mark key="^" line="136" column="22" />
         <mark key="." line="136" column="22" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1504550044472">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1504553546728">
         <mark key="'" line="500" column="23" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportAfterDetermineDType.java" timestamp="1504549250604" />
@@ -43,7 +43,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiControlImportBeforeShowClsInGui.java" timestamp="1504525920595" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportSetMatData.java" timestamp="1504548191884" />
       <file name="C:/ENTWICKLUNG/java/workspaces/core/base/java/src/cadagent/gui/obr/ObrProperty.java" timestamp="1504518191361" />
-      <file name="/fragment.java" timestamp="1504549733985">
+      <file name="/fragment.java" timestamp="1504553757459">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -154,10 +154,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DCR_onCancel</text>
+        <text>.getDTypeId()</text>
       </register>
       <register name="-" type="4">
-        <text>DCR_onCancel</text>
+        <text>.getDTypeId()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2RFR5cGVJRFw+</text>
