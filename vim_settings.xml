@@ -51,6 +51,9 @@
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/javax/swing/table/TableCellEditor.java" timestamp="1502111462444">
         <mark key="'" line="68" column="14" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/sap/conn/jco/tm/JcoSapManager.java" timestamp="1504518580879">
+        <mark key="'" line="317" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/search/gui/ResultTable.java" timestamp="1501762813077">
         <mark key="'" line="179" column="0" />
       </file>
@@ -210,6 +213,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/GuiUtils.java" timestamp="1503407257968">
         <mark key="'" line="2293" column="13" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/core/base/java/src/cadagent/gui/obr/ObrProperty.java" timestamp="1504518191361" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.7.1/base-5.1.7.1-sources.jar!/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1502451364103">
         <mark key="'" line="1219" column="18" />
       </file>
@@ -219,7 +223,7 @@
       <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/AbstractDelegatingQuery.java" timestamp="1503661526726">
         <mark key="'" line="104" column="4" />
       </file>
-      <file name="/fragment.java" timestamp="1504205520633">
+      <file name="/fragment.java" timestamp="1504518179736">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
@@ -230,7 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="245" column="76" filename="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/proc/doc/PopDocChangeMulti.java" />
       <jump line="114" column="25" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/src/main/java/weber/omf/OmfWeberAssignProject.java" />
       <jump line="107" column="61" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/menu.guidef" />
       <jump line="361" column="0" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikCreatePreview.java" />
@@ -330,6 +333,7 @@
       <jump line="152" column="15" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" />
       <jump line="527" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" />
       <jump line="225" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" />
+      <jump line="317" column="0" filename="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/sap/conn/jco/tm/JcoSapManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
