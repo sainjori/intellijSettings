@@ -30,7 +30,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/DefaultTableBrowserComponent.java" timestamp="1503496827715">
         <mark key="'" line="202" column="30" />
       </file>
-      <file name="/KsbProcessDocCreateChangeNote.java" timestamp="1504270383196" />
       <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/AbstractResultQuery.java" timestamp="1503661753293">
         <mark key="'" line="523" column="5" />
       </file>
@@ -70,7 +69,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/brobj/PlmSearchQuery.java" timestamp="1501696091672">
         <mark key="'" line="421" column="6" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/objmod/PlmDocument.java" timestamp="1504279646840" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.1/plm-5.1.7.1-sources.jar!/plm/omf/OmfChecktableMaintain.java" timestamp="1502134416852">
         <mark key="'" line="243" column="11" />
       </file>
@@ -120,7 +118,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/convert.bat" timestamp="1503331292703">
         <mark key="'" line="52" column="21" />
       </file>
-      <file name="/OmfKsbDocCreateChangeNote.java" timestamp="1504259467574" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/EventDispatchThread.java" timestamp="1503395638741">
         <mark key="'" line="88" column="8" />
       </file>
@@ -167,7 +164,6 @@
       <file name="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.3.9.v20160517/jetty-util-9.3.9.v20160517-sources.jar!/org/eclipse/jetty/util/thread/QueuedThreadPool.java" timestamp="1503671062725">
         <mark key="'" line="578" column="34" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/objmod/PlmAccess.java" timestamp="1504261429904" />
       <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/tools/StringUtils.java" timestamp="1503661041584">
         <mark key="'" line="127" column="0" />
       </file>
@@ -192,7 +188,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/search/SandvikSearchManager.java" timestamp="1501755880596">
         <mark key="'" line="331" column="12" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" timestamp="1504278280415">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" timestamp="1504517773241">
         <mark key="'" line="225" column="2" />
         <mark key="[" line="149" column="0" />
         <mark key="]" line="149" column="0" />
