@@ -29,6 +29,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportCreateAfter.java" timestamp="1504525896754" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrDataExchangeObjFactory.java" timestamp="1504536243641">
+        <mark key="'" line="86" column="16" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportAfterGetNsEntries.java" timestamp="1504525904027" />
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1504535280668">
         <mark key="[" line="138" column="0" />
@@ -54,6 +57,7 @@
       <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/impl/DefaultDataType.java" timestamp="1503661420725">
         <mark key="'" line="679" column="4" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/brobj/BrDataExchangeObjFactory.java" timestamp="1504536170388" />
       <file name="C:/ENTWICKLUNG/java/workspaces/core/base/java/src/cadagent/cfc/pref/Preferences.java" timestamp="1504519837246" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/Container.java" timestamp="1503395240784">
         <mark key="'" line="3656" column="37" />
@@ -134,7 +138,7 @@
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/EventDispatchThread.java" timestamp="1503395638741">
         <mark key="'" line="88" column="8" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/proc/ug/PlmProcessUgAnalyseStruct.java" timestamp="1504534208378">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/proc/ug/PlmProcessUgAnalyseStruct.java" timestamp="1504535635927">
         <mark key="'" line="1664" column="73" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/jooq/jooq/3.8.6/jooq-3.8.6-sources.jar!/org/jooq/Record.java" timestamp="1503662638236">
@@ -200,13 +204,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/search/SandvikSearchManager.java" timestamp="1501755880596">
         <mark key="'" line="331" column="12" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" timestamp="1504517773241">
-        <mark key="'" line="225" column="2" />
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
-        <mark key="^" line="147" column="71" />
-      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/Component.java" timestamp="1503394907669">
         <mark key="'" line="8587" column="16" />
       </file>
@@ -237,7 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="21" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/convert.bat" />
       <jump line="192" column="0" filename="C:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/misc/Launcher.class" />
       <jump line="8587" column="16" filename="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/Component.java" />
       <jump line="3656" column="37" filename="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/awt/Container.java" />
@@ -337,6 +333,7 @@
       <jump line="4133" column="51" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="146" column="13" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcImport.java" />
       <jump line="1664" column="73" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/proc/ug/PlmProcessUgAnalyseStruct.java" />
+      <jump line="86" column="16" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrDataExchangeObjFactory.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
