@@ -9,7 +9,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcImport.java" timestamp="1504535509597">
         <mark key="'" line="146" column="13" />
       </file>
-      <file name="/a.dummy" timestamp="1503938831788">
+      <file name="/a.dummy" timestamp="1504615323529">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/proc/ug/PlmProcessUgAnalyseStruct.java" timestamp="1504603167255">
@@ -35,10 +35,13 @@
         <mark key="'" line="3527" column="7" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportAfterDetermineDType.java" timestamp="1504604434624" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/gen/PlmProcessUrlHandle.java" timestamp="1504612063458">
-        <mark key="'" line="258" column="4" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/gen/PlmProcessUrlHandle.java" timestamp="1504615341288">
+        <mark key="'" line="150" column="88" />
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="0" />
+        <mark key="." line="150" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504604640483">
+      <file name="/Dummy.txt" timestamp="1504615152590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/Process_XMLFunctionHandler.java" timestamp="1504613796910" />
@@ -55,8 +58,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6028" column="26" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="6078" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="6094" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="6100" column="20" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="6101" column="19" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
@@ -155,10 +156,12 @@
       <jump line="332" column="40" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" />
       <jump line="753" column="0" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/proc/PlmProcessBrImportObjsCreate.java" />
       <jump line="258" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/gen/PlmProcessUrlHandle.java" />
+      <jump line="142" column="38" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/gen/PlmProcessUrlHandle.java" />
+      <jump line="150" column="88" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/gen/PlmProcessUrlHandle.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>package start;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFByZWZlcmVuY2VzLgo=</text>
       </register>
       <register name="-" type="4">
         <text>package start;</text>
@@ -170,37 +173,37 @@
         <text>isDtypeAttributeEmpty(dtypeAttribute)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFByZWZlcmVuY2VzLgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20uY29tcGFueTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgcmV0dXJuIHRydWU7CiAgICB9CiAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">cGFja2FnZSBjb20uY29tcGFueTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFBsbUF0dHJpYnV0ZSBkdHlwZUF0dHJpYnV0ZSA9IGF0dHJDb250YWluZXIuZ2V0QXR0cmlidXRlKERUWVBFX0FUVFJfTkFNRSk7Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgcmV0dXJuIHRydWU7CiAgICB9CiAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">ICAgIFBsbUF0dHJpYnV0ZSBkdHlwZUF0dHJpYnV0ZSA9IGF0dHJDb250YWluZXIuZ2V0QXR0cmlidXRlKERUWVBFX0FUVFJfTkFNRSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChpc0R0eXBlQXR0cmlidXRlRW1wdHkoZHR5cGVBdHRyaWJ1dGUpKQo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGR0eXBlQXR0cmlidXRlLmlzVW5zZXQoKQo=</text>
+        <text encoding="base64">ICAgIGlmIChpc0R0eXBlQXR0cmlidXRlRW1wdHkoZHR5cGVBdHRyaWJ1dGUpKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGR0eXBlQXR0cmlidXRlLmlzVW5zZXQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciBhdHRyaWJ1dGVDb250YWluZXIuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
