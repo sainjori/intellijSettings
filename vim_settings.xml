@@ -18,6 +18,12 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrDataExchangeObjFactory.java" timestamp="1504536243641">
         <mark key="'" line="86" column="16" />
       </file>
+      <file name="C:/ENTWICKLUNG/sandbox/Java/HelloWorld/src/com/company/Main.java" timestamp="1504610696662">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1504606141709">
         <mark key="'" line="373" column="40" />
         <mark key="[" line="201" column="59" />
@@ -147,11 +153,11 @@
       <jump line="753" column="0" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/proc/PlmProcessBrImportObjsCreate.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgcmV0dXJuIHRydWU7CiAgICB9CiAgICByZXR1cm4gZmFsc2U7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>package start;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>package start;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkdHlwZVw+</text>
@@ -160,37 +166,37 @@
         <text>isDtypeAttributeEmpty(dtypeAttribute)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgcmV0dXJuIHRydWU7CiAgICB9CiAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFBsbUF0dHJpYnV0ZSBkdHlwZUF0dHJpYnV0ZSA9IGF0dHJDb250YWluZXIuZ2V0QXR0cmlidXRlKERUWVBFX0FUVFJfTkFNRSk7Cg==</text>
+        <text encoding="base64">cGFja2FnZSBjb20uY29tcGFueTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgcmV0dXJuIHRydWU7CiAgICB9CiAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChpc0R0eXBlQXR0cmlidXRlRW1wdHkoZHR5cGVBdHRyaWJ1dGUpKQo=</text>
+        <text encoding="base64">ICAgIFBsbUF0dHJpYnV0ZSBkdHlwZUF0dHJpYnV0ZSA9IGF0dHJDb250YWluZXIuZ2V0QXR0cmlidXRlKERUWVBFX0FUVFJfTkFNRSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGR0eXBlQXR0cmlidXRlLmlzVW5zZXQoKQo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChpc0R0eXBlQXR0cmlidXRlRW1wdHkoZHR5cGVBdHRyaWJ1dGUpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciBhdHRyaWJ1dGVDb250YWluZXIuCg==</text>
+        <text encoding="base64">ICAgIGR0eXBlQXR0cmlidXRlLmlzVW5zZXQoKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciBhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF0dHJpYnV0ZUNvbnRhaW5lci4K</text>
+        <text encoding="base64">ICAgIGZvciBhdHRyaWJ1dGVDb250YWluZXIuCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
