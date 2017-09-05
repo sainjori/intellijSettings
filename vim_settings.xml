@@ -6,58 +6,41 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/proc/PlmProcessBrImportObjsCreate.java" timestamp="1504555940482">
         <mark key="'" line="753" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/sapbase/java/src/cadagent/dtype/DType.java" timestamp="1504548733675" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiControlImportValidateGuiInput.java" timestamp="1504545403396" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcImport.java" timestamp="1504535509597">
         <mark key="'" line="146" column="13" />
       </file>
       <file name="/a.dummy" timestamp="1503938831788">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportCreateAfter.java" timestamp="1504525896754" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/proc/ug/PlmProcessUgAnalyseStruct.java" timestamp="1504603167255">
+        <mark key="'" line="1664" column="73" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrDataExchangeObjFactory.java" timestamp="1504536243641">
         <mark key="'" line="86" column="16" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportAfterGetNsEntries.java" timestamp="1504525904027" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1504602887650">
-        <mark key="'" line="367" column="40" />
-        <mark key="[" line="160" column="3" />
-        <mark key="]" line="142" column="0" />
-        <mark key="^" line="154" column="16" />
-        <mark key="." line="142" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1504606141709">
+        <mark key="'" line="373" column="40" />
+        <mark key="[" line="201" column="59" />
+        <mark key="]" line="201" column="62" />
+        <mark key="." line="201" column="62" />
+        <mark key="^" line="201" column="62" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1504603065716">
         <mark key="'" line="3527" column="7" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportAfterDetermineDType.java" timestamp="1504603248477" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/brobj/BrDataExchangeObjFactory.java" timestamp="1504536170388" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/base/java/src/cadagent/cfc/pref/Preferences.java" timestamp="1504519837246" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportCreateBefore.java" timestamp="1504525894292" />
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51_old/basis/config/system-default.txt" timestamp="1504522280851" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/plm++/java/src/plm/brobj/BrDocument.java" timestamp="1504519486778" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/SandvikConsts.java" timestamp="1504548826014" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportOnDTypeChange.java" timestamp="1504530635199" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/proc/ug/PlmProcessUgAnalyseStruct.java" timestamp="1504603167255">
-        <mark key="'" line="1664" column="73" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1504603077777">
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportAfterDetermineDType.java" timestamp="1504604434624" />
+      <file name="/Dummy.txt" timestamp="1504604640483">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/omf/OmfSandvikDataExcImport.java" timestamp="1504548109237" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiControlImportBeforeShowClsInGui.java" timestamp="1504525920595" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportSetMatData.java" timestamp="1504548191884" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" timestamp="1504517773241">
-        <mark key="'" line="225" column="2" />
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
-        <mark key="^" line="147" column="71" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportSetMatData.java" timestamp="1504604125739">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/core/base/java/src/cadagent/gui/obr/ObrProperty.java" timestamp="1504518191361" />
-      <file name="/fragment.java" timestamp="1504554854217">
+      <file name="/fragment.java" timestamp="1504605565319">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="6" />
       </file>
     </filemarks>
@@ -165,49 +148,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgcmV0dXJuIHRydWU7CiAgICB9CiAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>attrContainer</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkdHlwZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIG1ldGhvZEV4aXN0cyA9IGZhbHNlOwogICAgICAgIHRyeQogICAgICAgIHsKICAgICAgICAgIExpc3Q8UGxtRG9jdW1lbnQ+IHBsbURvY3VtZW50cyA9IHBsbUFjY2VzcwogICAgICAgICAgICAgIC5kb2N1bWVudEdldExpc3QoaW5TZWxlY3RlZERvY3VtZW50LmdldE51bWJlcigpLCBpblNlbGVjdGVkRG9jdW1lbnQuZ2V0VHlwZSgpLCBwYXJ0LCBpblNlbGVjdGVkRG9jdW1lbnQuZ2V0VmVyc2lvbigpLCBudWxsKTsKICAgICAgICAgIG1ldGhvZEV4aXN0cyA9IHRydWU7CiAgICAgICAgfWNhdGNoIChOb1N1Y2hNZXRob2RFcnJvciBlKXsKICAgICAgICAgIFRyYWNlLnByaW50bG4oVHJhY2UuREVCVUcsIk1ldGhvZCBkb2VzIG5vdCBleGlzdCIpOwogICAgICAgIH0KICAgICAgICBpZiAobWV0aG9kRXhpc3RzKXsKICAgICAgICAgIFRyYWNlLnByaW50bG4oVHJhY2UuREVCVUcsICJtZXRob2QgZXhpc3RzIik7CiAgICAgICAgfQo=</text>
+      <register name="0" type="4">
+        <text>isDtypeAttributeEmpty(dtypeAttribute)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgcmV0dXJuIHRydWU7CiAgICB9CiAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFBsbUF0dHJpYnV0ZSBkdHlwZUF0dHJpYnV0ZSA9IGF0dHJDb250YWluZXIuZ2V0QXR0cmlidXRlKERUWVBFX0FUVFJfTkFNRSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFBsbUF0dHJpYnV0ZUNvbnRhaW5lciBhdHRyQ29udGFpbmVyID0gZ2V0QXR0ckNvbnRhaW5lcigpOwo=</text>
+        <text encoding="base64">ICAgIGlmIChpc0R0eXBlQXR0cmlidXRlRW1wdHkoZHR5cGVBdHRyaWJ1dGUpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZ2V0QXR0ckNvbnRhaW5lcigpCg==</text>
+        <text encoding="base64">ICAgIGR0eXBlQXR0cmlidXRlLmlzVW5zZXQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpblNlbGVjdGVkRG9jdW1lbnQuZ2V0VmVyc2lvbigpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIExpc3Q8UGxtRG9jdW1lbnQ+IGRvY1BhcnRzID0gcGxtQWNjZXNzLmRvY3VtZW50R2V0TGlzdChpblNlbGVjdGVkRG9jdW1lbnQuZ2V0TnVtYmVyKCksIGluU2VsZWN0ZWREb2N1bWVudC5nZXRUeXBlKCksICIrIiArIHBhcnQsCg==</text>
+        <text encoding="base64">ICAgIGZvciBhdHRyaWJ1dGVDb250YWluZXIuCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbihUcmFjZS5ERUJVRywgU3RyaW5nLmZvcm1hdCgiaW5TZWxlY3RlZERvY3VtZW50IGlzIG5vbk1hc3RlciAlcyIsIGluU2VsZWN0ZWREb2N1bWVudC5pc05vbk1hc3RlcigpKSk7Cg==</text>
+        <text encoding="base64">ICAgIGZvciBhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsblN0YWNrVHJhY2UoVHJhY2UuREVCVUcsIGUpOwo=</text>
+        <text encoding="base64">ICAgIGF0dHJpYnV0ZUNvbnRhaW5lci4K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
