@@ -35,12 +35,12 @@
         <mark key="'" line="3527" column="7" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportAfterDetermineDType.java" timestamp="1504604434624" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/gen/PlmProcessUrlHandle.java" timestamp="1504620370309">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/gen/PlmProcessUrlHandle.java" timestamp="1504623356292">
         <mark key="'" line="150" column="88" />
-        <mark key="[" line="167" column="2" />
-        <mark key="]" line="167" column="0" />
-        <mark key="." line="167" column="0" />
-        <mark key="^" line="167" column="0" />
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="." line="156" column="0" />
+        <mark key="^" line="151" column="60" />
       </file>
       <file name="/Dummy.txt" timestamp="1504615152590">
         <mark key="[" line="0" column="0" />
@@ -51,7 +51,7 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1504620683622">
+      <file name="/fragment.java" timestamp="1504622850598">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -161,56 +161,50 @@
       <jump line="150" column="88" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/gen/PlmProcessUrlHandle.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>private boolean noMappingFromPreference()
-  {
-
-  }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgU3RyaW5nIHMgPSBwcmVmT2JqZWN0LnN0cmluZ1ZhbHVlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>mappingFromPreference</text>
+        <text>s1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkdHlwZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>isDtypeAttributeEmpty(dtypeAttribute)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFN0cmluZyBzMSA9IHNwbGl0W3NwbGl0Lmxlbmd0aC0xXTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>private boolean noMappingFromPreference()
-  {
-
-  }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgU3RyaW5nIHMgPSBwcmVmT2JqZWN0LnN0cmluZ1ZhbHVlKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW4gbm9NYXBwaW5nRnJvbVByZWZlcmVuY2UgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgU3RyaW5nIG5hbWUgPSBwcmVmT2JqZWN0LmdldE5hbWUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY2hhciBjID0gcHJlZk9iamVjdC5jaGFyVmFsdWUoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaW50IHZhbHVlQ291bnQgPSBwcmVmT2JqZWN0LmdldFZhbHVlQ291bnQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgbG9uZyBpbmMgPSBwcmVmT2JqZWN0LmluYygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICghbWFwcGluZykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByZWZPYmplY3RzQmVnaW5uaW5nV2l0aC5zdHJlYW0oKS5tYXAoZSAtPiBlLikK</text>
+        <text encoding="base64">ICAgIFByZWZPYmplY3QgcHJlZk9iamVjdCA9IHByZWZPYmplY3RzQmVnaW5uaW5nV2l0aC5nZXQoMCk7CiAgICBTdHJpbmcga2V5ID0gcHJlZk9iamVjdC5nZXRLZXkoKTsKICAgIFN0cmluZ1tdIHNwbGl0ID0gcHJlZk9iamVjdC5nZXRLZXkoKS5zcGxpdCgiXFwuIik7CiAgICBTdHJpbmcgbWFuZGFudCA9IHNwbGl0W3NwbGl0Lmxlbmd0aC0xXTsKICAgIFN0cmluZyBzdGVzeXRlbSA9IHNwbGl0W3NwbGl0Lmxlbmd0aC0yXTsKICAgIGxvbmcgaW5jID0gcHJlZk9iamVjdC5pbmMoKTsKICAgIGludCB2YWx1ZUNvdW50ID0gcHJlZk9iamVjdC5nZXRWYWx1ZUNvdW50KCk7CiAgICBjaGFyIGMgPSBwcmVmT2JqZWN0LmNoYXJWYWx1ZSgpOwogICAgU3RyaW5nIG5hbWUgPSBwcmVmT2JqZWN0LmdldE5hbWUoKTsKICAgIFN0cmluZyBzID0gcHJlZk9iamVjdC5zdHJpbmdWYWx1ZSgpOwogICAgTGlzdDxTdHJpbmc+IHN0cmluZ3MgPSBwcmVmT2JqZWN0LnN0cmluZ0xpc3QoIi4iKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgIGJvb2xlYW4gdXJsTWFwcGluZ1N5c3RlbVByZWYgPSBmYWxzZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFByZWZlcmVuY2VzLmdldAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
