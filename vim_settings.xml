@@ -35,19 +35,19 @@
         <mark key="'" line="3527" column="7" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportAfterDetermineDType.java" timestamp="1504604434624" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/gen/PlmProcessUrlHandle.java" timestamp="1504693673244">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/gen/PlmProcessUrlHandle.java" timestamp="1504699525888">
         <mark key="'" line="154" column="41" />
-        <mark key="[" line="161" column="52" />
-        <mark key="]" line="161" column="69" />
-        <mark key="." line="161" column="69" />
-        <mark key="^" line="161" column="69" />
+        <mark key="[" line="169" column="112" />
+        <mark key="]" line="169" column="117" />
+        <mark key="." line="169" column="117" />
+        <mark key="^" line="169" column="117" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ruleeditor/bomfile/PlmProcessBomFileRead.java" timestamp="1504624253324" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/PLMProcess.java" timestamp="1504686409008" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/org/w3c/dom/Node.java" timestamp="1504688805884">
         <mark key="'" line="169" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504624301518">
+      <file name="/Dummy.txt" timestamp="1504698106039">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/Process_XMLFunctionHandler.java" timestamp="1504613796910" />
@@ -65,7 +65,7 @@
         <mark key="." line="0" column="93" />
         <mark key="^" line="0" column="93" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/url/PlmUrl.java" timestamp="1504689220883">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/url/PlmUrl.java" timestamp="1504694808975">
         <mark key="'" line="223" column="35" />
       </file>
     </filemarks>
@@ -173,49 +173,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>system</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>system</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkdHlwZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IGlmICgoIWNsaWVudC5lcXVhbHNJZ25vcmVDYXNlKGN1cmVudENsaWVudCkgfHwgIXN5c3RlbS5lcXVhbHNJZ25vcmVDYXNlKGN1cmVudFN5c3RlbSkp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCBTdHJpbmcuZm9ybWF0KCJPcGVuIFVybDogTWFwcGluZyBkb2VzIG5vdCBtYXRjaCBjdXJyZW50IGNsaWVudC4gJXMvJXMgIT0gJXMvJXMiLCB0b01hbmRhbnQsIHRvU3lzdGVtLCBjdXJyZW50Q2xpZW50LCBjdXJyZW50U3lzdGVtKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIExpc3Q8UHJlZk9iamVjdD4gdXJsTWFwcGluZ1ByZWZPYmplY3QgPSBQcmVmZXJlbmNlcy5nZXRQcmVmT2JqZWN0c0JlZ2lubmluZ1dpdGgoUExNX1NBUFBMTV9VUkxfTUFQUElOR19TWVNURU1fUFJFRik7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICgoIWNsaWVudC5lcXVhbHNJZ25vcmVDYXNlKGN1cmVudENsaWVudCkgfHwgIXN5c3RlbS5lcXVhbHNJZ25vcmVDYXNlKGN1cmVudFN5c3RlbSkpKQogICAgICB0aHJvdyBuZXcgRGVmYXVsdExvZ0V4Y2VwdGlvbigiRTA0NzAxIiwgIk9wZW4gVVJMOiBVUkwgbGluayB3YXMgY3JlYXRlZCBmb3IgYW4gb3RoZXIgU0FQIHN5c3RlbSIpOwo=</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB1cmxNYXBwaW5nRnJvbVByZWYgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgIGlmICh1cmxNYXBwaW5nUHJlZk9iamVjdC5zaXplKCkgPT0gMSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW4gdXJsTWFwcGluZ0Zyb21QcmVmID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB1cmxNYXBwaW5nRnJvbVByZWYgPSB0cnVlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgTGlzdDxTdHJpbmc+IHZhbHVlcyA9IHByZWZPYmplY3Quc3RyaW5nTGlzdCgiLiIpOwogICAgICBTdHJpbmcgdG9TeXN0ZW0gPSB2YWx1ZXMuZ2V0KDApOwogICAgICBTdHJpbmcgdG9NYW5kYW50ID0gdmFsdWVzLmdldCgxKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRGVmYXVsdExvZ0V4Y2VwdGlvbihEaWMuZ2V0VGV4dCgiRTA0NzA2IiwgIk9wZW4gVVJMOiBVcmwgcmV3cml0ZSBmcm9tIHByZWZlcmVuY2UgZmFpbGVkLiBTQVAgU3lzdGVtIG1hcHBpbmcgYW5kIGN1cnJlbnQgc3lzdGVtIGRvIG5vdCBtYXRjaC4iKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsRnJvbVhtbCA9IGdldFVybEZyb21YbWwoKTsK</text>
+        <text encoding="base64">ICAgICAgfQogICAgICBlbHNlCiAgICAgIHsKICAgICAgfQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgb2JqZWN0S2V5ID0gdXJsLmdldE9iamVjdEtleSgpOwo=</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRGVmYXVsdExvZ0V4Y2VwdGlvbihEaWMuZ2V0VGV4dCgiRTA0NzA2IiwgIk9wZW4gVVJMOiBVcmwgcmV3cml0ZSBmcm9tIHByZWZlcmVuY2UgZmFpbGVkLiBQcmVmZXJlbmNlIHdhcyBjcmVhdGVkIGZvciBkaWZmZXJlbnQgb3RoZXIgVXJsIikpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
