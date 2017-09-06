@@ -35,14 +35,18 @@
         <mark key="'" line="3527" column="7" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiImportAfterDetermineDType.java" timestamp="1504604434624" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/gen/PlmProcessUrlHandle.java" timestamp="1504626518187">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/gen/PlmProcessUrlHandle.java" timestamp="1504689384117">
         <mark key="'" line="150" column="88" />
-        <mark key="[" line="160" column="14" />
-        <mark key="]" line="160" column="14" />
-        <mark key="." line="160" column="14" />
-        <mark key="^" line="160" column="14" />
+        <mark key="[" line="149" column="12" />
+        <mark key="]" line="149" column="29" />
+        <mark key="." line="149" column="29" />
+        <mark key="^" line="149" column="29" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ruleeditor/bomfile/PlmProcessBomFileRead.java" timestamp="1504624253324" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/PLMProcess.java" timestamp="1504686409008" />
+      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/org/w3c/dom/Node.java" timestamp="1504688805884">
+        <mark key="'" line="169" column="30" />
+      </file>
       <file name="/Dummy.txt" timestamp="1504624301518">
         <mark key="[" line="0" column="0" />
       </file>
@@ -52,18 +56,20 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1504626411364">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/XmlData.java" timestamp="1504688770866">
+        <mark key="'" line="325" column="17" />
+      </file>
+      <file name="/fragment.java" timestamp="1504688911601">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="93" />
         <mark key="." line="0" column="93" />
         <mark key="^" line="0" column="93" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/url/PlmUrl.java" timestamp="1504689220883">
+        <mark key="'" line="223" column="35" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="6094" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="6100" column="20" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="6101" column="19" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="6109" column="14" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="6114" column="19" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="6125" column="19" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="6127" column="20" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
@@ -160,52 +166,56 @@
       <jump line="258" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/gen/PlmProcessUrlHandle.java" />
       <jump line="142" column="38" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/gen/PlmProcessUrlHandle.java" />
       <jump line="150" column="88" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/gen/PlmProcessUrlHandle.java" />
+      <jump line="325" column="17" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/XmlData.java" />
+      <jump line="169" column="30" filename="C:/Program Files/Java/jdk1.8.0_131/src.zip!/org/w3c/dom/Node.java" />
+      <jump line="184" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/url/PlmUrl.java" />
+      <jump line="223" column="35" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/url/PlmUrl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIHMgPSB2YWx1ZXMuZ2V0KDApOwo=</text>
+      <register name="&quot;" type="4">
+        <text>urlMappingSystemPref</text>
       </register>
       <register name="-" type="4">
-        <text>strings</text>
+        <text>urlMappingSystemPref</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkdHlwZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIHMgPSB2YWx1ZXMuZ2V0KDApOwo=</text>
+        <text encoding="base64">ICAgIHBhcmFtZXRlcnMucHV0KFBsbVVybC5TQVBfU1lTVEVNLCB0b1N5c3RlbSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsRnJvbVhtbCA9IGdldFVybEZyb21YbWwoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgTGlzdDxTdHJpbmc+IHN0cmluZ3MgPSBwcmVmT2JqZWN0LnN0cmluZ0xpc3QoIi4iKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgb2JqZWN0S2V5ID0gdXJsLmdldE9iamVjdEtleSgpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcHJlZk9iamVjdHNCZWdpbm5pbmdXaXRoLgo=</text>
+        <text encoding="base64">ICBwdWJsaWMgdm9pZCByZXBsYWNlUGFyYW1ldGVyKFN0cmluZyBrZXksIFN0cmluZyB2YWx1ZSkKICB7CiAgICBpZiAocGFyYW1ldGVycy5nZXQoa2V5KSAhPSBudWxsKXsKICAgICAgU3RyaW5nIHB1dCA9IHBhcmFtZXRlcnMucHV0KGtleSwgdmFsdWUpOwogICAgfQogIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgQ29udGFpbmVyVG9vbC4K</text>
+        <text encoding="base64">ICBwdWJsaWMgdm9pZCByZXBsYWNlQ2xpZW50KFN0cmluZyB0b01hbmRhbnQpCiAgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIHMgPSBwcmVmT2JqZWN0LnN0cmluZ1ZhbHVlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgU3RyaW5nIG5hbWUgPSBwcmVmT2JqZWN0LmdldE5hbWUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY2hhciBjID0gcHJlZk9iamVjdC5jaGFyVmFsdWUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaW50IHZhbHVlQ291bnQgPSBwcmVmT2JqZWN0LmdldFZhbHVlQ291bnQoKTsK</text>
+        <text encoding="base64">ICAgIFN0cmluZyBwdXQgPSB0aGlzLnBhcmFtZXRlcnMucHV0KGtleSwgdmFsdWUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
