@@ -9,7 +9,7 @@
       <file name="/Dummy.txt" timestamp="1504703112964">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiControlImportValidateGuiInput.java" timestamp="1504775006920" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiControlImportValidateGuiInput.java" timestamp="1504776164956" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcImport.java" timestamp="1504535509597">
         <mark key="'" line="146" column="13" />
       </file>
@@ -57,10 +57,10 @@
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/org/w3c/dom/Node.java" timestamp="1504688805884">
         <mark key="'" line="169" column="30" />
       </file>
-      <file name="/fragment.java" timestamp="1504688911601">
+      <file name="/fragment.java" timestamp="1504776328673">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="93" />
-        <mark key="." line="0" column="93" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="93" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/url/PlmUrl.java" timestamp="1504702963772">
@@ -171,10 +171,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>importObj.getBrImpClass()</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>importObj.getBrImpClass()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkdHlwZVw+</text>
