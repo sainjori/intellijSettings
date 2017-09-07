@@ -6,14 +6,14 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/proc/PlmProcessBrImportObjsCreate.java" timestamp="1504555940482">
         <mark key="'" line="753" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504780436174">
+      <file name="/Dummy.txt" timestamp="1504781909158">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiControlImportValidateGuiInput.java" timestamp="1504781558107">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="52" column="15" />
-        <mark key="." line="52" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiControlImportValidateGuiInput.java" timestamp="1504784947033">
+        <mark key="[" line="67" column="35" />
+        <mark key="]" line="67" column="34" />
+        <mark key="^" line="67" column="34" />
+        <mark key="." line="67" column="34" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcImport.java" timestamp="1504535509597">
         <mark key="'" line="146" column="13" />
@@ -24,7 +24,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/proc/ug/PlmProcessUgAnalyseStruct.java" timestamp="1504603167255">
         <mark key="'" line="1664" column="73" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiControlImportBeforeShowClsInGui.java" timestamp="1504774683639" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiControlImportBeforeShowClsInGui.java" timestamp="1504784091253" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrDataExchangeObjFactory.java" timestamp="1504536243641">
         <mark key="'" line="86" column="16" />
       </file>
@@ -39,15 +39,15 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1504777771623">
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1504783834202">
         <mark key="'" line="151" column="26" />
         <mark key="[" line="201" column="59" />
         <mark key="]" line="201" column="62" />
         <mark key="." line="201" column="62" />
         <mark key="^" line="201" column="62" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1504780361520">
-        <mark key="'" line="3234" column="6" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1504782101537">
+        <mark key="'" line="634" column="27" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/XmlData.java" timestamp="1504688770866">
         <mark key="'" line="325" column="17" />
@@ -63,22 +63,17 @@
         <mark key="'" line="169" column="30" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" timestamp="1504781030761" />
-      <file name="/fragment.java" timestamp="1504778806537">
+      <file name="/fragment.java" timestamp="1504783139519">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="93" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+        <mark key="^" line="0" column="16" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/url/PlmUrl.java" timestamp="1504702963772">
         <mark key="'" line="22" column="1" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="2039" column="89" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="2093" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="2098" column="43" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="2133" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="2140" column="45" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="2173" column="10" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="2184" column="52" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="2489" column="9" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
@@ -174,61 +169,66 @@
       <jump line="1729" column="36" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="3233" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="3234" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="4939" column="29" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="625" column="27" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="5601" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="7410" column="21" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
+      <jump line="634" column="27" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBsbURvY3VtZW50Lgo=</text>
+      <register name="&quot;" type="4">
+        <text>|| dtype != null</text>
       </register>
       <register name="-" type="4">
-        <text>this.getBrImpClass()</text>
+        <text>|| dtype != null</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxickltcENsYXNzXD4=</text>
+        <text encoding="base64">XDxEQ1Jfb25WYWxpZGF0ZUd1aUlucHV0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCBTdHJpbmcuZm9ybWF0KCJPcGVuIFVybDogTWFwcGluZyBkb2VzIG5vdCBtYXRjaCBjdXJyZW50IGNsaWVudC4gJXMvJXMgIT0gJXMvJXMiLCB0b01hbmRhbnQsIHRvU3lzdGVtLCBjdXJyZW50Q2xpZW50LCBjdXJyZW50U3lzdGVtKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBsbURvY3VtZW50Lgo=</text>
+        <text encoding="base64">ICAgICAgc2FuZHZpa0ltcG9ydE9iai4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydE9iai4K</text>
+        <text encoding="base64">ICAgICAgc2FuZHZpa0ltcG9ydE9iai5zZXQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgQnJJbXBvcnRPYmplY3ROZXcuQnJJbXBvcnRDbGFzc2lmaWNhdGlvbiBickltcENsYXNzID0gaW1wb3J0T2JqLmJySW1wQ2xhc3M7Ci8vICAgICAgUGxtQ2xhc3MgcGxtQ2xhc3MgPSBuZXcgUGxtQ2xhc3MoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ0ZXN0Iik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICh1cmxNYXBwaW5nUHJlZk9iamVjdC5zaXplKCkgPT0gMSkK</text>
+        <text encoding="base64">ICAgICAgQ29sbGVjdGlvbjxQbG1DbGFzcz4gY2xhc3NlcyA9IHBsbURvY3VtZW50LmdldENsYXNzZXMoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChwbG1Eb2N1bWVudCAhPSBudWxsKXsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFBsbURvY3VtZW50IHBsbURvY3VtZW50ID0gaW1wb3J0T2JqLmdldFBsbURvY3VtZW50KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRGVmYXVsdExvZ0V4Y2VwdGlvbihEaWMuZ2V0VGV4dCgiRTA0NzA2IiwgIk9wZW4gVVJMOiBVcmwgcmV3cml0ZSBmcm9tIHByZWZlcmVuY2UgZmFpbGVkLiBTQVAgU3lzdGVtIG1hcHBpbmcgYW5kIGN1cnJlbnQgc3lzdGVtIGRvIG5vdCBtYXRjaC4iKSk7Cg==</text>
+        <text encoding="base64">ICAgIERUeXBlIHNlbGVjdGVkRHR5cGUgPSBpbXBvcnRPYmouZ2V0U2VsZWN0ZWREdHlwZSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxickltcENsYXNzXD4=</last-search>
+      <last-search encoding="base64">XDxEQ1Jfb25WYWxpZGF0ZUd1aUlucHV0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxickltcENsYXNzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxEQ1Jfb25WYWxpZGF0ZUd1aUlucHV0XD4=</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>import</last-substitute>
       <last-dir>1</last-dir>
@@ -236,8 +236,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxuYW1lXD4=</entry>
-        <entry encoding="base64">XDxBTExPV0VEX0RPQ1RZUEVTXD4=</entry>
         <entry encoding="base64">XDxQTE1fRE9DVU1FTlRTXD4=</entry>
         <entry>updateDi</entry>
         <entry>toSTring</entry>
@@ -256,6 +254,8 @@
         <entry encoding="base64">XDxkdHlwZVw+</entry>
         <entry encoding="base64">XDxwbG1Eb2NcPg==</entry>
         <entry encoding="base64">XDxickltcENsYXNzXD4=</entry>
+        <entry encoding="base64">XDxEQ1JfYmVmb3JlU2hvd0Nsc0luR3VpXD4=</entry>
+        <entry encoding="base64">XDxEQ1Jfb25WYWxpZGF0ZUd1aUlucHV0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>3,.</entry>
