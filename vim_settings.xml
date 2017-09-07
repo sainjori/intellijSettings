@@ -9,12 +9,6 @@
       <file name="/Dummy.txt" timestamp="1504781909158">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiControlImportValidateGuiInput.java" timestamp="1504790905824">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="64" column="73" />
-        <mark key="." line="64" column="0" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcImport.java" timestamp="1504535509597">
         <mark key="'" line="146" column="13" />
       </file>
@@ -24,7 +18,6 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/proc/ug/PlmProcessUgAnalyseStruct.java" timestamp="1504603167255">
         <mark key="'" line="1664" column="73" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiControlImportBeforeShowClsInGui.java" timestamp="1504784091253" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrDataExchangeObjFactory.java" timestamp="1504536243641">
         <mark key="'" line="86" column="16" />
       </file>
@@ -45,7 +38,7 @@
         <mark key="]" line="166" column="0" />
         <mark key="." line="166" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1504790776845">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1504791944194">
         <mark key="'" line="634" column="27" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/XmlData.java" timestamp="1504688770866">
@@ -61,8 +54,7 @@
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/org/w3c/dom/Node.java" timestamp="1504688805884">
         <mark key="'" line="169" column="30" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" timestamp="1504781030761" />
-      <file name="/fragment.java" timestamp="1504790712929">
+      <file name="/fragment.java" timestamp="1504792987466">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="39" />
         <mark key="." line="0" column="39" />
@@ -175,41 +167,32 @@
       <jump line="634" column="27" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgUGxtQ2xhc3MgcGxtQ2xhc3MgPSBuZXcgUGxtQ2xhc3MoIlVHTSIsICIxNyIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>sel</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>sel</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEQ1Jfb25WYWxpZGF0ZUd1aUlucHV0XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCBTdHJpbmcuZm9ybWF0KCJPcGVuIFVybDogTWFwcGluZyBkb2VzIG5vdCBtYXRjaCBjdXJyZW50IGNsaWVudC4gJXMvJXMgIT0gJXMvJXMiLCB0b01hbmRhbnQsIHRvU3lzdGVtLCBjdXJyZW50Q2xpZW50LCBjdXJyZW50U3lzdGVtKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>DType selectedDtype =</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgUGxtQ2xhc3MgcGxtQ2xhc3MgPSBuZXcgUGxtQ2xhc3MoIlVHTSIsICIxNyIpOwo=</text>
+        <text encoding="base64">ICAgIGNsc09iaiFuCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEJySW1wb3J0T2JqZWN0TmV3LkJySW1wb3J0Q2xhc3NpZmljYXRpb24gYnJJbXBvcnRDbGFzc2lmaWNhdGlvbiA9IG5ldyBCckltcG9ydE9iamVjdE5ldy5CckltcG9ydENsYXNzaWZpY2F0aW9uKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEJySW1wb3J0T2JqZWN0TmV3LkJySW1wb3J0Q2xhc3NpZmljYXRpb24gY2xzT2JqID0gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>PlmClass ugm = PlmRepository.getClass(&quot;UGM&quot;, &quot;17&quot;);
-    try
-    {
-      PlmDocument plmDocument = importObj.getPlmDocument();
-      clsObj = importObj.getBrImpClass();
-    }
-    catch (Exception e)
-    {
-      e.printStackTrace();
-    }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgdmFsaWRhdGVEdHlwZShpbXBvcnRPYmopOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIH0K</text>
@@ -224,10 +207,10 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbGlkYXRlRHR5cGUoaW1wb3J0T2JqKTsKCiAgICAgIHNldENsYXNzaWZpY2F0aW9uKGltcG9ydE9iaik7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChpc0R0eXBlQ2hhbmdlKGltcG9ydE9iaikpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
