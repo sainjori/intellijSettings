@@ -9,11 +9,11 @@
       <file name="/Dummy.txt" timestamp="1504781909158">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiControlImportValidateGuiInput.java" timestamp="1504784947033">
-        <mark key="[" line="67" column="35" />
-        <mark key="]" line="67" column="34" />
-        <mark key="^" line="67" column="34" />
-        <mark key="." line="67" column="34" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/dadi/DadiControlImportValidateGuiInput.java" timestamp="1504787942876">
+        <mark key="[" line="58" column="8" />
+        <mark key="]" line="58" column="26" />
+        <mark key="^" line="58" column="26" />
+        <mark key="." line="58" column="26" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcImport.java" timestamp="1504535509597">
         <mark key="'" line="146" column="13" />
@@ -39,14 +39,14 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1504783834202">
+      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1504786629657">
         <mark key="'" line="151" column="26" />
         <mark key="[" line="201" column="59" />
         <mark key="]" line="201" column="62" />
         <mark key="." line="201" column="62" />
         <mark key="^" line="201" column="62" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1504782101537">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1504786926652">
         <mark key="'" line="634" column="27" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/XmlData.java" timestamp="1504688770866">
@@ -63,11 +63,11 @@
         <mark key="'" line="169" column="30" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" timestamp="1504781030761" />
-      <file name="/fragment.java" timestamp="1504783139519">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
-        <mark key="^" line="0" column="16" />
+      <file name="/fragment.java" timestamp="1504788237859">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="39" />
+        <mark key="." line="0" column="39" />
+        <mark key="^" line="0" column="39" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/url/PlmUrl.java" timestamp="1504702963772">
         <mark key="'" line="22" column="1" />
@@ -177,10 +177,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>|| dtype != null</text>
+        <text>getClsAllocation()</text>
       </register>
       <register name="-" type="4">
-        <text>|| dtype != null</text>
+        <text>getClsAllocation()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEQ1Jfb25WYWxpZGF0ZUd1aUlucHV0XD4=</text>
@@ -189,37 +189,40 @@
         <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKFRyYWNlLkRFQlVHLCBTdHJpbmcuZm9ybWF0KCJPcGVuIFVybDogTWFwcGluZyBkb2VzIG5vdCBtYXRjaCBjdXJyZW50IGNsaWVudC4gJXMvJXMgIT0gJXMvJXMiLCB0b01hbmRhbnQsIHRvU3lzdGVtLCBjdXJyZW50Q2xpZW50LCBjdXJyZW50U3lzdGVtKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc2FuZHZpa0ltcG9ydE9iai4K</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgc2FuZHZpa0ltcG9ydE9iai5zZXQK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ0ZXN0Iik7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IEJySW1wb3J0T2JqZWN0TmV3LkJySW1wb3J0Q2xhc3NpZmljYXRpb24gY2xzT2JqID0gbnVsbDsKICAgIHRyeQogICAgewogICAgICBjbHNPYmogPSBpbXBvcnRPYmouZ2V0QnJJbXBDbGFzcygpOwogICAgfQogICAgY2F0Y2ggKEV4Y2VwdGlvbiBlKQogICAgewogICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgfQogICAgaWYgKGNsc09iaiAhPSBudWxsKQogICAgew==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>if (importObj == null)
+    {
+      System.out.println(&quot;test&quot;);
+    }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgQ29sbGVjdGlvbjxQbG1DbGFzcz4gY2xhc3NlcyA9IHBsbURvY3VtZW50LmdldENsYXNzZXMoKTsK</text>
+        <text encoding="base64">ICAgICAgc2FuZHZpa0ltcG9ydE9iai4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChwbG1Eb2N1bWVudCAhPSBudWxsKXsK</text>
+        <text encoding="base64">ICAgICAgc2FuZHZpa0ltcG9ydE9iai5zZXQK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFBsbURvY3VtZW50IHBsbURvY3VtZW50ID0gaW1wb3J0T2JqLmdldFBsbURvY3VtZW50KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIERUeXBlIHNlbGVjdGVkRHR5cGUgPSBpbXBvcnRPYmouZ2V0U2VsZWN0ZWREdHlwZSgpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
