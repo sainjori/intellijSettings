@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '[sandvik] - ...\src\main\java\sandvik\dadi\DadiExportAfter.java'" />
+    <option name="defaultScopeName" value="File '[sandvik] - ...\src\main\java\sandvik\dadi\DadiExportAfter.java'" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '[sandvik] - ...\src\main\java\sandvik\dadi\DadiExportAfter.java'" />
     <recentFileMasks>
       <mask>*.html</mask>
       <mask>*.jsp</mask>
