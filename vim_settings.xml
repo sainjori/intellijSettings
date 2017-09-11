@@ -18,12 +18,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrDataExchangeObjFactory.java" timestamp="1504536243641">
         <mark key="'" line="86" column="16" />
       </file>
-      <file name="C:/ENTWICKLUNG/sandbox/Java/HelloWorld/src/com/company/Main.java" timestamp="1504610696662">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1505147053348" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmDocument.java" timestamp="1505131389312">
         <mark key="'" line="655" column="7" />
       </file>
@@ -52,10 +47,16 @@
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/org/w3c/dom/Node.java" timestamp="1504688805884">
         <mark key="'" line="169" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504894380211">
+      <file name="/Dummy.txt" timestamp="1505147010338">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1505145534056" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1505148311951">
+        <mark key="'" line="163" column="4" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="203" column="19" />
+        <mark key="." line="75" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/dadi/DadiExportAfter.java" timestamp="1504886268383">
         <mark key="[" line="174" column="0" />
         <mark key="]" line="174" column="0" />
@@ -73,10 +74,10 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" timestamp="1504894378996">
         <mark key="'" line="254" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1504891574970">
+      <file name="/fragment.java" timestamp="1505148100279">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="39" />
-        <mark key="." line="0" column="39" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="39" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/url/PlmUrl.java" timestamp="1504702963772">
@@ -84,7 +85,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="332" column="40" filename="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" />
       <jump line="753" column="0" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/proc/PlmProcessBrImportObjsCreate.java" />
       <jump line="258" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/gen/PlmProcessUrlHandle.java" />
       <jump line="142" column="38" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/gen/PlmProcessUrlHandle.java" />
@@ -184,13 +184,14 @@
       <jump line="254" column="25" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" />
       <jump line="655" column="7" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmDocument.java" />
       <jump line="47" column="0" filename="/default.txt" />
+      <jump line="163" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgRFRZUEVfQVRUUl9OQU1FID0gUHJlZmVyZW5jZXMuc3RyaW5nVmFsdWUoInNhbmR2aWsudmVyb3MuYXR0ck5hbWUuZHR5cGUiLCAiRFRZUEUiKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>tmp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb2NcPg==</text>
@@ -199,37 +200,40 @@
         <text encoding="base64">VXJsIHJld3JpdGUgZmFpbGVkLiBQcmVmZXJlbmNlIGZvcm1hdDogcGxtLnNhcHBsbS51cmwubWFwcGluZy5zeXN0ZW0uPFNBUC1TeXN0ZW1fb2xkPi48U0FQLUNsaWVudF9vbGQ+ID0gPFNBUC1TeXN0ZW1fbmV3Pi48U0FQLUNsaWVudF9uZXc+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIChhZGRPcmlnaW5hbEZpbGVzID09IG51bGwpIHJldHVybjsK</text>
+        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgRFRZUEVfQVRUUl9OQU1FID0gUHJlZmVyZW5jZXMuc3RyaW5nVmFsdWUoInNhbmR2aWsudmVyb3MuYXR0ck5hbWUuZHR5cGUiLCAiRFRZUEUiKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRGVmYXVsdExvZ0V4Y2VwdGlvbihEaWMuZ2V0VGV4dCgiRTA0NzA2IiwgIk9wZW4gVVJMOiBVcmwgcmV3cml0ZSBmcm9tIHByZWZlcmVuY2UgZmFpbGVkLiBTQVAgU3lzdGVtIG1hcHBpbmcgYW5kIGN1cnJlbnQgc3lzdGVtIGRvIG5vdCBtYXRjaC4iKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">cHJpdmF0ZSBib29sZWFuIGlzRHR5cGVBdHRyaWJ1dGVFbXB0eShQbG1BdHRyaWJ1dGUgZHR5cGVBdHRyaWJ1dGUpCiAgewogICAgTGlzdDxTdHJpbmc+IHZhbHVlcyA9IGR0eXBlQXR0cmlidXRlLmdldFZhbHVlcygpOwogICAgaWYgKHZhbHVlcy5zaXplKCkgPT0gMSAmJiAiIi5lcXVhbHModmFsdWVzLmdldCgwKSkpCiAgICB7CiAgICAgIHJldHVybiB0cnVlOwogICAgfQogICAgcmV0dXJuIGZhbHNlOwogIH0=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChubykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+      <register name="7" type="4">
+        <text>//    PlmAttributeContainer attrContainer = getAttrContainer();
+//    PlmAttribute dtypeAttribute = attrContainer.getAttribute(DTYPE_ATTR_NAME);
+//    if (dtypeAttribute == null || isDtypeAttributeEmpty(dtypeAttribute))
+//      return false;</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
