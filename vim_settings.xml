@@ -27,6 +27,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmDocument.java" timestamp="1505131389312">
         <mark key="'" line="655" column="7" />
       </file>
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/attributes-to-sap.xml" timestamp="1505145273743">
+        <mark key="[" line="80" column="21" />
+        <mark key="]" line="80" column="23" />
+        <mark key="." line="80" column="23" />
+        <mark key="^" line="80" column="23" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1504800897663">
         <mark key="^" line="380" column="23" />
       </file>
@@ -49,6 +55,7 @@
       <file name="/Dummy.txt" timestamp="1504894380211">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1505145534056" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/dadi/DadiExportAfter.java" timestamp="1504886268383">
         <mark key="[" line="174" column="0" />
         <mark key="]" line="174" column="0" />
@@ -179,11 +186,11 @@
       <jump line="47" column="0" filename="/default.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIChhZGRPcmlnaW5hbEZpbGVzID09IG51bGwpIHJldHVybjsK</text>
+      <register name="&quot;" type="4">
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb2NcPg==</text>
