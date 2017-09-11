@@ -12,6 +12,7 @@
       <file name="/a.dummy" timestamp="1504615323529">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/dadi/DadiControlImportValidateGuiInput.java" timestamp="1505154768386" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/proc/ug/PlmProcessUgAnalyseStruct.java" timestamp="1504603167255">
         <mark key="'" line="1664" column="73" />
       </file>
@@ -22,14 +23,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmDocument.java" timestamp="1505131389312">
         <mark key="'" line="655" column="7" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/attributes-to-sap.xml" timestamp="1505145273743">
-        <mark key="[" line="80" column="21" />
-        <mark key="]" line="80" column="23" />
-        <mark key="." line="80" column="23" />
-        <mark key="^" line="80" column="23" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1504800897663">
-        <mark key="^" line="380" column="23" />
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/attributes-to-sap.xml" timestamp="1505155261625">
+        <mark key="[" line="72" column="46" />
+        <mark key="]" line="72" column="46" />
+        <mark key="." line="72" column="46" />
+        <mark key="^" line="70" column="72" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1504798558929">
         <mark key="'" line="634" column="27" />
@@ -74,7 +72,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" timestamp="1504894378996">
         <mark key="'" line="254" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1505148100279">
+      <file name="/fragment.java" timestamp="1505154950180">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -187,17 +185,17 @@
       <jump line="163" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgRFRZUEVfQVRUUl9OQU1FID0gUHJlZmVyZW5jZXMuc3RyaW5nVmFsdWUoInNhbmR2aWsudmVyb3MuYXR0ck5hbWUuZHR5cGUiLCAiRFRZUEUiKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>tmp</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb2NcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">VXJsIHJld3JpdGUgZmFpbGVkLiBQcmVmZXJlbmNlIGZvcm1hdDogcGxtLnNhcHBsbS51cmwubWFwcGluZy5zeXN0ZW0uPFNBUC1TeXN0ZW1fb2xkPi48U0FQLUNsaWVudF9vbGQ+ID0gPFNBUC1TeXN0ZW1fbmV3Pi48U0FQLUNsaWVudF9uZXc+</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICA8RElSX0NMUyBjbGFzcz0iVUdNIiBjbGFzc3R5cGU9IjAxNyIgY2hhcmFjdGVyaXN0aWM9IlBMTV9MQUJPUiI+CgogICAgICAgICA8QVBQTF9BVFRSSUJVVEUgbmFtZT0iU0FQX0FQUExJQ0FUSU9OIiAvPgoKICA8L0RJUl9DTFM+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgRFRZUEVfQVRUUl9OQU1FID0gUHJlZmVyZW5jZXMuc3RyaW5nVmFsdWUoInNhbmR2aWsudmVyb3MuYXR0ck5hbWUuZHR5cGUiLCAiRFRZUEUiKTsK</text>
