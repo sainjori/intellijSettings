@@ -29,7 +29,7 @@
         <mark key="." line="72" column="46" />
         <mark key="^" line="70" column="72" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1505220138394">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1505221460728">
         <mark key="'" line="634" column="27" />
       </file>
       <file name="/Bash" timestamp="1504891017615">
@@ -41,8 +41,8 @@
       <file name="/Dummy.txt" timestamp="1505147010338">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1505220155284">
-        <mark key="'" line="154" column="4" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1505221276370">
+        <mark key="'" line="381" column="39" />
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
         <mark key="^" line="203" column="19" />
@@ -53,6 +53,7 @@
         <mark key="]" line="174" column="0" />
         <mark key="." line="174" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/dataexchange/proc/ug/PlmProcessUgAnalyseStruct.java" timestamp="1505220854317" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/cad/doc/createmulti/PlmProcessCadDocumentCreateMulti.java" timestamp="1504868604777">
         <mark key="'" line="1054" column="6" />
       </file>
@@ -65,11 +66,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" timestamp="1504894378996">
         <mark key="'" line="254" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1505214480358">
+      <file name="/fragment.java" timestamp="1505221590656">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-        <mark key="^" line="0" column="39" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+        <mark key="^" line="0" column="7" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/url/PlmUrl.java" timestamp="1504702963772">
         <mark key="'" line="22" column="1" />
@@ -77,7 +78,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrProperty.java" timestamp="1505214524475" />
     </filemarks>
     <jumps>
-      <jump line="258" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/gen/PlmProcessUrlHandle.java" />
       <jump line="142" column="38" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/gen/PlmProcessUrlHandle.java" />
       <jump line="150" column="88" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/gen/PlmProcessUrlHandle.java" />
       <jump line="325" column="17" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/XmlData.java" />
@@ -177,13 +177,14 @@
       <jump line="47" column="0" filename="/default.txt" />
       <jump line="163" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" />
       <jump line="154" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" />
+      <jump line="381" column="39" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>brimpobj</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>brimpobj</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkb2NcPg==</text>
