@@ -35,20 +35,13 @@
       <file name="/Bash" timestamp="1504891017615">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/gen/PlmProcessUrlHandle.java" timestamp="1504864333058">
-        <mark key="'" line="154" column="0" />
-        <mark key="[" line="162" column="61" />
-        <mark key="]" line="162" column="198" />
-        <mark key="^" line="162" column="226" />
-        <mark key="." line="162" column="57" />
-      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/org/w3c/dom/Node.java" timestamp="1504688805884">
         <mark key="'" line="169" column="30" />
       </file>
       <file name="/Dummy.txt" timestamp="1505147010338">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1505148311951">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1505214237881">
         <mark key="'" line="163" column="4" />
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
@@ -72,7 +65,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" timestamp="1504894378996">
         <mark key="'" line="254" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1505154950180">
+      <file name="/fragment.java" timestamp="1505214480358">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -81,6 +74,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/url/PlmUrl.java" timestamp="1504702963772">
         <mark key="'" line="22" column="1" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrProperty.java" timestamp="1505214524475" />
     </filemarks>
     <jumps>
       <jump line="753" column="0" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/proc/PlmProcessBrImportObjsCreate.java" />
