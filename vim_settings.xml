@@ -48,18 +48,18 @@
       <file name="/Dummy.txt" timestamp="1505229172386">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/dadi/DadiAnalyzeCompleAfter.java" timestamp="1505299112338">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="^" line="54" column="17" />
-        <mark key="." line="56" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/dadi/DadiAnalyzeCompleAfter.java" timestamp="1505301347978">
+        <mark key="[" line="63" column="45" />
+        <mark key="]" line="63" column="58" />
+        <mark key="^" line="63" column="58" />
+        <mark key="." line="63" column="58" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1505288991845">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1505300973796">
         <mark key="'" line="157" column="28" />
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="0" />
-        <mark key="^" line="154" column="20" />
-        <mark key="." line="154" column="0" />
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="0" />
+        <mark key="^" line="162" column="51" />
+        <mark key="." line="162" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" timestamp="1505298851700">
         <mark key="'" line="2463" column="0" />
@@ -202,50 +202,50 @@
       <jump line="2463" column="0" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgb2JyUHJvcGVydHlEVHlwZUlELnNldENoYW5nZWRMaXN0ZW5lckFjdGl2ZSh0cnVlKTsK</text>
+      <register name="&quot;" type="4">
+        <text>String sap_dtype =</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>String sap_dtype =</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEQ1JfYWZ0ZXJBbmFseXplQ29tcGxldGVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgb2JyUHJvcGVydHlEVHlwZUlELnNldENoYW5nZWRMaXN0ZW5lckFjdGl2ZShmYWxzZSk7Cg==</text>
+      <register name="0" type="4">
+        <text>dtypeFromMapping</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgb2JyUHJvcGVydHlEVHlwZUlELnNldENoYW5nZWRMaXN0ZW5lckFjdGl2ZSh0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgb2JyUHJvcGVydHlEVHlwZUlELnNldENoYW5nZWRMaXN0ZW5lckFjdGl2ZShmYWxzZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludEhlYWRlcjEoVHJhY2UuREVCVUcsICJFbmQgRnVjdGlvbiBkdHlwZUZyb21NYXBwaW5nIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgb2JyUHJvcGVydHlEVHlwZUlELnNldENoYW5nZWRMaXN0ZW5lckFjdGl2ZShmYWxzZSk7CiAgICAgICAgICAgICAgICAgIG9iclByb3BlcnR5RFR5cGVJRC5zZXRWYWx1ZShneEtleVZhbHVlKTsKICAgICAgICAgICAgICAgIG9iclByb3BlcnR5RFR5cGVJRC5zZXRDaGFuZ2VkTGlzdGVuZXJBY3RpdmUodHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgIFRyYWNlLnByaW50SGVhZGVyMShUcmFjZS5ERUJVRywgIkVuZCIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy9pcyBiZWluZyBvdmVyCg==</text>
+        <text encoding="base64">ICAgIFRyYWNlLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFRyYWNlLgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVHJhY2UuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgZm9yIChvcGVyYXRpb25zKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
