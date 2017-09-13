@@ -61,7 +61,8 @@
         <mark key="^" line="154" column="20" />
         <mark key="." line="154" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" timestamp="1505293722756">
+      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" timestamp="1505298154543">
+        <mark key="'" line="2463" column="0" />
         <mark key="[" line="2504" column="90" />
         <mark key="]" line="2505" column="66" />
         <mark key="^" line="2505" column="66" />
@@ -99,7 +100,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrProperty.java" timestamp="1505214524475" />
     </filemarks>
     <jumps>
-      <jump line="325" column="17" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/XmlData.java" />
       <jump line="169" column="30" filename="C:/Program Files/Java/jdk1.8.0_131/src.zip!/org/w3c/dom/Node.java" />
       <jump line="184" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/url/PlmUrl.java" />
       <jump line="223" column="35" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/url/PlmUrl.java" />
@@ -199,6 +199,7 @@
       <jump line="381" column="39" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" />
       <jump line="287" column="34" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/dataexchange/proc/ug/PlmProcessUgAnalyseStruct.java" />
       <jump line="157" column="28" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" />
+      <jump line="2463" column="0" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
