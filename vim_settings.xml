@@ -39,12 +39,18 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.2/plm-5.1.7.2-sources.jar!/plm/attrib/operations/DirOperation.java" timestamp="1505384280256">
         <mark key="'" line="221" column="28" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-4.4-snapshot-source/core/base/java/src/cadagent/gui/obr/omf/OmfExpansionPerformed.java" timestamp="1505403579138" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/attributes-to-sap.xml" timestamp="1505223727239">
         <mark key="[" line="72" column="46" />
         <mark key="]" line="72" column="46" />
         <mark key="." line="72" column="46" />
         <mark key="^" line="70" column="72" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-4.4-snapshot-source/core/plm++/java/src/plm/utils/url/PlmUrl.java" timestamp="1505407019453">
+        <mark key="'" line="49" column="13" />
+        <mark key="[" line="223" column="3" />
+        <mark key="]" line="223" column="1" />
+        <mark key="." line="223" column="1" />
+        <mark key="^" line="223" column="1" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1505388203405">
         <mark key="'" line="4413" column="29" />
@@ -76,8 +82,9 @@
         <mark key="." line="53" column="37" />
         <mark key="^" line="53" column="37" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-4.4-snapshot-source/core/plm++/java/src/plm/omf/OmfCreateUrl.java" timestamp="1505400941872" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-4.4-snapshot-source/core/plm++/java/src/plm/proc/gen/PlmProcessUrlHandle.java" timestamp="1505406091644" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-4.4-snapshot-source/core/plm++/java/src/plm/proc/gen/PlmProcessUrlHandle.java" timestamp="1505408306808">
+        <mark key="^" line="135" column="3" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1505395603105">
         <mark key="'" line="162" column="41" />
         <mark key="[" line="362" column="40" />
@@ -105,7 +112,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/XmlData.java" timestamp="1504688770866">
         <mark key="'" line="325" column="17" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-4.4-snapshot-source/core/plm++/java/src/plm/sess/Process_XMLFunctionHandler.java" timestamp="1505401084361" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" timestamp="1504894378996">
         <mark key="'" line="254" column="25" />
       </file>
@@ -120,8 +126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6078" column="31" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="6079" column="21" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="6080" column="18" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="6081" column="20" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="6082" column="20" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
@@ -220,10 +224,12 @@
       <jump line="76" column="72" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" />
       <jump line="90" column="61" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" />
       <jump line="162" column="41" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" />
+      <jump line="58" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-4.4-snapshot-source/core/plm++/java/src/plm/utils/url/PlmUrl.java" />
+      <jump line="49" column="13" filename="C:/ENTWICKLUNG/java/workspaces/ectr-4.4-snapshot-source/core/plm++/java/src/plm/utils/url/PlmUrl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
@@ -235,7 +241,7 @@
         <text encoding="base64">ICAgICAgICBvYnJQcm9wZXJ0eURUeXBlSUQuc2V0Q2hhbmdlZExpc3RlbmVyQWN0aXZlKGZhbHNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvYnJQcm9wZXJ0eURUeXBlSUQuc2V0Q2hhbmdlZExpc3RlbmVyQWN0aXZlKGZhbHNlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -244,28 +250,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBvYnJQcm9wZXJ0eURUeXBlSUQuc2V0Q2hhbmdlZExpc3RlbmVyQWN0aXZlKGZhbHNlKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">cHVibGljIHN0YXRpYyBib29sZWFuIGR0eXBlRnJvbU1hcHBpbmcoUGxtQXR0cmlidXRlQ29udGFpbmVyIGF0dHJDb250YWluZXIpCiAgewogICAgU3RyaW5nIHNlY3Rpb25fbmFtZSA9IE9tZkRhdGFFeGNJbXBvcnQuZ2V0TmFtZXNwYWNlKCk7CgogICAgLy9kaWUgYXBpIHBhcmFtZXRlciBhdXMgYXR0cmlidXRlcyBmdWVsbGVuCiAgICBPcGVyYXRpb25JRiBvcGVyYXRpb25zW10gPSBudWxsOwogICAgdHJ5CiAgICB7CiAgICAgIG9wZXJhdGlvbnMgPSBPcFhtbFBhcnNlci5nZXRPcGVyYXRpb25zKHNlY3Rpb25fbmFtZSk7CiAgICB9CiAgICBjYXRjaCAoRGVmYXVsdExvZ0V4Y2VwdGlvbiBlKQogICAgewogICAgICBpZiAoVHJhY2UuZ2V0TGV2ZWwoKSA+PSAzKQogICAgICAgIFRyYWNlLnByaW50bG4oIkFUVFIiLCAzLCAiUGxtUHJvY2Vzc0F0dHJpYnNUcmFuc2Zlci5leGVjdXRlKCk6IE5vIHNlY3Rpb24gbmFtZWQgPCIrc2VjdGlvbl9uYW1lKyI+IGZvdW5kLiIpOwogICAgfQoKICAgIGlmIChvcGVyYXRpb25zICE9IG51bGwpCiAgICB7CiAgICAgIE1hcHBpbmdDb250ZXh0IG1jID0gbmV3IE1hcHBpbmdDb250ZXh0KGF0dHJDb250YWluZXIpOwogICAgICBmb3IgKGludCBpID0gMDtpIDwgb3BlcmF0aW9ucy5sZW5ndGg7aSsrKQogICAgICB7CiAgICAgICAgT3BlcmF0aW9uSUYgb3BlciA9IG9wZXJhdGlvbnNbaV07CiAgICAgICAgaWYgKG9wZXIgaW5zdGFuY2VvZiBEaXJPcGVyYXRpb24pCiAgICAgICAgewogICAgICAgICAgaWYgKCIiLmVxdWFscygoKFNhcE9wZXJhdGlvbikgb3BlcikuZ2V0VGFibGVOYW1lUHJlZml4KCkpICYmICJEVFlQRSIuZXF1YWxzKCgoU2FwT3BlcmF0aW9uKSBvcGVyKS5nZXRGaWVsZE5hbWUoKSkpCiAgICAgICAgICB7CiAgICAgICAgICAgIFN0cmluZyBkdHlwZVZhbHVlID0gKFN0cmluZykgb3Blci5pbnRlcnByZXQobWMpOwogICAgICAgICAgICByZXR1cm4gISIiLmVxdWFscyhkdHlwZVZhbHVlKTsKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0KICAgIH0KICAgIHJldHVybiBmYWxzZTsKICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICEiIi5lcXVhbHMoZHR5cGVWYWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gZ3hLZXlWYWx1ZTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">cHVibGljIHN0YXRpYyBib29sZWFuIGR0eXBlRnJvbU1hcHBpbmcoUGxtQXR0cmlidXRlQ29udGFpbmVyIGF0dHJDb250YWluZXIpCiAgewogICAgU3RyaW5nIHNlY3Rpb25fbmFtZSA9IE9tZkRhdGFFeGNJbXBvcnQuZ2V0TmFtZXNwYWNlKCk7CgogICAgLy9kaWUgYXBpIHBhcmFtZXRlciBhdXMgYXR0cmlidXRlcyBmdWVsbGVuCiAgICBPcGVyYXRpb25JRiBvcGVyYXRpb25zW10gPSBudWxsOwogICAgdHJ5CiAgICB7CiAgICAgIG9wZXJhdGlvbnMgPSBPcFhtbFBhcnNlci5nZXRPcGVyYXRpb25zKHNlY3Rpb25fbmFtZSk7CiAgICB9CiAgICBjYXRjaCAoRGVmYXVsdExvZ0V4Y2VwdGlvbiBlKQogICAgewogICAgICBpZiAoVHJhY2UuZ2V0TGV2ZWwoKSA+PSAzKQogICAgICAgIFRyYWNlLnByaW50bG4oIkFUVFIiLCAzLCAiUGxtUHJvY2Vzc0F0dHJpYnNUcmFuc2Zlci5leGVjdXRlKCk6IE5vIHNlY3Rpb24gbmFtZWQgPCIrc2VjdGlvbl9uYW1lKyI+IGZvdW5kLiIpOwogICAgfQoKICAgIGlmIChvcGVyYXRpb25zICE9IG51bGwpCiAgICB7CiAgICAgIE1hcHBpbmdDb250ZXh0IG1jID0gbmV3IE1hcHBpbmdDb250ZXh0KGF0dHJDb250YWluZXIpOwogICAgICBmb3IgKGludCBpID0gMDtpIDwgb3BlcmF0aW9ucy5sZW5ndGg7aSsrKQogICAgICB7CiAgICAgICAgT3BlcmF0aW9uSUYgb3BlciA9IG9wZXJhdGlvbnNbaV07CiAgICAgICAgaWYgKG9wZXIgaW5zdGFuY2VvZiBEaXJPcGVyYXRpb24pCiAgICAgICAgewogICAgICAgICAgaWYgKCIiLmVxdWFscygoKFNhcE9wZXJhdGlvbikgb3BlcikuZ2V0VGFibGVOYW1lUHJlZml4KCkpICYmICJEVFlQRSIuZXF1YWxzKCgoU2FwT3BlcmF0aW9uKSBvcGVyKS5nZXRGaWVsZE5hbWUoKSkpCiAgICAgICAgICB7CiAgICAgICAgICAgIFN0cmluZyBkdHlwZVZhbHVlID0gKFN0cmluZykgb3Blci5pbnRlcnByZXQobWMpOwogICAgICAgICAgICByZXR1cm4gISIiLmVxdWFscyhkdHlwZVZhbHVlKTsKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0KICAgIH0KICAgIHJldHVybiBmYWxzZTsKICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICEiIi5lcXVhbHMoZHR5cGVWYWx1ZSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gZ3hLZXlWYWx1ZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZWN0aW9ucy5zdHJlYW0oKS5tYXAoZSAtPiBlLmdlKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoZSkK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
