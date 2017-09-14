@@ -39,6 +39,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.2/plm-5.1.7.2-sources.jar!/plm/attrib/operations/DirOperation.java" timestamp="1505384280256">
         <mark key="'" line="221" column="28" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-4.4-snapshot-source/core/base/java/src/cadagent/gui/obr/omf/OmfExpansionPerformed.java" timestamp="1505401106890" />
       <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/attributes-to-sap.xml" timestamp="1505223727239">
         <mark key="[" line="72" column="46" />
         <mark key="]" line="72" column="46" />
@@ -60,7 +61,7 @@
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/org/w3c/dom/Node.java" timestamp="1504688805884">
         <mark key="'" line="169" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505385406038">
+      <file name="/Dummy.txt" timestamp="1505401230525">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/dadi/DadiAnalyzeCompleAfter.java" timestamp="1505381955618">
@@ -75,6 +76,8 @@
         <mark key="." line="53" column="37" />
         <mark key="^" line="53" column="37" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-4.4-snapshot-source/core/plm++/java/src/plm/omf/OmfCreateUrl.java" timestamp="1505400941872" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-4.4-snapshot-source/core/plm++/java/src/plm/proc/gen/PlmProcessUrlHandle.java" timestamp="1505400579175" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1505395603105">
         <mark key="'" line="162" column="41" />
         <mark key="[" line="362" column="40" />
@@ -102,6 +105,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/XmlData.java" timestamp="1504688770866">
         <mark key="'" line="325" column="17" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-4.4-snapshot-source/core/plm++/java/src/plm/sess/Process_XMLFunctionHandler.java" timestamp="1505401084361" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" timestamp="1504894378996">
         <mark key="'" line="254" column="25" />
       </file>
