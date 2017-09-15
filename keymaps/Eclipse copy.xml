@@ -75,6 +75,9 @@
     <keyboard-shortcut first-keystroke="alt a" />
     <mouse-shortcut keystroke="shift button142" />
   </action>
+  <action id="GotoSuperMethod">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
   <action id="GotoTypeDeclaration">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>

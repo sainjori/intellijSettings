@@ -30,6 +30,9 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/KibanaDashboardDAO.java" timestamp="1505484134081">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1505385487651">
         <mark key="'" line="418" column="54" />
       </file>
@@ -99,10 +102,12 @@
         <mark key="." line="155" column="34" />
         <mark key="^" line="155" column="34" />
       </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" timestamp="1505381601879">
-        <mark key="[" line="2506" column="0" />
-        <mark key="]" line="2506" column="0" />
-        <mark key="." line="2506" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/KibanaDashboardEndpoint.java" timestamp="1505485563000">
+        <mark key="'" line="124" column="63" />
+        <mark key="[" line="66" column="3" />
+        <mark key="]" line="66" column="3" />
+        <mark key="^" line="66" column="3" />
+        <mark key="." line="66" column="3" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1505382427670">
         <mark key="[" line="47" column="5" />
@@ -110,8 +115,20 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/dataexchange/proc/ug/PlmProcessUgAnalyseStruct.java" timestamp="1505229217028">
         <mark key="'" line="287" column="34" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/statistics/settings/StatisticSettingsXMLParser.java" timestamp="1505484090112">
+        <mark key="[" line="54" column="71" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/cad/doc/createmulti/PlmProcessCadDocumentCreateMulti.java" timestamp="1504868604777">
         <mark key="'" line="1054" column="6" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/health/DatabaseHealthCheck.java" timestamp="1505485559921">
+        <mark key="'" line="17" column="51" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/pojos/KibanaDashboardPojo.java" timestamp="1505484645773">
+        <mark key="'" line="185" column="55" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="/default.txt" timestamp="1505143535862">
         <mark key="'" line="47" column="0" />
@@ -128,7 +145,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" timestamp="1504894378996">
         <mark key="'" line="254" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1505391788861">
+      <file name="/fragment.java" timestamp="1505485510886">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -139,11 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6080" column="18" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="6081" column="20" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="6082" column="20" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="6083" column="23" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="6084" column="21" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="6085" column="20" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="6086" column="22" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="6087" column="61" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
@@ -239,10 +251,15 @@
       <jump line="162" column="41" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" />
       <jump line="58" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-4.4-snapshot-source/core/plm++/java/src/plm/utils/url/PlmUrl.java" />
       <jump line="49" column="13" filename="C:/ENTWICKLUNG/java/workspaces/ectr-4.4-snapshot-source/core/plm++/java/src/plm/utils/url/PlmUrl.java" />
+      <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/KibanaDashboardDAO.java" />
+      <jump line="21" column="38" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/pojos/KibanaDashboardPojo.java" />
+      <jump line="185" column="55" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/pojos/KibanaDashboardPojo.java" />
+      <jump line="17" column="51" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/health/DatabaseHealthCheck.java" />
+      <jump line="124" column="63" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/KibanaDashboardEndpoint.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBOb3RkZAo=</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
@@ -254,7 +271,7 @@
         <text encoding="base64">ICAgICAgICBvYnJQcm9wZXJ0eURUeXBlSUQuc2V0Q2hhbmdlZExpc3RlbmVyQWN0aXZlKGZhbHNlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBOb3RkZAo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -263,28 +280,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvYnJQcm9wZXJ0eURUeXBlSUQuc2V0Q2hhbmdlZExpc3RlbmVyQWN0aXZlKGZhbHNlKTsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBvYnJQcm9wZXJ0eURUeXBlSUQuc2V0Q2hhbmdlZExpc3RlbmVyQWN0aXZlKGZhbHNlKTsK</text>
+      </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">cHVibGljIHN0YXRpYyBib29sZWFuIGR0eXBlRnJvbU1hcHBpbmcoUGxtQXR0cmlidXRlQ29udGFpbmVyIGF0dHJDb250YWluZXIpCiAgewogICAgU3RyaW5nIHNlY3Rpb25fbmFtZSA9IE9tZkRhdGFFeGNJbXBvcnQuZ2V0TmFtZXNwYWNlKCk7CgogICAgLy9kaWUgYXBpIHBhcmFtZXRlciBhdXMgYXR0cmlidXRlcyBmdWVsbGVuCiAgICBPcGVyYXRpb25JRiBvcGVyYXRpb25zW10gPSBudWxsOwogICAgdHJ5CiAgICB7CiAgICAgIG9wZXJhdGlvbnMgPSBPcFhtbFBhcnNlci5nZXRPcGVyYXRpb25zKHNlY3Rpb25fbmFtZSk7CiAgICB9CiAgICBjYXRjaCAoRGVmYXVsdExvZ0V4Y2VwdGlvbiBlKQogICAgewogICAgICBpZiAoVHJhY2UuZ2V0TGV2ZWwoKSA+PSAzKQogICAgICAgIFRyYWNlLnByaW50bG4oIkFUVFIiLCAzLCAiUGxtUHJvY2Vzc0F0dHJpYnNUcmFuc2Zlci5leGVjdXRlKCk6IE5vIHNlY3Rpb24gbmFtZWQgPCIrc2VjdGlvbl9uYW1lKyI+IGZvdW5kLiIpOwogICAgfQoKICAgIGlmIChvcGVyYXRpb25zICE9IG51bGwpCiAgICB7CiAgICAgIE1hcHBpbmdDb250ZXh0IG1jID0gbmV3IE1hcHBpbmdDb250ZXh0KGF0dHJDb250YWluZXIpOwogICAgICBmb3IgKGludCBpID0gMDtpIDwgb3BlcmF0aW9ucy5sZW5ndGg7aSsrKQogICAgICB7CiAgICAgICAgT3BlcmF0aW9uSUYgb3BlciA9IG9wZXJhdGlvbnNbaV07CiAgICAgICAgaWYgKG9wZXIgaW5zdGFuY2VvZiBEaXJPcGVyYXRpb24pCiAgICAgICAgewogICAgICAgICAgaWYgKCIiLmVxdWFscygoKFNhcE9wZXJhdGlvbikgb3BlcikuZ2V0VGFibGVOYW1lUHJlZml4KCkpICYmICJEVFlQRSIuZXF1YWxzKCgoU2FwT3BlcmF0aW9uKSBvcGVyKS5nZXRGaWVsZE5hbWUoKSkpCiAgICAgICAgICB7CiAgICAgICAgICAgIFN0cmluZyBkdHlwZVZhbHVlID0gKFN0cmluZykgb3Blci5pbnRlcnByZXQobWMpOwogICAgICAgICAgICByZXR1cm4gISIiLmVxdWFscyhkdHlwZVZhbHVlKTsKICAgICAgICAgIH0KICAgICAgICB9CiAgICAgIH0KICAgIH0KICAgIHJldHVybiBmYWxzZTsKICB9</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICEiIi5lcXVhbHMoZHR5cGVWYWx1ZSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gZ3hLZXlWYWx1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICEiIi5lcXVhbHMoZHR5cGVWYWx1ZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gZ3hLZXlWYWx1ZTsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5k</text>
