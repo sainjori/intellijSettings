@@ -1,6 +1,7 @@
 <application>
   <component name="GeneralSettings">
     <option name="browserPath" value="C:\Windows\explorer.exe" />
+    <option name="confirmExit" value="false" />
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="searchInBackground" value="true" />
   </component>
