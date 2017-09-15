@@ -94,6 +94,7 @@
         <mark key="^" line="53" column="37" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/config/dashboard/config.yml" timestamp="1505498563992" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/DashboardApplication.java" timestamp="1505500048544" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-4.4-snapshot-source/core/plm++/java/src/plm/proc/gen/PlmProcessUrlHandle.java" timestamp="1505408306808">
         <mark key="^" line="135" column="3" />
       </file>
@@ -151,11 +152,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" timestamp="1504894378996">
         <mark key="'" line="254" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1505485510886">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="." line="0" column="2" />
-        <mark key="^" line="0" column="2" />
+      <file name="/fragment.java" timestamp="1505500256988">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+        <mark key="^" line="0" column="6" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/url/PlmUrl.java" timestamp="1504702963772">
         <mark key="'" line="22" column="1" />
@@ -265,10 +266,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID0gbmV3IEtpYmFuYURhc2hib2FyZFBvam8oKTs=</text>
+        <text>getProperties()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gbmV3IEtpYmFuYURhc2hib2FyZFBvam8oKTs=</text>
+        <text>getProperties()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2RFR5cGVJRFw+</text>
