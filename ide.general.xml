@@ -10,5 +10,6 @@
     <entry key="undo.documentUndoLimit" value="100000" />
     <entry key="undo.globalUndoLimit" value="100000" />
     <entry key="ide.tooltip.initialDelay" value="221" />
+    <entry key="debugger.watches.in.variables" value="false" />
   </component>
 </application>
