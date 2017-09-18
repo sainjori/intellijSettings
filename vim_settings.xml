@@ -18,6 +18,12 @@
         <mark key="." line="110" column="0" />
         <mark key="^" line="109" column="102" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/reflect/Method.java" timestamp="1505733952929">
+        <mark key="'" line="60" column="19" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar!/javax/ws/rs/core/UriInfo.java" timestamp="1505733662491">
+        <mark key="'" line="164" column="15" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/proc/ug/PlmProcessUgAnalyseStruct.java" timestamp="1504603167255">
         <mark key="'" line="1664" column="73" />
       </file>
@@ -100,6 +106,9 @@
         <mark key="^" line="18" column="46" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/AuthEndpoint.java" timestamp="1505732817574" />
+      <file name="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.3.9.v20160517/jetty-util-9.3.9.v20160517-sources.jar!/org/eclipse/jetty/util/thread/QueuedThreadPool.java" timestamp="1505734615538">
+        <mark key="'" line="591" column="48" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1505395603105">
         <mark key="'" line="162" column="41" />
         <mark key="[" line="362" column="40" />
@@ -119,6 +128,9 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/statistics/settings/StatisticSettingsXMLParser.java" timestamp="1505484090112">
         <mark key="[" line="54" column="71" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar!/javax/ws/rs/core/NewCookie.java" timestamp="1505733682810">
+        <mark key="'" line="168" column="11" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/cad/doc/createmulti/PlmProcessCadDocumentCreateMulti.java" timestamp="1504868604777">
         <mark key="'" line="1054" column="6" />
@@ -160,11 +172,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6086" column="22" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="6087" column="61" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="6088" column="21" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="6089" column="19" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="6130" column="53" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="6158" column="34" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="6159" column="22" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="6366" column="27" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
@@ -260,6 +267,11 @@
       <jump line="17" column="51" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/health/DatabaseHealthCheck.java" />
       <jump line="124" column="63" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/KibanaDashboardEndpoint.java" />
       <jump line="98" column="6" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.1.7/logback-core-1.1.7-sources.jar!/ch/qos/logback/core/UnsynchronizedAppenderBase.java" />
+      <jump line="164" column="15" filename="$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar!/javax/ws/rs/core/UriInfo.java" />
+      <jump line="168" column="11" filename="$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar!/javax/ws/rs/core/NewCookie.java" />
+      <jump line="60" column="19" filename="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/reflect/Method.java" />
+      <jump line="554" column="12" filename="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.3.9.v20160517/jetty-util-9.3.9.v20160517-sources.jar!/org/eclipse/jetty/util/thread/QueuedThreadPool.java" />
+      <jump line="591" column="48" filename="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.3.9.v20160517/jetty-util-9.3.9.v20160517-sources.jar!/org/eclipse/jetty/util/thread/QueuedThreadPool.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
