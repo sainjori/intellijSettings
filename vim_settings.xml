@@ -70,10 +70,11 @@
         <mark key="^" line="28" column="53" />
         <mark key="." line="18" column="13" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1505727740870">
+      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1505729285630">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="5" />
         <mark key="." line="3" column="5" />
+        <mark key="^" line="3" column="5" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/org/w3c/dom/Node.java" timestamp="1504688805884">
         <mark key="'" line="169" column="30" />
@@ -258,10 +259,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>750m</text>
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text>750m</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2RFR5cGVJRFw+</text>
