@@ -61,6 +61,7 @@
         <mark key="." line="223" column="1" />
         <mark key="^" line="223" column="1" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/http/ExceptionMapperBinder.java" timestamp="1505730675009" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1505388203405">
         <mark key="'" line="4413" column="29" />
       </file>
@@ -91,7 +92,7 @@
         <mark key="." line="53" column="37" />
         <mark key="^" line="53" column="37" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/DashboardApplication.java" timestamp="1505726519928">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/DashboardApplication.java" timestamp="1505730569574">
         <mark key="[" line="18" column="36" />
         <mark key="]" line="18" column="46" />
         <mark key="." line="18" column="46" />
@@ -133,6 +134,7 @@
       <file name="/default.txt" timestamp="1505143535862">
         <mark key="'" line="47" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/dropwizard/dropwizard-core/1.0.2/dropwizard-core-1.0.2-sources.jar!/io/dropwizard/Application.java" timestamp="1505730765688" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/XmlData.java" timestamp="1504688770866">
         <mark key="'" line="325" column="17" />
       </file>
@@ -148,7 +150,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/utils/url/PlmUrl.java" timestamp="1504702963772">
         <mark key="'" line="22" column="1" />
       </file>
-      <file name="/fragment.java" timestamp="1505726729377">
+      <file name="/fragment.java" timestamp="1505730424483">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
