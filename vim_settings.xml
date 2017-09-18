@@ -115,6 +115,7 @@
       <file name="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.3.9.v20160517/jetty-util-9.3.9.v20160517-sources.jar!/org/eclipse/jetty/util/thread/QueuedThreadPool.java" timestamp="1505734615538">
         <mark key="'" line="591" column="48" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/BatchEngineEndpoint.java" timestamp="1505743809635" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1505395603105">
         <mark key="'" line="162" column="41" />
         <mark key="[" line="362" column="40" />
@@ -131,9 +132,6 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/dataexchange/proc/ug/PlmProcessUgAnalyseStruct.java" timestamp="1505229217028">
         <mark key="'" line="287" column="34" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/statistics/settings/StatisticSettingsXMLParser.java" timestamp="1505484090112">
-        <mark key="[" line="54" column="71" />
       </file>
       <file name="$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar!/javax/ws/rs/core/NewCookie.java" timestamp="1505733682810">
         <mark key="'" line="168" column="11" />
@@ -153,6 +151,9 @@
       </file>
       <file name="/default.txt" timestamp="1505143535862">
         <mark key="'" line="47" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.9/commons-codec-1.9-sources.jar!/org/apache/commons/codec/digest/DigestUtils.java" timestamp="1505743182483">
+        <mark key="'" line="445" column="5" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/dropwizard/dropwizard-core/1.0.2/dropwizard-core-1.0.2-sources.jar!/io/dropwizard/Application.java" timestamp="1505730765688" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/XmlData.java" timestamp="1504688770866">
@@ -178,7 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6366" column="27" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="6633" column="22" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="6636" column="22" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="6696" column="39" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
@@ -278,6 +278,7 @@
       <jump line="591" column="48" filename="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.3.9.v20160517/jetty-util-9.3.9.v20160517-sources.jar!/org/eclipse/jetty/util/thread/QueuedThreadPool.java" />
       <jump line="856" column="33" filename="$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar!/javax/ws/rs/core/Response.java" />
       <jump line="81" column="6" filename="$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar!/javax/ws/rs/core/SecurityContext.java" />
+      <jump line="445" column="5" filename="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.9/commons-codec-1.9-sources.jar!/org/apache/commons/codec/digest/DigestUtils.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
