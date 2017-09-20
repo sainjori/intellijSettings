@@ -6,11 +6,12 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/proc/PlmProcessBrImportObjsCreate.java" timestamp="1504555940482">
         <mark key="'" line="753" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/test.java" timestamp="1505921654243">
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="46" />
-        <mark key="^" line="13" column="46" />
-        <mark key="." line="13" column="46" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1505923388703" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/test.java" timestamp="1505923988335">
+        <mark key="[" line="26" column="24" />
+        <mark key="]" line="26" column="24" />
+        <mark key="^" line="26" column="24" />
+        <mark key="." line="26" column="24" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcImport.java" timestamp="1504535509597">
         <mark key="'" line="146" column="13" />
@@ -158,7 +159,7 @@
         <mark key="." line="3" column="5" />
         <mark key="^" line="3" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505921654862">
+      <file name="/Dummy.txt" timestamp="1505923988081">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/dadi/DadiAnalyzeCompleAfter.java" timestamp="1505381955618">
@@ -306,17 +307,17 @@
       <jump line="516" column="16" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/PLMProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIERDS2V5T2JqZWN0PENvbGxlY3Rpb248PyBleHRlbmRzIEJyUGxtT2JqZWN0Pj4gSU5fT0JKRUNUUyA9IG5ldyBEQ0tleU9iamVjdDxDb2xsZWN0aW9uPD8gZXh0ZW5kcyBCclBsbU9iamVjdD4+KCJJTl9PQkpFQ1RTIik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>wsc</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2RFR5cGVJRFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgc3RhdGljIGZpbmFsIERDS2V5T2JqZWN0PENvbGxlY3Rpb248PyBleHRlbmRzIEJyUGxtT2JqZWN0Pj4gSU5fT0JKRUNUUyA9IG5ldyBEQ0tleU9iamVjdDxDb2xsZWN0aW9uPD8gZXh0ZW5kcyBCclBsbU9iamVjdD4+KCJJTl9PQkpFQ1RTIik7Cg==</text>
+        <text encoding="base64">U3lzdGVtLm91dC5wcmludGxuKCJ0ZXN0Iik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBmZWZlZ2dyZ3JnICAK</text>
