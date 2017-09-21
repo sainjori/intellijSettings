@@ -23,10 +23,14 @@
       <file name="$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar!/javax/ws/rs/core/UriInfo.java" timestamp="1505733662491">
         <mark key="'" line="164" column="15" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" timestamp="1505925884938">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrObjFactory.java" timestamp="1505984410585">
+        <mark key="'" line="123" column="10" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" timestamp="1505984541645">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+        <mark key="^" line="95" column="56" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrDataExchangeObjFactory.java" timestamp="1504536243641">
         <mark key="'" line="86" column="16" />
@@ -73,24 +77,17 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/cad/doc/createmulti/PlmProcessCadDocumentCreateMulti.java" timestamp="1504868604777">
         <mark key="'" line="1054" column="6" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/tables/pojos/KibanaDashboardPojo.java" timestamp="1505487925618">
-        <mark key="'" line="188" column="55" />
-        <mark key="[" line="41" column="47" />
-        <mark key="]" line="9" column="26" />
-        <mark key="." line="9" column="26" />
-        <mark key="^" line="9" column="26" />
-      </file>
       <file name="/default.txt" timestamp="1505143535862">
         <mark key="'" line="47" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.9/commons-codec-1.9-sources.jar!/org/apache/commons/codec/digest/DigestUtils.java" timestamp="1505743182483">
         <mark key="'" line="445" column="5" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1505983228827">
-        <mark key="[" line="11" column="33" />
-        <mark key="]" line="11" column="60" />
-        <mark key="^" line="11" column="60" />
-        <mark key="." line="11" column="60" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1505984712200">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="18" column="33" />
+        <mark key="^" line="18" column="33" />
+        <mark key="." line="18" column="33" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/XmlData.java" timestamp="1504688770866">
         <mark key="'" line="325" column="17" />
@@ -113,13 +110,6 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar!/javax/ws/rs/core/SecurityContext.java" timestamp="1505742584236">
         <mark key="'" line="81" column="6" />
-      </file>
-      <file name="C:/ENTWICKLUNG/ectr_installations/ECTR-51/basis/config/system-default.txt" timestamp="1505903905010">
-        <mark key="'" line="651" column="25" />
-        <mark key="[" line="666" column="70" />
-        <mark key="]" line="656" column="36" />
-        <mark key="^" line="656" column="36" />
-        <mark key="." line="656" column="36" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/proc/ug/PlmProcessUgAnalyseStruct.java" timestamp="1504603167255">
         <mark key="'" line="1664" column="73" />
@@ -150,20 +140,15 @@
         <mark key="^" line="156" column="7" />
         <mark key="." line="156" column="7" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-4.4-snapshot-source/core/plm++/java/src/plm/utils/url/PlmUrl.java" timestamp="1505407019453">
-        <mark key="'" line="49" column="13" />
-        <mark key="[" line="223" column="3" />
-        <mark key="]" line="223" column="1" />
-        <mark key="." line="223" column="1" />
-        <mark key="^" line="223" column="1" />
-      </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/brobj/BrPlmObject.java" timestamp="1505984337600" />
       <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1505729285630">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="3" column="5" />
         <mark key="." line="3" column="5" />
         <mark key="^" line="3" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505982504175">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/PlmProcessUserGroupSearch.java" timestamp="1505984662634" />
+      <file name="/Dummy.txt" timestamp="1505984567073">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/dadi/DadiAnalyzeCompleAfter.java" timestamp="1505381955618">
@@ -178,17 +163,19 @@
         <mark key="." line="18" column="46" />
         <mark key="^" line="18" column="46" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustClonePosition.java" timestamp="1505984378114">
+        <mark key="'" line="142" column="10" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.3.9.v20160517/jetty-util-9.3.9.v20160517-sources.jar!/org/eclipse/jetty/util/thread/QueuedThreadPool.java" timestamp="1505734615538">
         <mark key="'" line="591" column="48" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/api/KibanaDashboardEndpoint.java" timestamp="1505485563000">
-        <mark key="'" line="124" column="63" />
-        <mark key="[" line="66" column="3" />
-        <mark key="]" line="66" column="3" />
-        <mark key="^" line="66" column="3" />
-        <mark key="." line="66" column="3" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/PlmMultiChangeProcess.java" timestamp="1505922332710" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrDTCManual.java" timestamp="1505984405427">
+        <mark key="'" line="466" column="6" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustContainer.java" timestamp="1505984388651">
+        <mark key="'" line="191" column="4" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/dataexchange/proc/ug/PlmProcessUgAnalyseStruct.java" timestamp="1505229217028">
         <mark key="'" line="287" column="34" />
       </file>
@@ -210,10 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7948" column="16" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="8175" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="497" column="24" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="889" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="1428" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="1430" column="15" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="2081" column="22" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
@@ -310,13 +293,17 @@
       <jump line="651" column="25" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/basis/config/system-default.txt" />
       <jump line="516" column="16" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/PLMProcess.java" />
       <jump line="566" column="16" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustMsg.java" />
+      <jump line="142" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustClonePosition.java" />
+      <jump line="191" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustContainer.java" />
+      <jump line="466" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrDTCManual.java" />
+      <jump line="123" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrObjFactory.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcGxtRG9jcy5zdHJlYW0oKS5maW5kQW55KCkubWFwKGUgLT4gZS5nZXRsbykK</text>
+      <register name="&quot;" type="4">
+        <text>PRP_USERGROUP</text>
       </register>
       <register name="-" type="4">
-        <text>c_ret</text>
+        <text>PRP_USERGROUP</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2RFR5cGVJRFw+</text>
@@ -325,37 +312,37 @@
         <text encoding="base64">U3lzdGVtLm91dC5wcmludGxuKCJ0ZXN0Iik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcGxtRG9jcy5zdHJlYW0oKS5maW5kQW55KCkubWFwKGUgLT4gZS5nZXRsbykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIExpc3Q8UGxtT2JqZWN0PiBvYmplY3RzID0gY29udC5nZXRPYmplY3RzKCk7Cg==</text>
+        <text encoding="base64">ICAgIHBycCA9IGFkZE9iclByb3BlcnR5KG5ldyBPYnJQcm9wZXJ0eShQUlBfREVTQywgRGljLmdldCgiU1lTVEVNLlQuREVTQ1IiLCAiRGVzY3JpcHRpb24iKSwgIiIsIHRydWUsIGZhbHNlKSk7CiAgICBwcnAuc2V0V2lkdGgoNjApOwogICAgcHJwLnNldEVkaXRMZW5ndGgoNjApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcGxtT2JqZWN0LmdldGwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlCg==</text>
+        <text encoding="base64">ICAgICAgZ2V0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmZWZlZ2dyZ3JnICAK</text>
+        <text encoding="base64">ICAgICAgcGxtRG9jcy5zdHJlYW0oKS5maW5kQW55KCkubWFwKGUgLT4gZS5nZXRsbykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgIExpc3Q8UGxtT2JqZWN0PiBvYmplY3RzID0gY29udC5nZXRPYmplY3RzKCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgICAgcGxtT2JqZWN0LmdldGwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQHZlcnNpb24gJFJldmlzaW9uOiAyNDYgJCAoJERhdGU6IDIwMTYtMDctMTIgMTQ6NDM6MjQgKzAyMDAgKERpLCAxMiBKdWwgMjAxNikgJCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>marks</text>
