@@ -7,11 +7,11 @@
         <mark key="'" line="753" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1505923388703" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/test.java" timestamp="1505987566131">
-        <mark key="[" line="43" column="3" />
-        <mark key="]" line="67" column="84" />
-        <mark key="." line="67" column="84" />
-        <mark key="^" line="67" column="84" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/test.java" timestamp="1505988712536">
+        <mark key="[" line="52" column="11" />
+        <mark key="]" line="52" column="15" />
+        <mark key="." line="52" column="15" />
+        <mark key="^" line="52" column="15" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcImport.java" timestamp="1504535509597">
         <mark key="'" line="146" column="13" />
@@ -83,17 +83,21 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/cad/doc/createmulti/PlmProcessCadDocumentCreateMulti.java" timestamp="1504868604777">
         <mark key="'" line="1054" column="6" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/objmod/PlmDocument.java" timestamp="1505989705837">
+        <mark key="[" line="804" column="9" />
+        <mark key="]" line="804" column="35" />
+      </file>
       <file name="/default.txt" timestamp="1505143535862">
         <mark key="'" line="47" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.9/commons-codec-1.9-sources.jar!/org/apache/commons/codec/digest/DigestUtils.java" timestamp="1505743182483">
         <mark key="'" line="445" column="5" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1505984712200">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="18" column="33" />
-        <mark key="^" line="18" column="33" />
-        <mark key="." line="18" column="33" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1505989795955">
+        <mark key="[" line="52" column="3" />
+        <mark key="]" line="55" column="5" />
+        <mark key="." line="55" column="5" />
+        <mark key="^" line="55" column="5" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/XmlData.java" timestamp="1504688770866">
         <mark key="'" line="325" column="17" />
@@ -307,20 +311,20 @@
       <jump line="54" column="16" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>PlmProcessDocumentChangeMultiAdvanced.UserInputDocument((PlmDocument) plmObject);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZvcgo=</text>
       </register>
       <register name="-" type="4">
-        <text>PlmProcessDocumentChangeMultiAdvanced.UserInputDocument((PlmDocument) plmObject);</text>
+        <text>key</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgTGlzdDxQbG1Eb2N1bWVudD4gcGxtRG9jcyA9IGdldFBsbURvY3VtZW50cyhzZWxlY3RlZFIxcyk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">TGlua2VkTGlzdDxQbG1Mb25nVGV4dExpbmU+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvcgo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -329,28 +333,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQ7Cg==</text>
+        <text encoding="base64">ICB9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBkYy5yZWFkRGV0YWlsc1BvcCh0cnVlLCB0cnVlLCBmYWxzZSwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIHZvaWQgaW5pdFByb3BzRm9yTGFuZ3VlcyhPYmplY3QgbGFuZ3VhZ2UsIE9iamVjdCBsb25ndGV4dCkKICB7CgogIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgZG9kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEJyQ3VzdExvbmdUZXh0T2JqZWN0IGJyQ3VzdExvbmdUZXh0T2JqZWN0ID0gbmV3IEJyQ3VzdExvbmdUZXh0T2JqZWN0KGRvYyk7CiAgICAgICAgcmVzdWx0LmFkZChkb2MpOwogICAgICAgIHBkYy5hZGREb2N1bWVudChkb2MpOwogICAgICB9CiAgICAgIGVsc2UK</text>
+        <text encoding="base64">ICAgIGZvcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFBsbURvY3VtZW50Q29udGFpbmVyIHBkYyA9IG5ldyBQbG1Eb2N1bWVudENvbnRhaW5lcigpOwo=</text>
+        <text encoding="base64">ICAgIGRvYy5nZXROZXdMb25nVGV4dCgpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIExpc3Q8UGxtRG9jdW1lbnQ+IHJlc3VsdCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN1cGVyLnJlYWREZXRhaWxzKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>marks</text>
