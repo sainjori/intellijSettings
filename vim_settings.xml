@@ -7,7 +7,12 @@
         <mark key="'" line="753" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1505923388703" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/test.java" timestamp="1505982863870" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/test.java" timestamp="1505987566131">
+        <mark key="[" line="43" column="3" />
+        <mark key="]" line="67" column="84" />
+        <mark key="." line="67" column="84" />
+        <mark key="^" line="67" column="84" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/omf/OmfDataExcImport.java" timestamp="1504535509597">
         <mark key="'" line="146" column="13" />
       </file>
@@ -26,11 +31,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrObjFactory.java" timestamp="1505984410585">
         <mark key="'" line="123" column="10" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" timestamp="1505984541645">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-        <mark key="^" line="95" column="56" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" timestamp="1505986908396">
+        <mark key="'" line="54" column="16" />
+        <mark key="[" line="106" column="6" />
+        <mark key="]" line="106" column="6" />
+        <mark key="." line="106" column="6" />
+        <mark key="^" line="106" column="44" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrDataExchangeObjFactory.java" timestamp="1504536243641">
         <mark key="'" line="86" column="16" />
@@ -38,7 +44,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/KibanaDashboardDAO.java" timestamp="1505484134081">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/proc/PlmMultiChangeProcess.java" timestamp="1505922410004">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/proc/PlmMultiChangeProcess.java" timestamp="1505986117218">
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="147" />
       </file>
@@ -98,7 +104,9 @@
         <mark key="^" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/PlmProcessDocumentChangeMultiAdvanced.java" timestamp="1505982837125" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/PlmProcessDocumentChangeMultiAdvanced.java" timestamp="1505986364186">
+        <mark key="'" line="448" column="2" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" timestamp="1504894378996">
         <mark key="'" line="254" column="25" />
       </file>
@@ -197,11 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1428" column="8" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="1430" column="15" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="2081" column="22" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="2083" column="26" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
-      <jump line="2126" column="22" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="2128" column="26" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="2326" column="44" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="2512" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
@@ -297,19 +300,24 @@
       <jump line="191" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustContainer.java" />
       <jump line="466" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrDTCManual.java" />
       <jump line="123" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrObjFactory.java" />
+      <jump line="905" column="10" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/PlmProcessDocumentChangeMultiAdvanced.java" />
+      <jump line="448" column="2" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/PlmProcessDocumentChangeMultiAdvanced.java" />
+      <jump line="124" column="38" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" />
+      <jump line="17" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" />
+      <jump line="54" column="16" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PRP_USERGROUP</text>
+        <text>PlmProcessDocumentChangeMultiAdvanced.UserInputDocument((PlmDocument) plmObject);</text>
       </register>
       <register name="-" type="4">
-        <text>PRP_USERGROUP</text>
+        <text>PlmProcessDocumentChangeMultiAdvanced.UserInputDocument((PlmDocument) plmObject);</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2RFR5cGVJRFw+</text>
+        <text>test</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U3lzdGVtLm91dC5wcmludGxuKCJ0ZXN0Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgTGlzdDxQbG1Eb2N1bWVudD4gcGxtRG9jcyA9IGdldFBsbURvY3VtZW50cyhzZWxlY3RlZFIxcyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -318,40 +326,40 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBycCA9IGFkZE9iclByb3BlcnR5KG5ldyBPYnJQcm9wZXJ0eShQUlBfREVTQywgRGljLmdldCgiU1lTVEVNLlQuREVTQ1IiLCAiRGVzY3JpcHRpb24iKSwgIiIsIHRydWUsIGZhbHNlKSk7CiAgICBwcnAuc2V0V2lkdGgoNjApOwogICAgcHJwLnNldEVkaXRMZW5ndGgoNjApOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldHVybiByZXN1bHQ7Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgIHBkYy5yZWFkRGV0YWlsc1BvcCh0cnVlLCB0cnVlLCBmYWxzZSwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZ2V0Cg==</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcGxtRG9jcy5zdHJlYW0oKS5maW5kQW55KCkubWFwKGUgLT4gZS5nZXRsbykK</text>
+        <text encoding="base64">Ly8gICAgICAgIEJyQ3VzdExvbmdUZXh0T2JqZWN0IGJyQ3VzdExvbmdUZXh0T2JqZWN0ID0gbmV3IEJyQ3VzdExvbmdUZXh0T2JqZWN0KGRvYyk7CiAgICAgICAgcmVzdWx0LmFkZChkb2MpOwogICAgICAgIHBkYy5hZGREb2N1bWVudChkb2MpOwogICAgICB9CiAgICAgIGVsc2UK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIExpc3Q8UGxtT2JqZWN0PiBvYmplY3RzID0gY29udC5nZXRPYmplY3RzKCk7Cg==</text>
+        <text encoding="base64">ICAgIFBsbURvY3VtZW50Q29udGFpbmVyIHBkYyA9IG5ldyBQbG1Eb2N1bWVudENvbnRhaW5lcigpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcGxtT2JqZWN0LmdldGwK</text>
+        <text encoding="base64">ICAgIExpc3Q8UGxtRG9jdW1lbnQ+IHJlc3VsdCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHN1cGVyLnJlYWREZXRhaWxzKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>marks</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2RFR5cGVJRFw+</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2RFR5cGVJRFw+</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>import</last-substitute>
       <last-dir>1</last-dir>
@@ -359,8 +367,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaG93SW5PYmplY3RCcm93c2VyXD4=</entry>
-        <entry encoding="base64">XDxCQVNJQ0RBVEFcPg==</entry>
         <entry encoding="base64">XDxmb2xkZXJfZXhwYW5kZWRcPg==</entry>
         <entry encoding="base64">XDxjb252ZXJ0U2NyaXB0XD4=</entry>
         <entry encoding="base64">XDxkZWxldGVQcmV2aWVzRnJvbUxhc3RDb252ZXJzaW9uXD4=</entry>
@@ -379,6 +385,8 @@
         <entry encoding="base64">XDxEQ1JfYWZ0ZXJBbmFseXplQ29tcGxldGVcPg==</entry>
         <entry encoding="base64">XDxlcnJNc2dcPg==</entry>
         <entry encoding="base64">XDx2RFR5cGVJRFw+</entry>
+        <entry>tet</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>%s/key/bla/g</entry>
