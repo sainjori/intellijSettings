@@ -11,12 +11,12 @@
         <mark key="." line="127" column="0" />
         <mark key="^" line="127" column="36" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" timestamp="1506006178972">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" timestamp="1506098159917">
         <mark key="'" line="54" column="16" />
-        <mark key="[" line="104" column="6" />
-        <mark key="]" line="104" column="14" />
-        <mark key="." line="104" column="6" />
-        <mark key="^" line="104" column="5" />
+        <mark key="[" line="111" column="22" />
+        <mark key="]" line="100" column="35" />
+        <mark key="." line="100" column="35" />
+        <mark key="^" line="100" column="35" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/gui/browser/DirBrowsePanel.java" timestamp="1506083000799">
         <mark key="'" line="1156" column="15" />
@@ -66,7 +66,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/PlmMultiChangeProcess.java" timestamp="1505922332710" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/plugins/objects/ServiceKeyHelper.java" timestamp="1506006896217" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/mat/PlmProcessMaterialChangeMultiAdvanced.java" timestamp="1505924965935" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/ProcessDocSaveLongtext.java" timestamp="1506097127103" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/ProcessDocSaveLongtext.java" timestamp="1506097754546" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrMassUploadInput.java" timestamp="1506005592508" />
       <file name="/fragment.java" timestamp="1506094010716">
         <mark key="[" line="0" column="0" />
@@ -179,11 +179,11 @@
       <jump line="153" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/test.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>test</text>
       </register>
       <register name="-" type="4">
-        <text>IN_COMMIT_AND_WAIT</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2X2RvY3VtZW50ZGVzY3JpcHRpb25cPg==</text>
