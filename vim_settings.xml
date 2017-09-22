@@ -4,11 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1505923388703" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/test.java" timestamp="1506089988631">
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="." line="135" column="0" />
-        <mark key="^" line="133" column="66" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/test.java" timestamp="1506092813737">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="0" />
+        <mark key="." line="127" column="0" />
+        <mark key="^" line="127" column="36" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" timestamp="1506006178972">
         <mark key="'" line="54" column="16" />
@@ -37,12 +37,12 @@
         <mark key="]" line="804" column="35" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/DirBrowsePanel.java" timestamp="1506079663865" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1506089441146">
-        <mark key="'" line="100" column="9" />
-        <mark key="[" line="305" column="0" />
-        <mark key="]" line="305" column="0" />
-        <mark key="." line="305" column="0" />
-        <mark key="^" line="306" column="53" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1506093090833">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="323" column="0" />
+        <mark key="]" line="323" column="0" />
+        <mark key="." line="323" column="0" />
+        <mark key="^" line="308" column="70" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/PlmProcessDocumentChangeMultiAdvanced.java" timestamp="1506020380429">
         <mark key="'" line="859" column="45" />
@@ -54,8 +54,8 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/proc/doc/PopDocChangeMulti.java" timestamp="1506089452906">
         <mark key="'" line="481" column="6" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/PopDocChangeMulti.java" timestamp="1506089204033">
-        <mark key="'" line="461" column="14" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/PopDocChangeMulti.java" timestamp="1506091906184">
+        <mark key="'" line="561" column="8" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/brobj/BrPlmObject.java" timestamp="1505984337600" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/PlmProcessUserGroupSearch.java" timestamp="1505984662634" />
@@ -67,7 +67,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/mat/PlmProcessMaterialChangeMultiAdvanced.java" timestamp="1505924965935" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/ProcessDocSaveLongtext.java" timestamp="1506088394725" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrMassUploadInput.java" timestamp="1506005592508" />
-      <file name="/fragment.java" timestamp="1506083463990">
+      <file name="/fragment.java" timestamp="1506092410467">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -76,10 +76,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/omf/OmfDocChangeMulti.java" timestamp="1506006191572" />
     </filemarks>
     <jumps>
-      <jump line="1054" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/cad/doc/createmulti/PlmProcessCadDocumentCreateMulti.java" />
-      <jump line="3484" column="27" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmDocument.java" />
-      <jump line="254" column="25" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessDocCreateChangeNote.java" />
-      <jump line="655" column="7" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/objmod/PlmDocument.java" />
       <jump line="47" column="0" filename="/default.txt" />
       <jump line="163" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" />
       <jump line="154" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" />
@@ -176,61 +172,67 @@
       <jump line="219" column="17" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/PopDocChangeMulti.java" />
       <jump line="161" column="29" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/PopDocChangeMulti.java" />
       <jump line="461" column="14" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/PopDocChangeMulti.java" />
+      <jump line="135" column="89" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/PopDocChangeMulti.java" />
+      <jump line="478" column="6" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/PopDocChangeMulti.java" />
+      <jump line="561" column="8" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/PopDocChangeMulti.java" />
+      <jump line="73" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwLmV4ZWN1dGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>IN_COMMIT_AND_WAIT</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBUElfTkFNRV9QQVw+</text>
+        <text encoding="base64">XDx2X2RvY3VtZW50ZGVzY3JpcHRpb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBkYy5hZGRCb29sKFBvcERvY0NoYW5nZU11bHRpLklOX0NIQU5HRV9DSEFSVkFMVUVTLCB0cnVlKTsK</text>
+        <text encoding="base64">ICAgIG9iamVjdE9iamVjdEhhc2hNYXAuZm9yRWFjaCgobGFuZ3VhZ2UsIG9sZExvbmdUZXh0KSAtPiB7CiAgICAgICAgICAgIExpbmtlZExpc3Q8UGxtTG9uZ1RleHRMaW5lPiBuZXdMT25ndGV4dCA9IHNldE5ld0xvbmd0ZXh0KGxhbmd1YWdlLCBvbGRMb25nVGV4dCk7CiAgICAgICAgICAgIHBsbURvY3VtZW50LnNldE5ld0xvbmdUZXh0KGxhbmd1YWdlLCBuZXdMT25ndGV4dCk7CiAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwLmV4ZWN1dGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwLnNldERhdGEoZGMpOwo=</text>
+      <register name="2" type="4">
+        <text>if (integer == 0){
+          plmDocument.setDescription(lang, (String) integerObrPropertyHashMap.get(integer).getValue());
+        }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGxtRG9jdW1lbnQuc2V0RGVzY3JpcHRpb24oImZlZmVmIik7Cg==</text>
+        <text encoding="base64">ICAgICAgcGxtRG9jdW1lbnQuc2V0TmV3TG9uZ1RleHQobGFuZ3VhZ2UsIG5ld0xPbmd0ZXh0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgTGlua2VkTGlzdDxQbG1Mb25nVGV4dExpbmU+IG5ld0xPbmd0ZXh0ID0gc2V0TmV3TG9uZ3RleHQobGFuZ3VhZ2UsIG9sZExvbmdUZXh0KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYy5hZGRCb29sKFBvcERvY0NoYW5nZU11bHRpLiwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGxtRG9jdW1lbnQuc2V0ZAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHBsbURvY3VtZW50LnNldE1vZGlmaWVkKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICBwbG1Mb25nVGV4dExpbmUuCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9jZXNzRG9jU2F2ZUxvbmd0ZXh0IHByb2Nlc3NEb2NTYXZlTG9uZ3RleHQgPSBuZXcgUHJvY2Vzc0RvY1NhdmVMb25ndGV4dCgpOwogICAgICAgIERhdGFDb250YWluZXIgZGMgPSBuZXcgRGF0YUNvbnRhaW5lcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkYy5hZGRCb29sKFBvcERvY0NoYW5nZU11bHRpLiwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGxtRG9jdW1lbnQuc2V0RGVzY3JpcHRpb24obGFuZ3VhZ2UsICJmZWZlIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>marks</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBUElfTkFNRV9QQVw+</last-search>
+      <last-search encoding="base64">XDx2X2RvY3VtZW50ZGVzY3JpcHRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBUElfTkFNRV9QQVw+</last-pattern>
+      <last-pattern encoding="base64">XDx2X2RvY3VtZW50ZGVzY3JpcHRpb25cPg==</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>import</last-substitute>
       <last-dir>1</last-dir>
@@ -238,9 +240,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGFuZ2VPYmplY3RcPg==</entry>
-        <entry encoding="base64">XDx2YWx1ZUFzc2lnbm1lbnRcPg==</entry>
-        <entry encoding="base64">XDxkdHlwZVw+</entry>
         <entry encoding="base64">XDxwbG1Eb2NcPg==</entry>
         <entry encoding="base64">XDxEQ1JfYmVmb3JlU2hvd0Nsc0luR3VpXD4=</entry>
         <entry encoding="base64">XDxEQ1Jfb25WYWxpZGF0ZUd1aUlucHV0XD4=</entry>
@@ -258,6 +257,9 @@
         <entry encoding="base64">XDxJTl9DSEFOR0VfTE9OR1RFWFRcPg==</entry>
         <entry encoding="base64">XDxjaGFuZ2VMb25ndGV4dFw+</entry>
         <entry encoding="base64">XDxBUElfTkFNRV9QQVw+</entry>
+        <entry encoding="base64">XDxJTl9DSEFOR0VfRE9DREFUQVw+</entry>
+        <entry encoding="base64">XDxjaGFuZ2VEb2N1bWVudERhdGFcPg==</entry>
+        <entry encoding="base64">XDx2X2RvY3VtZW50ZGVzY3JpcHRpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/key/bla/g</entry>
