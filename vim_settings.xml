@@ -38,12 +38,15 @@
       <file name="/Dummy.txt" timestamp="1506089912987">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/objmod/PlmDocument.java" timestamp="1505997011596">
-        <mark key="'" line="810" column="4" />
-        <mark key="[" line="804" column="9" />
-        <mark key="]" line="804" column="35" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/PlmMultiChangeProcess.java" timestamp="1506103594274" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/ProcessMultiChangeLongtext.java" timestamp="1506104994480">
+        <mark key="'" line="142" column="50" />
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="^" line="140" column="34" />
+        <mark key="." line="140" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1506093822611">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1506104254056">
         <mark key="'" line="135" column="2" />
         <mark key="[" line="323" column="0" />
         <mark key="]" line="323" column="0" />
@@ -61,7 +64,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="154" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" />
       <jump line="381" column="39" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" />
       <jump line="287" column="34" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/dataexchange/proc/ug/PlmProcessUgAnalyseStruct.java" />
       <jump line="157" column="28" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" />
@@ -161,13 +163,14 @@
       <jump line="73" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="135" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="153" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/test.java" />
+      <jump line="142" column="50" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/ProcessMultiChangeLongtext.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>select</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgZGlhbG9nLmFkZFBsbU9iamVjdHMoZXJyb3JzKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>select</text>
+        <text>bad_docs</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2X2RvY3VtZW50ZGVzY3JpcHRpb25cPg==</text>
@@ -176,39 +179,39 @@
         <text encoding="base64">ICAgIG9iamVjdE9iamVjdEhhc2hNYXAuZm9yRWFjaCgobGFuZ3VhZ2UsIG9sZExvbmdUZXh0KSAtPiB7CiAgICAgICAgICAgIExpbmtlZExpc3Q8UGxtTG9uZ1RleHRMaW5lPiBuZXdMT25ndGV4dCA9IHNldE5ld0xvbmd0ZXh0KGxhbmd1YWdlLCBvbGRMb25nVGV4dCk7CiAgICAgICAgICAgIHBsbURvY3VtZW50LnNldE5ld0xvbmdUZXh0KGxhbmd1YWdlLCBuZXdMT25ndGV4dCk7CiAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgZGlhbG9nLmFkZFBsbU9iamVjdHMoZXJyb3JzKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIExpc3Q8UGxtRG9jdW1lbnQ+IGJhZF9kb2NzID0gYy5nZXRPYmplY3QoUG9wRG9jQ2hhbmdlTXVsdGkuT1VUX0RPQ1VNRU5UU19CQUQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgIERhdGFDb250YWluZXIgYyA9IHAuZ2V0RGF0YSgpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>if (integer == 0){
-          plmDocument.setDescription(lang, (String) integerObrPropertyHashMap.get(integer).getValue());
-        }</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcGxtRG9jdW1lbnQuc2V0TmV3TG9uZ1RleHQobGFuZ3VhZ2UsIG5ld0xPbmd0ZXh0KTsK</text>
+        <text encoding="base64">Ly8gICAgICAgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgTGlua2VkTGlzdDxQbG1Mb25nVGV4dExpbmU+IG5ld0xPbmd0ZXh0ID0gc2V0TmV3TG9uZ3RleHQobGFuZ3VhZ2UsIG9sZExvbmdUZXh0KTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">IFBvcERvY0NoYW5nZU11bHRpIHAgPSBuZXcgUG9wRG9jQ2hhbmdlTXVsdGkoKTsKLy8gICAgICAgIERhdGFDb250YWluZXIgZGMgPSBuZXcgRGF0YUNvbnRhaW5lcigpOwovLwovLyAgICAgICAgZGMuYWRkQm9vbChQb3BEb2NDaGFuZ2VNdWx0aS5JTl9DT01NSVRfQU5EX1dBSVQsIHRydWUpOwovLyAgICAgICAgZGMuYWRkQm9vbChQb3BEb2NDaGFuZ2VNdWx0aS5JTl9DSEFOR0VfTE9OR1RFWFQsIHRydWUpOwovLyAgICAgICAgZGMuYWRkQm9vbChQb3BEb2NDaGFuZ2VNdWx0aS5JTl9DSEFOR0VfRE9DREFUQSwgdHJ1ZSk7Ci8vICAgICAgICBkYy5hZGRPYmplY3QoUG9wRG9jQ2hhbmdlTXVsdGkuSU5fRE9DVU1FTlRTLCBkb2N1bWVudHMpOwovLy8vICAgICAgICBUcmFuc2FjdGlvbiBlZGl0aW5nVHJhbnNhY3Rpb24gPSBTYXBNYW5hZ2VyLmdldEluc3RhbmNlKCkuZ2V0VHJhbnNhY3Rpb24oKTsKLy8vLyAgICAgICAgZWRpdGluZ1RyYW5zYWN0aW9uLmJlZ2luQ29udGV4dCgpOwovLyAgICAgICAgcC5zZXREYXRhKGRjKTsKLy8gICAgICAgIHAuZXhlY3V0ZSgpOwovLyAgICAgICAgUExNUHJvY2Vzcy5leGVjUHJvY2VzcyhwLCBlZGl0aW5nVHJhbnNhY3Rpb24sIGRjKTs=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkYy5hZGRCb29sKFBvcERvY0NoYW5nZU11bHRpLiwgdHJ1ZSk7Cg==</text>
+      <register name="7" type="4">
+        <text>else {
+
+          }</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBsbURvY3VtZW50LnNldE1vZGlmaWVkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ0ZXJyZSIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwbG1Mb25nVGV4dExpbmUuCg==</text>
+        <text encoding="base64">ICAgICAgICAgIFZlY3RvcjxUaHJvd2FibGU+IGVycm9yczsK</text>
       </register>
       <register name=":" type="4">
         <text>marks</text>
