@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1506369843015">
+        <mark key="'" line="1385" column="20" />
+      </file>
       <file name="/OmfKsbDocChangeLongtextMulti.java" timestamp="1506347095304" />
       <file name="/a.dummy" timestamp="1506344005688">
         <mark key="[" line="0" column="0" />
@@ -23,20 +26,20 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.5.1/base-5.1.5.1-sources.jar!/cadagent/cfc/util/Trace.java" timestamp="1506346691736">
         <mark key="'" line="309" column="45" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/proc/PlmMultiChangeProcess.java" timestamp="1506350647279">
-        <mark key="'" line="91" column="2" />
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/proc/PlmMultiChangeProcess.java" timestamp="1506369687339">
+        <mark key="'" line="288" column="54" />
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="147" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustMsg.java" timestamp="1506349569777">
         <mark key="'" line="566" column="16" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" timestamp="1506352531719">
-        <mark key="'" line="515" column="60" />
-        <mark key="[" line="515" column="60" />
-        <mark key="]" line="515" column="70" />
-        <mark key="." line="515" column="70" />
-        <mark key="^" line="515" column="70" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" timestamp="1506370598957">
+        <mark key="'" line="258" column="67" />
+        <mark key="[" line="81" column="67" />
+        <mark key="]" line="81" column="69" />
+        <mark key="." line="81" column="69" />
+        <mark key="^" line="81" column="69" />
       </file>
       <file name="/Dummy.txt" timestamp="1506352113461">
         <mark key="[" line="0" column="0" />
@@ -44,7 +47,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/utils/PlmObserver.java" timestamp="1506343178884">
         <mark key="'" line="1020" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/PlmMultiChangeProcess.java" timestamp="1506351797153">
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/PlmMultiChangeProcess.java" timestamp="1506369746168">
         <mark key="'" line="280" column="15" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/ProcessMultiChangeLongtext.java" timestamp="1506348318432">
@@ -59,12 +62,12 @@
         <mark key="]" line="175" column="33" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" timestamp="1506345469636" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1506367193194">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1506369047867">
         <mark key="'" line="88" column="65" />
-        <mark key="[" line="77" column="38" />
-        <mark key="]" line="77" column="36" />
-        <mark key="." line="77" column="36" />
-        <mark key="^" line="77" column="36" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="119" column="1" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/PlmProcessDocumentChangeMultiAdvanced.java" timestamp="1506020380429">
         <mark key="'" line="859" column="45" />
@@ -73,21 +76,14 @@
         <mark key="'" line="72" column="10" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/ProcessDocSaveLongtext.java" timestamp="1506338302482" />
-      <file name="/fragment.java" timestamp="1506354226269">
+      <file name="/fragment.java" timestamp="1506370262966">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-        <mark key="^" line="0" column="6" />
+        <mark key="]" line="0" column="59" />
+        <mark key="." line="0" column="59" />
+        <mark key="^" line="0" column="19" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="31" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
-      <jump line="75" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
-      <jump line="129" column="63" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/PlmProcessDocumentChangeMultiAdvanced.java" />
-      <jump line="859" column="45" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/PlmProcessDocumentChangeMultiAdvanced.java" />
-      <jump line="161" column="107" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
-      <jump line="62" column="46" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
-      <jump line="240" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="103" column="35" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="246" column="41" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="104" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
@@ -181,61 +177,68 @@
       <jump line="50" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="86" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="88" column="65" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
+      <jump line="105" column="33" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/proc/PlmMultiChangeProcess.java" />
+      <jump line="1385" column="20" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
+      <jump line="288" column="54" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/proc/PlmMultiChangeProcess.java" />
+      <jump line="81" column="33" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
+      <jump line="216" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
+      <jump line="270" column="111" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
+      <jump line="258" column="67" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>initlongtextPropertiesOrdersedee</text>
+        <text>944</text>
       </register>
       <register name="-" type="4">
-        <text>initlongtextPropertiesOrdersedee</text>
+        <text>944</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvYmplY3RPYmplY3RIYXNoTWFwXD4=</text>
+        <text encoding="base64">XDxERUZBVUxUX0RJTUVOU0lPTlw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">SGFzaE1hcDxTdHJpbmcsIFBsbUxvbmdUZXh0TGluZT4gbWFw</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgZGxnLnJlc3RvcmVVSURhdGEoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGluaXRMb25ndGV4dFByb3BlcnRpZXMoKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZm9yZQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHZvaWQgaW5pdGxvbmd0ZXh0UHJvcGVydGllc09yZGVyc2VkKEludGVnZXIgbGluZSwgSGFzaE1hcDxTdHJpbmcsIFBsbUxvbmdUZXh0TGluZT4gbWFwKQogIHsKICB9Cg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">cHJpdmF0ZSB2b2lkIGluaXRMb25ndGV4dFByb3BlcnRpZXMoKQogIHsKLy8gICAgTGlzdDxkdW1tT2JqZWN0PiBsYW5nYXVhZ2VzQW5kTG9uZ3RleHQgPSBwbG1Eb2N1bWVudC5nZXROZXdMb25nVGV4dExhbmd1YWdlcygpLnN0cmVhbSgpCi8vICAgICAgICAubWFwKGxhbmd1YWdlIC0+IG5ldyBkdW1tT2JqZWN0KGxhbmd1YWdlLCBwbG1Eb2N1bWVudC5nZXROZXdMb25nVGV4dChsYW5ndWFnZSkpKS5jb2xsZWN0KHRvTGlzdCgpKTsKLy8KLy8gICAgbGFuZ2F1YWdlc0FuZExvbmd0ZXh0LnN0cmVhbSgpLm1hcChkdW1tT2JqZWN0OjpnZXRMaW5lcykuZm9yRWFjaChlIC0+IHsKLy8gICAgICBmb3IgKEludGVnZXIgcm93IDogZS5rZXlTZXQoKSkKLy8gICAgICB7Ci8vICAgICAgICBsb25ndGV4dE9iclByb3BlcnR5c09yZGVyZWQocm93LCBlLmdldChyb3cpKTsKLy8gICAgICB9Ci8vICAgIH0pOwoKICB9</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIDxSPiBSIGluaXRsb25ndGV4dFByb3BlcnRpZXNPcmRlcnNlZChJbnRlZ2VyIGdldEtleSwgTWFwIGdldFZhbHVlKQogIHsKICAgcmV0dXJuIG51bGw7CiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcml2YXRlIDxSPiBSIGluaXRsb25ndGV4dFByb3BlcnRpZXNPcmRlcnNlZChPYmplY3QgZ2V0S2V5LCBIYXNoTWFwPE9iamVjdCwgT2JqZWN0PiBvYmplY3RPYmplY3RIYXNoTWFwKQogIHsKICAgIAogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>44</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvYmplY3RPYmplY3RIYXNoTWFwXD4=</last-search>
+      <last-search encoding="base64">XDxERUZBVUxUX0RJTUVOU0lPTlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvYmplY3RPYmplY3RIYXNoTWFwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxERUZBVUxUX0RJTUVOU0lPTlw+</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>import</last-substitute>
       <last-dir>1</last-dir>
@@ -243,7 +246,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tet</entry>
         <entry>test</entry>
         <entry encoding="base64">XDxvYmplY3RPYmplY3RIYXNoTWFwMVw+</entry>
         <entry encoding="base64">XDxlZGl0aW5nVHJhbnNhY3Rpb25cPg==</entry>
@@ -263,6 +265,7 @@
         <entry>^}</entry>
         <entry>^{</entry>
         <entry encoding="base64">XDxvYmplY3RPYmplY3RIYXNoTWFwXD4=</entry>
+        <entry encoding="base64">XDxERUZBVUxUX0RJTUVOU0lPTlw+</entry>
       </history-search>
       <history-cmd>
         <entry>ls</entry>
