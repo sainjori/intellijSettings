@@ -10,12 +10,7 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/gui/browser/AbstractBrowsePanel.java" timestamp="1506082792815">
         <mark key="'" line="648" column="10" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" timestamp="1506347160299">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="85" column="17" />
-      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" timestamp="1506351475826" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/gui/browser/DirBrowsePanel.java" timestamp="1506083000799">
         <mark key="'" line="1156" column="15" />
       </file>
@@ -28,27 +23,30 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.5.1/base-5.1.5.1-sources.jar!/cadagent/cfc/util/Trace.java" timestamp="1506346691736">
         <mark key="'" line="309" column="45" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/proc/PlmMultiChangeProcess.java" timestamp="1506348468072">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/proc/PlmMultiChangeProcess.java" timestamp="1506350647279">
+        <mark key="'" line="91" column="2" />
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="147" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustMsg.java" timestamp="1506349569777">
         <mark key="'" line="566" column="16" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" timestamp="1506349573207">
-        <mark key="'" line="47" column="51" />
-        <mark key="[" line="49" column="59" />
-        <mark key="]" line="49" column="62" />
-        <mark key="^" line="49" column="62" />
-        <mark key="." line="49" column="62" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" timestamp="1506352531719">
+        <mark key="'" line="515" column="60" />
+        <mark key="[" line="515" column="60" />
+        <mark key="]" line="515" column="70" />
+        <mark key="." line="515" column="70" />
+        <mark key="^" line="515" column="70" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506349413268">
+      <file name="/Dummy.txt" timestamp="1506352113461">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/utils/PlmObserver.java" timestamp="1506343178884">
         <mark key="'" line="1020" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/PlmMultiChangeProcess.java" timestamp="1506348998129" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/PlmMultiChangeProcess.java" timestamp="1506351797153">
+        <mark key="'" line="280" column="15" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/ProcessMultiChangeLongtext.java" timestamp="1506348318432">
         <mark key="'" line="114" column="50" />
         <mark key="[" line="36" column="13" />
@@ -61,12 +59,12 @@
         <mark key="]" line="175" column="33" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" timestamp="1506345469636" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1506349891365">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1506354981351">
         <mark key="'" line="116" column="24" />
-        <mark key="[" line="39" column="35" />
-        <mark key="]" line="39" column="50" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="28" column="52" />
+        <mark key="[" line="225" column="27" />
+        <mark key="]" line="225" column="74" />
+        <mark key="." line="225" column="74" />
+        <mark key="^" line="225" column="74" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/PlmProcessDocumentChangeMultiAdvanced.java" timestamp="1506020380429">
         <mark key="'" line="859" column="45" />
@@ -75,7 +73,7 @@
         <mark key="'" line="72" column="10" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/ProcessDocSaveLongtext.java" timestamp="1506338302482" />
-      <file name="/fragment.java" timestamp="1506094010716">
+      <file name="/fragment.java" timestamp="1506354226269">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -83,19 +81,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="15" filename="$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar!/javax/ws/rs/core/UriInfo.java" />
-      <jump line="168" column="11" filename="$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar!/javax/ws/rs/core/NewCookie.java" />
-      <jump line="60" column="19" filename="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/reflect/Method.java" />
-      <jump line="554" column="12" filename="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.3.9.v20160517/jetty-util-9.3.9.v20160517-sources.jar!/org/eclipse/jetty/util/thread/QueuedThreadPool.java" />
-      <jump line="591" column="48" filename="$MAVEN_REPOSITORY$/org/eclipse/jetty/jetty-util/9.3.9.v20160517/jetty-util-9.3.9.v20160517-sources.jar!/org/eclipse/jetty/util/thread/QueuedThreadPool.java" />
-      <jump line="856" column="33" filename="$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar!/javax/ws/rs/core/Response.java" />
-      <jump line="81" column="6" filename="$MAVEN_REPOSITORY$/javax/ws/rs/javax.ws.rs-api/2.0.1/javax.ws.rs-api-2.0.1-sources.jar!/javax/ws/rs/core/SecurityContext.java" />
-      <jump line="445" column="5" filename="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.9/commons-codec-1.9-sources.jar!/org/apache/commons/codec/digest/DigestUtils.java" />
-      <jump line="185" column="0" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/gen/PlmProcessUrlHandle.java" />
-      <jump line="142" column="35" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/gen/PlmProcessUrlHandle.java" />
-      <jump line="651" column="25" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/basis/config/system-default.txt" />
-      <jump line="516" column="16" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/PLMProcess.java" />
-      <jump line="566" column="16" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustMsg.java" />
       <jump line="142" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustClonePosition.java" />
       <jump line="191" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustContainer.java" />
       <jump line="466" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrDTCManual.java" />
@@ -183,22 +168,35 @@
       <jump line="309" column="45" filename="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.5.1/base-5.1.5.1-sources.jar!/cadagent/cfc/util/Trace.java" />
       <jump line="44" column="45" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
       <jump line="47" column="51" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
+      <jump line="91" column="2" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/proc/PlmMultiChangeProcess.java" />
+      <jump line="472" column="44" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
+      <jump line="477" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
+      <jump line="301" column="38" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
+      <jump line="555" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
+      <jump line="295" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
+      <jump line="309" column="39" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
+      <jump line="294" column="33" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
+      <jump line="289" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
+      <jump line="290" column="26" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
+      <jump line="280" column="15" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/PlmMultiChangeProcess.java" />
+      <jump line="302" column="41" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
+      <jump line="515" column="60" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>OM.T.LBL_OBJECTS</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>^{</text>
       </register>
-      <register name="0" type="4">
-        <text>OM.T.LBL_OBJECTS</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5sYW5ndWFnZSA9IGxhbmd1YWdlCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgVEVTVCA9ICJURVNUIjsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ewogICAgICBMaW5rZWRMaXN0PFBsbUxvbmdUZXh0TGluZT4gbmV3TG9uZ1RleHQgPSBkb2MuZ2V0TmV3TG9uZ1RleHQobGFuZ3VhZ2UpOwogICAgICByZXR1cm4g</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -207,28 +205,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgaW5pdEFkZGl0aW9uYWxEYXRhQ2xhc3Nlcyhjb250YWluZXIuZ2V0RG9jdW1lbnRzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHBsbU9iamVjdCBpbnN0YW5jZW9mIFBsbURvY3VtZW50KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy9FMDI5ODAgPSBFcnJvciBhdCBjaGFuZ2UgZGF0YSBvZiBtdWx0aXBsZSBvYmplY3RzLgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZXJyb3JEaWFsb2cuc2V0T3BlcmF0aW9uKERpYy5nZXQoIkUwNzAyMiIsICJEb2N1bWVudCBjcmVhdGUiKSk7Cg==</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy9BZHZhbmNlZEVycm9yR3VpLmdldEluc3QoKS5hZGRUaHJvd2FibGVYKGUsIERpYy5nZXRUZXh0KCJFMDcwMjIiLCAiRG9jdW1lbnQiKSwgU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgVHJhY2UucHJpbnRsbig0LCBTdHJpbmdUb29sLmV4Y2VwdGlvbjJTdHJpbmcoZSkpOwogICAgICBpZiAoVHJhY2UuZ2V0TGV2ZWwoKSA+IDMpCiAgICAgICAgVHJhY2UucHJpbnRsbig0LCBTdHJpbmdUb29sLmV4Y2VwdGlvbjJTdHJpbmcoZSkpOwogICAgICBHdWlVdGlscy5zZXRTdGF0dXNMaW5lV2FybmluZ1RleHQoRGljLmdldCgia3NiLmNoYW5nZS5sb25ndGV4dC5zZWxlY3QuZXJyb3IiLCAiRXJyb3IgY2hhbmdlIGRhdGEgb2YgbXVsdGlwbGUgb2JqZWN0czogJTEuIiwgZS5nZXRNZXNzYWdlKCkpKTsK</text>
+        <text encoding="base64">ICAgIGZvciAoUGxtT2JqZWN0IHBsbU9iamVjdCA6IGNvbnQuZ2V0T2JqZWN0cygpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>44</text>
