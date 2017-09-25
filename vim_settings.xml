@@ -31,6 +31,11 @@
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="147" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/omf/OmfSandvikJumpToAdditionalDirectory.java" timestamp="1506373908588">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustMsg.java" timestamp="1506349569777">
         <mark key="'" line="566" column="16" />
       </file>
@@ -41,7 +46,7 @@
         <mark key="." line="81" column="69" />
         <mark key="^" line="81" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506352113461">
+      <file name="/Dummy.txt" timestamp="1506373783464">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/utils/PlmObserver.java" timestamp="1506343178884">
@@ -62,12 +67,12 @@
         <mark key="]" line="175" column="33" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" timestamp="1506345469636" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1506369047867">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1506373812310">
         <mark key="'" line="88" column="65" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="119" column="1" />
+        <mark key="[" line="169" column="12" />
+        <mark key="]" line="166" column="0" />
+        <mark key="." line="166" column="0" />
+        <mark key="^" line="170" column="11" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/PlmProcessDocumentChangeMultiAdvanced.java" timestamp="1506020380429">
         <mark key="'" line="859" column="45" />
@@ -186,11 +191,11 @@
       <jump line="258" column="67" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>944</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEZpbGVTZXJ2ZXIuZ2V0SW5zdCgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>944</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxERUZBVUxUX0RJTUVOU0lPTlw+</text>
@@ -199,19 +204,19 @@
         <text encoding="base64">SGFzaE1hcDxTdHJpbmcsIFBsbUxvbmdUZXh0TGluZT4gbWFw</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgZGxnLnJlc3RvcmVVSURhdGEoKTsK</text>
+        <text encoding="base64">ICAgIEZpbGVTZXJ2ZXIuZ2V0SW5zdCgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGluaXRMb25ndGV4dFByb3BlcnRpZXMoKTsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gICAgZGxnLnJlc3RvcmVVSURhdGEoKTsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGluaXRMb25ndGV4dFByb3BlcnRpZXMoKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -219,17 +224,17 @@
       <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">cHJpdmF0ZSB2b2lkIGluaXRMb25ndGV4dFByb3BlcnRpZXMoKQogIHsKLy8gICAgTGlzdDxkdW1tT2JqZWN0PiBsYW5nYXVhZ2VzQW5kTG9uZ3RleHQgPSBwbG1Eb2N1bWVudC5nZXROZXdMb25nVGV4dExhbmd1YWdlcygpLnN0cmVhbSgpCi8vICAgICAgICAubWFwKGxhbmd1YWdlIC0+IG5ldyBkdW1tT2JqZWN0KGxhbmd1YWdlLCBwbG1Eb2N1bWVudC5nZXROZXdMb25nVGV4dChsYW5ndWFnZSkpKS5jb2xsZWN0KHRvTGlzdCgpKTsKLy8KLy8gICAgbGFuZ2F1YWdlc0FuZExvbmd0ZXh0LnN0cmVhbSgpLm1hcChkdW1tT2JqZWN0OjpnZXRMaW5lcykuZm9yRWFjaChlIC0+IHsKLy8gICAgICBmb3IgKEludGVnZXIgcm93IDogZS5rZXlTZXQoKSkKLy8gICAgICB7Ci8vICAgICAgICBsb25ndGV4dE9iclByb3BlcnR5c09yZGVyZWQocm93LCBlLmdldChyb3cpKTsKLy8gICAgICB9Ci8vICAgIH0pOwoKICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">cHJpdmF0ZSB2b2lkIGluaXRMb25ndGV4dFByb3BlcnRpZXMoKQogIHsKLy8gICAgTGlzdDxkdW1tT2JqZWN0PiBsYW5nYXVhZ2VzQW5kTG9uZ3RleHQgPSBwbG1Eb2N1bWVudC5nZXROZXdMb25nVGV4dExhbmd1YWdlcygpLnN0cmVhbSgpCi8vICAgICAgICAubWFwKGxhbmd1YWdlIC0+IG5ldyBkdW1tT2JqZWN0KGxhbmd1YWdlLCBwbG1Eb2N1bWVudC5nZXROZXdMb25nVGV4dChsYW5ndWFnZSkpKS5jb2xsZWN0KHRvTGlzdCgpKTsKLy8KLy8gICAgbGFuZ2F1YWdlc0FuZExvbmd0ZXh0LnN0cmVhbSgpLm1hcChkdW1tT2JqZWN0OjpnZXRMaW5lcykuZm9yRWFjaChlIC0+IHsKLy8gICAgICBmb3IgKEludGVnZXIgcm93IDogZS5rZXlTZXQoKSkKLy8gICAgICB7Ci8vICAgICAgICBsb25ndGV4dE9iclByb3BlcnR5c09yZGVyZWQocm93LCBlLmdldChyb3cpKTsKLy8gICAgICB9Ci8vICAgIH0pOwoKICB9</text>
       </register>
       <register name=":" type="4">
         <text>44</text>
