@@ -102,6 +102,10 @@
     <keyboard-shortcut first-keystroke="ctrl f11" />
     <keyboard-shortcut first-keystroke="numpad6" />
   </action>
+  <action id="SafeDelete">
+    <keyboard-shortcut first-keystroke="alt delete" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="ScrollTreeToCenter" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt y" />
