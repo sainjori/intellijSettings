@@ -59,12 +59,12 @@
         <mark key="]" line="175" column="33" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" timestamp="1506345469636" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1506356351317">
-        <mark key="'" line="165" column="26" />
-        <mark key="[" line="258" column="38" />
-        <mark key="]" line="258" column="38" />
-        <mark key="." line="258" column="38" />
-        <mark key="^" line="258" column="38" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1506359443212">
+        <mark key="'" line="88" column="65" />
+        <mark key="[" line="89" column="60" />
+        <mark key="]" line="89" column="60" />
+        <mark key="." line="89" column="60" />
+        <mark key="^" line="89" column="60" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/PlmProcessDocumentChangeMultiAdvanced.java" timestamp="1506020380429">
         <mark key="'" line="859" column="45" />
@@ -81,11 +81,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="38" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" />
-      <jump line="17" column="2" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" />
-      <jump line="54" column="16" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" />
-      <jump line="810" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/objmod/PlmDocument.java" />
-      <jump line="635" column="45" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/PlmProcessDocumentChangeMultiAdvanced.java" />
       <jump line="105" column="31" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="75" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="129" column="63" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/doc/PlmProcessDocumentChangeMultiAdvanced.java" />
@@ -181,69 +176,73 @@
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="209" column="33" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="165" column="26" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
+      <jump line="70" column="13" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
+      <jump line="84" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
+      <jump line="50" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
+      <jump line="86" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
+      <jump line="88" column="65" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>forEach</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>forEach</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>^{</text>
+        <text encoding="base64">XDxvYmplY3RPYmplY3RIYXNoTWFwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHByaXZhdGUgZmluYWwgSGFzaE1hcDxJbnRlZ2VyLCBIYXNoTWFwPFN0cmluZywgUGxtTG9uZ1RleHRMaW5lPj4gb2JqZWN0T2JqZWN0SGFzaE1hcCA9IG5ldyBIYXNoTWFwPD4oKTsgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIExpc3Q8ZHVtbU9iamVjdD4gbGFuZ2F1YWdlc0FuZExvbmd0ZXh0ID0gZG9jLmdldE5ld0xvbmdUZXh0TGFuZ3VhZ2VzKCkuc3RyZWFtKCkubWFwKGxhbmd1YWdlIC0+IG5ldyBkdW1tT2JqZWN0KGxhbmd1YWdlLCBkb2MuZ2V0TmV3TG9uZ1RleHQobGFuZ3VhZ2UpKSkuY29sbGVjdCgKICAgICAgICB0b0xpc3QoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgSGFzaE1hcDxJbnRlZ2VyLCBMaW5lPiBvYmplY3RPYmplY3RIYXNoTWFwID0gbmV3IEhhc2hNYXA8PigpOwogICAgICBmb3IgKGludCBpID0gMDtpIDwgbmV3TG9uZ1RleHQuc2l6ZSgpO2krKykKICAgICAgewovLyAgICAgICAgcHJpdmF0ZSBmaW5hbCBIYXNoTWFwPEludGVnZXIsIEhhc2hNYXA8U3RyaW5nLCBQbG1Mb25nVGV4dExpbmU+PiBvYmplY3RPYmplY3RIYXNoTWFwID0gbmV3IEhhc2hNYXA8PigpOyAgICAgICAgCiAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZm8K</text>
+        <text encoding="base64">ICBwcml2YXRlIHZvaWQgaW5pdGxvbmd0ZXh0UHJvcGVydGllc09yZGVyc2VkKE1hcDxJbnRlZ2VyLCBIYXNoTWFwPFN0cmluZywgUGxtTG9uZ1RleHRMaW5lPj4gaW50ZWdlckhhc2hNYXBNYXApCiAgewogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbmV3Cg==</text>
+        <text encoding="base64">ICAgIENvbnN1bWVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuZQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ewogICAgICBMaW5rZWRMaXN0PFBsbUxvbmdUZXh0TGluZT4gbmV3TG9uZ1RleHQgPSBkb2MuZ2V0TmV3TG9uZ1RleHQobGFuZ3VhZ2UpOwogICAgICByZXR1cm4g</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGxhbmdhdWFnZXNBbmRMb25ndGV4dC5zdHJlYW0oKS5maW5kQW55KCkuZ2V0KCkuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxhbmdhdWFnZXNBbmRMb25ndGV4dAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgSGFzaE1hcDxJbnRlZ2VyLCBMaW5lPiBvYmplY3RPYmplY3RIYXNoTWFwID0gbmV3IEhhc2hNYXA8PigpOwogICAgICBmb3IgKGludCBpID0gMDtpIDwgbmV3TG9uZ1RleHQuc2l6ZSgpO2krKykKICAgICAgewovLyAgICAgICAgcHJpdmF0ZSBmaW5hbCBIYXNoTWFwPEludGVnZXIsIEhhc2hNYXA8U3RyaW5nLCBQbG1Mb25nVGV4dExpbmU+PiBvYmplY3RPYmplY3RIYXNoTWFwID0gbmV3IEhhc2hNYXA8PigpOyAgICAgICAgCiAgICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
+        <text encoding="base64">ICAgICAgZm8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHBsbU9iamVjdCBpbnN0YW5jZW9mIFBsbURvY3VtZW50KQo=</text>
+        <text encoding="base64">ICAgICAgbmV3Cg==</text>
       </register>
       <register name=":" type="4">
         <text>44</text>
       </register>
     </registers>
     <search>
-      <last-search>^{</last-search>
+      <last-search encoding="base64">XDxvYmplY3RPYmplY3RIYXNoTWFwXD4=</last-search>
       <last-offset />
-      <last-pattern>^{</last-pattern>
+      <last-pattern encoding="base64">XDxvYmplY3RPYmplY3RIYXNoTWFwXD4=</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>import</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2RFR5cGVJRFw+</entry>
         <entry>tet</entry>
         <entry>test</entry>
         <entry encoding="base64">XDxvYmplY3RPYmplY3RIYXNoTWFwMVw+</entry>
@@ -263,6 +262,7 @@
         <entry>dtyp</entry>
         <entry>^}</entry>
         <entry>^{</entry>
+        <entry encoding="base64">XDxvYmplY3RPYmplY3RIYXNoTWFwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>ls</entry>
