@@ -13,8 +13,17 @@
         <mark key="." line="127" column="0" />
         <mark key="^" line="127" column="36" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/utils/PlmObserver.java" timestamp="1506343178884">
+        <mark key="'" line="1020" column="4" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/gui/browser/AbstractBrowsePanel.java" timestamp="1506082792815">
         <mark key="'" line="648" column="10" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" timestamp="1506343371668">
+        <mark key="[" line="90" column="105" />
+        <mark key="]" line="90" column="105" />
+        <mark key="^" line="90" column="107" />
+        <mark key="." line="90" column="105" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/gui/browser/DirBrowsePanel.java" timestamp="1506083000799">
         <mark key="'" line="1156" column="15" />
@@ -36,6 +45,9 @@
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="147" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1506343058228">
+        <mark key="'" line="116" column="24" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustMsg.java" timestamp="1505983211898">
         <mark key="'" line="566" column="16" />
       </file>
@@ -51,7 +63,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="905" column="16" filename="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="418" column="54" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/dataexchange/brobj/BrImportObjectNew.java" />
       <jump line="2498" column="0" filename="C:/ENTWICKLUNG/ectr_installations/ECTR-51/customize/config/default.txt" />
       <jump line="221" column="28" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.7.2/plm-5.1.7.2-sources.jar!/plm/attrib/operations/DirOperation.java" />
@@ -145,19 +156,20 @@
       <jump line="142" column="85" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="155" column="21" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="39" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
-      <jump line="116" column="90" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="102" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="28" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="182" column="39" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/PopDocChangeMulti.java" />
       <jump line="141" column="28" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" />
       <jump line="415" column="61" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/PopDocChangeMulti.java" />
+      <jump line="116" column="24" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
+      <jump line="1020" column="4" filename="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/utils/PlmObserver.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgYnJkb2MgPQo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>imageIcon</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxVU0VSX0lOUFVUX0RPQ1RZUEVcPg==</text>
