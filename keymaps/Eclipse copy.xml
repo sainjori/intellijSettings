@@ -37,7 +37,6 @@
   <action id="EditorPasteFromX11" />
   <action id="EditorScrollToCenter" />
   <action id="EditorUp">
-    <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id="FileChooser.GotoDesktop" />
@@ -46,8 +45,6 @@
   </action>
   <action id="FileChooser.TogglePathShowing" />
   <action id="FileStructurePopup">
-    <keyboard-shortcut first-keystroke="ctrl f3" />
-    <keyboard-shortcut first-keystroke="ctrl o" />
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
   <action id="FindNext" />
@@ -106,6 +103,12 @@
     <keyboard-shortcut first-keystroke="alt delete" />
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="ScrollPane-unitScrollDown">
+    <keyboard-shortcut first-keystroke="ctrl #10000d6" />
+  </action>
+  <action id="ScrollPane-unitScrollUp">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
   <action id="ScrollTreeToCenter" />
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="alt y" />
@@ -157,4 +160,7 @@
   </action>
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.ShowMessageHistory" />
+  <action id="VimMotionDown">
+    <keyboard-shortcut first-keystroke="j" />
+  </action>
 </keymap>
