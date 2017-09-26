@@ -12,15 +12,12 @@
       <file name="/Dummy.txt" timestamp="1506454664648">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/modules/ps/gui/search/format/GSearchFormatResponsiblePerson.java" timestamp="1506454657153" />
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.5.1/addons-5.1.5.1-sources.jar!/plm/gui/ruleeditor/ObrBomRuleEditorDisplay.java" timestamp="1506454373195" />
-      <file name="/a.dummy" timestamp="1506423721311">
+      <file name="/a.dummy" timestamp="1506459968979">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1506454465396">
         <mark key="'" line="231" column="3" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/brobj/BrDocument.java" timestamp="1506454749749" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/PlmMultiChangeProcess.java" timestamp="1506442307164">
         <mark key="'" line="280" column="15" />
       </file>
@@ -39,16 +36,15 @@
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.7.2/addons-5.1.7.2-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1506454558873" />
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/brobj/BrPlmObject.java" timestamp="1506454803150">
         <mark key="'" line="125" column="41" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1506457191782">
-        <mark key="'" line="85" column="13" />
-        <mark key="[" line="174" column="25" />
-        <mark key="]" line="175" column="3" />
-        <mark key="^" line="175" column="3" />
-        <mark key="." line="175" column="3" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1506460162856">
+        <mark key="'" line="119" column="8" />
+        <mark key="[" line="119" column="153" />
+        <mark key="]" line="119" column="153" />
+        <mark key="." line="119" column="153" />
+        <mark key="^" line="119" column="34" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.5.1/base-5.1.5.1-sources.jar!/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1506454842539">
         <mark key="'" line="291" column="10" />
@@ -62,16 +58,15 @@
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" timestamp="1506453900063">
-        <mark key="'" line="187" column="7" />
-        <mark key="[" line="558" column="0" />
-        <mark key="]" line="558" column="0" />
-        <mark key="^" line="164" column="2" />
-        <mark key="." line="558" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" timestamp="1506459790728">
+        <mark key="'" line="188" column="7" />
+        <mark key="[" line="559" column="0" />
+        <mark key="]" line="559" column="0" />
+        <mark key="^" line="165" column="2" />
+        <mark key="." line="559" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="481" column="6" filename="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/proc/doc/PopDocChangeMulti.java" />
       <jump line="221" column="11" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/PopDocChangeMulti.java" />
       <jump line="219" column="17" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/PopDocChangeMulti.java" />
       <jump line="161" column="29" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/PopDocChangeMulti.java" />
@@ -171,13 +166,14 @@
       <jump line="88" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="50" column="67" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="85" column="13" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
+      <jump line="121" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaW5lQWx0ZXJuYXRpbmdMYW5ndWFnZU1hcFw+</text>
@@ -186,76 +182,37 @@
         <text encoding="base64">ICBwcm90ZWN0ZWQgdm9pZCBzZXRTdWNjZXNzVGV4dChTdHJpbmcgdGV4dCkKICB7CiAgICBTd2luZ1V0aWxpdGllcy5pbnZva2VMYXRlcihuZXcgUnVubmFibGUoKQogICAgewogICAgICBAT3ZlcnJpZGUKICAgICAgcHVibGljIHZvaWQgcnVuKCkKICAgICAgewogICAgICAgIGRsZy5zZXRTdGF0dXNMaW5lVGV4dChuZXcgU3RhdHVzTGluZVRleHQodGV4dCwgU3RhdHVzTGluZVRleHQuTU9ERV9TVUNDRVNTKSk7CiAgICAgIH0KICAgIH0pOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTm9kZUxpc3QgY2hpbGROb2RlcyA9IG5vZGUuZ2V0Q2hpbGROb2RlcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcHNldWRvQ2hhcmFjdGVyaXN0aWMgPSBwc2V1ZG9DaGFyZWN0ZXJpc3RpY09wdGlvbmFsLmdldCgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIEhhc2hNYXA8SW50ZWdlciwgSGFzaE1hcDxTdHJpbmcsIFBsbUxvbmdUZXh0TGluZT4+IGxpbmVBbHRlcm5hdGluZ0xhbmd1YWdlTWFwID0gbmV3IEhhc2hNYXA8PigpOwogIHByaXZhdGUgSGFzaE1hcDxTdHJpbmcsIEhhc2hNYXA8SW50ZWdlciwgT2JyUHJvcGVydHk+PiBvYnJQcm9wZXJ0aWVzRm9yTGluZSA9IG5ldyBIYXNoTWFwPD4oKTsKICBwcml2YXRlIHN0YXRpYyBMaXN0PFhtbEF0dHJpYnV0c0Zvck9iamVjdD4geG1sQXR0cmlidXRzRm9yT2JqZWN0TGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+        <text encoding="base64">ICAgICAgT2JyUHJvcGVydHkgcHJwID0gbnVsbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnN3aW5nLkltYWdlSWNvbjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5WZWN0b3I7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5RdWV1ZTsK</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHBsbS5tb2R1bGVzLmRhdGFleGNoYW5nZS5icm9iai5CckltcG9ydE9iamVjdE5ldzsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAocHNldWRvQ2hhcmFjdGVyaXN0aWMgIT0gbnVsbCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlcnJvckRpYWxvZy5zZXRPcGVyYXRpb24oRGljLmdldCgicGxtLm9tZi40MDAwIiwgIkNoYW5nZSBkYXRhIG9mIG11bHRpcGxlIG9iamVjdHMiKSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTm9kZUxpc3QgY2hpbGROb2RlcyA9IG5vZGUuZ2V0Q2hpbGROb2RlcygpOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>/**
-   * Method setActionStatus.
-   *
-   * @param action_status the action_status
-   *
-   * @return the action status icon
-   */
-  private ImageIcon getActionStatusIcon(int action_status)
-  {
-    ImageIcon status_icon = Environment.getImageIcon(&quot;obr_unknown&quot;);
-    if (action_status == FLG_ACTION_OK)
-    {
-      //      status_icon = Environment.getImageIcon(&quot;system/frog.status.ok&quot;);
-      status_icon = Environment.getImageIcon(&quot;small/sphere_ok&quot;);
-
-    }
-    else if (action_status == FLG_ACTION_ERROR)
-    {
-      //      status_icon = Environment.getImageIcon(&quot;system/frog.status.error&quot;);
-      status_icon = Environment.getImageIcon(&quot;small/sphere_error&quot;);
-    }
-    else if (action_status == FLG_ACTION_INPUT_REQUIRED)
-    {
-      status_icon = Environment.getImageIcon(&quot;input_req&quot;);
-    }
-    else if (action_status == FLG_ACTION_UNKNOWN)
-    {
-      status_icon = Environment.getImageIcon(&quot;obr_unknown&quot;);
-    }
-    else if (action_status == FLG_ACTION_WARNING)
-    {
-      //      status_icon = Environment.getImageIcon(&quot;system/frog.status.warning&quot;);
-      status_icon = Environment.getImageIcon(&quot;small/sphere_warning&quot;);
-    }
-    else
-    {
-      Trace.println(&quot;IMPORT&quot;, 1, &quot;ERROR: unknown actionstatus &quot;+action_status);
-    }
-    return status_icon;
-  }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIEhhc2hNYXA8SW50ZWdlciwgSGFzaE1hcDxTdHJpbmcsIFBsbUxvbmdUZXh0TGluZT4+IGxpbmVBbHRlcm5hdGluZ0xhbmd1YWdlTWFwID0gbmV3IEhhc2hNYXA8PigpOwogIHByaXZhdGUgSGFzaE1hcDxTdHJpbmcsIEhhc2hNYXA8SW50ZWdlciwgT2JyUHJvcGVydHk+PiBvYnJQcm9wZXJ0aWVzRm9yTGluZSA9IG5ldyBIYXNoTWFwPD4oKTsKICBwcml2YXRlIHN0YXRpYyBMaXN0PFhtbEF0dHJpYnV0c0Zvck9iamVjdD4geG1sQXR0cmlidXRzRm9yT2JqZWN0TGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
