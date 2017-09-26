@@ -39,12 +39,13 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/PlmMultiChangeProcess.java" timestamp="1506369746168">
         <mark key="'" line="280" column="15" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1506437444138">
+      <file name="$MAVEN_REPOSITORY$/com/dscsag/modules/addons/5.1.5.1/addons-5.1.5.1-sources.jar!/plm/modules/dataexchange/brobj/BrImportObjectNew.java" timestamp="1506438384652" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1506438576547">
         <mark key="'" line="205" column="24" />
-        <mark key="[" line="93" column="33" />
-        <mark key="]" line="93" column="47" />
+        <mark key="[" line="239" column="3" />
+        <mark key="]" line="239" column="3" />
         <mark key="^" line="93" column="47" />
-        <mark key="." line="93" column="47" />
+        <mark key="." line="239" column="3" />
       </file>
       <file name="/fragment.java" timestamp="1506436802921">
         <mark key="[" line="0" column="0" />
@@ -157,7 +158,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>setValue(err_icon);</text>
+        <text encoding="base64">IHBycCA9IGFkZE9iclByb3BlcnR5KG5ldyBPYnJQcm9wZXJ0eShFUlJPUk1FU1NBR0UsIERpYy5nZXQoIlNZU1RFTS5ULkVSUk1TRyIsICJFcnJvciBtZXNzYWdlIiksICIiLCBmYWxzZSwgZmFsc2UpKTsKICAgIHBycC5zZXRXaWR0aCgyMCk7CiAgICBwcnAuc2V0RWRpdExlbmd0aCgyMCk7</text>
       </register>
       <register name="-" type="4">
         <text>setValue(err_icon);</text>
@@ -168,8 +169,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBnZXRPYnJQcm9wZXJ0eShBQ1RJT05TVEFUVVMpLnNldFZhbHVlKGVycl9pY29uKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHBycCA9IGFkZE9iclByb3BlcnR5KG5ldyBPYnJQcm9wZXJ0eShFUlJPUk1FU1NBR0UsIERpYy5nZXQoIlNZU1RFTS5ULkVSUk1TRyIsICJFcnJvciBtZXNzYWdlIiksICIiLCBmYWxzZSwgZmFsc2UpKTsKICAgIHBycC5zZXRXaWR0aCgyMCk7CiAgICBwcnAuc2V0RWRpdExlbmd0aCgyMCk7</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -178,35 +179,35 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>// set error message in the related column
       // don't overwrite previous error
       // ---------------------------------------
       //    if (errMsg == null || &quot;&quot;.equals(errMsg))
       //    {</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IGVsc2UKICAgICAgewoKICAgICAgfQ==</text>
       </register>
-      <register name="7" type="4">
+      <register name="w" type="4">
+        <text />
+      </register>
+      <register name="8" type="4">
         <text>else
       {
 
       }</text>
       </register>
-      <register name="w" type="4">
-        <text />
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>44</text>
