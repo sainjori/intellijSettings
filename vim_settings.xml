@@ -7,7 +7,7 @@
         <mark key="'" line="1385" column="20" />
       </file>
       <file name="/OmfKsbDocChangeLongtextMulti.java" timestamp="1506347095304" />
-      <file name="/a.dummy" timestamp="1506421168278">
+      <file name="/a.dummy" timestamp="1506423721311">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" timestamp="1506421293619" />
@@ -31,11 +31,10 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/cad/CustProcessDocumentCreateWithParams.java" timestamp="1506376996776" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/CustomizableLongtextEditor.java" timestamp="1506414584192" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" timestamp="1506370598957">
-        <mark key="'" line="258" column="67" />
-        <mark key="[" line="81" column="67" />
-        <mark key="]" line="81" column="69" />
-        <mark key="." line="81" column="69" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" timestamp="1506423669319">
+        <mark key="[" line="493" column="0" />
+        <mark key="]" line="493" column="0" />
+        <mark key="." line="493" column="0" />
         <mark key="^" line="81" column="69" />
       </file>
       <file name="/Dummy.txt" timestamp="1506414725958">
@@ -55,16 +54,16 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/PlmSessionManager.java" timestamp="1506374499464" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" timestamp="1506345469636" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1506421467650">
-        <mark key="'" line="88" column="65" />
-        <mark key="[" line="61" column="8" />
-        <mark key="]" line="61" column="15" />
-        <mark key="." line="61" column="15" />
-        <mark key="^" line="61" column="15" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1506425245533">
+        <mark key="'" line="262" column="41" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="250" column="44" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/ProcessDocSaveLongtext.java" timestamp="1506338302482" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/env/Environment.java" timestamp="1506374575018" />
-      <file name="/fragment.java" timestamp="1506415292379">
+      <file name="/fragment.java" timestamp="1506423439813">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -73,10 +72,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbConvProcessTransmittalLetter.java" timestamp="1506376042583" />
     </filemarks>
     <jumps>
-      <jump line="103" column="35" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
-      <jump line="246" column="41" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
-      <jump line="104" column="8" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
-      <jump line="307" column="5" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="287" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="65" column="46" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="306" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
@@ -173,40 +168,44 @@
       <jump line="216" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
       <jump line="270" column="111" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
       <jump line="258" column="67" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
+      <jump line="123" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
+      <jump line="258" column="36" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
+      <jump line="259" column="29" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
+      <jump line="262" column="41" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getObrPropertyValues</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>getObrPropertyValues</text>
+        <text>newLongText</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxERUZBVUxUX0RJTUVOU0lPTlw+</text>
+        <text encoding="base64">XDxpbnRlZ2VyT2JyUHJvcGVydHlIYXNoTWFwXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgcHJwLnNldEVkaXRMZW5ndGgoYW55Lm1hcChYbWxBdHRyaWJ1dHNGb3JPYmplY3Q6OmdldExlbmdodCkub3JFbHNlKDEzMikpOwo=</text>
+        <text encoding="base64">ICAgIC8vbGluZSAxIERFIHwgRU4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5Db2xsZWN0aW9uOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFjZS4K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">Q29sbGVjdGlvbjxTdHJpbmc+IG5ld0xvbmdUZXh0TGFuZ3VhZ2VzID0gcGxtRG9jdW1lbnQuZ2V0TmV3TG9uZ1RleHRMYW5ndWFnZXMoKTsKICAgIGZvciAoU3RyaW5nIGxhbmd1YWdlIDogbmV3TG9uZ1RleHRMYW5ndWFnZXMpCiAgICB7CiAgICAgIExpbmtlZExpc3Q8UGxtTG9uZ1RleHRMaW5lPiBvbGRMb25nVGV4dCA9IHBsbURvY3VtZW50LmdldE5ld0xvbmdUZXh0KGxhbmd1YWdlKTsKICAgICAgTGlua2VkTGlzdDxQbG1Mb25nVGV4dExpbmU+IG5ld0xPbmd0ZXh0ID0gZ2V0TmV3TG9uZ3RleHQobGFuZ3VhZ2UsIG9sZExvbmdUZXh0KTsKICAgICAgcGxtRG9jdW1lbnQuc2V0RGVzY3JpcHRpb24obGFuZ3VhZ2UsIG5ld0xPbmd0ZXh0LmdldCgwKS5nZXRUZXh0KCkpOwogICAgICBwbG1Eb2N1bWVudC5zZXROZXdMb25nVGV4dChsYW5ndWFnZSwgbmV3TE9uZ3RleHQpOwogICAgfQogICAgcmV0dXJuIHBsbURvY3VtZW50Ow==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgTmFtZWROb2RlTWFwIGF0dHJpYnV0ZXMgPSBjb21wb25lbnQuZ2V0QXR0cmlidXRlcygpOwo=</text>
+        <text encoding="base64">ICAgIG9iamVjdE9iamVjdEhhc2hNYXAuZm9yRWFjaCgobGluZSwgbWFwKSAtPiBsb25ndGV4dE9iclByb3BlcnR5c09yZGVyZWQobGluZSwgbWFwKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxYbWxBdHRyaWJ1dHNGb3JPYmplY3Q+IHhtbFByZWZPYmplY3QgPSB4bWxBdHRyaWJ1dHNGb3JPYmplY3RMaXN0LnN0cmVhbSgpLmZpbHRlcihlIC0+IGUuZ2V0TmFtZSgpLmVxdWFscyhjaGFyYWN0ZXJpc3RpY0Rlc2NyaXB0aW9uKSkuZmluZEFueSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgcHJwLnNldEZpZWxkTmFtZShTZXJ2aWNlS2V5SGVscGVyLmJ1aWxkTGFuZ3VhZ2VLZXkoU2VydmljZUtleUhlbHBlci5nZXRGaWVsZE5hbWUoRG9jdW1lbnREYXRhS2V5cy5ERVNDUklQVElPTiksIGxhbmcpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGVkaXRhYmxlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vICAgICAgICB2YWx1ZS5wdXRJZkFic2VudChsaW5lLCB1c2VyX2dyb3VwKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -215,19 +214,19 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIE9wdGlvbmFsPFhtbEF0dHJpYnV0c0Zvck9iamVjdD4gYW55ID0geG1sQXR0cmlidXRzRm9yT2JqZWN0TGlzdC5zdHJlYW0oKS5maWx0ZXIoZSAtPiBlLmdldE5hbWUoKS5lcXVhbHMocHNldWRvQ2hhcmFjdGVyaXN0aWMpKS5maW5kQW55KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwcnAuc2V0RWRpdExlbmd0aCgxMzIpOwo=</text>
+        <text encoding="base64">ICAgIGxhbmd1YWdlTG9uZ3RleHRNYXAuZm9yRWFjaCgobGFuZ3VhZ2UsIG9sZExvbmdUZXh0KSAtPiB7CiAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>44</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxERUZBVUxUX0RJTUVOU0lPTlw+</last-search>
+      <last-search encoding="base64">XDxpbnRlZ2VyT2JyUHJvcGVydHlIYXNoTWFwXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxERUZBVUxUX0RJTUVOU0lPTlw+</last-pattern>
+      <last-pattern encoding="base64">XDxpbnRlZ2VyT2JyUHJvcGVydHlIYXNoTWFwXD4=</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>import</last-substitute>
       <last-dir>1</last-dir>
@@ -235,7 +234,6 @@
     </search>
     <history>
       <history-search>
-        <entry>test</entry>
         <entry encoding="base64">XDxvYmplY3RPYmplY3RIYXNoTWFwMVw+</entry>
         <entry encoding="base64">XDxlZGl0aW5nVHJhbnNhY3Rpb25cPg==</entry>
         <entry encoding="base64">XDxJTl9DSEFOR0VfTE9OR1RFWFRcPg==</entry>
@@ -255,6 +253,7 @@
         <entry>^{</entry>
         <entry encoding="base64">XDxvYmplY3RPYmplY3RIYXNoTWFwXD4=</entry>
         <entry encoding="base64">XDxERUZBVUxUX0RJTUVOU0lPTlw+</entry>
+        <entry encoding="base64">XDxpbnRlZ2VyT2JyUHJvcGVydHlIYXNoTWFwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>ls</entry>
