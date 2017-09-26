@@ -30,6 +30,7 @@
         <mark key="'" line="566" column="16" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/cad/CustProcessDocumentCreateWithParams.java" timestamp="1506376996776" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/CustomizableLongtextEditor.java" timestamp="1506414584192" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" timestamp="1506370598957">
         <mark key="'" line="258" column="67" />
         <mark key="[" line="81" column="67" />
@@ -37,7 +38,7 @@
         <mark key="." line="81" column="69" />
         <mark key="^" line="81" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506378729617">
+      <file name="/Dummy.txt" timestamp="1506414725958">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/modules/addons/src/main/java/plm/proc/sdk2/PlmProcessGenericMaterialBomMaintain.java" timestamp="1506375660905" />
@@ -54,16 +55,16 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/sess/PlmSessionManager.java" timestamp="1506374499464" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocCreateChangeNote.java" timestamp="1506345469636" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1506378950078">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1506417390544">
         <mark key="'" line="88" column="65" />
-        <mark key="[" line="199" column="56" />
-        <mark key="]" line="200" column="7" />
-        <mark key="." line="200" column="7" />
-        <mark key="^" line="200" column="7" />
+        <mark key="[" line="47" column="63" />
+        <mark key="]" line="47" column="81" />
+        <mark key="." line="47" column="81" />
+        <mark key="^" line="47" column="81" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/ProcessDocSaveLongtext.java" timestamp="1506338302482" />
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/cfc/env/Environment.java" timestamp="1506374575018" />
-      <file name="/fragment.java" timestamp="1506378398606">
+      <file name="/fragment.java" timestamp="1506415292379">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="19" />
@@ -175,51 +176,54 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjaGlsZE5vZGVzMi4K</text>
+        <text encoding="base64">ICAgIGdldE9iclByb3BlcnR5VmFsdWVzKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>sections</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxERUZBVUxUX0RJTUVOU0lPTlw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRWxlbWVudCBlbGVtZW50ID0gKEVsZW1lbnQpIG5vZGU7Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5lZGl0YWJsZSA9IGRvY251bWI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjaGlsZE5vZGVzMi4K</text>
+        <text encoding="base64">ICAgIGdldE9iclByb3BlcnR5VmFsdWVzKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBYbWxVdGlscy5nZXQK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBFbGVtZW50IGVsZW1lbnQyID0gKEVsZW1lbnQpIG5vZGU7CiAgICAgICAgICAgICAgU3RyaW5nIGxlbmd0aCA9IGVsZW1lbnQyLmdldEF0dHJpYnV0ZSgibGVuZ3RoIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBFbGVtZW50IGVsZW1lbnQyID0gKEVsZW1lbnQpIG5vZGU7CiAgICAgICAgICAgICAgU3RyaW5nIGxlbmd0aCA9IGVsZW1lbnQyLmdldEF0dHJpYnV0ZSgibGVuZ3RoIik7Cg==</text>
+      <register name="4" type="4">
+        <text>String length1 = attributes.getNamedItem(&quot;length&quot;).getNodeValue();
+                  String editable1 = attributes.getNamedItem(&quot;editable&quot;).getNodeValue();
+                  String type1 = attributes.getNamedItem(&quot;type&quot;).getNodeValue();</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE5vZGVMaXN0IGNoaWxkTm9kZXMxID0gY2hpbGROb2RlLmdldENoaWxkTm9kZXMoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="7" type="4">
+        <text>public void setTitel(String titel)
+    {
+      this.titel = titel;
+    }</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>//            String doctype = eRegister.getAttribute(&quot;DOCUMENTTYPE&quot;);
-            //            String docpart = eRegister.getAttribute(&quot;DOCUMENTPART&quot;);
-            //            String docvers = eRegister.getAttribute(&quot;DOCUMENTVERSION&quot;);</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIFN0cmluZyB0ZXh0ID0gbm9kZS5nZXRUZXh0Q29udGVudCgpLnRyaW0oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgIE5vZGVMaXN0IGNoaWxkTm9kZXMxID0gY2hpbGROb2RlLmdldENoaWxkTm9kZXMoKTsKICAgICAgICAgICAgICAgIGlmIChOb2RlLkFUVFJJQlVURV9OT0RFID09IGNvbXBvbmVudC5nZXROb2RlVHlwZSgpKQogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIiIpOwogICAgICAgICAgICAgICAgICBOYW1lZE5vZGVNYXAgYXR0cmlidXRlcyA9IGNvbXBvbmVudC5nZXRBdHRyaWJ1dGVzKCk7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>44</text>
