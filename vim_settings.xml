@@ -36,12 +36,12 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/brobj/BrPlmObject.java" timestamp="1506454803150">
         <mark key="'" line="125" column="41" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1506611822026">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1506617135069">
         <mark key="'" line="303" column="30" />
-        <mark key="[" line="79" column="57" />
-        <mark key="]" line="79" column="56" />
-        <mark key="." line="79" column="56" />
-        <mark key="^" line="79" column="56" />
+        <mark key="[" line="122" column="98" />
+        <mark key="]" line="122" column="97" />
+        <mark key="." line="122" column="97" />
+        <mark key="^" line="122" column="97" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.5.1/base-5.1.5.1-sources.jar!/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1506454842539">
         <mark key="'" line="291" column="10" />
@@ -167,47 +167,47 @@
       <jump line="303" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgZm9yIChCclBsbU9iamVjdCBiclRhYmxlT2JqZWN0IDogYnJUYWJsZU9iamVjdHMpCi8vICAgIHsKLy8gICAgICBpZiAoYnJUYWJsZU9iamVjdCBpbnN0YW5jZW9mIEJyRG9jdW1lbnQpCi8vICAgICAgICBjb250LmFkZERvY3VtZW50KCgoQnJEb2N1bWVudCkgYnJUYWJsZU9iamVjdCkuZ2V0UGxtRG9jdW1lbnQoKSk7Ci8vICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>Optional.ofNullable(</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>Optional.ofNullable(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaW5lQWx0ZXJuYXRpbmdMYW5ndWFnZU1hcFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgUGxtRG9jdW1lbnQgZG9jID0gYnJEb2N1bWVudC5nZXRQbG1Eb2N1bWVudCgpOwo=</text>
+      <register name="0" type="4">
+        <text>pseudoCharacteristic</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgZm9yIChCclBsbU9iamVjdCBiclRhYmxlT2JqZWN0IDogYnJUYWJsZU9iamVjdHMpCi8vICAgIHsKLy8gICAgICBpZiAoYnJUYWJsZU9iamVjdCBpbnN0YW5jZW9mIEJyRG9jdW1lbnQpCi8vICAgICAgICBjb250LmFkZERvY3VtZW50KCgoQnJEb2N1bWVudCkgYnJUYWJsZU9iamVjdCkuZ2V0UGxtRG9jdW1lbnQoKSk7Ci8vICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29udC5yZWFkRGV0YWlsc1BvcCh0cnVlLCB0cnVlLCB0cnVlLCB0cnVlLCB0cnVlLCB0cnVlLCB0cnVlKTsK</text>
+        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxTdHJpbmc+IHBzZXVkb0NoYXJhY3RlcmlzdGljID0gT3B0aW9uYWwub2ZOdWxsYWJsZSh2YWx1ZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnQucmVhZERldGFpbHNQb3AodHJ1ZSwgdHJ1ZSwgdHJ1ZSwgdHJ1ZSwgdHJ1ZSwgdHJ1ZSwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxTdHJpbmc+IHBzZXVkb0NoYXJhY3RlcmlzdGljID0gT3B0aW9uYWwub2ZOdWxsYWJsZSh2YWx1ZSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFBsbURvY3VtZW50Q29udGFpbmVyIGNvbnQgPSBuZXcgUGxtRG9jdW1lbnRDb250YWluZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdmFsdWUgPSBQcmVmZXJlbmNlcy5zdHJpbmdWYWx1ZSgia3NiLmFzc2lnbi5sb25ndGV4dC5yb3cuIisocm93KzEpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnQucmVhZERldGFpbHNQb3AodHJ1ZSwgdHJ1ZSwgdHJ1ZSwgdHJ1ZSwgdHJ1ZSwgdHJ1ZSwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwc2V1ZG9DaGFyYWN0ZXJpc3RpYwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRGVmYXVsdExvZ0V4Y2VwdGlvbihEaWMuZ2V0VGV4dCgia3NiLmNoYW5nZS5sb25ndGV4dC5zZWxlY3QuZXhjZXB0aW9uIiwgIlRoaXMgIikpOwo=</text>
+        <text encoding="base64">Ly8gICAgZm9yIChCclBsbU9iamVjdCBiclRhYmxlT2JqZWN0IDogYnJUYWJsZU9iamVjdHMpCi8vICAgIHsKLy8gICAgICBpZiAoYnJUYWJsZU9iamVjdCBpbnN0YW5jZW9mIEJyRG9jdW1lbnQpCi8vICAgICAgICBjb250LmFkZERvY3VtZW50KCgoQnJEb2N1bWVudCkgYnJUYWJsZU9iamVjdCkuZ2V0UGxtRG9jdW1lbnQoKSk7Ci8vICAgIH0K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29udC5yZWFkRGV0YWlsc1BvcCh0cnVlLCB0cnVlLCB0cnVlLCB0cnVlLCB0cnVlLCB0cnVlLCB0cnVlKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
