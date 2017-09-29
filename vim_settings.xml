@@ -36,12 +36,12 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/brobj/BrPlmObject.java" timestamp="1506454803150">
         <mark key="'" line="125" column="41" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1506627260898">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1506685171691">
         <mark key="'" line="303" column="30" />
-        <mark key="[" line="64" column="8" />
-        <mark key="]" line="64" column="8" />
-        <mark key="." line="64" column="8" />
-        <mark key="^" line="78" column="86" />
+        <mark key="[" line="138" column="97" />
+        <mark key="]" line="138" column="117" />
+        <mark key="." line="138" column="97" />
+        <mark key="^" line="138" column="96" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.5.1/base-5.1.5.1-sources.jar!/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1506454842539">
         <mark key="'" line="291" column="10" />
@@ -49,7 +49,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustMsg.java" timestamp="1506349569777">
         <mark key="'" line="566" column="16" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/CustomizableLongtextEditor.java" timestamp="1506614673769" />
       <file name="/fragment.java" timestamp="1506611494830">
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="12" />
@@ -62,7 +61,6 @@
         <mark key="]" line="146" column="0" />
         <mark key="." line="146" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/gui/browser/components/CustomizableLongTextIF.java" timestamp="1506614505188" />
     </filemarks>
     <jumps>
       <jump line="135" column="89" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/PopDocChangeMulti.java" />
@@ -167,11 +165,11 @@
       <jump line="303" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmIChwbG1Eb2N1bWVudC5nZXROZXdMb25nVGV4dExhbmd1YWdlcygpID09IG51bGwgfHwgcGxtRG9jdW1lbnQuZ2V0TmV3TG9uZ1RleHRMYW5ndWFnZXMoKS5zaXplKCkgPT0gMCkKICAgIHsKICAgICAgVHJhY2UucHJpbnRsbihUcmFjZS5ERUJVRywgU3RyaW5nLmZvcm1hdCgiVGhpcyBkb2N1bWVudCBoYXMgbm8gbG9uZ3RleHQgbGFuZ3VhZ2VzOiAlcyIsIHBsbURvY3VtZW50LmdldFNhcEtleSgpKSk7CiAgICAgIHJldHVybjsKICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>pseudoCharacteristic</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>pseudoCharacteristic</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaW5lQWx0ZXJuYXRpbmdMYW5ndWFnZU1hcFw+</text>
