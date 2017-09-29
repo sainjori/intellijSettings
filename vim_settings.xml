@@ -12,7 +12,7 @@
       <file name="/Dummy.txt" timestamp="1506614497095">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1506626027880">
+      <file name="/a.dummy" timestamp="1506688953511">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1506454465396">
@@ -36,12 +36,11 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/brobj/BrPlmObject.java" timestamp="1506454803150">
         <mark key="'" line="125" column="41" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1506685907274">
-        <mark key="'" line="303" column="30" />
-        <mark key="[" line="120" column="127" />
-        <mark key="]" line="120" column="153" />
-        <mark key="." line="120" column="153" />
-        <mark key="^" line="120" column="153" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1506690650076">
+        <mark key="'" line="346" column="30" />
+        <mark key="[" line="94" column="68" />
+        <mark key="]" line="94" column="70" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.5.1/base-5.1.5.1-sources.jar!/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1506454842539">
         <mark key="'" line="291" column="10" />
@@ -49,8 +48,8 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustMsg.java" timestamp="1506349569777">
         <mark key="'" line="566" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1506611494830">
-        <mark key="[" line="0" column="12" />
+      <file name="/fragment.java" timestamp="1506690984043">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="11" />
@@ -166,50 +165,50 @@
       <jump line="303" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>dialog</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBuZXdMb25nVGV4dC5hZGQobmV3IFBsbUxvbmdUZXh0TGluZSgiLyIsICIiKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>dialog</text>
+        <text>description</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsaW5lQWx0ZXJuYXRpbmdMYW5ndWFnZU1hcFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>pseudoCharacteristic</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBuZXdMb25nVGV4dC5hZGQobmV3IFBsbUxvbmdUZXh0TGluZSgiLyIsICIiKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGQK</text>
+        <text encoding="base64">ICAgICAgICAgIFN0cmluZyBwc2V1ZG9DaGFyYWN0ZXJpc3RpYzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGxnLnNldFZpc2libGUoZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHBzZXVkb0NoYXJhY3RlcmlzdGljID0gUHJlZmVyZW5jZXMuc3RyaW5nVmFsdWUoImtzYi5hc3NpZ24ubG9uZ3RleHQucm93LiIrKHJvdysxKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNldFN1Y2Nlc3NUZXh0KCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIChwbG1Eb2N1bWVudC5nZXROZXdMb25nVGV4dExhbmd1YWdlcygpID09IG51bGwgfHwgcGxtRG9jdW1lbnQuZ2V0TmV3TG9uZ1RleHRMYW5ndWFnZXMoKS5zaXplKCkgPT0gMCkKICAgIHsKICAgICAgVHJhY2UucHJpbnRsbihUcmFjZS5ERUJVRywgU3RyaW5nLmZvcm1hdCgiVGhpcyBkb2N1bWVudCBoYXMgbm8gbG9uZ3RleHQgbGFuZ3VhZ2VzOiAlcyIsIHBsbURvY3VtZW50LmdldFNhcEtleSgpKSk7CiAgICAgIHJldHVybjsKICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGluaXRTdGFuZGFyZFByb3BlcnRpZXMoKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcHNldWRvQ2hhcmFjdGVyaXN0aWMgPSBQcmVmZXJlbmNlcy5zdHJpbmdWYWx1ZSgia3NiLmFzc2lnbi5sb25ndGV4dC5yb3cuIisocm93KzEpKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcHNldWRvQ2hhcmFjdGVyaXN0aWMgPSBQcmVmZXJlbmNlcy5zdHJpbmdWYWx1ZSgia3NiLmFzc2lnbi5sb25ndGV4dC5yb3cuIisocm93KzEpKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIGZvcgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxTdHJpbmc+IHBzZXVkb0NoYXJhY3RlcmlzdGljID0gT3B0aW9uYWwub2ZOdWxsYWJsZSh2YWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHBzZXVkb0NoYXJhY3RlcmlzdGljID0gUHJlZmVyZW5jZXMuc3RyaW5nVmFsdWUoImtzYi5hc3NpZ24ubG9uZ3RleHQucm93LiIrKHJvdysxKSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICBwc2V1ZG9DaGFyYWN0ZXJpc3RpYyA9IFByZWZlcmVuY2VzLnN0cmluZ1ZhbHVlKCJrc2IuYXNzaWduLmxvbmd0ZXh0LnJvdy4iKyhyb3crMSkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBPcHRpb25hbDxTdHJpbmc+IHBzZXVkb0NoYXJhY3RlcmlzdGljID0gT3B0aW9uYWwub2ZOdWxsYWJsZSh2YWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgIGludCByb3cgPSAxOwogICAgU3RyaW5nIHBzZXVkb0NoYXJhY3RlcmlzdGljID0gUHJlZmVyZW5jZXMuc3RyaW5nVmFsdWUoImtzYi5hc3NpZ24ubG9uZ3RleHQucm93LiIrKHJvdysxKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
