@@ -42,12 +42,12 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/brobj/BrPlmObject.java" timestamp="1506454803150">
         <mark key="'" line="125" column="41" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1507195225750">
-        <mark key="'" line="373" column="30" />
-        <mark key="[" line="241" column="20" />
-        <mark key="]" line="242" column="23" />
-        <mark key="." line="242" column="23" />
-        <mark key="^" line="242" column="23" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1507200257239">
+        <mark key="'" line="371" column="30" />
+        <mark key="[" line="52" column="47" />
+        <mark key="]" line="52" column="54" />
+        <mark key="." line="52" column="54" />
+        <mark key="^" line="52" column="54" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.5.1/base-5.1.5.1-sources.jar!/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1506454842539">
         <mark key="'" line="291" column="10" />
@@ -61,11 +61,10 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" timestamp="1507194823355">
-        <mark key="[" line="313" column="53" />
-        <mark key="]" line="308" column="20" />
-        <mark key="^" line="308" column="20" />
-        <mark key="." line="308" column="20" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" timestamp="1507200801608">
+        <mark key="[" line="232" column="0" />
+        <mark key="]" line="232" column="0" />
+        <mark key="." line="232" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -171,50 +170,51 @@
       <jump line="1188" column="22" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>showErrorObrProperty</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0VuYWJsZWRPRlw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBFcnJvckRpYWxvZy5nZXRJbnN0YW5jZSgpLmFkZFBsbU9iamVjdChwbG1Eb2N1bWVudCk7Cg==</text>
+      <register name="0" type="4">
+        <text>displayErrorAndStatusOrbrProperty</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICBPYnJQcm9wZXJ0eSBvYnJQcm9wZXJ0eSA9IG9ick9iamVjdC5nZXRPYnJQcm9wZXJ0eShCckltcG9ydE9iamVjdE5ldy5FUlJPUk1FU1NBR0UpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICBPYnJPYmplY3Qgb2JyT2JqZWN0ID0gT2JyT2JqZWN0V2l0aEVycm9yLmdldCgpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICBPcHRpb25hbDxPYnJPYmplY3Q+IE9ick9iamVjdFdpdGhFcnJvciA9IGxfZWRpdE9ianMuc3RyZWFtKCkuZmlsdGVyKGUgLT4gKChCckN1c3RMb25nVGV4dE9iamVjdCkgZSkuZ2V0UGxtZG9jdW1lbnQoKS5nZXRTYXBLZXkoKS5lcXVhbHMocGxtRG9jdW1lbnQuZ2V0U2FwS2V5KCkpKS5maW5kQW55KCk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvckRpYWxvZy5hZGRUaHJvd2FibGUodGhyb3dhYmxlLmdldCgpKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG9iclByb3BlcnR5LnNldFZhbHVlKHRocm93YWJsZS5nZXQoKS5nZXRNZXNzYWdlKCkpOwovLyAgICAgICAgT2JyUHJvcGVydHkgYWN0aW9uU3RhdHVzT2JyID0gb2JyT2JqZWN0LmdldE9iclByb3BlcnR5KEJySW1wb3J0T2JqZWN0TmV3LkFDVElPTlNUQVRVUyk7Ci8vICAgICAgICBhY3Rpb25TdGF0dXNPYnIuc2V0VmFsdWUoRW52aXJvbm1lbnQuZ2V0SW1hZ2VJY29uKCJzbWFsbC9zcGhlcmVfZXJyb3IiKSk7Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlcnJvckRpYWxvZy5zZXRPcGVyYXRpb24oRGljLmdldCgicGxtLm9tZi40MDAwIiwgIkNoYW5nZSBkYXRhIG9mIG11bHRpcGxlIG9iamVjdHMiKSk7Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgZGxnLnVwZGF0ZURpc3BsYXkoKTsKICAgICAgYnRuLnNldEVuYWJsZWQoZmFsc2UpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGxnLnVwZGF0ZURpc3BsYXkoKTsKICAgICAgICAgICAgYnRuLnNldEVuYWJsZWQoZmFsc2UpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text>dlg.updateDisplay();
+    btn.setEnabled(false);</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBFcnJvckRpYWxvZyBlcnJvckRpYWxvZyA9IEVycm9yRGlhbG9nLmdldEluc3RhbmNlKCk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAidGVzdCI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBFcnJvckRpYWxvZy5nZXRJbnN0YW5jZSgpLmFkZFRocm93YWJsZSh0aHJvd2FibGUuZ2V0KCkpOwogICAgICAgICBFcnJvckRpYWxvZy5nZXRJbnN0YW5jZSgpOwo=</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiMiIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
