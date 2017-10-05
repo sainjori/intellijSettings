@@ -9,6 +9,7 @@
     </Renderer>
     <Renderer ID="ToStringRenderer">
       <option name="NAME" value="unnamed" />
+      <option name="ENABLED" value="false" />
     </Renderer>
     <Renderer ID="ClassRenderer">
       <option name="NAME" value="unnamed" />

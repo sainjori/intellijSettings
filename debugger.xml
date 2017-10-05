@@ -1,5 +1,6 @@
 <application>
   <component name="DebuggerSettings">
+    <option name="DEBUGGER_TRANSPORT" value="1" />
     <option name="FORCE_CLASSIC_VM" value="false" />
     <option name="SHOW_ALTERNATIVE_SOURCE" value="false" />
     <option name="RUN_HOTSWAP_AFTER_COMPILE" value="RunHotswapAlways" />
@@ -71,6 +72,7 @@
       <option name="showLibraryStackFrames" value="false" />
       <sort-values>true</sort-values>
       <option name="valueLookupDelay" value="200" />
+      <show-values-inline>false</show-values-inline>
     </data-views>
     <general>
       <option name="hideDebuggerOnProcessTermination" value="true" />
