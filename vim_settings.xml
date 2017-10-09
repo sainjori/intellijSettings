@@ -15,11 +15,24 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/base/5.1.5.1/base-5.1.5.1-sources.jar!/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1506692967568">
         <mark key="'" line="214" column="26" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleGuiLicense.java" timestamp="1507546223683">
+        <mark key="'" line="1" column="23" />
+        <mark key="[" line="40" column="33" />
+        <mark key="]" line="41" column="23" />
+        <mark key="." line="1" column="26" />
+        <mark key="^" line="41" column="23" />
+      </file>
       <file name="/a.dummy" timestamp="1506704685339">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1506454465396">
         <mark key="'" line="231" column="3" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/main.java" timestamp="1507545811481">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="13" />
+        <mark key="^" line="13" column="3" />
+        <mark key="." line="7" column="13" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/PlmMultiChangeProcess.java" timestamp="1506442307164">
         <mark key="'" line="280" column="15" />
@@ -74,7 +87,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" />
       <jump line="137" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" />
       <jump line="72" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfDocCreateWithNumber.java" />
       <jump line="28" column="78" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" />
@@ -174,13 +186,14 @@
       <jump line="997" column="11" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
       <jump line="1002" column="4" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
       <jump line="1188" column="22" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
+      <jump line="1" column="23" filename="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleGuiLicense.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>simple--gui</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJ1dHRvbi5zZXRUZXh0KCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>simple--gui</text>
+        <text>main</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0VuYWJsZWRPRlw+</text>
@@ -189,38 +202,38 @@
         <text>displayErrorAndStatusOrbrProperty</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJ1dHRvbi5zZXRUZXh0KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGIK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGxnLnVwZGF0ZURpc3BsYXkoKTsKICAgICAgYnRuLnNldEVuYWJsZWQoZmFsc2UpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGxnLnVwZGF0ZURpc3BsYXkoKTsKICAgICAgICAgICAgYnRuLnNldEVuYWJsZWQoZmFsc2UpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>dlg.updateDisplay();
-    btn.setEnabled(false);</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgZGxnLnVwZGF0ZURpc3BsYXkoKTsKICAgICAgYnRuLnNldEVuYWJsZWQoZmFsc2UpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGxnLnVwZGF0ZURpc3BsYXkoKTsKICAgICAgICAgICAgYnRuLnNldEVuYWJsZWQoZmFsc2UpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAidGVzdCI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiMiIpOwo=</text>
+      <register name="9" type="4">
+        <text>dlg.updateDisplay();
+    btn.setEnabled(false);</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
