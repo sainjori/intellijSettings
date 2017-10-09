@@ -33,7 +33,12 @@
       <file name="$MAVEN_REPOSITORY$/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/proc/doc/ProcessDocSaveLongtext.java" timestamp="1506598246369">
         <mark key="'" line="70" column="3" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/simplelicenselib/src/main/java/com/dscsag/libs/simplelicenselib/storage/deserialization/LicenseKeyDeserializationService.java" timestamp="1507544383481" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/pom.xml" timestamp="1507545575109">
+        <mark key="[" line="20" column="21" />
+        <mark key="]" line="20" column="32" />
+        <mark key="." line="20" column="32" />
+        <mark key="^" line="20" column="32" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/omf/OmfSandvikJumpToAdditionalDirectory.java" timestamp="1506434181431">
         <mark key="'" line="55" column="4" />
         <mark key="[" line="71" column="0" />
@@ -171,11 +176,11 @@
       <jump line="1188" column="22" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>simple--gui</text>
       </register>
       <register name="-" type="4">
-        <text>showErrorObrProperty</text>
+        <text>simple--gui</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0VuYWJsZWRPRlw+</text>
