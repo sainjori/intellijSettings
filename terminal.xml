@@ -1,6 +1,6 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="C:\Program Files\Git\bin\sh.exe" />
+    <option name="myShellPath" value="C:\Windows\System32\bash.exe" />
     <option name="mySoundBell" value="false" />
   </component>
 </application>

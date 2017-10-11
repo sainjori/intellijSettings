@@ -1,8 +1,40 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Project Files" />
+    <option name="defaultScopeName" value="Project Files" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="Project Files" />
+    <recentFileMasks>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>c</mask>
+      <mask>*.pom.</mask>
+      <mask>*.pom.xlm</mask>
+      <mask>*.pom.xl</mask>
+      <mask>*.pom.x</mask>
+      <mask>*.pom.xm</mask>
+      <mask>*.ml</mask>
+      <mask>*.dml</mask>
+      <mask>*.ddml</mask>
+      <mask>*.dddml</mask>
+      <mask>*.dddm</mask>
+      <mask>*.ddd</mask>
+      <mask>*.dd</mask>
+      <mask>*.pow</mask>
+      <mask>*.pom</mask>
+      <mask>*.po</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*</mask>
+      <mask>po</mask>
+      <mask>pom</mask>
+      <mask>*.pom.xml</mask>
+    </recentFileMasks>
   </component>
 </application>
