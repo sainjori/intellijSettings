@@ -12,14 +12,14 @@
       <file name="/Dummy.txt" timestamp="1507552759747">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleGuiLicense.java" timestamp="1507802383692">
-        <mark key="'" line="1" column="23" />
-        <mark key="[" line="88" column="20" />
-        <mark key="]" line="88" column="29" />
-        <mark key="^" line="88" column="29" />
-        <mark key="." line="88" column="29" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleGuiLicense.java" timestamp="1507804343600">
+        <mark key="'" line="67" column="32" />
+        <mark key="[" line="85" column="3" />
+        <mark key="]" line="79" column="27" />
+        <mark key="^" line="79" column="27" />
+        <mark key="." line="79" column="27" />
       </file>
-      <file name="/a.dummy" timestamp="1506704685339">
+      <file name="/a.dummy" timestamp="1507804087635">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1506454465396">
@@ -97,7 +97,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="10" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfDocCreateWithNumber.java" />
       <jump line="28" column="78" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" />
       <jump line="309" column="45" filename="C:/Users/barry2/.m2/repository/com/dscsag/base/5.1.5.1/base-5.1.5.1-sources.jar!/cadagent/cfc/util/Trace.java" />
       <jump line="44" column="45" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
@@ -197,37 +196,38 @@
       <jump line="1188" column="22" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" />
       <jump line="1" column="23" filename="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleGuiLicense.java" />
       <jump line="228" column="11" filename="C:/Program Files/Java/jdk1.8.0_131/javafx-src.zip!/javafx/scene/layout/HBox.java" />
+      <jump line="66" column="32" filename="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleGuiLicense.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>comment</text>
+        <text>TextField</text>
       </register>
       <register name="-" type="4">
-        <text>comment</text>
+        <text>TextField</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc0VuYWJsZWRPRlw+</text>
+        <text>5</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW1hcnlTdGFnZS5zZXRXaWR0aCg1MDApOwo=</text>
+        <text encoding="base64">ICAgIGdyaWQuYWRkKG5ldyBMYWJlbCgiU2VjcmV0IGxpY2Vuc2Uga2V5OiAiKSwgMCwgNCk7CiAgICBncmlkLmFkZChuZXcgVGV4dEZpZWxkKCksIDEsIDQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxheW91dC5nZXRDaGlsZHJlbigpLmFkZCh0ZXh0RmllbGQpOwo=</text>
+        <text encoding="base64">ICAgIGdyaWQuYWRkKG5ldyBMYWJlbCgiR2VuZXJhdGUgbGljZW5zZSBmaWxlIiksIDAsIDUpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGxheW91dC5nZXRDaGlsZHJlbigpLmFkZChsYWJlbDEpOwo=</text>
+        <text encoding="base64">ICAgIGxheW91dC5nZXRDaGlsZHJlbigpLmFkZCh0ZXh0RmllbGQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJ1dHRvbi5zZXRUZXh0KCk7Cg==</text>
+        <text encoding="base64">ICAgIGxheW91dC5nZXRDaGlsZHJlbigpLmFkZChsYWJlbDEpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGIK</text>
+        <text encoding="base64">ICAgIGJ1dHRvbi5zZXRUZXh0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGIK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -239,19 +239,19 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGxnLnVwZGF0ZURpc3BsYXkoKTsKICAgICAgYnRuLnNldEVuYWJsZWQoZmFsc2UpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGxnLnVwZGF0ZURpc3BsYXkoKTsKICAgICAgICAgICAgYnRuLnNldEVuYWJsZWQoZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgZGxnLnVwZGF0ZURpc3BsYXkoKTsKICAgICAgYnRuLnNldEVuYWJsZWQoZmFsc2UpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc0VuYWJsZWRPRlw+</last-search>
+      <last-search>5</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc0VuYWJsZWRPRlw+</last-pattern>
+      <last-pattern>5</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>import</last-substitute>
       <last-dir>1</last-dir>
@@ -259,7 +259,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGFuZ2VMb25ndGV4dFw+</entry>
         <entry encoding="base64">XDxBUElfTkFNRV9QQVw+</entry>
         <entry encoding="base64">XDxJTl9DSEFOR0VfRE9DREFUQVw+</entry>
         <entry encoding="base64">XDxjaGFuZ2VEb2N1bWVudERhdGFcPg==</entry>
@@ -279,6 +278,7 @@
         <entry encoding="base64">XDxsaW5lQWx0ZXJuYXRpbmdMYW5ndWFnZU1hcFw+</entry>
         <entry encoding="base64">XDxsQWxsT2JyT2JqZWN0c1w+</entry>
         <entry encoding="base64">XDxpc0VuYWJsZWRPRlw+</entry>
+        <entry>5</entry>
       </history-search>
       <history-cmd>
         <entry>2m.</entry>

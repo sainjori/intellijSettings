@@ -98,6 +98,8 @@
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="ctrl f11" />
     <keyboard-shortcut first-keystroke="numpad6" />
+    <mouse-shortcut keystroke="alt button143" />
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
   <action id="SafeDelete">
     <keyboard-shortcut first-keystroke="alt delete" />
