@@ -50,12 +50,12 @@
       <file name="/Dummy.txt" timestamp="1507552759747">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleGuiLicense.java" timestamp="1507836632444">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="149" column="33" />
-        <mark key="]" line="150" column="23" />
-        <mark key="^" line="150" column="23" />
-        <mark key="." line="150" column="23" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleGuiLicense.java" timestamp="1507839867897">
+        <mark key="'" line="186" column="104" />
+        <mark key="[" line="176" column="4" />
+        <mark key="]" line="176" column="12" />
+        <mark key="." line="176" column="12" />
+        <mark key="^" line="176" column="12" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1506454465396">
         <mark key="'" line="231" column="3" />
@@ -93,9 +93,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="45" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
-      <jump line="47" column="51" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
-      <jump line="91" column="2" filename="C:/Users/barry2/.m2/repository/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/proc/PlmMultiChangeProcess.java" />
       <jump line="472" column="44" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
       <jump line="477" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
       <jump line="301" column="38" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
@@ -193,54 +190,70 @@
       <jump line="66" column="32" filename="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleGuiLicense.java" />
       <jump line="145" column="14" filename="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleGuiLicense.java" />
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleGuiLicense.java" />
+      <jump line="150" column="45" filename="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleGuiLicense.java" />
+      <jump line="56" column="44" filename="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleGuiLicense.java" />
+      <jump line="184" column="104" filename="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleGuiLicense.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIENoYW5nZUxpc3RlbmVyPEJvb2xlYW4+IGJvb2xlYW5DaGFuZ2VMaXN0ZW5lciA9IERhdGVGaWVsZDo6ZmVmZWY7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>addButton</text>
       </register>
       <register name="-" type="4">
-        <text>boole</text>
+        <text>addButton</text>
       </register>
       <register name="/" type="4">
         <text>5</text>
       </register>
-      <register name="0" type="4">
-        <text>ksb.change.longtext.dialogtitle</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEJ1dHRvbiBhZGRCdXR0b24gPSBuZXcgQnV0dG9uKCJBZGQiKTsKICAgIGFkZEJ1dHRvbi5zZXRNaW5XaWR0aCgxMDApOwogICAgR3JpZFBhbmUuc2V0Q29uc3RyYWludHMoYWRkQnV0dG9uLCAzLDIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIENoYW5nZUxpc3RlbmVyPEJvb2xlYW4+IGJvb2xlYW5DaGFuZ2VMaXN0ZW5lciA9IERhdGVGaWVsZDo6ZmVmZWY7Cg==</text>
+        <text encoding="base64">ICAgIHAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">KG9ic2VydmFibGUsIG9sZFZhbHVlLCBuZXdWYWx1ZSkgLT4gewoKICAgIH07</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEdyaWRQYW5lLnNldENvbnN0cmFpbnRzKG9iamVjdENvbWJvQm94LCAxLDIpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEdyaWRQYW5lLnNldENvbnN0cmFpbnRzKHRhc2tOYW1lLCAyLDIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>private void test(Observable observable)
-  {
-  }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGdyaWRQYW5lLnNldENvCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEZ1bmN0aW9uYWxJbnRlcmZhY2U8Q2hhbmdlTGlzdGVuZXI8U3RyaW5nPj4gY2hhbmdlZExpc3RlbmVyID0K</text>
+      <register name="7" type="4">
+        <text>Button firstButton = new Button(&quot;FirstButtonffffffffffff&quot;);
+    Button secondButton = new Button(&quot;secondButton&quot;);
+    Button thrirdButton = new Button(&quot;thirdButton&quot;);
+    Button fourthButton = new Button(&quot;foruthButton&quot;);
+
+    GridPane.setConstraints(firstButton, 1, 1);
+    GridPane.setConstraints(secondButton, 2, 1);
+    GridPane.setConstraints(thrirdButton, 1, 2);
+    GridPane.setConstraints(fourthButton, 2, 2);
+
+    BorderPane borderPane = new BorderPane();
+    borderPane.setTop(new Button(&quot;top&quot;));
+    borderPane.setBottom(new Button(&quot;bottom&quot;));
+    borderPane.setLeft(new Button(&quot;left&quot;));
+    borderPane.setRight(new Button(&quot;right&quot;));
+    borderPane.setCenter(new Button(&quot;center&quot;));</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIE9iamVjdCBmZWZlZihPYmplY3QgZmVmLCBPYmplY3Qgb2ZlZiwgT2JqZWN0IG9mZWZlKQogIHsKCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNlY29uZEJ1dHRvbi5zZXRMYXlvdXRZKDEwMCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
