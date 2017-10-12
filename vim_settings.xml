@@ -38,12 +38,6 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1506693238395">
         <mark key="'" line="1188" column="22" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/omf/OmfKsbDocChangeLongtextMulti.java" timestamp="1507550568367">
-        <mark key="[" line="50" column="2" />
-        <mark key="]" line="50" column="9" />
-        <mark key="^" line="50" column="9" />
-        <mark key="." line="50" column="9" />
-      </file>
       <file name="C:/Users/barry2/.m2/repository/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/proc/doc/ProcessDocSaveLongtext.java" timestamp="1506598246369">
         <mark key="'" line="70" column="3" />
       </file>
@@ -71,12 +65,12 @@
       <file name="C:/Users/barry2/.m2/repository/com/dscsag/base/5.1.5.1/base-5.1.5.1-sources.jar!/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1506454842539">
         <mark key="'" line="291" column="10" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1507200257239">
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1507821118392">
         <mark key="'" line="371" column="30" />
-        <mark key="[" line="52" column="47" />
-        <mark key="]" line="52" column="54" />
-        <mark key="." line="52" column="54" />
-        <mark key="^" line="52" column="54" />
+        <mark key="[" line="62" column="35" />
+        <mark key="]" line="62" column="61" />
+        <mark key="." line="62" column="61" />
+        <mark key="^" line="62" column="61" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustMsg.java" timestamp="1506349569777">
         <mark key="'" line="566" column="16" />
@@ -84,16 +78,17 @@
       <file name="C:/Users/barry2/.m2/repository/com/dscsag/base/5.1.5.1/base-5.1.5.1-sources.jar!/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1506692967568">
         <mark key="'" line="214" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1507810272496">
+      <file name="/fragment.java" timestamp="1507821098808">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" timestamp="1507200801608">
-        <mark key="[" line="232" column="0" />
-        <mark key="]" line="232" column="0" />
-        <mark key="." line="232" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" timestamp="1507821134759">
+        <mark key="[" line="107" column="92" />
+        <mark key="]" line="107" column="92" />
+        <mark key="." line="107" column="92" />
+        <mark key="^" line="107" column="92" />
       </file>
     </filemarks>
     <jumps>
@@ -199,17 +194,17 @@
       <jump line="66" column="32" filename="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleGuiLicense.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KENoYW5nZUxpc3RlbmVyPD8gc3VwZXIgQm9vbGVhbj4pIGNoYW5nZWRMaXN0ZW5lcik7</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>5</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRhdGVGaWVsZC5mb2N1c2VkUHJvcGVydHkoKS5hZGRMaXN0ZW5lcih0aGlzOjp2YWxpZGF0ZURhdGVGaWVsZCk7Cg==</text>
+      <register name="0" type="4">
+        <text>ksb.change.longtext.dialogtitle</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
