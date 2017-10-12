@@ -12,12 +12,12 @@
       <file name="/Dummy.txt" timestamp="1507552759747">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleGuiLicense.java" timestamp="1507801023116">
+      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleGuiLicense.java" timestamp="1507802383692">
         <mark key="'" line="1" column="23" />
-        <mark key="[" line="53" column="28" />
-        <mark key="]" line="53" column="28" />
-        <mark key="^" line="96" column="15" />
-        <mark key="." line="53" column="28" />
+        <mark key="[" line="88" column="20" />
+        <mark key="]" line="88" column="29" />
+        <mark key="^" line="88" column="29" />
+        <mark key="." line="88" column="29" />
       </file>
       <file name="/a.dummy" timestamp="1506704685339">
         <mark key="[" line="0" column="0" />
@@ -200,10 +200,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>hb</text>
+        <text>comment</text>
       </register>
       <register name="-" type="4">
-        <text>hb</text>
+        <text>comment</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc0VuYWJsZWRPRlw+</text>
