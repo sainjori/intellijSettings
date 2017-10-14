@@ -98,8 +98,12 @@
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="6" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/Controller.java" timestamp="1508018727705">
-        <mark key="'" line="24" column="24" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/Controller.java" timestamp="1508020483759">
+        <mark key="'" line="26" column="24" />
+        <mark key="[" line="55" column="32" />
+        <mark key="]" line="55" column="37" />
+        <mark key="^" line="55" column="37" />
+        <mark key="." line="55" column="37" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleUIController.java" timestamp="1508006156165">
         <mark key="[" line="9" column="23" />
@@ -110,10 +114,10 @@
       <file name="C:/Users/barry2/.m2/repository/com/dscsag/base/5.1.5.1/base-5.1.5.1-sources.jar!/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1506692967568">
         <mark key="'" line="214" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1508018624253">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
+      <file name="/fragment.java" timestamp="1508020471133">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="11" />
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/javafx-src.zip!/javafx/scene/control/SpinnerValueFactory.java" timestamp="1508017569695">
@@ -224,10 +228,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>90</text>
+        <text encoding="base64">IC8gMTAw</text>
       </register>
       <register name="-" type="4">
-        <text>90</text>
+        <text encoding="base64">IC8gMTAw</text>
       </register>
       <register name="/" type="4">
         <text>Ini</text>
