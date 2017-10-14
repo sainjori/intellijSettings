@@ -15,17 +15,14 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="7" column="13" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1507799024458" />
-      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/test.fxml" timestamp="1508004615912">
-        <mark key="[" line="18" column="15" />
-        <mark key="]" line="18" column="28" />
-        <mark key="^" line="18" column="28" />
-        <mark key="." line="18" column="28" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/test.fxml" timestamp="1508006205009">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1506693238395">
         <mark key="'" line="1188" column="22" />
       </file>
-      <file name="C:/Program Files/Java/jdk1.8.0_131/javafx-src.zip!/javafx/beans/value/ChangeListener.java" timestamp="1507834612899" />
       <file name="C:/Users/barry2/.m2/repository/com/dscsag/sapbase/5.1.5.1/sapbase-5.1.5.1-sources.jar!/cadagent/proc/doc/ProcessDocSaveLongtext.java" timestamp="1506598246369">
         <mark key="'" line="70" column="3" />
       </file>
@@ -41,11 +38,10 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/PopDocChangeMulti.java" timestamp="1506341605382">
         <mark key="'" line="415" column="61" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/resources/test.fxml" timestamp="1508004973849">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/resources/test.fxml" timestamp="1508005151403">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustMsg.java" timestamp="1506349569777">
         <mark key="'" line="566" column="16" />
@@ -62,12 +58,12 @@
       <file name="/Dummy.txt" timestamp="1507552759747">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleGuiLicense.java" timestamp="1508004887545">
-        <mark key="'" line="146" column="3" />
-        <mark key="[" line="201" column="32" />
-        <mark key="]" line="201" column="41" />
-        <mark key="." line="201" column="41" />
-        <mark key="^" line="201" column="41" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleGuiLicense.java" timestamp="1508006061207">
+        <mark key="'" line="198" column="12" />
+        <mark key="[" line="198" column="19" />
+        <mark key="]" line="198" column="21" />
+        <mark key="." line="198" column="21" />
+        <mark key="^" line="198" column="21" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" timestamp="1506454465396">
         <mark key="'" line="231" column="3" />
@@ -87,6 +83,13 @@
       <file name="C:/Users/barry2/.m2/repository/com/dscsag/base/5.1.5.1/base-5.1.5.1-sources.jar!/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1506454842539">
         <mark key="'" line="291" column="10" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/Controller.java" timestamp="1508006181592">
+        <mark key="'" line="11" column="22" />
+        <mark key="[" line="11" column="23" />
+        <mark key="]" line="11" column="47" />
+        <mark key="^" line="11" column="47" />
+        <mark key="." line="11" column="47" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" timestamp="1507821118392">
         <mark key="'" line="371" column="30" />
         <mark key="[" line="62" column="35" />
@@ -94,10 +97,16 @@
         <mark key="." line="62" column="61" />
         <mark key="^" line="62" column="61" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleUIController.java" timestamp="1508006156165">
+        <mark key="[" line="9" column="23" />
+        <mark key="]" line="9" column="22" />
+        <mark key="." line="9" column="22" />
+        <mark key="^" line="9" column="22" />
+      </file>
       <file name="C:/Users/barry2/.m2/repository/com/dscsag/base/5.1.5.1/base-5.1.5.1-sources.jar!/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1506692967568">
         <mark key="'" line="214" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1507834913088">
+      <file name="/fragment.java" timestamp="1508006141816">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -105,8 +114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="472" column="44" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
-      <jump line="477" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
       <jump line="301" column="38" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
       <jump line="555" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
       <jump line="295" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
@@ -205,13 +212,15 @@
       <jump line="56" column="44" filename="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleGuiLicense.java" />
       <jump line="184" column="104" filename="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleGuiLicense.java" />
       <jump line="145" column="3" filename="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleGuiLicense.java" />
+      <jump line="198" column="12" filename="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleGuiLicense.java" />
+      <jump line="9" column="22" filename="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/Controller.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PCEtLTxBbmNob3JQYW5lIHhtbG5zPSJodHRwOi8vamF2YWZ4LmNvbS9qYXZhZngiLS0+CiAgICAgICAgICAgIDwhLS14bWxuczpmeD0iaHR0cDovL2phdmFmeC5jb20vZnhtbCItLT4KICAgICAgICAgICAgPCEtLWZ4OmNvbnRyb2xsZXI9IlRlc3QiLS0+CiAgICAgICAgICAgIDwhLS1wcmVmSGVpZ2h0PSI0MDAuMCIgcHJlZldpZHRoPSI2MDAuMCI+LS0+Cgo8IS0tPC9BbmNob3JQYW5lPi0tPg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>load</text>
+        <text>SimpleUIC</text>
       </register>
       <register name="/" type="4">
         <text>5</text>
@@ -219,53 +228,38 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIEJ1dHRvbiBhZGRCdXR0b24gPSBuZXcgQnV0dG9uKCJBZGQiKTsKICAgIGFkZEJ1dHRvbi5zZXRNaW5XaWR0aCgxMDApOwogICAgR3JpZFBhbmUuc2V0Q29uc3RyYWludHMoYWRkQnV0dG9uLCAzLDIpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PCEtLTxBbmNob3JQYW5lIHhtbG5zPSJodHRwOi8vamF2YWZ4LmNvbS9qYXZhZngiLS0+CiAgICAgICAgICAgIDwhLS14bWxuczpmeD0iaHR0cDovL2phdmFmeC5jb20vZnhtbCItLT4KICAgICAgICAgICAgPCEtLWZ4OmNvbnRyb2xsZXI9IlRlc3QiLS0+CiAgICAgICAgICAgIDwhLS1wcmVmSGVpZ2h0PSI0MDAuMCIgcHJlZldpZHRoPSI2MDAuMCI+LS0+Cgo8IS0tPC9BbmNob3JQYW5lPi0tPg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIFNjZW5lLm5ldwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IDxjaGlsZHJlbj4KICAgICAgPEdyaWRQYW5lIGxheW91dFg9IjEyNC4wIiBsYXlvdXRZPSIxNzAuMCI+CiAgICAgICAgPGNvbHVtbkNvbnN0cmFpbnRzPgogICAgICAgICAgPENvbHVtbkNvbnN0cmFpbnRzIGhncm93PSJTT01FVElNRVMiIG1pbldpZHRoPSIxMC4wIiBwcmVmV2lkdGg9IjEwMC4wIiAvPgogICAgICAgICAgPENvbHVtbkNvbnN0cmFpbnRzIGhncm93PSJTT01FVElNRVMiIG1pbldpZHRoPSIxMC4wIiBwcmVmV2lkdGg9IjEwMC4wIiAvPgogICAgICAgIDwvY29sdW1uQ29uc3RyYWludHM+CiAgICAgICAgPHJvd0NvbnN0cmFpbnRzPgogICAgICAgICAgPFJvd0NvbnN0cmFpbnRzIG1pbkhlaWdodD0iMTAuMCIgcHJlZkhlaWdodD0iMzAuMCIgdmdyb3c9IlNPTUVUSU1FUyIgLz4KICAgICAgICAgIDxSb3dDb25zdHJhaW50cyBtaW5IZWlnaHQ9IjEwLjAiIHByZWZIZWlnaHQ9IjMwLjAiIHZncm93PSJTT01FVElNRVMiIC8+CiAgICAgICAgICA8Um93Q29uc3RyYWludHMgbWluSGVpZ2h0PSIxMC4wIiBwcmVmSGVpZ2h0PSIzMC4wIiB2Z3Jvdz0iU09NRVRJTUVTIiAvPgogICAgICAgIDwvcm93Q29uc3RyYWludHM+CiAgICAgIDwvR3JpZFBhbmU+CiAgIDwvY2hpbGRyZW4+</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZng6Y29udHJvbGxlcj0iRndlZndlIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZng6Y29udHJvbGxlcj0iVGVzdCIK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEdyaWRQYW5lLnNldENvbnN0cmFpbnRzKG9iamVjdENvbWJvQm94LCAxLDIpOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">PCEtLTxBbmNob3JQYW5lIHhtbG5zPSJodHRwOi8vamF2YWZ4LmNvbS9qYXZhZngiLS0+CiAgICAgICAgICAgIDwhLS14bWxuczpmeD0iaHR0cDovL2phdmFmeC5jb20vZnhtbCItLT4KICAgICAgICAgICAgPCEtLWZ4OmNvbnRyb2xsZXI9IlRlc3QiLS0+CiAgICAgICAgICAgIDwhLS1wcmVmSGVpZ2h0PSI0MDAuMCIgcHJlZldpZHRoPSI2MDAuMCI+LS0+Cgo8IS0tPC9BbmNob3JQYW5lPi0tPg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEdyaWRQYW5lLnNldENvbnN0cmFpbnRzKHRhc2tOYW1lLCAyLDIpOwo=</text>
+        <text encoding="base64">ICAgIFNjZW5lLm5ldwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGdyaWRQYW5lLnNldENvCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>Button firstButton = new Button(&quot;FirstButtonffffffffffff&quot;);
-    Button secondButton = new Button(&quot;secondButton&quot;);
-    Button thrirdButton = new Button(&quot;thirdButton&quot;);
-    Button fourthButton = new Button(&quot;foruthButton&quot;);
-
-    GridPane.setConstraints(firstButton, 1, 1);
-    GridPane.setConstraints(secondButton, 2, 1);
-    GridPane.setConstraints(thrirdButton, 1, 2);
-    GridPane.setConstraints(fourthButton, 2, 2);
-
-    BorderPane borderPane = new BorderPane();
-    borderPane.setTop(new Button(&quot;top&quot;));
-    borderPane.setBottom(new Button(&quot;bottom&quot;));
-    borderPane.setLeft(new Button(&quot;left&quot;));
-    borderPane.setRight(new Button(&quot;right&quot;));
-    borderPane.setCenter(new Button(&quot;center&quot;));</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIEdyaWRQYW5lLnNldENvbnN0cmFpbnRzKG9iamVjdENvbWJvQm94LCAxLDIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
