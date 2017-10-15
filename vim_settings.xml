@@ -61,11 +61,11 @@
       <file name="/Dummy.txt" timestamp="1508013951830">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/Task.java" timestamp="1508083186390">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="37" column="1" />
-        <mark key="." line="37" column="0" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/Task.java" timestamp="1508088336785">
+        <mark key="[" line="30" column="16" />
+        <mark key="]" line="30" column="33" />
+        <mark key="^" line="30" column="33" />
+        <mark key="." line="30" column="33" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleGuiLicense.java" timestamp="1508018427902">
         <mark key="'" line="223" column="4" />
@@ -223,54 +223,54 @@
       <jump line="223" column="4" filename="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleGuiLicense.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>bind</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>bind</text>
       </register>
       <register name="/" type="4">
         <text>Ini</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNpbXBsZUludGVnZXJQcm9wZXJ0eS5zZXQoOTApOwo=</text>
+        <text encoding="base64">ICAgIFNpbXBsZVN0cmluZ1Byb3BlcnR5IGxhc3ROYW1lUHJvcCA9IG5ldyBTaW1wbGVTdHJpbmdQcm9wZXJ0eSgpOwogICAgU2ltcGxlU3RyaW5nUHJvcGVydHkgc3VyTmFtZVByb3AgPSBuZXcgU2ltcGxlU3RyaW5nUHJvcGVydHkoKTsKCiAgICBzdXJOYW1lUHJvcC5iaW5kKGxhc3ROYW1lUHJvcCk7CgogICAgbGFzdE5hbWVQcm9wLnNldCgiY2xhcmtlIik7CgogICAgc3VyTmFtZVByb3Auc2V0KCJmZWYiKTsKICAgIFN5c3RlbS5vdXQucHJpbnRsbihzdXJOYW1lUHJvcC5nZXQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBTaW1wbGVJbnRlZ2VyUHJvcGVydHkgc2ltcGxlSW50ZWdlclByb3BlcnR5ID0gbmV3IFNpbXBsZUludGVnZXJQcm9wZXJ0eSgpOwogICAgc2ltcGxlSW50ZWdlclByb3BlcnR5LnNldCgxNSk7CgogICAgUmVhZE9ubHlCb29sZWFuV3JhcHBlciByZWFkT25seUJvb2xlYW5XcmFwcGVyID0gbmV3IFJlYWRPbmx5Qm9vbGVhbldyYXBwZXIodHJ1ZSk7CiAgICBSZWFkT25seUJvb2xlYW5Qcm9wZXJ0eSByZWFkT25seUJvb2xlYW5Qcm9wZXJ0eSA9IHJlYWRPbmx5Qm9vbGVhbldyYXBwZXIuZ2V0UmVhZE9ubHlQcm9wZXJ0eSgpOwoKICAgIGJvb2xlYW4gYiA9IHJlYWRPbmx5Qm9vbGVhblByb3BlcnR5LmdldCgpOwogICAgcmVhZE9ubHlCb29sZWFuV3JhcHBlci5zZXQoZmFsc2UpOwoKCiAgICBzaW1wbGVJbnRlZ2VyUHJvcGVydHkuYWRkTGlzdGVuZXIoKG9ic2VydmFibGUsIG9sZFZhbHVlLCBuZXdWYWx1ZSkgLT4gewogICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm5ldyB2YWx1ZSAiICtuZXdWYWx1ZSk7CiAgICB9KTsKCiAgICBzaW1wbGVJbnRlZ2VyUHJvcGVydHkuc2V0KDkwKTsKICAgIHNpbXBsZUludGVnZXJQcm9wZXJ0eS5zZXQoMTAwKTsKICAgIC8vICAgIGxhdW5jaChhcmdzKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text>@Override
   public void start(Stage primaryStage) throws Exception
   {
 
   }</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgfQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgQE92ZXJyaWRlCg==</text>
+        <text encoding="base64">ICAgICAgewo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFNpbXBsZUludGVnZXJQcm9wZXJ0eSBpbnRQcm9wID0gc2ltcGxlSW50ZWdlclByb3BlcnR5Cg==</text>
+        <text encoding="base64">ICAgICAgQE92ZXJyaWRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">ICAgIFNpbXBsZUludGVnZXJQcm9wZXJ0eSBpbnRQcm9wID0gc2ltcGxlSW50ZWdlclByb3BlcnR5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
