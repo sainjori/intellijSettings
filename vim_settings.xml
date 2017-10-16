@@ -29,7 +29,7 @@
       <file name="C:/Users/barry2/.m2/repository/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/brobj/BrPlmObject.java" timestamp="1506454803150">
         <mark key="'" line="125" column="41" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker.java" timestamp="1507799094419">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker.java" timestamp="1508147764209">
         <mark key="[" line="60" column="53" />
         <mark key="]" line="60" column="59" />
         <mark key="." line="60" column="59" />
@@ -43,6 +43,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/StartupTask.java" timestamp="1508147991723" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustMsg.java" timestamp="1506349569777">
         <mark key="'" line="566" column="16" />
       </file>
@@ -79,6 +80,11 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/PlmMultiChangeProcess.java" timestamp="1506442307164">
         <mark key="'" line="280" column="15" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/DataCleanWorker.java" timestamp="1508147985527">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/pom.xml" timestamp="1507814415102">
         <mark key="[" line="20" column="21" />
@@ -223,11 +229,11 @@
       <jump line="223" column="4" filename="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleGuiLicense.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>lastNameProp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBuZXcgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>lastNameProp</text>
+        <text>extends TaskScheduler</text>
       </register>
       <register name="/" type="4">
         <text>Ini</text>
@@ -236,41 +242,41 @@
         <text encoding="base64">ICAgIGxhc3ROYW1lUHJvcC5zZXQoImNsYXJrZSIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBTaW1wbGVJbnRlZ2VyUHJvcGVydHkgc2ltcGxlSW50ZWdlclByb3BlcnR5ID0gbmV3IFNpbXBsZUludGVnZXJQcm9wZXJ0eSgpOwogICAgc2ltcGxlSW50ZWdlclByb3BlcnR5LnNldCgxNSk7CgogICAgUmVhZE9ubHlCb29sZWFuV3JhcHBlciByZWFkT25seUJvb2xlYW5XcmFwcGVyID0gbmV3IFJlYWRPbmx5Qm9vbGVhbldyYXBwZXIodHJ1ZSk7CiAgICBSZWFkT25seUJvb2xlYW5Qcm9wZXJ0eSByZWFkT25seUJvb2xlYW5Qcm9wZXJ0eSA9IHJlYWRPbmx5Qm9vbGVhbldyYXBwZXIuZ2V0UmVhZE9ubHlQcm9wZXJ0eSgpOwoKICAgIGJvb2xlYW4gYiA9IHJlYWRPbmx5Qm9vbGVhblByb3BlcnR5LmdldCgpOwogICAgcmVhZE9ubHlCb29sZWFuV3JhcHBlci5zZXQoZmFsc2UpOwoKCiAgICBzaW1wbGVJbnRlZ2VyUHJvcGVydHkuYWRkTGlzdGVuZXIoKG9ic2VydmFibGUsIG9sZFZhbHVlLCBuZXdWYWx1ZSkgLT4gewogICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm5ldyB2YWx1ZSAiICtuZXdWYWx1ZSk7CiAgICB9KTsKCiAgICBzaW1wbGVJbnRlZ2VyUHJvcGVydHkuc2V0KDkwKTsKICAgIHNpbXBsZUludGVnZXJQcm9wZXJ0eS5zZXQoMTAwKTsKICAgIC8vICAgIGxhdW5jaChhcmdzKTsK</text>
+        <text encoding="base64">ICBuZXcgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICBwcml2YXRlIExvZ0ZpbGVDbGVhbldvcmtlciA9IG5ldyBMb2dGaWxlQ2xlYW5Xb3JrZXIK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBuZXcgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBwdWJsaWMgRGF0YUNsZWFuV29ya2VyKFJ1bm5hYmxlIHNlcnZlckNoZWNrUHJvY2VzcykKICB7CiAgICBzdXBlcihzZXJ2ZXJDaGVja1Byb2Nlc3MpOwogIH0KCiAgQE92ZXJyaWRlCiAgcHVibGljIGxvbmcgZ2V0SW50ZXJ2YWwoKQogIHsKICAgIHJldHVybiAwOwogIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgICBTaW1wbGVJbnRlZ2VyUHJvcGVydHkgc2ltcGxlSW50ZWdlclByb3BlcnR5ID0gbmV3IFNpbXBsZUludGVnZXJQcm9wZXJ0eSgpOwogICAgc2ltcGxlSW50ZWdlclByb3BlcnR5LnNldCgxNSk7CgogICAgUmVhZE9ubHlCb29sZWFuV3JhcHBlciByZWFkT25seUJvb2xlYW5XcmFwcGVyID0gbmV3IFJlYWRPbmx5Qm9vbGVhbldyYXBwZXIodHJ1ZSk7CiAgICBSZWFkT25seUJvb2xlYW5Qcm9wZXJ0eSByZWFkT25seUJvb2xlYW5Qcm9wZXJ0eSA9IHJlYWRPbmx5Qm9vbGVhbldyYXBwZXIuZ2V0UmVhZE9ubHlQcm9wZXJ0eSgpOwoKICAgIGJvb2xlYW4gYiA9IHJlYWRPbmx5Qm9vbGVhblByb3BlcnR5LmdldCgpOwogICAgcmVhZE9ubHlCb29sZWFuV3JhcHBlci5zZXQoZmFsc2UpOwoKCiAgICBzaW1wbGVJbnRlZ2VyUHJvcGVydHkuYWRkTGlzdGVuZXIoKG9ic2VydmFibGUsIG9sZFZhbHVlLCBuZXdWYWx1ZSkgLT4gewogICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm5ldyB2YWx1ZSAiICtuZXdWYWx1ZSk7CiAgICB9KTsKCiAgICBzaW1wbGVJbnRlZ2VyUHJvcGVydHkuc2V0KDkwKTsKICAgIHNpbXBsZUludGVnZXJQcm9wZXJ0eS5zZXQoMTAwKTsKICAgIC8vICAgIGxhdW5jaChhcmdzKTsK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>@Override
   public void start(Stage primaryStage) throws Exception
   {
 
   }</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgewo=</text>
-      </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgQE92ZXJyaWRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFNpbXBsZUludGVnZXJQcm9wZXJ0eSBpbnRQcm9wID0gc2ltcGxlSW50ZWdlclByb3BlcnR5Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
