@@ -6,35 +6,23 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/dlg/TableSelectionDialog.java" timestamp="1506692516196">
         <mark key="'" line="635" column="32" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/statistics/upload/server_check/ServerCheckWorker.java" timestamp="1508162270028">
-        <mark key="[" line="49" column="11" />
-        <mark key="]" line="49" column="12" />
-        <mark key="^" line="49" column="10" />
-        <mark key="." line="49" column="12" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/main.java" timestamp="1507545811481">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="13" />
         <mark key="^" line="13" column="3" />
         <mark key="." line="7" column="13" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" timestamp="1508164642937">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" timestamp="1508171239139">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="9" column="33" />
-        <mark key="]" line="112" column="50" />
-        <mark key="^" line="112" column="50" />
-        <mark key="." line="112" column="50" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/test.fxml" timestamp="1508006205009">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1508161233356">
-        <mark key="[" line="105" column="4" />
-        <mark key="]" line="106" column="82" />
-        <mark key="^" line="104" column="3" />
-        <mark key="." line="105" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1506693238395">
         <mark key="'" line="1188" column="22" />
@@ -44,12 +32,6 @@
       </file>
       <file name="C:/Users/barry2/.m2/repository/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/brobj/BrPlmObject.java" timestamp="1506454803150">
         <mark key="'" line="125" column="41" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker.java" timestamp="1508162238303">
-        <mark key="[" line="56" column="41" />
-        <mark key="]" line="56" column="41" />
-        <mark key="." line="56" column="41" />
-        <mark key="^" line="56" column="41" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/sapbase/java/src/cadagent/proc/doc/PopDocChangeMulti.java" timestamp="1506341605382">
         <mark key="'" line="415" column="61" />
@@ -61,12 +43,6 @@
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/scheduling/TaskScheduler.java" timestamp="1508164833342">
         <mark key="'" line="59" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/StartupTask.java" timestamp="1508164756370">
-        <mark key="[" line="36" column="8" />
-        <mark key="]" line="36" column="42" />
-        <mark key="." line="36" column="8" />
-        <mark key="^" line="36" column="7" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustMsg.java" timestamp="1506349569777">
         <mark key="'" line="566" column="16" />
@@ -152,17 +128,11 @@
       <file name="C:/Users/barry2/.m2/repository/com/dscsag/base/5.1.5.1/base-5.1.5.1-sources.jar!/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1506692967568">
         <mark key="'" line="214" column="26" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/statistics/upload/server_check/ServerCheckProcess.java" timestamp="1508161219600">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="71" column="81" />
-        <mark key="^" line="71" column="86" />
-        <mark key="." line="70" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanWorker.java" timestamp="1508164766049">
-        <mark key="[" line="11" column="32" />
-        <mark key="]" line="77" column="42" />
-        <mark key="^" line="77" column="42" />
-        <mark key="." line="77" column="42" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanWorker.java" timestamp="1508171660900">
+        <mark key="[" line="27" column="42" />
+        <mark key="]" line="27" column="43" />
+        <mark key="^" line="27" column="41" />
+        <mark key="." line="27" column="43" />
       </file>
       <file name="/fragment.java" timestamp="1508154074844">
         <mark key="[" line="0" column="0" />
@@ -277,50 +247,50 @@
       <jump line="62" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/scheduling/TaskScheduler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIENvbmN1cnJlbnRNYXA8U3RyaW5nLCBTdHJpbmc+IG1hcCA9IG5ldyBDb25jdXJyZW50SGFzaE1hcDw+KCk7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIENvbmN1cnJlbnRNYXA8U3RyaW5nLCBTdHJpbmc+IG1hcCA9IG5ldyBDb25jdXJyZW50SGFzaE1hcDw+KCk7</text>
+        <text>serverCheckWorker</text>
       </register>
       <register name="/" type="4">
         <text>run</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBTZWNvbmRzLnNlY29uZHNCZXR3ZWVuKERhdGVUaW1lLm5vdygpLCBEYXRlVGltZS5ub3coKS53aXRoVGltZUF0U3RhcnRPZkRheSgpLnBsdXNEYXlzKDEpKS5nZXRTZWNvbmRzKCkgKiAxMDAwTDsK</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2ZXJDaGVja1dvcmtlci5zY2hlZHVsZVRhc2tzKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBldmVudExvZ0NsZWFuV29ya2VyLnNjaGVkdWxlVGFza3MoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmRhdGFDbGVhbldvcmtlciA9IG5ldyBEYXRhQ2xlYW5Xb3JrZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2ZXJDaGVja1dvcmtlci5zY2hlZHVsZVRhc2tzKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIEV2ZW50TG9nRW50cnlEQU8gZXZlbnRMb2dFbnRyeURBTzsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmV2ZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVzLnN1Ym1pdChsb2dGaWxlQ2xlYW5Qcm9jZXNzKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZXMgPSBlczsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiIik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB7CiAgICB0aGlzLmVzID0gZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ0ZpbGVDbGVhbldvcmtlci5zY2hlZHVsZVRhc2tzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmRhdGFDbGVhbldvcmtlciA9IG5ldyBEYXRhQ2xlYW5Xb3JrZXIoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcml2YXRlIGZpbmFsIEV2ZW50TG9nRW50cnlEQU8gZXZlbnRMb2dFbnRyeURBTzsK</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
