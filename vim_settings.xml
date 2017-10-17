@@ -43,7 +43,7 @@
         <mark key="^" line="71" column="4" />
         <mark key="." line="71" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleGuiLicense.java" timestamp="1508266805341">
+      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleGuiLicense.java" timestamp="1508268406062">
         <mark key="[" line="37" column="34" />
         <mark key="]" line="37" column="35" />
         <mark key="^" line="37" column="39" />
@@ -179,12 +179,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/simplelicenselib/simplelicenselib/target/generated-sources/annotations/com/dscsag/libs/simplelicenselib/shared/ImmutableExpiryDate.java" timestamp="1508241608566">
         <mark key="'" line="122" column="45" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/MainController.java" timestamp="1508264483120">
-        <mark key="'" line="101" column="0" />
-        <mark key="[" line="123" column="8" />
-        <mark key="]" line="123" column="23" />
-        <mark key="." line="123" column="23" />
-        <mark key="^" line="123" column="23" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/MainController.java" timestamp="1508270851270">
+        <mark key="'" line="54" column="84" />
+        <mark key="[" line="56" column="6" />
+        <mark key="]" line="56" column="17" />
+        <mark key="." line="56" column="17" />
+        <mark key="^" line="56" column="17" />
       </file>
       <file name="/fragment.java" timestamp="1508262915158">
         <mark key="[" line="0" column="0" />
@@ -197,8 +197,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="216" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
-      <jump line="270" column="111" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
       <jump line="258" column="67" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
       <jump line="123" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="258" column="36" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
@@ -297,22 +295,24 @@
       <jump line="138" column="6" filename="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/MainController.java" />
       <jump line="117" column="0" filename="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/MainController.java" />
       <jump line="101" column="0" filename="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/MainController.java" />
+      <jump line="64" column="29" filename="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/MainController.java" />
+      <jump line="60" column="84" filename="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/MainController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>GridPane</text>
+        <text>customerName</text>
       </register>
       <register name="-" type="4">
-        <text>GridPane</text>
+        <text>customerName</text>
       </register>
       <register name="/" type="4">
         <text>0</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnRMaW1pdC5zZXRTdHlsZSgiLWZ4LWJhY2tncm91bmQ6ICNhOTQ0NDIiKTsK</text>
+        <text encoding="base64">ICAgICAgS2V5Q29tYmluYXRpb24gY3RybFAgPSBLZXlDb2RlQ29tYmluYXRpb24ua2V5Q29tYmluYXRpb24oIkN0cmwrTiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY3VzdG9tZXJOYW1lTGFiZWwuZ2V0U2NlbmUoKS5hZGRNbmVtb25pYygpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -321,7 +321,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGN1c3RvbWVyTmFtZS5nZXRTY2VuZSgpLmdldEFjY2VsZXJhdG9ycygpLnB1dChuZXcgS2V5Q29kZUNvbWJpbmF0aW9uKEtleUNvZGUuQywgS2V5Q29kZUNvbWJpbmF0aW9uLkNPTlRST0xfRE9XTiksICgpIC0+IGN1c3RvbWVyTmFtZS5nZXRmKCkpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -330,19 +330,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnRyb2xsZXIuc2V0TW1vbmljKHNjZW5lKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZ3JpZCA9IChHcmlkUGFuZSkgRlhNTExvYWRlci5sb2FkKGdldENsYXNzKCkuZ2V0UmVzb3VyY2UoIlVpLmZ4bWwiKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFNpbXBsZUd1aUxpY2Vuc2Uuc2V0Q29udHJvbGxlcih0aGlzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgZGlhbG9nQ29udHJvbGxlci5zZXRMaXNlbnNlKG1lc3NhZ2UpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnRyb2xsZXIuc2V0TW1vbmljKHNjZW5lKTsK</text>
       </register>
       <register name=":" type="4">
         <text>50</text>
