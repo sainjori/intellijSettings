@@ -46,13 +46,13 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/scheduling/TaskScheduler.java" timestamp="1508172683488">
         <mark key="'" line="57" column="0" />
       </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_131/javafx-src.zip!/javafx/beans/binding/BooleanExpression.java" timestamp="1508236534463" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustMsg.java" timestamp="1506349569777">
         <mark key="'" line="566" column="16" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/bla.txt" timestamp="1508013774651">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/resources/ui.fxml" timestamp="1508232417283" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanWorker2.java" timestamp="1508154113389">
         <mark key="[" line="46" column="13" />
         <mark key="]" line="46" column="13" />
@@ -117,8 +117,12 @@
       <file name="C:/Users/barry2/.m2/repository/com/dscsag/base/5.1.5.1/base-5.1.5.1-sources.jar!/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1506454842539">
         <mark key="'" line="291" column="10" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/Controller.java" timestamp="1508020483759">
-        <mark key="'" line="24" column="24" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/Controller.java" timestamp="1508236926994">
+        <mark key="'" line="112" column="8" />
+        <mark key="[" line="51" column="33" />
+        <mark key="]" line="53" column="57" />
+        <mark key="." line="53" column="57" />
+        <mark key="^" line="53" column="57" />
       </file>
       <file name="C:/Users/barry2/.m2/repository/com/dscsag/base/5.1.5.1/base-5.1.5.1-sources.jar!/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1506692967568">
         <mark key="'" line="214" column="26" />
@@ -147,7 +151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="248" column="16" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="0" column="0" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="209" column="33" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="165" column="26" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
@@ -247,93 +250,53 @@
       <jump line="62" column="0" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/scheduling/TaskScheduler.java" />
       <jump line="135" column="39" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/configuration.json" />
       <jump line="23" column="34" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanWorker.java" />
+      <jump line="27" column="8" filename="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/Controller.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWphdmFkb2MtcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgPHNraXA+ZmFsc2U8L3NraXA+CiAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICA8ZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8aWQ+YXR0YWNoLWphdmFkb2NzPC9pZD4KICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWw+amFyPC9nb2FsPgogICAgICAgICAgICAgICAgICAgICAgICA8L2dvYWxzPgogICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgPC9leGVjdXRpb25zPgogICAgICAgICAgICA8L3BsdWdpbj4=</text>
+        <text>dateOfExpiry</text>
       </register>
       <register name="-" type="4">
-        <text>servercheck</text>
+        <text>dateOfExpiry</text>
       </register>
       <register name="/" type="4">
         <text>run</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bG9nZmlsZXMua2VlcC50aW1lLnBlcmlvZC5kYXlzPTMwCg==</text>
+        <text encoding="base64">ICAgIEJvb2xlYW5CaW5kaW5nIGRhdGVPZkV4cGlyeVZhbGlkID0gQmluZGluZ3MuY3JlYXRlQm9vbGVhbkJpbmRpbmcoKCkgLT4gIiIuZXF1YWxzKGRhdGVPZkV4cGlyeS5nZXRUZXh0KCkpID8gZmFsc2UgOiB0cnVlLCBkYXRlT2ZFeHBpcnkudGV4dFByb3BlcnR5KCkpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWphdmFkb2MtcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgPHNraXA+ZmFsc2U8L3NraXA+CiAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICA8ZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8aWQ+YXR0YWNoLWphdmFkb2NzPC9pZD4KICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWw+amFyPC9nb2FsPgogICAgICAgICAgICAgICAgICAgICAgICA8L2dvYWxzPgogICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgPC9leGVjdXRpb25zPgogICAgICAgICAgICA8L3BsdWdpbj4=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIEJvb2xlYW5CaW5kaW5nIHRleHRGaWVsZDFWYWxpZCA9IEJpbmRpbmdzLmNyZWF0ZUJvb2xlYW5CaW5kaW5nKCgpIC0+IHsKICAgICAgLy8gY2hlY2sgdGV4dEZpZWxkMS5nZXRUZXh0KCkgYW5kIHJldHVybiB0cnVlL2ZhbHNlIGFzIGFwcHJvcHJpYXRlCiAgICB9LCBjdXN0b21lck5hbWUudGV4dFByb3BlcnR5KCkpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gY2hlY2sgdGV4dEZpZWxkMi5nZXRUZXh0KCkgYW5kIHJldHVybiB0cnVlL2ZhbHNlIGFzIGFwcHJvcHJpYXRlCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">PHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWphdmFkb2MtcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgPHNraXA+ZmFsc2U8L3NraXA+CiAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICA8ZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8aWQ+YXR0YWNoLWphdmFkb2NzPC9pZD4KICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWw+amFyPC9nb2FsPgogICAgICAgICAgICAgICAgICAgICAgICA8L2dvYWxzPgogICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgPC9leGVjdXRpb25zPgogICAgICAgICAgICA8L3BsdWdpbj4=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">Ly9AT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCBzdGFydE9sZChTdGFnZSBwcmltYXJ5U3RhZ2UpIHRocm93cyBFeGNlcHRpb24KICB7CiAgICBHcmlkUGFuZSBncmlkUGFuZSA9IG5ldyBHcmlkUGFuZSgpOwovLyAgICBncmlkUGFuZS5zZXRHcmlkTGluZXNWaXNpYmxlKHRydWUpOwogICAgZ3JpZFBhbmUuc2V0SGdhcCgxMCk7CiAgICBncmlkUGFuZS5zZXRWZ2FwKDEwKTsKLy8gICAgZy5nZXRDaGlsZHJlbigpLmFkZEFsbChuZXcgQnV0dG9uKCJGaXJzdEJ1dHRvbiIpLCBuZXcgQnV0dG9uKCJzZGZlgCIpKTsKCiAgICBMYWJlbCB0YWJsZUFyZWEgPSBuZXcgTGFiZWwoIlRoaXMgaXMgd2hlcmUgdGFza3MgdGFibGUgd2lsbCBjb21lIik7CiAgICB0YWJsZUFyZWEuc2V0TWluV2lkdGgoNjAwKTsKCiAgICBHcmlkUGFuZS5zZXRDb25zdHJhaW50cyh0YWJsZUFyZWEsIDEsMSwgMywxKTsKCiAgICBUZXh0RmllbGQgdGFza05hbWUgPSBuZXcgVGV4dEZpZWxkKCk7CiAgICB0YXNrTmFtZS5zZXRQcm9tcHRUZXh0KCJFbnRlciB0YXNrIG5hbWUiKTsKICAgIHRhc2tOYW1lLnNldFRleHQoIkRlZmF1bHQgdGV4dCIpOwogICAgdGFza05hbWUuc2V0TWluV2lkdGgoMzAwKTsKICAgIEdyaWRQYW5lLnNldENvbnN0cmFpbnRzKHRhc2tOYW1lLCAyLDIpOwoKICAgIENvbWJvQm94PE9iamVjdD4gb2JqZWN0Q29tYm9Cb3ggPSBuZXcgQ29tYm9Cb3g8PigpOwogICAgb2JqZWN0Q29tYm9Cb3guZ2V0SXRlbXMoKS5hZGRBbGwoImhpZ2giLCAibG93IiwgIm1lZGl1bSIpOwogICAgb2JqZWN0Q29tYm9Cb3guc2V0UHJvbXB0VGV4dCgiRW50ZXIgcHJpcml0eSIpOwogICAgR3JpZFBhbmUuc2V0Q29uc3RyYWludHMob2JqZWN0Q29tYm9Cb3gsIDEsMik7CgogICAgQnV0dG9uIGFkZEJ1dHRvbiA9IG5ldyBCdXR0b24oIkFkZCIpOwogICAgYWRkQnV0dG9uLnNldE1pbldpZHRoKDEwMCk7CiAgICBHcmlkUGFuZS5zZXRDb25zdHJhaW50cyhhZGRCdXR0b24sIDMsMik7CgoKICAgIEJ1dHRvbiBjYW5jZWxCdG4gPSBuZXcgQnV0dG9uKCJDYW5jZWwiKTsKICAgIGNhbmNlbEJ0bi5zZXRNaW5XaWR0aCgxMDApOwogICAgR3JpZFBhbmUuc2V0Q29uc3RyYWludHMoY2FuY2VsQnRuLCAzLDMpOwoKICAgIEhCb3ggcHJvZ3Jlc3NBcmVhID0gbmV3IEhCb3goKTsKICAgIHByb2dyZXNzQXJlYS5nZXRDaGlsZHJlbigpLmFkZEFsbChuZXcgTGFiZWwoIlByb2dyZXNzIiksIG5ldyBTcGlubmVyPEludGVnZXI+KDAsIDEwMCwgMCksIG5ldyBDaGVja0JveCgiQ29tcGxldGVkIikpOwogICAgcHJvZ3Jlc3NBcmVhLnNldEFsaWdubWVudChQb3MuQ0VOVEVSX1JJR0hUKTsKICAgIHByb2dyZXNzQXJlYS5zZXRTcGFjaW5nKDEwKTsKICAgIEdyaWRQYW5lLnNldENvbnN0cmFpbnRzKHByb2dyZXNzQXJlYSwgMSwzLDIsMSk7CgoKICAgIGdyaWRQYW5lLmdldENoaWxkcmVuKCkuYWRkQWxsKHRhYmxlQXJlYSwgdGFza05hbWUsIG9iamVjdENvbWJvQm94LCBhZGRCdXR0b24sIGNhbmNlbEJ0biwgcHJvZ3Jlc3NBcmVhKTsKCgogICAgU2NlbmUgc2NlbmUgPSBuZXcgU2NlbmUoZ3JpZFBhbmUsIDYwMCwgNDAwKTsKICAgIHByaW1hcnlTdGFnZS5zZXRTY2VuZShzY2VuZSk7CiAgICBwcmltYXJ5U3RhZ2Uuc2V0UmVzaXphYmxlKGZhbHNlKTsKICAgIHByaW1hcnlTdGFnZS5zaG93KCk7CiAgfQ==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">Ly9AT3ZlcnJpZGUKICBwdWJsaWMgdm9pZCBzdGFydE9sZChTdGFnZSBwcmltYXJ5U3RhZ2UpIHRocm93cyBFeGNlcHRpb24KICB7CiAgICBHcmlkUGFuZSBncmlkUGFuZSA9IG5ldyBHcmlkUGFuZSgpOwovLyAgICBncmlkUGFuZS5zZXRHcmlkTGluZXNWaXNpYmxlKHRydWUpOwogICAgZ3JpZFBhbmUuc2V0SGdhcCgxMCk7CiAgICBncmlkUGFuZS5zZXRWZ2FwKDEwKTsKLy8gICAgZy5nZXRDaGlsZHJlbigpLmFkZEFsbChuZXcgQnV0dG9uKCJGaXJzdEJ1dHRvbiIpLCBuZXcgQnV0dG9uKCJzZGZlgCIpKTsKCiAgICBMYWJlbCB0YWJsZUFyZWEgPSBuZXcgTGFiZWwoIlRoaXMgaXMgd2hlcmUgdGFza3MgdGFibGUgd2lsbCBjb21lIik7CiAgICB0YWJsZUFyZWEuc2V0TWluV2lkdGgoNjAwKTsKCiAgICBHcmlkUGFuZS5zZXRDb25zdHJhaW50cyh0YWJsZUFyZWEsIDEsMSwgMywxKTsKCiAgICBUZXh0RmllbGQgdGFza05hbWUgPSBuZXcgVGV4dEZpZWxkKCk7CiAgICB0YXNrTmFtZS5zZXRQcm9tcHRUZXh0KCJFbnRlciB0YXNrIG5hbWUiKTsKICAgIHRhc2tOYW1lLnNldFRleHQoIkRlZmF1bHQgdGV4dCIpOwogICAgdGFza05hbWUuc2V0TWluV2lkdGgoMzAwKTsKICAgIEdyaWRQYW5lLnNldENvbnN0cmFpbnRzKHRhc2tOYW1lLCAyLDIpOwoKICAgIENvbWJvQm94PE9iamVjdD4gb2JqZWN0Q29tYm9Cb3ggPSBuZXcgQ29tYm9Cb3g8PigpOwogICAgb2JqZWN0Q29tYm9Cb3guZ2V0SXRlbXMoKS5hZGRBbGwoImhpZ2giLCAibG93IiwgIm1lZGl1bSIpOwogICAgb2JqZWN0Q29tYm9Cb3guc2V0UHJvbXB0VGV4dCgiRW50ZXIgcHJpcml0eSIpOwogICAgR3JpZFBhbmUuc2V0Q29uc3RyYWludHMob2JqZWN0Q29tYm9Cb3gsIDEsMik7CgogICAgQnV0dG9uIGFkZEJ1dHRvbiA9IG5ldyBCdXR0b24oIkFkZCIpOwogICAgYWRkQnV0dG9uLnNldE1pbldpZHRoKDEwMCk7CiAgICBHcmlkUGFuZS5zZXRDb25zdHJhaW50cyhhZGRCdXR0b24sIDMsMik7CgoKICAgIEJ1dHRvbiBjYW5jZWxCdG4gPSBuZXcgQnV0dG9uKCJDYW5jZWwiKTsKICAgIGNhbmNlbEJ0bi5zZXRNaW5XaWR0aCgxMDApOwogICAgR3JpZFBhbmUuc2V0Q29uc3RyYWludHMoY2FuY2VsQnRuLCAzLDMpOwoKICAgIEhCb3ggcHJvZ3Jlc3NBcmVhID0gbmV3IEhCb3goKTsKICAgIHByb2dyZXNzQXJlYS5nZXRDaGlsZHJlbigpLmFkZEFsbChuZXcgTGFiZWwoIlByb2dyZXNzIiksIG5ldyBTcGlubmVyPEludGVnZXI+KDAsIDEwMCwgMCksIG5ldyBDaGVja0JveCgiQ29tcGxldGVkIikpOwogICAgcHJvZ3Jlc3NBcmVhLnNldEFsaWdubWVudChQb3MuQ0VOVEVSX1JJR0hUKTsKICAgIHByb2dyZXNzQXJlYS5zZXRTcGFjaW5nKDEwKTsKICAgIEdyaWRQYW5lLnNldENvbnN0cmFpbnRzKHByb2dyZXNzQXJlYSwgMSwzLDIsMSk7CgoKICAgIGdyaWRQYW5lLmdldENoaWxkcmVuKCkuYWRkQWxsKHRhYmxlQXJlYSwgdGFza05hbWUsIG9iamVjdENvbWJvQm94LCBhZGRCdXR0b24sIGNhbmNlbEJ0biwgcHJvZ3Jlc3NBcmVhKTsKCgogICAgU2NlbmUgc2NlbmUgPSBuZXcgU2NlbmUoZ3JpZFBhbmUsIDYwMCwgNDAwKTsKICAgIHByaW1hcnlTdGFnZS5zZXRTY2VuZShzY2VuZSk7CiAgICBwcmltYXJ5U3RhZ2Uuc2V0UmVzaXphYmxlKGZhbHNlKTsKICAgIHByaW1hcnlTdGFnZS5zaG93KCk7CiAgfQ==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>private GridPane useGripane()
-  {
-    //Creating a GridPane container
-    GridPane grid = new GridPane();
-    grid.setPadding(new Insets(10, 10, 10, 10));
-    grid.setVgap(5);
-    grid.setHgap(5);
-
-    //Defining the Name text field
-    final TextField name = new TextField();
-    name.setPromptText(&quot;customer_name&quot;);
-    GridPane.setConstraints(name, 0, 0);
-    grid.getChildren().add(name);
-
-    //Defining the Last Name text field
-    final TextField lastName = new TextField();
-    lastName.setPromptText(&quot;purchase_id&quot;);
-    GridPane.setConstraints(lastName, 0, 1);
-    grid.getChildren().add(lastName);
-
-    //Defining the Comment text field
-    final TextField comment = new TextField();
-    comment.setPromptText(&quot;client_limit&quot;);
-    GridPane.setConstraints(comment, 0, 2);
-    grid.getChildren().add(comment);
-
-    final TextField expiryDate = new TextField();
-    expiryDate.setPromptText(&quot;expiry_date&quot;);
-    GridPane.setConstraints(expiryDate, 0, 2);
-    grid.getChildren().add(expiryDate);
-
-    //Defining the Submit button
-    Button submit = new Button(&quot;Submit&quot;);
-    GridPane.setConstraints(submit, 1, 0);
-    grid.getChildren().add(submit);
-
-    //Defining the Clear button
-    Button clear = new Button(&quot;Clear&quot;);
-    GridPane.setConstraints(clear, 1, 1);
-    grid.getChildren().add(clear);
-    return grid;
-  }</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
