@@ -46,6 +46,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/scheduling/TaskScheduler.java" timestamp="1508172683488">
         <mark key="'" line="57" column="0" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/simplelicenselib/simplelicenselib/src/test/java/com/dscsag/libs/simplelicenselib/hashing/LicenseKeyHashingUtilTest.java" timestamp="1508242573852">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/javafx-src.zip!/javafx/beans/binding/BooleanExpression.java" timestamp="1508236534463" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustMsg.java" timestamp="1506349569777">
         <mark key="'" line="566" column="16" />
@@ -92,10 +97,11 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/plm++/java/src/plm/proc/PlmMultiChangeProcess.java" timestamp="1506442307164">
         <mark key="'" line="280" column="15" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/KeygenModel.java" timestamp="1508240330954">
-        <mark key="]" line="10" column="23" />
-        <mark key="^" line="10" column="23" />
-        <mark key="." line="10" column="23" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/KeygenModel.java" timestamp="1508243001876">
+        <mark key="[" line="19" column="70" />
+        <mark key="]" line="19" column="88" />
+        <mark key="^" line="19" column="88" />
+        <mark key="." line="19" column="88" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/DataCleanWorker.java" timestamp="1508154396764">
         <mark key="[" line="30" column="4" />
@@ -136,15 +142,18 @@
       <file name="C:/Users/barry2/.m2/repository/com/dscsag/base/5.1.5.1/base-5.1.5.1-sources.jar!/cadagent/gui/obr/DefaultBrowseObject.java" timestamp="1506454842539">
         <mark key="'" line="291" column="10" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/Controller.java" timestamp="1508241516045">
-        <mark key="'" line="87" column="8" />
-        <mark key="[" line="51" column="47" />
-        <mark key="]" line="51" column="50" />
-        <mark key="." line="51" column="50" />
-        <mark key="^" line="51" column="50" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/simplelicenselib/simplelicenselib/src/main/java/com/dscsag/libs/simplelicenselib/shared/ExpiryDate.java" timestamp="1508242252031" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/Controller.java" timestamp="1508243187071">
+        <mark key="'" line="105" column="8" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/simplelicenselib/simplelicenselib/target/generated-sources/annotations/com/dscsag/libs/simplelicenselib/shared/ImmutableExpiryDate.java" timestamp="1508241608566">
+        <mark key="'" line="122" column="45" />
       </file>
       <file name="C:/Users/barry2/.m2/repository/com/dscsag/base/5.1.5.1/base-5.1.5.1-sources.jar!/cadagent/gui/obr/ObrTableDisplay.java" timestamp="1506692967568">
         <mark key="'" line="214" column="26" />
+      </file>
+      <file name="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/time/Instant.java" timestamp="1508241980467">
+        <mark key="'" line="206" column="19" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/preference-defaults.properties" timestamp="1508174996925">
         <mark key="[" line="18" column="24" />
@@ -170,8 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="13" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
-      <jump line="86" column="17" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="105" column="33" filename="C:/Users/barry2/.m2/repository/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/proc/PlmMultiChangeProcess.java" />
       <jump line="1385" column="20" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="288" column="54" filename="C:/Users/barry2/.m2/repository/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/proc/PlmMultiChangeProcess.java" />
@@ -270,6 +277,8 @@
       <jump line="36" column="20" filename="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/request.java" />
       <jump line="48" column="21" filename="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/request.java" />
       <jump line="9" column="3" filename="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/expirydate.java" />
+      <jump line="122" column="45" filename="C:/ENTWICKLUNG/java/workspaces/simplelicenselib/simplelicenselib/target/generated-sources/annotations/com/dscsag/libs/simplelicenselib/shared/ImmutableExpiryDate.java" />
+      <jump line="206" column="19" filename="C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/time/Instant.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -282,65 +291,40 @@
         <text>0</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMubW9udGggPSBJbnRlZ2VyLnZhbHVlT2Yoc3BsaXRbMV0pOwo=</text>
+        <text encoding="base64">ICAgIGludCB5ZWFyID0gSW50ZWdlci52YWx1ZU9mKHNwbGl0WzBdKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhpIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbW11dGFibGVFeHBpcnlEYXRlIGV4cGlyeURhdGUgPSBJbW11dGFibGVFeHBpcnlEYXRlLmJ1aWxkZXIoKS55ZWFyKDExMTEpLmRheU9mTW9udGgoMikubW9udGhPZlllYXIoMykuYnVpbGQoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>KeygenRequest keygenRequest = new KeygenRequest()
-        {
-          @Override
-          public String customerName()
-          {
-            return null;
-          }
-
-          @Override
-          public String purchaseID()
-          {
-            return null;
-          }
-
-          @Override
-          public int clientLimit()
-          {
-            return 0;
-          }
-
-          @Override
-          public ExpiryDate expiryDate()
-          {
-            return null;
-          }
-        };</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGludCB5ZWFyID0gU3RyaW5nLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMueWVhciA9IHNwbGl0WzBdOwo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRlT2ZFeHBpcnkuZ2V0VGV4dCgpLnNwbGl0KCItIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZGF5ID0gc3BsaXRbMl07Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbW11dGFibGVFeHBpcnlEYXRlLmJ1aWxkZXIoKS5kYXlPZk1vbnRoKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEJvb2xlYW5CaW5kaW5nIHRleHRGaWVsZDFWYWxpZCA9IEJpbmRpbmdzLmNyZWF0ZUJvb2xlYW5CaW5kaW5nKCgpIC0+IHsKICAgICAgLy8gY2hlY2sgdGV4dEZpZWxkMS5nZXRUZXh0KCkgYW5kIHJldHVybiB0cnVlL2ZhbHNlIGFzIGFwcHJvcHJpYXRlCiAgICB9LCBjdXN0b21lck5hbWUudGV4dFByb3BlcnR5KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBleHBpcnlkYXRlIGV4cGlyeWRhdGUgPSBuZXcgZXhwaXJ5ZGF0ZSh0ZXh0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gY2hlY2sgdGV4dEZpZWxkMi5nZXRUZXh0KCkgYW5kIHJldHVybiB0cnVlL2ZhbHNlIGFzIGFwcHJvcHJpYXRlCg==</text>
+        <text encoding="base64">ICAgIEltbXV0YWJsZUV4cGlyeURhdGUK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWphdmFkb2MtcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICAgICAgPHNraXA+ZmFsc2U8L3NraXA+CiAgICAgICAgICAgICAgICA8L2NvbmZpZ3VyYXRpb24+CiAgICAgICAgICAgICAgICA8ZXhlY3V0aW9ucz4KICAgICAgICAgICAgICAgICAgICA8ZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgICAgICAgICA8aWQ+YXR0YWNoLWphdmFkb2NzPC9pZD4KICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWxzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGdvYWw+amFyPC9nb2FsPgogICAgICAgICAgICAgICAgICAgICAgICA8L2dvYWxzPgogICAgICAgICAgICAgICAgICAgIDwvZXhlY3V0aW9uPgogICAgICAgICAgICAgICAgPC9leGVjdXRpb25zPgogICAgICAgICAgICA8L3BsdWdpbj4=</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKCIxNjhlZWJkOWE2YTA5NTM1NzlkMzE5ZGY2MTY5YjI0MGE2YzllYjhmIiwgaGFzaCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>sp</text>
