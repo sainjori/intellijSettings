@@ -6,6 +6,7 @@
       <mapping pattern="ff" type="PLAIN_TEXT" />
       <mapping pattern="data/ff" type="PLAIN_TEXT" />
       <mapping pattern="fff" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
