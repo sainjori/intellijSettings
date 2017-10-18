@@ -15,6 +15,7 @@
         <mark key="." line="30" column="48" />
         <mark key="^" line="30" column="48" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/LogFileDAO.java" timestamp="1508353931823" />
       <file name="/a.dummy" timestamp="1508240560431">
         <mark key="[" line="0" column="0" />
       </file>
@@ -24,19 +25,19 @@
         <mark key="." line="84" column="45" />
         <mark key="^" line="84" column="45" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" timestamp="1508352211313">
-        <mark key="'" line="80" column="33" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="49" />
-        <mark key="." line="99" column="49" />
-        <mark key="^" line="99" column="49" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" timestamp="1508355100870">
+        <mark key="'" line="83" column="33" />
+        <mark key="[" line="106" column="9" />
+        <mark key="]" line="106" column="25" />
+        <mark key="." line="106" column="25" />
+        <mark key="^" line="106" column="25" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/test.fxml" timestamp="1508006205009">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1508352837386">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1508355171242">
         <mark key="'" line="295" column="92" />
         <mark key="[" line="296" column="15" />
         <mark key="]" line="296" column="17" />
@@ -80,7 +81,7 @@
         <mark key="]" line="46" column="13" />
         <mark key="." line="46" column="13" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508336117573">
+      <file name="/Dummy.txt" timestamp="1508354466106">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/Task.java" timestamp="1508147024162">
@@ -95,9 +96,6 @@
         <mark key="^" line="71" column="4" />
         <mark key="." line="71" column="4" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/MonitoringLicenseGui.java" timestamp="1508327171252">
-        <mark key="]" line="2" column="7" />
-      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleGuiLicense.java" timestamp="1508324148073">
         <mark key="[" line="14" column="13" />
         <mark key="]" line="14" column="13" />
@@ -109,11 +107,19 @@
         <mark key="]" line="76" column="13" />
         <mark key="." line="76" column="13" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/Tables.java" timestamp="1508354643015">
+        <mark key="'" line="66" column="38" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/KeygenModel.java" timestamp="1508243001876">
         <mark key="[" line="19" column="70" />
         <mark key="]" line="19" column="88" />
         <mark key="^" line="19" column="88" />
         <mark key="." line="19" column="88" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations.xml" timestamp="1508354881882">
+        <mark key="[" line="8" column="63" />
+        <mark key="]" line="8" column="64" />
+        <mark key="." line="8" column="64" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/DataCleanWorker.java" timestamp="1508154396764">
         <mark key="[" line="30" column="4" />
@@ -121,6 +127,12 @@
         <mark key="." line="30" column="22" />
         <mark key="^" line="30" column="22" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_4_0.xml" timestamp="1508354602421">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_0_0.xml" timestamp="1508354513235" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/configuration.json" timestamp="1508352505075">
         <mark key="[" line="22" column="23" />
         <mark key="]" line="22" column="23" />
@@ -133,11 +145,17 @@
         <mark key="." line="48" column="12" />
         <mark key="^" line="20" column="32" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/statistics/upload/server_check/ServerCheckTask.java" timestamp="1508353057089">
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/statistics/upload/server_check/ServerCheckTask.java" timestamp="1508353568554">
         <mark key="[" line="39" column="3" />
         <mark key="]" line="44" column="11" />
         <mark key="^" line="44" column="11" />
         <mark key="." line="44" column="11" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/EventLogEntryDAO.java" timestamp="1508354971562">
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="^" line="158" column="32" />
+        <mark key="." line="159" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/LicenseGenerator/src/main/java/DialogController.java" timestamp="1508327717034">
         <mark key="[" line="18" column="49" />
@@ -150,6 +168,12 @@
         <mark key="]" line="73" column="45" />
         <mark key="^" line="73" column="45" />
         <mark key="." line="73" column="45" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/migrations/2_3_0.xml" timestamp="1508354588065">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="7" column="41" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/resources/preference-defaults.properties" timestamp="1508352511957">
         <mark key="[" line="19" column="8" />
@@ -165,10 +189,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/omf/OmfSandvikJumpToAdditionalDirectory.java" />
-      <jump line="84" column="29" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
-      <jump line="513" column="4" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
-      <jump line="635" column="32" filename="C:/ENTWICKLUNG/java/workspaces/ectr-platform-lab/core/base/java/src/cadagent/gui/obr/dlg/TableSelectionDialog.java" />
       <jump line="217" column="24" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
       <jump line="519" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
       <jump line="187" column="7" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
@@ -265,30 +285,55 @@
       <jump line="82" column="33" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" />
       <jump line="293" column="6" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" />
       <jump line="299" column="92" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" />
+      <jump line="10" column="56" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/Tables.java" />
+      <jump line="68" column="32" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/Tables.java" />
+      <jump line="58" column="38" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/Tables.java" />
+      <jump line="66" column="38" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/Tables.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBPdmVyCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>MINUTES</text>
+        <text>kibana_relative_url</text>
       </register>
       <register name="/" type="4">
-        <text>Days</text>
+        <text>Event</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgcmV0dXJuIFNlY29uZHMuc2Vjb25kc0JldHdlZW4oRGF0ZVRpbWUubm93KCksIERhdGVUaW1lLm5vdygpLndpdGhUaW1lQXRTdGFydE9mRGF5KCkucGx1c0RheXMoMSkpLmdldFNlY29uZHMoKSAqIDEwMDBMOwo=</text>
+        <text encoding="base64">ICAgIDxpbmNsdWRlIHJlbGF0aXZlVG9DaGFuZ2Vsb2dGaWxlPSJ0cnVlIiBmaWxlPSJtaWdyYXRpb25zLzJfM18wLnhtbCIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBPdmVyCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbiBhZnRlckNvbHVtbj0ia2liYW5hX3JlbGF0aXZlX3VybCIgbmFtZT0ibGlua2VkX29iamVjdF90eXBlIiB0eXBlPSJFTlVNKCdTRVJWRVInLCAnQ0xJRU5UJywgJ1NBUF9DQUNIRScsICdEU0NfUFJPRklMRScsICdEU0NfUFJPQ0FDSEUnLCAnU0FQX0NPTlRFTlQnLCAnRFNDX0JBVENIX0VOR0lORScpIj48L2NvbHVtbj4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbiBhZnRlckNvbHVtbj0idGltZXN0YW1wIiBuYW1lPSJjb2xsZWN0ZWRfYXQiIHR5cGU9IlRJTUVTVEFNUCIgdmFsdWVEYXRlPSIke25vd30iLz4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbiBhZnRlckNvbHVtbj0ia2liYW5hX3JlbGF0aXZlX3VybCIgbmFtZT0ibGlua2VkX29iamVjdF90eXBlIiB0eXBlPSJFTlVNKCdTRVJWRVInLCAnQ0xJRU5UJywgJ1NBUF9DQUNIRScsICdEU0NfUFJPRklMRScsICdEU0NfUFJPQ0FDSEUnLCAnU0FQX0NPTlRFTlQnLCAnRFNDX0JBVENIX0VOR0lORScpIj48L2NvbHVtbj4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiZXhlY3V0aW5nIGV2ZW50bG9nIGNsZWFudXAiKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBPdmVyCg==</text>
+      </register>
+      <register name="w" type="4">
+        <text />
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text>private void createEventlogEntry(Exception e)
   {
     EventLogEntryPojo eventLogEntryPojo = new EventLogEntryPojo();
@@ -301,35 +346,14 @@
     eventLogEntryDAO.insert(eventLogEntryPojo);
   }</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">TE9HR0VSLmxvZyhMZXZlbC5JTkZPLCAiVGFzayB0byBkZWxldGUgbG9nZmlsZXMgc3RhcnRlZC4gQ3VycmVudCBUaW1lOiIgKyBEYXRlVGltZS5ub3coKS50b0xvY2FsVGltZSgpKTsKICAgIExvbmcgbG9nRmlsZXNUb0tlZXBUaW1lID0gcHJlZmVyZW5jZXMuZ2V0U3lzdGVtUHJlZkFzTG9uZygibG9nZmlsZXMua2VlcC50aW1lLnBlcmlvZC5kYXlzIiwgbnVsbCk7CiAgICBpZiAobG9nRmlsZXNUb0tlZXBUaW1lID09IG51bGwpCiAgICAgIHJldHVybjsKICAgIExpc3Q8TG9nRmlsZVBvam8+IGxvZ0ZpbGVzT2xkZXJUaGFuID0gbG9nRmlsZURBTy5nZXRMb2dGaWxlc09sZGVyVGhhbihsb2dGaWxlc1RvS2VlcFRpbWUsIFRpbWVVbml0LkRBWVMpOwogICAgaWYgKGxvZ0ZpbGVzT2xkZXJUaGFuLmlzRW1wdHkoKSkKICAgICAgcmV0dXJuOwoKICAgIExpc3Q8TWlkd2F5UG9qbz4gYWxsTWlkd2F5cyA9IG1pZHdheURBTy5maW5kQWxsKCk7CiAgICBNYXA8TWlkd2F5UG9qbywgTGlzdDxMb2dGaWxlUG9qbz4+IG1pZHdheVRvTG9nZmlsZXMgPSBnZXRNaWR3YXlMb2dmaWxlc01hcChhbGxNaWR3YXlzLCBsb2dGaWxlc09sZGVyVGhhbik7CgogICAgZGVsZXRlTG9nRmlsZUVudHJpZXMobG9nRmlsZXNPbGRlclRoYW4pOwoKICAgIExpc3Q8QWNrbm93bGVkZ2VEZWxldGVSZXNwb25zZT4gYWNrbm93bGVkZ2VEZWxldGVSZXNwb25zZXMgPSBtaWR3YXlUb0xvZ2ZpbGVzLmVudHJ5U2V0KCkKICAgICAgICAucGFyYWxsZWxTdHJlYW0oKQogICAgICAgIC5mbGF0TWFwKGVudHJ5IC0+IHNlbmREZWxldGVSZXF1ZXN0VG9NaWR3YXkoZW50cnkuZ2V0S2V5KCksIGVudHJ5LmdldFZhbHVlKCkpLnN0cmVhbSgpKQogICAgICAgIC5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwoKICAgIHdyaXRlRXZlbnRMb2dzKGFja25vd2xlZGdlRGVsZXRlUmVzcG9uc2VzKTs=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IAo=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IC8qKgogICAqIENyZWF0ZSBldmVudCBsb2dzIG91dCBvZiByZXNwb25zZSBmcm9tIE1pZHdheS4KICAgKiBPbmx5IGVycm9yIHJlc3BvbnNlcyB3aWxsIGNyZWF0ZSBlbnRyeS4KICAgKiBAcGFyYW0gYWNrbm93bGVkZ2VEZWxldGVSZXNwb25zZXMKICAgKi8KICBwcml2YXRlIHZvaWQgd3JpdGVFdmVudExvZ3MoTGlzdDxBY2tub3dsZWRnZURlbGV0ZVJlc3BvbnNlPiBhY2tub3dsZWRnZURlbGV0ZVJlc3BvbnNlcykKICB7CgogICAgU3RyaW5nQnVpbGRlciBtZXNzYWdlQnVpbGRlciA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7CgogICAgYWNrbm93bGVkZ2VEZWxldGVSZXNwb25zZXMuc3RyZWFtKCkKICAgICAgICAuZmlsdGVyKHJlcyAtPiAiRVJST1IiLmVxdWFscyhyZXMuZ2V0U3RhdHVzKCkpKQogICAgICAgIC5tYXAoQWNrbm93bGVkZ2VEZWxldGVSZXNwb25zZTo6Z2V0TG9nRmlsZVBvam8pCiAgICAgICAgLm1hcCgKICAgICAgICAgICAgbG9nRmlsZVBvam8gLT4gU3RyaW5nCiAgICAgICAgICAgICAgICAuZm9ybWF0KCJFcnJvciBkZWxldGluZyBsb2dmaWxlICVzLiBDbGllbnQgJXNcbiIsIGxvZ0ZpbGVQb2pvLmdldExvZ0ZpbGVOYW1lKCksIGxvZ0ZpbGVQb2pvLmdldENsaWVudE5hbWUoKSkpCiAgICAgICAgLmZvckVhY2gobWVzc2FnZUJ1aWxkZXI6OmFwcGVuZCk7CgogICAgaWYgKG1lc3NhZ2VCdWlsZGVyLmxlbmd0aCgpID4gMCkKICAgIHsKICAgICAgRXZlbnRMb2dFbnRyeVBvam8gZXZlbnQgPSBuZXcgRXZlbnRMb2dFbnRyeVBvam8oKTsKICAgICAgZXZlbnQuc2V0QXBwbGljYXRpb25UeXBlKCJtb25pdG9yaW5nIik7CiAgICAgIGV2ZW50LnNldExldmVsKEV2ZW50TG9nRW50cnlMZXZlbC5FUlJPUik7CiAgICAgIGV2ZW50LnNldEV2ZW50VHlwZSgiRVJST1IiKTsKICAgICAgZXZlbnQuc2V0RXZlbnRJZCgiRTAwMDAxIik7CiAgICAgIGV2ZW50LnNldENsaWVudE5hbWUoImRhc2hib2FyZCIpOwogICAgICBldmVudC5zZXRNZXNzYWdlKG1lc3NhZ2VCdWlsZGVyLnRvU3RyaW5nKCkpOwoKICAgICAgRXZlbnRMb2dFbnRyeVBvam8gZXZlbnRMb2dFbnRyeVBvam8gPSBldmVudExvZ0VudHJ5REFPLmluc2VydEFuZFJldHVybkNyZWF0ZWQoZXZlbnQpOwogICAgfQoKICB9CgogIC8qKgogICAqIERlbGV0ZSBsb2dmaWxlcyBmcm9tIGRhdGEgc3RvcmUgYW5kIHNldCBjb3JyZXNwb25kaW5nIHJlZmVyZW5jZSBpbiBldmVudCBsb2dzIHRvIG51bGwKICAgKiBAcGFyYW0gbG9nRmlsZXNPbGRlclRoYW4KICAgKi8KICBwcml2YXRlIHZvaWQgZGVsZXRlTG9nRmlsZUVudHJpZXMoTGlzdDxMb2dGaWxlUG9qbz4gbG9nRmlsZXNPbGRlclRoYW4pCiAgewogICAgTG9uZ1tdIGxvZ0ZpbGVJRHMgPSBsb2dGaWxlc09sZGVyVGhhbi5zdHJlYW0oKQogICAgICAgIC5tYXAoTG9nRmlsZVBvam86OmdldElkKQogICAgICAgIC50b0FycmF5KExvbmdbXTo6bmV3KTsKICAgIGV2ZW50TG9nRW50cnlEQU8uc2V0TG9nZmlsZXNEZWxldGVkKGxvZ0ZpbGVJRHMpOwogICAgbG9nRmlsZURBTy5kZWxldGVCeUlkKGxvZ0ZpbGVJRHMpOwogIH0KCiAgLyoqCiAgICogQ3JlYXRlIGEgbWFwIG9mIG1pZHdheSBhbmQgdGhlIGxvZ2ZpbGVzIGl0IGhhcyBzdG9yZWQKICAgKiBAcGFyYW0gYWxsTWlkd2F5cwogICAqIEBwYXJhbSBsb2dGaWxlc09sZGVyVGhhbgogICAqIEByZXR1cm4KICAgKi8KICBzdGF0aWMgTWFwPE1pZHdheVBvam8sIExpc3Q8TG9nRmlsZVBvam8+PiBnZXRNaWR3YXlMb2dmaWxlc01hcChMaXN0PE1pZHdheVBvam8+IGFsbE1pZHdheXMsIExpc3Q8TG9nRmlsZVBvam8+IGxvZ0ZpbGVzT2xkZXJUaGFuKQogIHsKICAgIE1hcDxNaWR3YXlQb2pvLCBMaXN0PExvZ0ZpbGVQb2pvPj4gbWlkd2F5VG9Mb2dmaWxlcyA9IG5ldyBIYXNoTWFwPD4oKTsKICAgIGZvciAoTG9nRmlsZVBvam8gbG9nRmlsZVBvam8gOiBsb2dGaWxlc09sZGVyVGhhbikKICAgIHsKICAgICAgTWlkd2F5UG9qbyBtaWR3YXlQb2pvID0gYWxsTWlkd2F5cy5zdHJlYW0oKQogICAgICAgICAgLmZpbHRlcihtaWR3YXkgLT4gT2JqZWN0cy5lcXVhbHMobWlkd2F5LmdldElkKCksIGxvZ0ZpbGVQb2pvLmdldE1pZHdheUlkKCkpKQogICAgICAgICAgLmZpbmRGaXJzdCgpCiAgICAgICAgICAub3JFbHNlKG51bGwpOwoKICAgICAgTGlzdDxMb2dGaWxlUG9qbz4gbG9nRmlsZXNQb2pvcyA9IG1pZHdheVRvTG9nZmlsZXMuZ2V0T3JEZWZhdWx0KG1pZHdheVBvam8sIG5ldyBMaW5rZWRMaXN0PD4oKSk7CiAgICAgIGxvZ0ZpbGVzUG9qb3MuYWRkKGxvZ0ZpbGVQb2pvKTsKICAgICAgbWlkd2F5VG9Mb2dmaWxlcy5wdXQobWlkd2F5UG9qbywgbG9nRmlsZXNQb2pvcyk7CiAgICB9CiAgICByZXR1cm4gbWlkd2F5VG9Mb2dmaWxlczsKICB9CgogIC8qKgogICAqIENyZWF0ZSBFdmVudCBsb2cgcG9qbyBhbmQgcmV0dXJuIGl0CiAgICogQHBhcmFtIGFja25vd2xlZGdlRGVsZXRlUmVzcG9uc2UKICAgKiBAcmV0dXJuCiAgICovCiAgcHJpdmF0ZSBFdmVudExvZ0VudHJ5UG9qbyBnZXRFdmVudExvZ0VudHJ5UG9qbyhBY2tub3dsZWRnZURlbGV0ZVJlc3BvbnNlIGFja25vd2xlZGdlRGVsZXRlUmVzcG9uc2UpCiAgewogICAgRXZlbnRMb2dFbnRyeVBvam8gZXZlbnQgPSBuZXcgRXZlbnRMb2dFbnRyeVBvam8oKTsKICAgIExvZ0ZpbGVQb2pvIGxvZ0ZpbGVQb2pvID0gYWNrbm93bGVkZ2VEZWxldGVSZXNwb25zZS5nZXRMb2dGaWxlUG9qbygpOwogICAgZXZlbnQuc2V0TWVzc2FnZShTdHJpbmcuZm9ybWF0KCJVbmFibGUgdG8gZGVsZXRlIGxvZ2ZpbGUgZW50cnk6ICVzICVzIiwgbG9nRmlsZVBvam8uZ2V0Q2xpZW50TmFtZSgpLCBsb2dGaWxlUG9qby5nZXRMb2dGaWxlTmFtZSgpKSk7CiAgICBldmVudC5zZXRBcHBsaWNhdGlvblR5cGUoIm1vbml0b3JpbmciKTsKICAgIGV2ZW50LnNldExldmVsKEV2ZW50TG9nRW50cnlMZXZlbC5FUlJPUik7CiAgICBldmVudC5zZXRFdmVudFR5cGUoIkVSUk9SIik7CiAgICBldmVudC5zZXRFdmVudElkKCJFMDAwMDEiKTsKICAgIGV2ZW50LnNldExvZ0ZpbGVJZChsb2dGaWxlUG9qby5nZXRJZCgpKTsKICAgIGV2ZW50LnNldENsaWVudE5hbWUoImRhc2hib2FyZCIpOwogICAgcmV0dXJuIGV2ZW50OwogIH0KCiAgLyoqCiAgICogU2VuZCBwb3N0IHJlcXVlc3QgdG8ge0BsaW5rIE1pZHdheVBvam99IGFuZCBkZWxldGUgbG9nZmlsZXMge0BsaW5rIExvZ0ZpbGVEQU8jZ2V0TG9nRmlsZXNPbGRlclRoYW4oTG9uZywgVGltZVVuaXQpfQogICAqIEBwYXJhbSBtaWR3YXlQb2pvCiAgICogQHBhcmFtIGxvZ0ZpbGVzT2xkZXJUaGFuCiAgICogQHJldHVybgogICAqLwogIHByaXZhdGUgTGlzdDxBY2tub3dsZWRnZURlbGV0ZVJlc3BvbnNlPiBzZW5kRGVsZXRlUmVxdWVzdFRvTWlkd2F5KE1pZHdheVBvam8gbWlkd2F5UG9qbywgTGlzdDxMb2dGaWxlUG9qbz4gbG9nRmlsZXNPbGRlclRoYW4pCiAgewogICAgdHJ5CiAgICB7CiAgICAgIFVSTCB1cmwgPSBuZXcgVVJMKG5ldyBVUkwobWlkd2F5UG9qby5nZXROZXR3b3JrQWRkcmVzcygpKSwgTWlkd2F5VVJMcy5ERUxFVEVfTE9HRklMRVNfVVJMKTsKICAgICAgVVJJIHVyaSA9IG5ldyBVUklCdWlsZGVyKHVybC50b1VSSSgpKS5idWlsZCgpOwogICAgICBIdHRwUG9zdCByZXF1ZXN0ID0gbmV3IEh0dHBQb3N0KHVyaSk7CgogICAgICBTdHJpbmcganNvblN0cmluZyA9IG9iamVjdE1hcHBlci53cml0ZVZhbHVlQXNTdHJpbmcobG9nRmlsZXNPbGRlclRoYW4pOwogICAgICByZXF1ZXN0LnNldEVudGl0eShuZXcgU3RyaW5nRW50aXR5KGpzb25TdHJpbmcpKTsKICAgICAgcmVxdWVzdC5hZGRIZWFkZXIoSHR0cEhlYWRlcnMuQ09OVEVOVF9UWVBFLCBDb250ZW50VHlwZS5BUFBMSUNBVElPTl9KU09OLmdldE1pbWVUeXBlKCkpOwoKICAgICAgSHR0cFJlc3BvbnNlIHJlc3BvbnNlID0gaHR0cENsaWVudC5leGVjdXRlKHJlcXVlc3QpOwoKICAgICAgaW50IHN0YXR1c0NvZGUgPSByZXNwb25zZS5nZXRTdGF0dXNMaW5lKCkuZ2V0U3RhdHVzQ29kZSgpOwogICAgICBpZiAoc3RhdHVzQ29kZSAhPSBIdHRwU3RhdHVzLlNDX09LKQogICAgICB7CiAgICAgICAgTE9HR0VSLmxvZyhMZXZlbC5XQVJOSU5HLCAiR290IG5vbiAyMDAgc3RhdHVzIGNvZGUgZnJvbSBkZWxldGUgcmVxdWVzdCB0byBtaWR3YXkuIEdvdDogIiArIHN0YXR1c0NvZGUpOwogICAgICB9CiAgICAgIHJldHVybiBBcnJheXMuYXNMaXN0KG9iamVjdE1hcHBlci5yZWFkVmFsdWUocmVzcG9uc2UuZ2V0RW50aXR5KCkuZ2V0Q29udGVudCgpLCBBY2tub3dsZWRnZURlbGV0ZVJlc3BvbnNlW10uY2xhc3MpKTsKICAgIH0KICAgIGNhdGNoIChVUklTeW50YXhFeGNlcHRpb24gZSkKICAgIHsKICAgICAgTE9HR0VSLmxvZyhMZXZlbC5TRVZFUkUsICJJbnZhbGlkIFVSTCB3aGVuIHNlbmRpbmcgbG9nZmlsZSBkZWxldGUgcmVxdWVzdC4gTWlkd2F5OiAiICsgbWlkd2F5UG9qby5nZXROYW1lKCksIGUpOwogICAgICByZXR1cm4gbG9nRmlsZXNPbGRlclRoYW4uc3RyZWFtKCkubWFwKGxvZ2ZpbGUgLT4gbmV3IEFja25vd2xlZGdlRGVsZXRlUmVzcG9uc2UoKS5zZXRTdGF0dXMoIkVSUk9SIikuc2V0TG9nRmlsZVBvam8obG9nZmlsZSkpCiAgICAgICAgICAuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgIH0KICAgIGNhdGNoIChJT0V4Y2VwdGlvbiBlKQogICAgewogICAgICBMT0dHRVIubG9nKExldmVsLlNFVkVSRSwgIkNvbW11bmljYXRpb24gZmFpbHVyZSB3aGVuIGRlbGV0aW5nIGxvZ2ZpbGUuIE1pZHdheTogIiArIG1pZHdheVBvam8uZ2V0TmFtZSgpLCBlKTsKICAgICAgcmV0dXJuIGxvZ0ZpbGVzT2xkZXJUaGFuLnN0cmVhbSgpLm1hcChsb2dmaWxlIC0+IG5ldyBBY2tub3dsZWRnZURlbGV0ZVJlc3BvbnNlKCkuc2V0U3RhdHVzKCJFUlJPUiIpLnNldExvZ0ZpbGVQb2pvKGxvZ2ZpbGUpKQogICAgICAgICAgLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7CiAgICB9CiAgfQ==</text>
-      </register>
-      <register name="w" type="4">
-        <text />
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name=":" type="4">
         <text>50</text>
       </register>
     </registers>
     <search>
-      <last-search>Days</last-search>
+      <last-search>Event</last-search>
       <last-offset />
-      <last-pattern>Days</last-pattern>
+      <last-pattern>Event</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>import</last-substitute>
       <last-dir>1</last-dir>
@@ -337,7 +361,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxVU0VSX0lOUFVUX0RPQ1RZUEVcPg==</entry>
         <entry>all</entry>
         <entry>allma</entry>
         <entry>allmatch</entry>
@@ -357,6 +380,7 @@
         <entry>run</entry>
         <entry>0</entry>
         <entry>Days</entry>
+        <entry>Event</entry>
       </history-search>
       <history-cmd>
         <entry>2,10m.</entry>
