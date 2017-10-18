@@ -16,9 +16,20 @@
         <mark key="." line="30" column="48" />
         <mark key="^" line="30" column="48" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/dadi/DadiControlImportValidateGuiInput.java" timestamp="1508335280342" />
+      <file name="/a.dummy" timestamp="1508240560431">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/dadi/DadiControlImportValidateGuiInput.java" timestamp="1508337501337">
+        <mark key="[" line="84" column="10" />
+        <mark key="]" line="84" column="45" />
+        <mark key="." line="84" column="45" />
+        <mark key="^" line="84" column="45" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/simplelicenselib/simplelicenselib/src/test/java/com/dscsag/libs/simplelicenselib/storage/serialization/LicenseKeySerializationServiceTest.java" timestamp="1508318264840" />
       <file name="C:/ENTWICKLUNG/java/workspaces/LicenseGenerator/pom.xml" timestamp="1508332696595" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/bla.txt" timestamp="1508013774651">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/sandbox/concurrencyTutorial/src/com/company/Main.java" timestamp="1508159828069">
         <mark key="[" line="60" column="9" />
         <mark key="]" line="71" column="4" />
@@ -61,6 +72,9 @@
       </file>
       <file name="C:/Program Files/Java/jdk1.8.0_131/javafx-src.zip!/javafx/beans/binding/Bindings.java" timestamp="1508248158561" />
       <file name="C:/Program Files/Java/jdk1.8.0_131/javafx-src.zip!/javafx/beans/binding/BooleanExpression.java" timestamp="1508247925942" />
+      <file name="/Dummy.txt" timestamp="1508336117573">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/Task.java" timestamp="1508147024162">
         <mark key="[" line="33" column="4" />
         <mark key="]" line="33" column="14" />
@@ -197,35 +211,35 @@
       <jump line="55" column="21" filename="C:/ENTWICKLUNG/java/workspaces/LicenseGenerator/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">W0NsaWNrIGhlcmUgZm9yIGphdmFkb2NdKGh0dHA6Ly9saWJyYXJpZXMucGFnZXMuZ2l0bGFiLmRzY3NhZy5uZXQvc2ltcGxlbGljZW5zZWxpYi8pCg==</text>
+      <register name="&quot;" type="4">
+        <text>setObrPropertyUneditable</text>
       </register>
       <register name="-" type="4">
-        <text>Library</text>
+        <text>setObrPropertyUneditable</text>
       </register>
       <register name="/" type="4">
         <text>0</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEtleUNvbWJpbmF0aW9uIGVzY0tleSA9IEtleUNvZGVDb21iaW5hdGlvbi5rZXlDb21iaW5hdGlvbigiRXNjIik7CiAgICBzY2VuZS5nZXRBY2NlbGVyYXRvcnMoKS5wdXQoZXNjS2V5LCAoKSAtPiBQbGF0Zm9ybS5leGl0KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGltcG9ydE9iai5nZXRCckltcENsYXNzKCkuZ2V0T2JyUHJvcGVydHkoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">W0NsaWNrIGhlcmUgZm9yIGphdmFkb2NdKGh0dHA6Ly9saWJyYXJpZXMucGFnZXMuZ2l0bGFiLmRzY3NhZy5uZXQvc2ltcGxlbGljZW5zZWxpYi8pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">U21hbGwgbGlicmFyeSB3aGljaCBjYW4gYmUgdXNlZCB0byBwZXJmb3JtIGxpY2Vuc2UgY2hlY2tzIGZvciBhcHBsaWNhdGlvbnMgd2hpY2ggY2Fubm90IHVzZSB0aGUgRUNUUiBtZWNoYW5pc20gdG8gY2hlY2sgdGhlIHZhbGlkaXR5IG9mIGEgbGljZW5zZS4KCkl0IHVzZXMgYSBoYXNoaW5nIG1lY2hhbmlzbSB3aXRoIGEgZ2l2ZW4gc2VjcmV0IGtleS4gVGhlcmVmb3JlIGl0IGlzIG5vdCAiZXh0cmVtZWx5IiBzZWN1cmUgYXMgaXQgY291bGQgYmUgY3JhY2tlZCBieSB1c2luZyBkZWNvbXBpbGF0aW9uIGJ1dCBpdCBzaG91bGQgYmUgc2VjdXJlIGVub3VnaCBmb3IgbW9zdCB1c2UgY2FzZXMuLi4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">W0NsaWNrIGhlcmUgZm9yIGphdmFkb2NdKGh0dHA6Ly9saWJyYXJpZXMucGFnZXMuZ2l0bGFiLmRzY3NhZy5uZXQvc2ltcGxlbGljZW5zZWxpYi8pCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGltcG9ydE9iai5nZXRCckltcENsYXNzKCkuZ2V0T2JyUHJvcGVydHkoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">U21hbGwgbGlicmFyeSB3aGljaCBjYW4gYmUgdXNlZCB0byBwZXJmb3JtIGxpY2Vuc2UgY2hlY2tzIGZvciBhcHBsaWNhdGlvbnMgd2hpY2ggY2Fubm90IHVzZSB0aGUgRUNUUiBtZWNoYW5pc20gdG8gY2hlY2sgdGhlIHZhbGlkaXR5IG9mIGEgbGljZW5zZS4KCkl0IHVzZXMgYSBoYXNoaW5nIG1lY2hhbmlzbSB3aXRoIGEgZ2l2ZW4gc2VjcmV0IGtleS4gVGhlcmVmb3JlIGl0IGlzIG5vdCAiZXh0cmVtZWx5IiBzZWN1cmUgYXMgaXQgY291bGQgYmUgY3JhY2tlZCBieSB1c2luZyBkZWNvbXBpbGF0aW9uIGJ1dCBpdCBzaG91bGQgYmUgc2VjdXJlIGVub3VnaCBmb3IgbW9zdCB1c2UgY2FzZXMuLi4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">U21hbGwgbGlicmFyeSB3aGljaCBjYW4gYmUgdXNlZCB0byBwZXJmb3JtIGxpY2Vuc2UgY2hlY2tzIGZvciBhcHBsaWNhdGlvbnMgd2hpY2ggY2Fubm90IHVzZSB0aGUgRUNUUiBtZWNoYW5pc20gdG8gY2hlY2sgdGhlIHZhbGlkaXR5IG9mIGEgbGljZW5zZS4KCkl0IHVzZXMgYSBoYXNoaW5nIG1lY2hhbmlzbSB3aXRoIGEgZ2l2ZW4gc2VjcmV0IGtleS4gVGhlcmVmb3JlIGl0IGlzIG5vdCAiZXh0cmVtZWx5IiBzZWN1cmUgYXMgaXQgY291bGQgYmUgY3JhY2tlZCBieSB1c2luZyBkZWNvbXBpbGF0aW9uIGJ1dCBpdCBzaG91bGQgYmUgc2VjdXJlIGVub3VnaCBmb3IgbW9zdCB1c2UgY2FzZXMuLi4K</text>
+        <text encoding="base64">ICAgICAgICAgIFRyYWNlLnByaW50bG4oVHJhY2UuREVCVUcsICJBc3NpZ25lZCB2YWx1ZSBmb3IgIiArIGNsYXNzQ2hhcmFjdGVyaXN0aWMuZ2V0TmFtZSgpKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">W0NsaWNrIGhlcmUgZm9yIGphdmFkb2NdKGh0dHA6Ly9saWJyYXJpZXMucGFnZXMuZ2l0bGFiLmRzY3NhZy5uZXQvc2ltcGxlbGljZW5zZWxpYi8pCg==</text>
@@ -240,7 +254,7 @@
         <text encoding="base64">W0NsaWNrIGhlcmUgZm9yIGphdmFkb2NdKGh0dHA6Ly9saWJyYXJpZXMucGFnZXMuZ2l0bGFiLmRzY3NhZy5uZXQvc2ltcGxlbGljZW5zZWxpYi8pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8Y29ubmVjdGlvbj5zY206Z2l0OmdpdEBnaXRsYWIuZHNjc2FnLm5ldDpsaWJyYXJpZXMvc2ltcGxlbGljZW5zZWxpYi5naXQ8L2Nvbm5lY3Rpb24+Cg==</text>
+        <text encoding="base64">U21hbGwgbGlicmFyeSB3aGljaCBjYW4gYmUgdXNlZCB0byBwZXJmb3JtIGxpY2Vuc2UgY2hlY2tzIGZvciBhcHBsaWNhdGlvbnMgd2hpY2ggY2Fubm90IHVzZSB0aGUgRUNUUiBtZWNoYW5pc20gdG8gY2hlY2sgdGhlIHZhbGlkaXR5IG9mIGEgbGljZW5zZS4KCkl0IHVzZXMgYSBoYXNoaW5nIG1lY2hhbmlzbSB3aXRoIGEgZ2l2ZW4gc2VjcmV0IGtleS4gVGhlcmVmb3JlIGl0IGlzIG5vdCAiZXh0cmVtZWx5IiBzZWN1cmUgYXMgaXQgY291bGQgYmUgY3JhY2tlZCBieSB1c2luZyBkZWNvbXBpbGF0aW9uIGJ1dCBpdCBzaG91bGQgYmUgc2VjdXJlIGVub3VnaCBmb3IgbW9zdCB1c2UgY2FzZXMuLi4K</text>
       </register>
       <register name=":" type="4">
         <text>50</text>
