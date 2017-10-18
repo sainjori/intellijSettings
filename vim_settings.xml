@@ -44,6 +44,12 @@
         <mark key="^" line="71" column="4" />
         <mark key="." line="71" column="4" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/SimpleGuiLicense.java" timestamp="1508319548251">
+        <mark key="[" line="39" column="33" />
+        <mark key="]" line="40" column="34" />
+        <mark key="^" line="40" column="34" />
+        <mark key="." line="40" column="34" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess2.java" timestamp="1508154095161">
         <mark key="[" line="76" column="13" />
         <mark key="]" line="76" column="13" />
@@ -175,12 +181,12 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/simplelicenselib/simplelicenselib/target/generated-sources/annotations/com/dscsag/libs/simplelicenselib/shared/ImmutableExpiryDate.java" timestamp="1508241608566">
         <mark key="'" line="122" column="45" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/MainController.java" timestamp="1508318427746">
+      <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/MainController.java" timestamp="1508319517685">
         <mark key="'" line="56" column="84" />
-        <mark key="[" line="145" column="25" />
-        <mark key="]" line="145" column="43" />
-        <mark key="." line="145" column="43" />
-        <mark key="^" line="145" column="43" />
+        <mark key="[" line="188" column="35" />
+        <mark key="]" line="189" column="27" />
+        <mark key="." line="189" column="27" />
+        <mark key="^" line="189" column="27" />
       </file>
       <file name="/fragment.java" timestamp="1508262915158">
         <mark key="[" line="0" column="0" />
@@ -295,11 +301,11 @@
       <jump line="60" column="84" filename="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/MainController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>hash</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJvb3QuZGlzYWIK</text>
       </register>
       <register name="-" type="4">
-        <text>hash</text>
+        <text>message</text>
       </register>
       <register name="/" type="4">
         <text>0</text>
@@ -308,19 +314,19 @@
         <text encoding="base64">ICAgICAgS2V5Q29tYmluYXRpb24gY3RybFAgPSBLZXlDb2RlQ29tYmluYXRpb24ua2V5Q29tYmluYXRpb24oIkN0cmwrTiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY3VzdG9tZXJOYW1lTGFiZWwuZ2V0U2NlbmUoKS5hZGRNbmVtb25pYygpOwo=</text>
+        <text encoding="base64">ICAgIHJvb3QuZGlzYWIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY3VzdG9tZXJOYW1lTGFiZWwuZ2V0U2NlbmUoKS5hZGRNbmVtb25pYygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGN1c3RvbWVyTmFtZS5nZXRTY2VuZSgpLmdldEFjY2VsZXJhdG9ycygpLnB1dChuZXcgS2V5Q29kZUNvbWJpbmF0aW9uKEtleUNvZGUuQywgS2V5Q29kZUNvbWJpbmF0aW9uLkNPTlRST0xfRE9XTiksICgpIC0+IGN1c3RvbWVyTmFtZS5nZXRmKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGN1c3RvbWVyTmFtZS5nZXRTY2VuZSgpLmdldEFjY2VsZXJhdG9ycygpLnB1dChuZXcgS2V5Q29kZUNvbWJpbmF0aW9uKEtleUNvZGUuQywgS2V5Q29kZUNvbWJpbmF0aW9uLkNPTlRST0xfRE9XTiksICgpIC0+IGN1c3RvbWVyTmFtZS5nZXRmKCkpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -338,7 +344,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnRyb2xsZXIuc2V0TW1vbmljKHNjZW5lKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>50</text>
