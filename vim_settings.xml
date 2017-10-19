@@ -19,11 +19,11 @@
       <file name="/a.dummy" timestamp="1508240560431">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/dadi/DadiControlImportValidateGuiInput.java" timestamp="1508402351121">
-        <mark key="[" line="103" column="61" />
-        <mark key="]" line="104" column="43" />
-        <mark key="." line="104" column="43" />
-        <mark key="^" line="104" column="43" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/dadi/DadiControlImportValidateGuiInput.java" timestamp="1508403671891">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+        <mark key="^" line="105" column="44" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" timestamp="1508355100870">
         <mark key="'" line="83" column="33" />
@@ -291,11 +291,11 @@
       <jump line="66" column="38" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/Tables.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>Color.RED</text>
       </register>
       <register name="/" type="4">
         <text>Event</text>
@@ -304,47 +304,37 @@
         <text encoding="base64">ICAgIDxpbmNsdWRlIHJlbGF0aXZlVG9DaGFuZ2Vsb2dGaWxlPSJ0cnVlIiBmaWxlPSJtaWdyYXRpb25zLzJfM18wLnhtbCIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbiBhZnRlckNvbHVtbj0ia2liYW5hX3JlbGF0aXZlX3VybCIgbmFtZT0ibGlua2VkX29iamVjdF90eXBlIiB0eXBlPSJFTlVNKCdTRVJWRVInLCAnQ0xJRU5UJywgJ1NBUF9DQUNIRScsICdEU0NfUFJPRklMRScsICdEU0NfUFJPQ0FDSEUnLCAnU0FQX0NPTlRFTlQnLCAnRFNDX0JBVENIX0VOR0lORScpIj48L2NvbHVtbj4K</text>
+        <text encoding="base64">ICAgIENvbG9yIGJhY2tncm91bmRDb2xvciA9IG9iclByb3BlcnR5LmdldEJhY2tncm91bmRDb2xvcigpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbiBhZnRlckNvbHVtbj0idGltZXN0YW1wIiBuYW1lPSJjb2xsZWN0ZWRfYXQiIHR5cGU9IlRJTUVTVEFNUCIgdmFsdWVEYXRlPSIke25vd30iLz4K</text>
+        <text encoding="base64">ICAgIG9iclByb3BlcnR5LnNldEJhY2tncm91bmRDb2xvcihDb2xvci5SRUQpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbiBhZnRlckNvbHVtbj0ia2liYW5hX3JlbGF0aXZlX3VybCIgbmFtZT0ibGlua2VkX29iamVjdF90eXBlIiB0eXBlPSJFTlVNKCdTRVJWRVInLCAnQ0xJRU5UJywgJ1NBUF9DQUNIRScsICdEU0NfUFJPRklMRScsICdEU0NfUFJPQ0FDSEUnLCAnU0FQX0NPTlRFTlQnLCAnRFNDX0JBVENIX0VOR0lORScpIj48L2NvbHVtbj4K</text>
+        <text encoding="base64">ICAgIGltcG9ydE9iai5nZXQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiZXhlY3V0aW5nIGV2ZW50bG9nIGNsZWFudXAiKTsK</text>
+        <text encoding="base64">ICAgIGJyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBPdmVyCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGNvbHVtbiBhZnRlckNvbHVtbj0ia2liYW5hX3JlbGF0aXZlX3VybCIgbmFtZT0ibGlua2VkX29iamVjdF90eXBlIiB0eXBlPSJFTlVNKCdTRVJWRVInLCAnQ0xJRU5UJywgJ1NBUF9DQUNIRScsICdEU0NfUFJPRklMRScsICdEU0NfUFJPQ0FDSEUnLCAnU0FQX0NPTlRFTlQnLCAnRFNDX0JBVENIX0VOR0lORScpIj48L2NvbHVtbj4K</text>
       </register>
-      <register name="9" type="4">
-        <text>private void createEventlogEntry(Exception e)
-  {
-    EventLogEntryPojo eventLogEntryPojo = new EventLogEntryPojo();
-    eventLogEntryPojo.setMessage(String.format(&quot;Error occured during logfile cleanup. Message: %s&quot;, e.getMessage()));
-    eventLogEntryPojo.setApplicationType(&quot;monitoring&quot;);
-    eventLogEntryPojo.setLevel(EventLogEntryLevel.ERROR);
-    eventLogEntryPojo.setEventType(&quot;ERROR&quot;);
-    eventLogEntryPojo.setEventId(&quot;E00001&quot;);
-    eventLogEntryPojo.setClientName(&quot;dashboard&quot;);
-    eventLogEntryDAO.insert(eventLogEntryPojo);
-  }</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>50</text>
