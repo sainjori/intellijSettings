@@ -25,20 +25,13 @@
         <mark key="." line="106" column="0" />
         <mark key="^" line="105" column="44" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" timestamp="1508407506206">
-        <mark key="'" line="133" column="12" />
-        <mark key="[" line="107" column="107" />
-        <mark key="]" line="107" column="119" />
-        <mark key="^" line="107" column="119" />
-        <mark key="." line="107" column="119" />
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" timestamp="1508408691394">
+        <mark key="'" line="19" column="12" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/test.fxml" timestamp="1508006205009">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
-      </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1508407245618">
-        <mark key="'" line="292" column="44" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/LicenseGenerator/README.md" timestamp="1508332382340">
         <mark key="[" line="5" column="0" />
@@ -141,11 +134,7 @@
         <mark key="." line="48" column="12" />
         <mark key="^" line="20" column="32" />
       </file>
-      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/statistics/upload/server_check/ServerCheckTask.java" timestamp="1508353568554">
-        <mark key="]" line="37" column="11" />
-        <mark key="^" line="37" column="11" />
-        <mark key="." line="37" column="11" />
-      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/statistics/upload/server_check/ServerCheckTask.java" timestamp="1508353568554" />
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/EventLogEntryDAO.java" timestamp="1508354971562">
         <mark key="[" line="161" column="0" />
         <mark key="]" line="161" column="0" />
