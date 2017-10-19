@@ -25,10 +25,20 @@
         <mark key="." line="106" column="0" />
         <mark key="^" line="105" column="44" />
       </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" timestamp="1508407506206">
+        <mark key="'" line="133" column="12" />
+        <mark key="[" line="107" column="107" />
+        <mark key="]" line="107" column="119" />
+        <mark key="^" line="107" column="119" />
+        <mark key="." line="107" column="119" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/licenselipGui/src/main/java/test.fxml" timestamp="1508006205009">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" timestamp="1508407245618">
+        <mark key="'" line="292" column="44" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/LicenseGenerator/README.md" timestamp="1508332382340">
         <mark key="[" line="5" column="0" />
@@ -137,10 +147,10 @@
         <mark key="." line="37" column="11" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/dao/EventLogEntryDAO.java" timestamp="1508354971562">
-        <mark key="[" line="160" column="0" />
-        <mark key="]" line="160" column="0" />
-        <mark key="^" line="159" column="32" />
-        <mark key="." line="160" column="0" />
+        <mark key="[" line="161" column="0" />
+        <mark key="]" line="161" column="0" />
+        <mark key="^" line="160" column="32" />
+        <mark key="." line="161" column="0" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/LicenseGenerator/src/main/java/DialogController.java" timestamp="1508327717034">
         <mark key="[" line="18" column="49" />
@@ -175,13 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="217" column="24" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
-      <jump line="519" column="30" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
-      <jump line="187" column="7" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/proc/KsbProcessMultiChangeLongtext.java" />
-      <jump line="326" column="59" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
-      <jump line="330" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
-      <jump line="331" column="6" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
-      <jump line="231" column="3" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/sandvik/src/main/java/sandvik/brobj/BrSandvikImportObjectNew.java" />
       <jump line="125" column="41" filename="C:/Users/barry2/.m2/repository/com/dscsag/plm/5.1.5.1/plm-5.1.5.1-sources.jar!/plm/brobj/BrPlmObject.java" />
       <jump line="291" column="10" filename="C:/Users/barry2/.m2/repository/com/dscsag/base/5.1.5.1/base-5.1.5.1-sources.jar!/cadagent/gui/obr/DefaultBrowseObject.java" />
       <jump line="239" column="24" filename="C:/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk/src/main/java/ksb/brobj/BrCustLongTextObject.java" />
@@ -275,16 +278,23 @@
       <jump line="68" column="32" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/Tables.java" />
       <jump line="58" column="38" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/Tables.java" />
       <jump line="66" column="38" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/db/models/Tables.java" />
+      <jump line="143" column="94" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" />
+      <jump line="249" column="110" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" />
+      <jump line="292" column="44" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/LogFileCleanProcess.java" />
+      <jump line="108" column="12" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" />
+      <jump line="107" column="83" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" />
+      <jump line="106" column="78" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" />
+      <jump line="133" column="12" filename="C:/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend/src/main/java/com/dscsag/monitoring/dashboard/proc/system/cleanup/EventLogCleanProcess.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>Color.RED</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>Event</text>
+        <text encoding="base64">XDxUaW1lVW5pdFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxpbmNsdWRlIHJlbGF0aXZlVG9DaGFuZ2Vsb2dGaWxlPSJ0cnVlIiBmaWxlPSJtaWdyYXRpb25zLzJfM18wLnhtbCIgLz4K</text>
@@ -327,9 +337,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Event</last-search>
+      <last-search encoding="base64">XDxUaW1lVW5pdFw+</last-search>
       <last-offset />
-      <last-pattern>Event</last-pattern>
+      <last-pattern encoding="base64">XDxUaW1lVW5pdFw+</last-pattern>
       <last-replace>test</last-replace>
       <last-substitute>import</last-substitute>
       <last-dir>1</last-dir>
@@ -337,7 +347,6 @@
     </search>
     <history>
       <history-search>
-        <entry>all</entry>
         <entry>allma</entry>
         <entry>allmatch</entry>
         <entry>.all</entry>
@@ -357,6 +366,7 @@
         <entry>0</entry>
         <entry>Days</entry>
         <entry>Event</entry>
+        <entry encoding="base64">XDxUaW1lVW5pdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>2,10m.</entry>
