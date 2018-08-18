@@ -1,9 +1,0 @@
-<application>
-  <component name="AbbreviationManager">
-    <abbreviations>
-      <action id="ToggleBookmarkWithMnemonic">
-        <abbreviation name="mark" />
-      </action>
-    </abbreviations>
-  </component>
-</application>

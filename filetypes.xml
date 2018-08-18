@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.idea;*.iml;*.pyc;*.pyo;*.rbc;*.settings;*.yarb;*~;.DS_Store;.classpath;.git;.hg;.project;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
-    <extensionMap>
-      <mapping ext="prt" type="Native" />
-    </extensionMap>
-  </component>
-</application>
