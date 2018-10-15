@@ -70,13 +70,18 @@
         <mark key="^" line="548" column="73" />
         <mark key="." line="597" column="0" />
       </file>
+      <file name="C:/Entwicklung/sandbox/corejava/v1ch11/mouse/MouseTest.java" timestamp="1539634413421">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/utils/YpsomedVeaHelper.java" timestamp="1534346332578">
         <mark key="[" line="26" column="4" />
         <mark key="]" line="26" column="16" />
         <mark key="." line="26" column="16" />
         <mark key="^" line="26" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1539633467856">
+      <file name="/fragment.java" timestamp="1539634473102">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -198,8 +203,8 @@
       <jump line="469" column="24" filename="C:/Users/bya/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.8.11.2/jackson-databind-2.8.11.2-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IG1vdXNlLk1vdXNlRnJhbWU7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -211,37 +216,37 @@
         <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKDAsICJbSU5GT10gLT4gV2ViZXJQcm9wZXJ0eVRvU2FwIHJldHVybiB2YWx1ZSAiICtyZXM4KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQk8UmVxdWlyZS1CdW5kbGU+CgkJCQkJCWNvbS5kc2NzYWcucGxtLWFwaTsgYnVuZGxlLXZlcnNpb249WzUuMSw1LjIpCgkJCQkJPC9SZXF1aXJlLUJ1bmRsZT4K</text>
+        <text encoding="base64">aW1wb3J0IG1vdXNlLk1vdXNlRnJhbWU7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKDAsICJbSU5GT10gLT4gV2ViZXJQcm9wZXJ0eVRvU2FwIHJldHVybiBWYWx1ZSAiICk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJCW9yZy5vc2dpLmZyYW1ld29yaywK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCWNvbS5kc2NzYWcucGxtLWFwaSwK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">CQkJCQk8UmVxdWlyZS1CdW5kbGU+CgkJCQkJCWNvbS5kc2NzYWcucGxtLWFwaTsgYnVuZGxlLXZlcnNpb249WzUuMSw1LjIpCgkJCQkJPC9SZXF1aXJlLUJ1bmRsZT4K</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBUcmFjZS5wcmludGxuKDAsICJbSU5GT10gLT4gV2ViZXJQcm9wZXJ0eVRvU2FwIHJldHVybiBWYWx1ZSAiICk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCQkJCW9yZy5vc2dpLmZyYW1ld29yaywK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJCQkJCWNvbS5kc2NzYWcucGxtLWFwaSwK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">CQkJCQk8UmVxdWlyZS1CdW5kbGU+CgkJCQkJCWNvbS5kc2NzYWcucGxtLWFwaTsgYnVuZGxlLXZlcnNpb249WzUuMSw1LjIpCgkJCQkJPC9SZXF1aXJlLUJ1bmRsZT4K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICBycCwgb2xkX3ZhbHVlLCBuZXdfdmFsdWUpIC0+IGF0dHJpYnV0ZS5zZXRWYWx1ZSgoU3RyaW5nKSBuZXdfdmFsdWUpKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IC8qCiAgICAgICAgICAgICAvLyBzZXQgZXJyb3IgLyBvayBpY29uCiAgICAgIFN0cmluZyBpY29uTmFtZSA9IG51bGw7CiAgICAgIGlmIChkZWZhdWx0X2luZm9ybWF0aW9uICE9IG51bGwgJiYgISIiLmVxdWFscyhkZWZhdWx0X2luZm9ybWF0aW9uKSkKICAgICAgICBpY29uTmFtZSA9ICJmcm9nLnN0YXR1cy5lcnJvciI7CiAgICAgIGVsc2UKICAgICAgICBpY29uTmFtZSA9ICJmcm9nLnN0YXR1cy5vayI7CiAgICAgIEltYWdlSWNvbiBkZWZhdWx0SWNvbiA9IEVudmlyb25tZW50LmdldEltYWdlSWNvbihpY29uTmFtZSk7CgogICAgICBPYnJQcm9wZXJ0eSBwcnAgPSBhZGRPYnJQcm9wZXJ0eShuZXcgT2JyUHJvcGVydHkoUFJQX0lDT04sIERpYy5nZXQoIlNZU1RFTS5ULklORElDSUNPTiIpLCBkZWZhdWx0SWNvbiwgdHJ1ZSwgZmFsc2UpKTsKICAgICAgcHJwLnNldFdpZHRoKDMpOwogICAgICBwcnAuc2V0RWRpdExlbmd0aCgzKTsKICAgICAgICAgICAgICovCgoKLy8gICAgICAgICAgICBMaXN0PEF0dGlidXRlQ3VzdG9tPiBhdHRyaWJ1dGVzID0gdGhpcy5idWNrZXRPYmplY3QuZ2V0QXR0cmlidXRlcygpOwovLyAgICAgICAgICAgIGZvciAoQXR0aWJ1dGVDdXN0b20gYXR0cmlidXRlIDogYXR0cmlidXRlcykKLy8gICAgICAgICAgICB7Ci8vICAgICAgICAgICAgICAgIHByb3BlcnR5ID0gbmV3IE9iclByb3BlcnR5KGF0dHJpYnV0ZS5nZXROYW1lKCksIGF0dHJpYnV0ZS5nZXROYW1lKCksIGF0dHJpYnV0ZS5nZXRWYWx1ZSgpLCB0cnVlLCB0cnVlKTsKLy8gICAgICAgICAgICAgICAgcHJvcGVydHkuc2V0V2lkdGgoMTUpOwovLyAgICAgICAgICAgICAgICBhZGRPYnJQcm9wZXJ0eShwcm9wZXJ0eSk7Ci8vICAgICAgICAgICAgICAgIHByb3BlcnR5LmFkZFZhbHVlQ2hhbmdlZExpc3RlbmVyKChw</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICBycCwgb2xkX3ZhbHVlLCBuZXdfdmFsdWUpIC0+IGF0dHJpYnV0ZS5zZXRWYWx1ZSgoU3RyaW5nKSBuZXdfdmFsdWUpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>51</text>
