@@ -12,15 +12,7 @@
     <option name="PLACES_MAP">
       <entry key="Default">
         <PlaceSettings>
-          <option name="ENABLE_SYNC_SCROLL" value="false" />
           <option name="HIGHLIGHTING_LEVEL" value="SIMPLE" />
-          <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
-          <option name="SHOW_INDENT_LINES" value="true" />
-          <option name="SHOW_WHITESPACES" value="true" />
-        </PlaceSettings>
-      </entry>
-      <entry key="Merge">
-        <PlaceSettings>
           <option name="HIGHLIGHT_POLICY" value="BY_LINE" />
         </PlaceSettings>
       </entry>

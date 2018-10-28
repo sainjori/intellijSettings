@@ -34,10 +34,6 @@
           <option name="url" value="https://github.com/julman99/gson-fire.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@gitlab.dscsag.net:fctr/fctr-platform.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\ENTWICKLUNG\java\workspaces" />

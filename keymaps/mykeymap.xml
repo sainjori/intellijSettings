@@ -114,10 +114,6 @@
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
   <action id="SendEOF" />
-  <action id="ShowBookmarks">
-    <keyboard-shortcut first-keystroke="shift f11" />
-    <mouse-shortcut keystroke="control button2" />
-  </action>
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="ctrl alt f7" />
     <keyboard-shortcut first-keystroke="alt u" />
@@ -137,10 +133,6 @@
   </action>
   <action id="StructuralSearchPlugin.StructuralSearchAction">
     <keyboard-shortcut first-keystroke="f3" />
-  </action>
-  <action id="ToggleBookmark">
-    <keyboard-shortcut first-keystroke="f11" />
-    <mouse-shortcut keystroke="control button143" />
   </action>
   <action id="ToggleBookmarkWithMnemonic">
     <keyboard-shortcut first-keystroke="alt m" />
