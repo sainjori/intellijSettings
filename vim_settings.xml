@@ -65,7 +65,7 @@
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/cadagent/proc/mat/ProcessMatCreateDark.java" timestamp="1534347325771">
         <mark key="'" line="456" column="8" />
       </file>
-      <file name="C:/Entwicklung/sandbox/coreJaveAdvanced/lesson02/collecting/CollectingResults.java" timestamp="1540739570751" />
+      <file name="C:/Entwicklung/sandbox/coreJaveAdvanced/lesson02/collecting/CollectingResults.java" timestamp="1540741606465" />
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/ypsomed/trunk/src/main/java/ypsomed/proc/cad/PlmProcessVeaDocumentUpdateAttributes.java" timestamp="1534359383546">
         <mark key="'" line="213" column="0" />
       </file>
@@ -92,11 +92,11 @@
         <mark key="." line="26" column="16" />
         <mark key="^" line="26" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1539634853389">
+      <file name="C:/Entwicklung/sandbox/coreJaveAdvanced/lesson02/creating/CreatingStreams.java" timestamp="1540742231699" />
+      <file name="/fragment.java" timestamp="1540742128177">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="35" />
+        <mark key="]" line="0" column="25" />
+        <mark key="." line="0" column="25" />
       </file>
       <file name="C:/ENTWICKLUNG/java/workspaces/customer-projects/wilo/trunk/ectr_osgi/pom.xml" timestamp="1534432239329">
         <mark key="[" line="52" column="40" />
@@ -215,10 +215,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>exists()</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>exists()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpblBsbU1hdFw+</text>
